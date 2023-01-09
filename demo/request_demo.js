@@ -1,4 +1,5 @@
 // request_demo.js
+// only run in `Scriptable` app
 const defaultHeaders = {
     "Accept": "*/*",
     "Content-Type": "application/json"
