@@ -13,4 +13,4 @@
 - [dictation_demo](demo/dictation_demo.js)
 - [speech_demo](demo/speech_demo.js)
 - [location_demo](demo/location_demo.js)
-- [message](demo/message_demo.js)
+- [message_demo](demo/message_demo.js)
