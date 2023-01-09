@@ -10,4 +10,4 @@
 
 - [request_demo](demo/request_demo.js)
 - [alert_demo](demo/alert_demo.js)
-
+- [dictation_demo](demo/dictation_demo.js)
