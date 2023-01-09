@@ -7,6 +7,6 @@ let latitude = location.latitude
 let longitude = location.longitude
 // see https://sunrise-sunset.org/api
 let url = 'https://api.sunrise-sunset.org/json?lat=' + latitude + '&lng=' + longitude + '&formatted=0&date=today'
-sunDataRaw = await new Request(url).loadJSON()
+let sunDataRaw = await new Request(url).loadJSON()
 
 console.log(sunDataRaw)
