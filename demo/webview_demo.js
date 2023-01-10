@@ -15,10 +15,13 @@ let htmlStr = `
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ShowTime</title>
     <style type="text/css">
+    body {
+      background-color: #f1f1f1;
+    }
     p {
-        font-size: 14px;
-        font-family: "Heiti SC";
-        text-align: center;
+      font-size: 14px;
+      font-family: "Heiti SC";
+      text-align: center;
     }
     </style>
 </head>
