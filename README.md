@@ -23,7 +23,7 @@
 - [cache.module](app/cache.module.js)
 - [http.module](app/http.module.js)
 
->   here is some usage:
+#### usage
 
 ```js
 // using md5 hash

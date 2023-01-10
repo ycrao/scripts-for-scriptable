@@ -53,9 +53,9 @@ class FileStorage {
     }
   };
   _writeString(filePath, content) {
-    const targetPath = this._safePath(filePath)
-    this._touch(targetPath)
-    this.fm.writeString(targetPath, content)
+    const fullPath = this._safePath(filePath)
+    this._touch(fullPath)
+    this.fm.writeString(fullPath, content)
   };
   _readString(filePath) {
     const fullPath = this._safePath(filePath)
