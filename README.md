@@ -50,7 +50,8 @@ let sVal = sCache.get("你好")
 console.log(sVal)
 
 // impl by FileManager
-let fCache = $cache.useFileStorage()
+// note: you can pass prefix string to isolate different app
+let fCache = $cache.useFileStorage('simple')
 fCache.set("hello", "world")
 let fVal = fCache.get("hello")
 console.log(fVal)

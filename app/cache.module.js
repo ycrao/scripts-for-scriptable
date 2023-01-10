@@ -98,12 +98,12 @@ class FileStorage {
   };
 }
 
-const useSecureStorage = (adapter) => {
+const useSecureStorage = () => {
   return new SecureStorage();
 }
 
-const useFileStorage = () => {
-  return new FileStorage();
+const useFileStorage = (prefix) => {
+  return new FileStorage(prefix);
 }
 
 module.exports = {
