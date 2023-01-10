@@ -19,11 +19,11 @@
 
 #### screenshot
 
-![alert_demo](screentshot/alert_demo.png)
+![alert_demo](screenshot/alert_demo.png)
 
 ![webview_demo](screenshot/webview_demo.png)
 
-webview_demo
+
 
 
 ### module or library
