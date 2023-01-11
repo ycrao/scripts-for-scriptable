@@ -17,6 +17,7 @@
 - [keychain_demo](demo/keychain_demo.js)
 - [webview_demo](demo/webview_demo.js)
 - [uitable_demo](demo/uitable_demo.js) support light and dark appearance
+- [widget_demo](demo/widget_demo.js) a widget to show Chinese poetry
 
 #### screenshot
 
@@ -26,6 +27,7 @@
 
 ![uitable_demo](screenshot/uitable_demo.png)
 
+![widget_demo](screenshot/widget_demo.png)
 
 
 
