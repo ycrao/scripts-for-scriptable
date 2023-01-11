@@ -28,7 +28,7 @@
 
 ### module or library
 
-- [spark-md5.min.js](app/spark-md5.min.js)
+- [spark-md5.min.js](app/spark-md5.min.js) code from [js-spark-md5](https://github.com/satazor/js-spark-md5)
 - [cache.module](app/cache.module.js)
 - [http.module](app/http.module.js)
 
