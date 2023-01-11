@@ -4,26 +4,38 @@
 // ----- SecureStorage == Adapter For Keychain
 const sparkMD5 = importModule("spark-md5.min");
 class SecureStorage {
-  constructor() {
+  constructor(prefix) {
+    if (typeof prefix === "string") {
+      this.prefix = prefix
+    } else {
+      this.prefix = ''
+    }
     this.init()
   };
   init() {
     this.adapter = 'Adapter.For.Keychain'
   };
+  _hash(key) {
+    return sparkMD5.hash(this.prefix + key)
+  };
   getAdapter() {
     return this.adapter
   };
   get(key) {
-    return Keychain.get(key)
+    let hashKey = this._hash(key)
+    return Keychain.get(hashKey)
   };
   set(key, value) {
-    return Keychain.set(key, value)
+    let hashKey = this._hash(key)
+    return Keychain.set(hashKey, value)
   };
   contains(key) {
-    return Keychain.contains(key)
+    let hashKey = this._hash(key)
+    return Keychain.contains(hashKey)
   };
   remove(key) {
-    return Keychain.remove(key)
+    let hashKey = this._hash(key)
+    return Keychain.remove(hashKey)
   };
 }
 
