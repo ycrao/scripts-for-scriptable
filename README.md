@@ -44,14 +44,15 @@ console.log(hash)
 const $cache = importModule("cache.module")
 
 // impl by Keychain
-let sCache = $cache.useSecureStorage()
+// note: you can pass prefix string to isolate different app
+let sCache = $cache.useSecureStorage('prefixForApp1')
 sCache.set("hello", "world")
 let sVal = sCache.get("你好")
 console.log(sVal)
 
 // impl by FileManager
 // note: you can pass prefix string to isolate different app
-let fCache = $cache.useFileStorage('simple')
+let fCache = $cache.useFileStorage('prefixForApp2')
 fCache.set("hello", "world")
 let fVal = fCache.get("hello")
 console.log(fVal)
