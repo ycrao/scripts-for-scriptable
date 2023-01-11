@@ -16,12 +16,15 @@
 - [message_demo](demo/message_demo.js)
 - [keychain_demo](demo/keychain_demo.js)
 - [webview_demo](demo/webview_demo.js)
+- [uitable_demo](demo/uitable_demo.js) support light and dark appearance
 
 #### screenshot
 
 ![alert_demo](screenshot/alert_demo.png)
 
 ![webview_demo](screenshot/webview_demo.png)
+
+![uitable_demo](screenshot/uitable_demo.png)
 
 
 
