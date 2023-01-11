@@ -110,8 +110,8 @@ class FileStorage {
   };
 }
 
-const useSecureStorage = () => {
-  return new SecureStorage();
+const useSecureStorage = (prefix) => {
+  return new SecureStorage(prefix);
 }
 
 const useFileStorage = (prefix) => {
