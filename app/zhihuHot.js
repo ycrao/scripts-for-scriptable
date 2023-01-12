@@ -7,7 +7,7 @@ name: zhihuHot.js
 author: raoyc
 description: a widget to show zhihu hot questions
 note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/spark-md5.min.js
+repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.min.js
 raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js
 */
 const $http = importModule("http.module")
