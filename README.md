@@ -72,5 +72,14 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 ### app
 
-- TODO [price_reminder](app/priceReminder.js)
+#### zhihuHot
 
+>   展示知乎热点，建议提前安装好知乎 App，以方便点击跳转，源代码 [zhihuHot](app/zhihuHot.js)，依赖同目录下 `http.module` 与 `cache.module` 模块。
+
+预览图如下：
+
+![zhihuHot](screenshot/zhihuHot.png)
+
+#### priceReminder
+
+>   贵金属价格提醒器，展示 `XAUUSD/XAGUSD/Au(T+D)/Ag(T+D)` 等价格，数据来源新浪财经，依赖同目录下 `http.module` 模块。
