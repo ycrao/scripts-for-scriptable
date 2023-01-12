@@ -1,5 +1,15 @@
-// http.module.js
-// only run in `Scriptable` app
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// icon-color: deep-purple; icon-glyph: hands;
+
+/*
+name: http.module.js
+author: raoyc
+description: a module for http request
+note: only run in `Scriptable` app
+repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js
+raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js
+*/
 const defaultHeaders = {
   "Accept": "*/*",
   "Content-Type": "application/json"
