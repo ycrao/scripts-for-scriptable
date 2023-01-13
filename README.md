@@ -21,6 +21,7 @@
 
 #### screenshot
 
+
 ![alert_demo](screenshot/alert_demo.png)
 
 ![webview_demo](screenshot/webview_demo.png)
@@ -52,7 +53,7 @@ const $cache = importModule("cache.module")
 // note: you can pass prefix string to isolate different app
 let sCache = $cache.useSecureStorage('prefixForApp1')
 sCache.set("hello", "world")
-let sVal = sCache.get("你好")
+let sVal = sCache.get("hello")
 console.log(sVal)
 
 // impl by FileManager
@@ -82,4 +83,9 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 #### priceReminder
 
->   贵金属价格提醒器，展示 `XAUUSD/XAGUSD/Au(T+D)/Ag(T+D)` 等价格，数据来源新浪财经，依赖同目录下 `http.module` 模块。
+>   贵金属价格提醒器，展示 `XAUUSD/XAGUSD/Au(T+D)/Ag(T+D)` 等价格，数据来源新浪财经，由于 widget 机制，价格刷新不及时。
+
+预览图如下：
+
+![priceReminder](screenshot/priceReminder.png)
+
