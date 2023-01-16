@@ -35,7 +35,7 @@ function req(method, url, params, headers) {
 
 function qs(params) {
   let qs = ''
-  if (Object.prototype.toString.call(params) === '[Object Object]') {
+  if (Object.prototype.toString.call(params) === '[object Object]') {
      qs = Object.keys(params)
       .map(key => `${key}=${encodeURIComponent(params[key])}`)
       .join('&')
