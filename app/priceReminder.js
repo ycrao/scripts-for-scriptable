@@ -183,7 +183,7 @@ title.centerAlignText()
 widget.addSpacer(20)
 const pricePic = Image.fromData(Data.fromBase64String(imageBase64Str))
 const img = widget.addImage(pricePic)
-img.size = new Size(300, 0)
+img.imageSize = new Size(300, 96)
 if (config.runsInApp) {
   widget.presentLarge()
 }
