@@ -89,3 +89,24 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 ![priceReminder](screenshot/priceReminder.png)
 
+
+#### acgGirl
+
+>   展示各种二次元妹子，支持多种提供者来源，在 `widget` 配置中，可以填写下列任一个提供者 `provider` 。
+
+```
+hanxiaohan
+xjh
+yimian
+yiluo
+ouklc
+btstu
+r10086
+ixiaowai
+```
+
+预览图如下：
+
+![acgGirl_config](screenshot/acgGirl_config.png)
+
+![acgGirl](screenshot/acgGirl.png)
