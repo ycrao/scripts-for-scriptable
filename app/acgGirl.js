@@ -8,7 +8,7 @@ author: raoyc
 description: a widget to show ACG girl
 note: only run in `Scriptable` app
 repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/acgGirl.js
-raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/acgGirl.js
+raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/acgGirl.js
 */
 const $http = importModule("http.module")
 

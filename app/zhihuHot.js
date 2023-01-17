@@ -8,7 +8,7 @@ author: raoyc
 description: a widget to show zhihu hot questions
 note: only run in `Scriptable` app
 repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js
-raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js
+raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/zhihuHot.js
 */
 const $http = importModule("http.module")
 const $cache = importModule("cache.module")

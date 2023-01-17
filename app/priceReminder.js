@@ -8,7 +8,7 @@ author: raoyc
 description: a widget to show XAUUSD/XAGUSD/Au(T+D)/Ag(T+D) realtime price
 note: only run in `Scriptable` app
 repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/priceReminder.js
-raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/priceReminder.js
+raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/priceReminder.js
 */
 async function getPriceArr() {
   const jsStr = `

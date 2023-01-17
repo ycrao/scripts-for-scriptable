@@ -8,7 +8,7 @@ author: raoyc
 description: a module for http request
 note: only run in `Scriptable` app
 repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js
-raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js
+raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/http.module.js
 */
 const defaultHeaders = {
   "Accept": "*/*",

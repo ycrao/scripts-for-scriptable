@@ -8,7 +8,7 @@ author: raoyc
 description: a module for cache
 note: only run in `Scriptable` app
 repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/cache.module.js
-raw_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/cache.module.js
+raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/cache.module.js
 */
 // ----- SecureStorage == Adapter For Keychain
 const sparkMD5 = importModule("spark-md5.min");
