@@ -78,7 +78,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [zhihuHot](app/zhihuHot.js) | 知乎热点 | 展示知乎热点数据，50条结果中随机 |
 | [priceReminder](app/priceReminder.js) | 贵金属价格提示器 | 展示现货黄金/白银价格 |
 | [acgGirl](app/acgGirl.js) | 二次元妹子 | 各种二次元妹子，支持多种来源提供者 |
-| [dogDiary] | 舔狗日记 | 舔到最后，一无所有 |
+| [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
 
 
 
