@@ -73,6 +73,16 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 ### app
 
+| 名称 | 中文名称 | 说明或备注 |
+| --------------------------- | ---------- | ------------------------- |
+| [zhihuHot](app/zhihuHot.js) | 知乎热点 | 展示知乎热点数据，50条结果中随机 |
+| [priceReminder](app/priceReminder.js) | 贵金属价格提示器 | 展示现货黄金/白银价格 |
+| [acgGirl](app/acgGirl.js) | 二次元妹子 | 各种二次元妹子，支持多种来源提供者 |
+| [dogDiary] | 舔狗日记 | 舔到最后，一无所有 |
+
+
+
+
 #### zhihuHot
 
 >   展示知乎热点，建议提前安装好知乎 App，以方便点击跳转，源代码 [zhihuHot](app/zhihuHot.js)，依赖同目录下 `http.module` 与 `cache.module` 模块。
@@ -83,7 +93,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 #### priceReminder
 
->   贵金属价格提醒器，展示 `XAUUSD/XAGUSD/Au(T+D)/Ag(T+D)` 等价格，数据来源新浪财经，由于 widget 机制，价格刷新不及时。
+>   贵金属价格提示器，展示 `XAUUSD/XAGUSD/Au(T+D)/Ag(T+D)` 等价格，数据来源新浪财经，由于 widget 机制，价格刷新不及时。
 
 预览图如下：
 
@@ -110,3 +120,11 @@ ixiaowai
 ![acgGirl_config](screenshot/acgGirl_config.png)
 
 ![acgGirl](screenshot/acgGirl.png)
+
+#### dogDiary
+
+>   舔狗日记（语录），舔狗数据来源 [we.dog](https://github.com/xiongbao/we.dog) ，内置到脚本中，没有对接定位与天气接口，天气类型随机处理（支持 widget 参数传入）。
+
+预览图如下：
+
+![dogDiary](screenshot/dogDiary.png)
