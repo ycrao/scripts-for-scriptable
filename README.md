@@ -21,16 +21,13 @@
 
 #### screenshot
 
+<img src="screenshot/alert_demo.png" alt="alert_demo" width="303" height="241" />
 
-![alert_demo](screenshot/alert_demo.png)
+<img src="screenshot/webview_demo.png" alt="webview_demo" width="410" height="179" />
 
-![webview_demo](screenshot/webview_demo.png)
+<img src="screenshot/uitable_demo.png" alt="uitable_demo" width="400" height="364" />
 
-![uitable_demo](screenshot/uitable_demo.png)
-
-![widget_demo](screenshot/widget_demo.png)
-
-
+<img src="screenshot/widget_demo.png" alt="widget_demo" width="420" height="220" />
 
 ### module or library
 
@@ -81,15 +78,13 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
 
 
-
-
 #### zhihuHot
 
 >   展示知乎热点，建议提前安装好知乎 App，以方便点击跳转，源代码 [zhihuHot](app/zhihuHot.js)，依赖同目录下 `http.module` 与 `cache.module` 模块。
 
 预览图如下：
 
-![zhihuHot](screenshot/zhihuHot.png)
+<img src="screenshot/zhihuHot.png" alt="zhihuHot" width="400" height="216" />
 
 #### priceReminder
 
@@ -97,7 +92,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 预览图如下：
 
-![priceReminder](screenshot/priceReminder.png)
+<img src="screenshot/priceReminder.png" alt="priceReminder" width="414" height="222" />
 
 
 #### acgGirl
@@ -117,9 +112,9 @@ ixiaowai
 
 预览图如下：
 
-![acgGirl_config](screenshot/acgGirl_config.png)
+<img src="screenshot/acgGirl_config.png" alt="acgGirl_config" width="423" height="405" />
 
-![acgGirl](screenshot/acgGirl.png)
+<img src="screenshot/acgGirl.png" alt="acgGirl" width="407" height="676" />
 
 #### dogDiary
 
@@ -127,4 +122,4 @@ ixiaowai
 
 预览图如下：
 
-![dogDiary](screenshot/dogDiary.png)
+<img src="screenshot/dogDiary.png" alt="dogDiary" width="403" height="230" />
