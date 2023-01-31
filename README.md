@@ -76,7 +76,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [priceReminder](app/priceReminder.js) | 贵金属价格提示器 | 展示现货黄金/白银价格 |
 | [acgGirl](app/acgGirl.js) | 二次元妹子 | 各种二次元妹子，支持多种来源提供者 |
 | [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
-| [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系视频下载 |
+| [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系等应用短视频下载 |
 
 
 #### zhihuHot
@@ -133,7 +133,7 @@ ixiaowai
 
 <img src="screenshot/shortcut.png" alt="shortcut" width="469" height="900" />
 
-“文件下载” 指令是保存到 `iCloud` 云盘；如果需要下载保存到本地相簿，可以在手机中打开 [此链接](https://www.icloud.com/shortcuts/8e4fd6da777e418498237e00621b969f) 或者扫描下面二维码安装 “DownloadVideo” 脚本，然后自行脚本代码，将 `cb.addParameter("name", "下载文件")` 修改为 `cb.addParameter("name", "DownloadVideo")` 即可。
+“文件下载” 指令是保存到 `iCloud` 云盘；如果需要下载保存到本地相簿，可以在手机中打开 [此链接](https://www.icloud.com/shortcuts/8e4fd6da777e418498237e00621b969f) 或者扫描下面二维码安装 “DownloadVideo” 快捷指令，然后再自行修改 [videoHelper.js](app/videoHelper.js) 脚本代码，将 `cb.addParameter("name", "下载文件")` 修改为 `cb.addParameter("name", "DownloadVideo")` 即可。
 
 <img src="screenshot/DownloadVideo_shortcut_qrcode.png" alt="DownloadVideo_shortcut_qrcode" width="450" height="450" />
 
