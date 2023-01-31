@@ -78,7 +78,6 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
 | [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系等应用短视频下载 |
 
-
 #### zhihuHot
 
 >   展示知乎热点，建议提前安装好知乎 App，以方便点击跳转，源代码 [zhihuHot](app/zhihuHot.js)，依赖同目录下 `http.module` 与 `cache.module` 模块。
@@ -127,7 +126,7 @@ ixiaowai
 
 #### videoHelper
 
->   视频助手，解析接口来自 [星辰API](https://api.xcboke.cn/doc/juhe.html) ，文档中说支持“抖音/快手/火山/微博/虎牙/轻视频/梨视频/皮皮虾/皮皮搞笑/微视/最右/VUE Vlog/新片场/度小视/六间房/acfun”，目前仅自测抖音，其它平台请自测。
+>   视频助手，解析接口来自 [星辰API](https://api.xcboke.cn/doc/juhe.html) ，文档中说支持“抖音/快手/火山/微博/虎牙/轻视频/梨视频/皮皮虾/皮皮搞笑/微视/最右/VUE Vlog/新片场/度小视/六间房/acfun”，目前仅测试过抖音，其它平台请自测。
 
 需要搭配苹果官方 “快捷指令” 与 “文件” App使用，请在快捷指令中搜索并安装 “文件下载” 指令。
 
