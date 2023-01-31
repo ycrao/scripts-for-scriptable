@@ -138,7 +138,7 @@ ixiaowai
 <img src="screenshot/DownloadVideo_shortcut_qrcode.png" alt="DownloadVideo_shortcut_qrcode" width="450" height="450" />
 
 
-使用时，请复制各短视频APP分享地址然后到 `Scriptable` 应用执行此脚本（通过剪切板方式）；或者应用中分享拉到最右“更多分享”，选择 `Run Script` 选定 `VideoHelper` 脚本（如果未出现，请检查一下是否存在设置过 `Share Sheet Inputs` 且选择 `Text` 以及开启 `Always Run in App`，见下图）。如果出现是获取剪切板权限以及链接到网络请保持允许，否则可能解析下载失败。
+使用时，请复制各短视频APP分享地址然后到 `Scriptable` 应用执行此脚本（通过剪切板方式）；或者应用中分享拉到最右“更多分享”，选择 `Run Script` 选定 `VideoHelper` 脚本（如果未出现，请检查一下是否存在设置过 `Share Sheet Inputs` 且选择 `Text` 以及开启 `Always Run in App`，见下图）。如果出现获取剪切板权限以及链接到网络等选项请保持允许，否则可能解析下载失败。
 
 <img src="screenshot/videoHelper_flow.png" alt="videoHelper_flow" width="568" height="817" />
 
