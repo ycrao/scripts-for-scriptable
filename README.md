@@ -9,25 +9,15 @@
 >   Some component demos.
 
 - [request_demo](demo/request_demo.js)
-- [alert_demo](demo/alert_demo.js)
+- [alert_demo](demo/alert_demo.js), see [screenshot](screenshot/alert_demo.png)
 - [dictation_demo](demo/dictation_demo.js)
 - [speech_demo](demo/speech_demo.js)
 - [location_demo](demo/location_demo.js)
 - [message_demo](demo/message_demo.js)
 - [keychain_demo](demo/keychain_demo.js)
-- [webview_demo](demo/webview_demo.js)
-- [uitable_demo](demo/uitable_demo.js) support light and dark appearance
-- [widget_demo](demo/widget_demo.js) a widget to show Chinese poetry
-
-#### screenshot
-
-<img src="screenshot/alert_demo.png" alt="alert_demo" width="303" height="241" />
-
-<img src="screenshot/webview_demo.png" alt="webview_demo" width="410" height="179" />
-
-<img src="screenshot/uitable_demo.png" alt="uitable_demo" width="400" height="364" />
-
-<img src="screenshot/widget_demo.png" alt="widget_demo" width="420" height="220" />
+- [webview_demo](demo/webview_demo.js), see [screenshot](screenshot/webview_demo.png)
+- [uitable_demo](demo/uitable_demo.js) support light and dark appearance, see [screenshot](screenshot/uitable_demo.png)
+- [widget_demo](demo/widget_demo.js) a widget to show Chinese poetry, see [screenshot](screenshot/widget_demo.png)
 
 ### module or library
 
@@ -69,6 +59,10 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 ```
 
 ### app
+
+>   除非特别说明，所有脚本同样也支持 `Scriptable` 电脑版，下面是 `macOS` 下的通知栏小组件预览图：
+
+<img src="screenshot/apps_on_macOS.png" alt="apps_on_macOS" width="368" height="1032" />
 
 | 名称 | 中文名称 | 说明或备注 |
 | --------------------------- | ---------- | ------------------------- |
