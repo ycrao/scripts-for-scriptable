@@ -120,7 +120,7 @@ ixiaowai
 
 #### videoHelper
 
->   视频助手，解析接口来自 <del>[星辰API](https://api.xcboke.cn/doc/juhe.html)</del> [猪猪API](https://api.iculture.cc/) ， 文档中说支持“抖音/快手/火山/微博/虎牙/轻视频/梨视频/皮皮虾/皮皮搞笑/微视/最右/VUE Vlog/新片场/度小视/六间房/acfun”，目前仅测试过抖音，其它平台请自测。
+>   视频助手，解析接口来自[TikDD](https://www.tikdd.cc/zh-Hans/)，仅支持抖音与 `TikTok`。已过时或失效API： <del>[星辰API](https://api.xcboke.cn/doc/juhe.html)</del> <del>[猪猪API](https://api.iculture.cc/)</del>， 文档中说支持“抖音/快手/火山/微博/虎牙/轻视频/梨视频/皮皮虾/皮皮搞笑/微视/最右/VUE Vlog/新片场/度小视/六间房/acfun”，目前仅测试过抖音，其它平台请自测。
 
 需要搭配苹果官方 “快捷指令” 与 “文件” App使用，请在快捷指令中搜索并安装 “文件下载” 指令。
 
