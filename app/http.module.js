@@ -6,6 +6,7 @@
 name: http.module.js
 author: raoyc
 description: a module for http request
+version: v1.1 - add `postForm` function 
 note: only run in `Scriptable` app
 repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js
 raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/http.module.js
@@ -43,7 +44,20 @@ function qs(params) {
   return qs
 }
 
+function postForm(url, formParam) {
+  const request = new Request("")
+  request.allowInsecureRequest = true
+  request.method = "post"
+  request.headers = {  
+    "Accept": "*/*",
+    "Content-Type": "application/x-www-form-urlencoded"
+  }
+  request.url = url
+  request.body = qs(formParam)
+  return request 
+}
 module.exports = {
   req,
   qs,
+  postForm,
 }
