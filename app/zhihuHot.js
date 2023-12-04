@@ -2,14 +2,16 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: yellow; icon-glyph: question;
 
-/*
-name: zhihuHot.js
-author: raoyc
-description: a widget to show zhihu hot questions
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/zhihuHot.js
-*/
+const _info = {
+  name: 'zhihuHot',
+  version: '1.1',
+  updated_at: '2023-12-04 17:45:00',
+  author: 'raoyc',
+  description: 'a widget to show zhihu hot questions',
+  repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js',
+  raw_file_url: ' https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/zhihuHot.js'
+}
+
 const $http = importModule("http.module")
 const $cache = importModule("cache.module")
 

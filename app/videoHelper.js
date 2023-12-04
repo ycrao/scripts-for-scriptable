@@ -3,15 +3,16 @@
 // always-run-in-app: true; icon-color: purple;
 // icon-glyph: download; share-sheet-inputs: plain-text;
 
-/*
-name: videoHelper.js
-author: raoyc
-description: download video from Chinese pop short-video apps, such as douyin, kuaishou, weibo and so on
-version: v1.2 - remove out-of-work api
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/videoHelper.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/videoHelper.js
-*/
+const _info = {
+    name: 'videoHelper',
+    version: '1.3',
+    updated_at: '2023-12-04 17:45:00',
+    author: 'raoyc',
+    description: 'download video from Chinese pop short-video apps, such as douyin, kuaishou, weibo and so on',
+    repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/videoHelper.js',
+    raw_file_url: ' https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/videoHelper.js'
+}
+
 const $http = importModule("http.module")
 
 // 特别注意: 需要更新 `http.module` 类库

@@ -2,14 +2,15 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: orange; icon-glyph: bell;
 
-/*
-name: priceReminder.js
-author: raoyc
-description: a widget to show XAUUSD/XAGUSD/Au(T+D)/Ag(T+D) realtime price
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/priceReminder.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/priceReminder.js
-*/
+const _info = {
+  name: 'priceReminder',
+  version: '1.1',
+  updated_at: '2023-12-04 17:45:00',
+  author: 'raoyc',
+  description: 'a widget to show XAUUSD/XAGUSD/Au(T+D)/Ag(T+D) realtime price',
+  repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/priceReminder.js',
+  raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/priceReminder.js'
+}
 async function getPriceArr() {
   const jsStr = `
 function loadScript(url, callback) {

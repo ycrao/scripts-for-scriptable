@@ -2,14 +2,16 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: pink; icon-glyph: grin-tongue-wink;
 
-/*
-name: dogDiary.js
-author: raoyc
-description: a widget to show a dog diary
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/dogDiary.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/dogDiary.js
-*/
+const _info = {
+  name: 'dogDiary',
+  version: '1.1',
+  updated_at: '2023-12-04 17:45:00',
+  author: 'raoyc',
+  description: 'a widget to show a dog diary',
+  repo_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/dogDiary.js',
+  raw_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/dogDiary.js'
+}
+
 const soul = [
   '你昨天晚上又没回我信息，我却看见你的游戏在线，在我再一次孜孜不倦的骚扰你的情况下，你终于跟我说了一句最长的话“**你他妈是不是有病**”，我又陷入了沉思，这一定有什么含义，我想了很久，你竟然提到了我的妈妈，原来你已经想得那么长远了，想和我结婚见我的父母，我太感动了，真的。那你现在在干嘛，我好想你，我妈妈说她也很喜欢你。',
   '今天我观战了一天你和别人打游戏，**你们玩的很开心**；我给你发了200多条消息，你说没流量就不回；晚上发说说没有人爱你，我连滚带爬评论了句有“我在”，你把我拉黑了，我给你打电话也无人接听。对不起，我不该打扰你，我求求你再给我一次当好友的机会吧！',

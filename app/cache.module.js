@@ -2,14 +2,16 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: teal; icon-glyph: hands;
 
-/*
-name: cache.module.js
-author: raoyc
-description: a module for cache
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/cache.module.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/cache.module.js
-*/
+const _info = {
+  name: 'cache.module',
+  version: '1.1',
+  updated_at: '2023-12-04 17:45:00',
+  author: 'raoyc',
+  description: 'a module for cache',
+  repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/cache.module.js',
+  raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/cache.module.js'
+}
+
 // ----- SecureStorage == Adapter For Keychain
 const sparkMD5 = importModule("spark-md5.min");
 class SecureStorage {

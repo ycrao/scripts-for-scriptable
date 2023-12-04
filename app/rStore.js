@@ -2,14 +2,16 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: yellow; icon-glyph: store-alt;
 
-/*
-name: rStore.js
-author: raoyc
-description: rStore - App for Scriptable
-version: v1.0
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/rStore.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/rStore.js
-*/
+const _info = {
+  name: 'rStore',
+  version: '1.1',
+  updated_at: '2023-12-04 17:45:00',
+  author: 'ycrao',
+  description: 'rStore - App for Scriptable',
+  repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/rStore.js',
+  raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/rStore.js' 
+}
+
 const rStoreUrl = 'https://raoyc.com/rstore/app.html'
 const usingICloud = true
 class RStore {

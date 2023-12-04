@@ -4,17 +4,18 @@
 
 const _info = {
   name: "acgGirl",
-  author: "raoyc",
   version: "1.1",
+  updated_at: '2023-12-04 17:45:00',
+  author: "raoyc",
   description: "a widget to show ACG girl",
-  note: 'only run in `Scriptable` app',
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/acgGirl.js',
   raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/acgGirl.js',
 }
+
 const $http = importModule("http.module")
 
 /*
-provider: hanxiaohan,xjh,yimian,yiluo,ouklc,btstu,r10086,ixiaowai
+provider: hanxiaohan,xjh,yimian,yiluo,btstu,r10086
 */
 async function acgApi(provider) {
   let url = rawUrl = ""

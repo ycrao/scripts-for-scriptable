@@ -2,15 +2,16 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: deep-purple; icon-glyph: hands;
 
-/*
-name: http.module.js
-author: raoyc
-description: a module for http request
-version: v1.1 - add `postForm` function 
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/http.module.js
-*/
+const _info = {
+  name: 'http.module',
+  version: '1.1',
+  updated_at: '2023-12-04 17:45:00',
+  author: 'raoyc',
+  description: 'a module for http request',
+  repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/http.module.js',
+  raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/http.module.js'
+}
+
 const defaultHeaders = {
   "Accept": "*/*",
   "Content-Type": "application/json"
