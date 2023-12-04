@@ -6,7 +6,7 @@
 
 ### 应用商店
 
-手动导入 [rStore](app/rStore.js) 脚本到 `Scriptable` 中，后续即可快捷安装更新本人出品的应用。如应用脚本对您有一定的助力或娱乐作用，请 star 支持，谢谢！
+手动导入 [rStore](app/rStore.js) 脚本到 `Scriptable` 中，后续即可快捷安装更新本人出品的应用。如脚本能起到增效或娱乐作用，请 `Star` 支持，谢谢！
 
 <img src="screenshot/rStore.png" alt="rStore" width="540" height="1168" />
 
