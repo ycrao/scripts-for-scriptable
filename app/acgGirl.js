@@ -2,14 +2,15 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: red; icon-glyph: palette;
 
-/*
-name: acgGirl.js
-author: raoyc
-description: a widget to show ACG girl
-note: only run in `Scriptable` app
-repo_file_url: https://github.com/ycrao/scripts-for-scriptable/blob/main/app/acgGirl.js
-raw_file_url: https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/acgGirl.js
-*/
+const _info = {
+  name: "acgGirl",
+  author: "raoyc",
+  version: "1.1",
+  description: "a widget to show ACG girl",
+  note: 'only run in `Scriptable` app',
+  repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/acgGirl.js',
+  raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/acgGirl.js',
+}
 const $http = importModule("http.module")
 
 /*
@@ -45,7 +46,8 @@ async function acgApi(provider) {
       url = "https://api.kurlsq.cn/API/acgtp/api.php"
       img = await $http.req("get", url, {type:"moe", "R18": true}).loadImage()
       break
-    // ouklc api, see: https://ouklc.com/131
+    /*
+    // ouklc api, see: https://ouklc.com/131 seems not working
     case "ouklc":
       urls = [
         "https://www.ouklc.com/api/tp",
@@ -56,7 +58,7 @@ async function acgApi(provider) {
       url = urls[Math.floor(Math.random()*3)]
       img = await $http.req("get", url).loadImage()
       break
-
+    */
    // see: https://api.btstu.cn/doc/sjbz.php
    case "btstu":
       url = "https://api.btstu.cn/sjbz/api.php?format=images"
@@ -71,11 +73,14 @@ async function acgApi(provider) {
       console.log(randomTypeKeyword)
       img = await $http.req("get", url, {type: randomTypeKeyword}).loadImage()
       break
-   // ixiaowai api, see: https://api.ixiaowai.cn/
+
+   /*
+   // ixiaowai api, see: https://api.ixiaowai.cn/ seems not working
    case "ixiaowai":
       url = "https://api.ixiaowai.cn/api/api.php"
       img = await $http.req("get", url).loadImage()
       break
+   */
    default:
    // see: https://cdn.seovx.com/
    case "seovx":
