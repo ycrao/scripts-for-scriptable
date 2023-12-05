@@ -4,8 +4,8 @@
 
 const _info = {
   name: "acgGirl",
-  version: "1.1",
-  updated_at: '2023-12-04 17:45:00',
+  version: "1.2",
+  updated_at: '2023-12-05 10:45:00',
   author: "raoyc",
   description: "a widget to show ACG girl",
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/acgGirl.js',
@@ -90,12 +90,12 @@ async function acgApi(provider) {
   }
   return img
 }
-const providers = "hanxiaohan,xjh,yimian,yiluo,ouklc,btstu,r10086,ixiaowai".split(',')
+const providers = "hanxiaohan,xjh,yimian,yiluo,btstu,r10086".split(',')
 const param = args.widgetParameter
 const widget = new ListWidget()
 widget.backgroundColor = new Color("#ffffff", 0.5)
 widget.setPadding(0,0,0,0)
-let provider = "ixiaowai"
+let provider = "xjh"
 if (param != null && providers.includes(param)) {
   provider = param
 }

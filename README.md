@@ -100,16 +100,15 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 #### acgGirl
 
 >   展示各种二次元妹子，支持多种提供者来源，在 `widget` 配置中，可以填写下列任一个提供者 `provider` 。
+>   *特别注意*：部分 `provider` 网站可能已失效无法访问，请以最新代码为准。
 
 ```
 hanxiaohan
 xjh
 yimian
 yiluo
-ouklc
 btstu
 r10086
-ixiaowai
 ```
 
 预览图如下：
