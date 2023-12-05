@@ -77,7 +77,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [acgGirl](app/acgGirl.js) | 二次元妹子 | 各种二次元妹子，支持多种来源提供者 |
 | [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
 | [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系等应用短视频下载 |
-| [acgPPT](app/acgPPT.js) | 动漫游PPT | `Webview` 版本的动漫游PPT |
+| [acgPPT](app/acgPPT.js) | 动漫游PPT | 动态切换动漫游主题图片 |
 
 
 #### zhihuHot
@@ -150,7 +150,7 @@ r10086
 
 #### acgPPT
 
-顾名思义，可以动态切换的动漫游图片集，由 `r10086.com` 提供，注意该网站为原作者使用frp内穿构建的，可能存在不稳定性。点此查看 [原始网站](https://img.r10086.com/) 说明。
+顾名思义，可以动态切换的动漫游图片集，由 `r10086.com` 提供，注意该网站为原作者使用 `frp` 内穿构建的，可能存在不稳定性。点此查看 [原始网站](https://img.r10086.com/) 说明。
 
 <img src="screenshot/acgPPT.gif" width="410" height="410" />
 
