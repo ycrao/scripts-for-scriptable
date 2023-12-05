@@ -4,8 +4,8 @@
 
 const _info = {
   name: 'zhihuHot',
-  version: '1.1',
-  updated_at: '2023-12-04 17:45:00',
+  version: '1.2',
+  updated_at: '2023-12-05 18:45:00',
   author: 'raoyc',
   description: 'a widget to show zhihu hot questions',
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js',
@@ -16,8 +16,8 @@ const $http = importModule("http.module")
 const $cache = importModule("cache.module")
 
 function getRandomIntArr(length) {
-  if (length <= 6) {
-    return [0, 1, 2, 3, 4, 5]
+  if (length <= 5) {
+    return [0, 1, 2, 3, 4]
   }
   let randomIntArr = []
   for (let i = 0; i < length; i ++) {
@@ -61,10 +61,12 @@ let year = date.getFullYear(),
   month = date.getMonth() + 1,
   day = date.getDate(),
   hour = date.getHours();
-// cache refresh by one hour
-const key = 'zhihuHot:' + year + month + day + hour
 
-let result = null, items = [], randomIntArr = [0, 1, 2, 3, 4, 5]
+// keep low frequency to avoid being blocked
+// cache refresh by 2 hours
+const key = 'zhihuHot:' + year + month + day + Math.floor(hour/2)
+
+let result = null, items = [], randomIntArr = [0, 1, 2, 3, 4]
 if (cache.contains(key)) {
   result = JSON.parse(cache.get(key))
   console.log(result)
@@ -75,7 +77,7 @@ if (cache.contains(key)) {
 
 if (result != null) {
   items = result.data
-  if (items.length > 6) {
+  if (items.length > 5) {
      randomIntArr = getRandomIntArr(items.length)
   }
 }
@@ -91,7 +93,7 @@ title.centerAlignText()
 widget.addSpacer(20)
 
 // random question
-for (let i = 0; i < 6; i++) {
+for (let i = 0; i < 5; i++) {
   let idx = randomIntArr[i]
   // using text
   /*
@@ -110,6 +112,8 @@ for (let i = 0; i < 6; i++) {
   t.leftAlignText()
   t.lineLimit = 1
   stack.centerAlignContent() 
+  // #on macOS you can replace to
+  // stack.url = `https://www.zhihu.com/question/${items[idx].target.id}`
   stack.url = `zhihu://question/${items[idx].target.id}`
   widget.addSpacer(10)
 }
