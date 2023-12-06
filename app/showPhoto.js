@@ -4,7 +4,7 @@
 
 const _info = {
   name: 'showPhoto',
-  version: '1.0',
+  version: '1.1',
   updated_at: '2023-12-06 18:00:00',
   author: 'ycrao',
   description: 'Show a local photo in widget',
@@ -14,7 +14,7 @@ const _info = {
 
 const $cache = importModule("cache.module")
 
-const cache = $cache.useFileStorage()
+const cache = $cache.useSecureStorage()
 
 
 const picKey = 'userPic'
