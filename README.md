@@ -79,6 +79,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系等应用短视频下载 |
 | [acgPPT](app/acgPPT.js) | 动漫游PPT | 动态切换动漫游主题图片 |
 | [todayHistory](app/todayHistory.js) | 历史上的今天 | 展示历史上的今天旧闻 |
+| [showPhoto](app/showPhoto.js) | 秀相册 | 展示本地相册图片 |
 
 
 #### zhihuHot
@@ -160,3 +161,12 @@ r10086
 历史上的今天，以榜单形式展示，数据来源 [tool.lu](https://tool.lu/todayonhistory/) ，点击条目之后可以跳转到百度移动版搜索旧闻。
 
 <img src="screenshot/todayHistory.png" width="308" height="286" />
+
+
+#### showPhoto
+
+不同于 `acgGirl` 脚本从网络下载图，`showPhoto` 从本地相册中选图（更加安全可控，可用于展示一些纪念性的图片如结婚照等），然后保存到缓存中，当应用到手机桌面 `widget` 时， 将直接使用缓存中的图片数据。
+
+<img src="screenshot/showPhoto_1.png" width="446" height="934" />
+
+<img src="screenshot/showPhoto_2.png" width="442" height="752" />
