@@ -158,3 +158,5 @@ r10086
 #### todayHistory
 
 历史上的今天，以榜单形式展示，数据来源 [tool.lu](https://tool.lu/todayonhistory/) ，点击条目之后可以跳转到百度移动版搜索旧闻。
+
+<img src="screenshot/todayHistory.png" width="308" height="286" />
