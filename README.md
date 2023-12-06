@@ -78,6 +78,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
 | [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系等应用短视频下载 |
 | [acgPPT](app/acgPPT.js) | 动漫游PPT | 动态切换动漫游主题图片 |
+| [todayHistory](app/todayHistory.js) | 历史上的今天 | 展示历史上的今天旧闻 |
 
 
 #### zhihuHot
@@ -154,3 +155,6 @@ r10086
 
 <img src="screenshot/acgPPT.gif" width="410" height="410" />
 
+#### todayHistory
+
+历史上的今天，以榜单形式展示，数据来源 [tool.lu](https://tool.lu/todayonhistory/) ，点击条目之后可以跳转到百度移动版搜索旧闻。
