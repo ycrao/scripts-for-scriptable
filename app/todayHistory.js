@@ -41,7 +41,6 @@ class Billboard {
     if (len > maxInt) {
       const diff = len - maxInt
       start = Math.floor(Math.random()*diff)
-      console.log(start)
     }
     let loop = 0
     while (loop < maxInt) {
