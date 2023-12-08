@@ -5,7 +5,7 @@
 const _info = {
   name: 'iLottery',
   version: '1.1',
-  updated_at: '2023-12-04 17:45:00',
+  updated_at: '2023-12-08 17:00:00',
   author: 'ycrao',
   description: 'Show Chinese lottery result: 双色球(ssq) and 大乐透(dlt).',
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/iLottery.js',
