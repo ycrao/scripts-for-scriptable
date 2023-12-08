@@ -84,6 +84,8 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [acgPPT](app/acgPPT.js) | 动漫游PPT | 动态切换动漫游主题图片 |
 | [todayHistory](app/todayHistory.js) | 历史上的今天 | 展示历史上的今天旧闻 |
 | [showPhoto](app/showPhoto.js) | 秀相册 | 展示本地相册图片 |
+| [iLottery](app/iLottery.js) | 爱彩票 | 展示彩票开奖结果 |
+
 
 
 #### zhihuHot
@@ -174,3 +176,12 @@ r10086
 <img src="screenshot/showPhoto_1.png" width="446" height="934" />
 
 <img src="screenshot/showPhoto_2.png" width="442" height="752" />
+
+
+#### iLottery
+
+展示中国彩票双色球与大乐透开奖结果，开奖数据来源 [500彩票网](https://500.com/) ，可能存在不及时情况。脚本默认展示大乐透（`dlt`），可在 widget 配置中传入双色球汉语拼音缩写（`ssq`）切换成双色球结果。
+
+特别提醒：双色球每周二、四、日开奖；大乐透每周一、三、六开奖。
+
+<img src="screenshot/iLottery.png" width="530" height="302" />

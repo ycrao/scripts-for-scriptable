@@ -7,7 +7,7 @@ const _info = {
   version: '1.1',
   updated_at: '2023-12-06 18:00:00',
   author: 'ycrao',
-  description: 'Show a local photo in widget',
+  description: 'Show a local photo in a widget',
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/showPhoto.js',
   raw_file_url: 'https://raw.githubusercontent.com/ycrao/scripts-for-scriptable/main/app/showPhoto.js' 
 }
