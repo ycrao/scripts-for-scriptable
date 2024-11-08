@@ -76,6 +76,7 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 | 名称 | 中文名称 | 说明或备注 |
 | --------------------------- | ---------- | ------------------------- |
+| [IPTV](app/IPTV.js) 🆕 | 网络电视 | 手机在线看电视 |
 | [zhihuHot](app/zhihuHot.js) | 知乎热点 | 展示知乎热点数据，50条结果中随机 |
 | [priceReminder](app/priceReminder.js) | 贵金属价格提示器 | 展示现货黄金/白银价格 |
 | [acgGirl](app/acgGirl.js) | 二次元妹子 | 各种二次元妹子，支持多种来源提供者 |
@@ -86,6 +87,13 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 | [showPhoto](app/showPhoto.js) | 秀相册 | 展示本地相册图片 |
 | [iLottery](app/iLottery.js) | 爱彩票 | 展示彩票开奖结果 |
 
+### IPTV 🆕
+
+>   无须借助第三方，直接在 iPhone 手机上看电视，默认使用 [fanmingming ipv6](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u) 源文件，IPv6 网络下使用最佳。
+
+预览图如下：
+
+<img src="screenshot/watching-iptv.gif" alt="zhihuHot" width="400" height="865" />
 
 
 #### zhihuHot
