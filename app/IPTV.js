@@ -66,7 +66,7 @@ categories.forEach((category) => {
     const c2 = UITableCell.button("去观看")
     c2.onTap = async () => {
       const qs = $http.qs({url: channel.url, channel: channel.name})
-      // 这里使用非 http 播放器链接， 以减少 https 页面加载 http 资源受限错误
+      // 这里使用 http 播放器链接， 以减少 https 页面加载 http 资源受限错误
       // 如还是不能播放，请检查当前手机网络是否支持 ipv6 或者 打开 vconsole 查看控制台报错
       // 某些不支持的视频格式或者跨域等问题可能造成无法播放
       const url = 'http://raoyc.com/svtv/dplayer.html?' + qs
