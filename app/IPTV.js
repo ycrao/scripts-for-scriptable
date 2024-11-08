@@ -58,7 +58,7 @@ categories.forEach((category) => {
   table.addRow(tr)
   category.channels.forEach((channel) => {
     const r = new UITableRow()  
-    r.height = 75
+    r.height = 50
     const c1 = UITableCell.text(channel.name)
     c1.titleColor = new Color(colors[2], 0.8)
     c1.leftAligned()
