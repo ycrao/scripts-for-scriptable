@@ -48,6 +48,14 @@ row.addCell(cIcon)
 row.addCell(cTitle)
 table.addRow(row)
 categories.forEach((category) => {
+  const tr = new UITableRow()  
+  tr.height = 75
+  const t = UITableCell.text(category.name)
+  t.titleColor = new Color(colors[2], 1)
+  t.centerAligned()
+  t.widthWeight = 100
+  tr.addCell(t)
+  table.addRow(tr)
   category.channels.forEach((channel) => {
     const r = new UITableRow()  
     r.height = 75
