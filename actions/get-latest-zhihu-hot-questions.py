@@ -3,6 +3,7 @@ import json
 import uuid
 import requests
 import time
+import os
 
 
 os.environ['TZ'] = 'Asia/Shanghai'

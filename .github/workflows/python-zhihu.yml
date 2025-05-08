@@ -31,7 +31,7 @@ jobs:
     - name: Generate Zhihu hot json file
       run: |
         cd actions && python get-latest-zhihu-hot-questions.py
-    - name: Push to GitHub
+    - name: Git Commit
       run: |
         DATE=(date +"%Y-%m-%d %H:%M")
         MSG="Update Zhihu Hot at $DATE"
@@ -39,4 +39,8 @@ jobs:
         git config --local user.name "GitHub Action"
         git add -A
         git commit -m $MSG -a
-        git push origin main
+    - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
