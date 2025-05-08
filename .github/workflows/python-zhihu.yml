@@ -6,7 +6,7 @@ name: python-zhihu
 on:
   push:
     branches: [ "main" ]
-    schedule:
+  schedule:
     - cron: "*/15 * * * *" # See https://crontab.guru/#*/15_*_*_*_*
 
 permissions:
