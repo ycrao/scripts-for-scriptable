@@ -4,8 +4,8 @@
 
 const _info = {
   name: 'zhihuHot',
-  version: '1.2',
-  updated_at: '2023-12-05 18:45:00',
+  version: '1.3',
+  updated_at: '2025-05-08 13:05:00',
   author: 'raoyc',
   description: 'a widget to show zhihu hot questions',
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js',
@@ -64,15 +64,17 @@ let year = date.getFullYear(),
 
 // keep low frequency to avoid being blocked
 // cache refresh by 2 hours
-const key = 'zhihuHot:' + year + month + day + Math.floor(hour/2)
+const key = 'zhihuHot-gh:' + year + month + day + Math.floor(hour/2)
 
 let result = null, items = [], randomIntArr = [0, 1, 2, 3, 4]
 if (cache.contains(key)) {
   result = JSON.parse(cache.get(key))
   console.log(result)
 } else {
-  result = await $http.req("get", "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total").loadJSON()
-  cache.set(key, JSON.stringify(result))
+  // v3 api need login
+  // result = await $http.req("get", "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total").loadJSON()
+  result = await $http.req("get", "https://cdn.jsdelivr.net/gh/ycrao/scripts-for-scriptable/outputs/zhihu_hotlist.json").loadJSON()
+  // cache.set(key, JSON.stringify(result))
 }
 
 if (result != null) {
@@ -106,15 +108,17 @@ for (let i = 0; i < 5; i++) {
   */
   // using stack
   const stack = widget.addStack()
-  const t = stack.addText(items[idx].target.title)
+  const t = stack.addText(items[idx].title)
   t.font = Font.lightSystemFont(12)
   t.textColor = new Color(getRandomColorHexValue(), 1)
   t.leftAlignText()
   t.lineLimit = 1
   stack.centerAlignContent() 
+  let link = items[idx].link
   // #on macOS you can replace to
-  // stack.url = `https://www.zhihu.com/question/${items[idx].target.id}`
-  stack.url = `zhihu://question/${items[idx].target.id}`
+  // stack.url = link
+  let schemeUrl = `zhihu://` + link.replace('https://www.zhihu.com/', '')
+  stack.url = schemeUrl
   widget.addSpacer(10)
 }
 

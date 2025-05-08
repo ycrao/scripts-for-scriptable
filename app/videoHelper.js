@@ -5,8 +5,8 @@
 
 const _info = {
     name: 'videoHelper',
-    version: '1.3',
-    updated_at: '2023-12-04 17:45:00',
+    version: '1.4',
+    updated_at: '2024-11-14 12:45:00',
     author: 'raoyc',
     description: 'download video from Chinese pop short-video apps, such as douyin, kuaishou, weibo and so on',
     repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/videoHelper.js',
@@ -15,9 +15,85 @@ const _info = {
 
 const $http = importModule("http.module")
 
-// 特别注意: 需要更新 `http.module` 类库
-// 当前可用，但仅支持 `抖音` 与 `tiktok` 2个平台无水印视频下载
+// 本次解析服务额外依赖
+async function encryptParams(jsonData) {
+  const jsonStr = JSON.stringify(jsonData);
+  const webView = new WebView()
+  await webView.loadHTML('', 'https://www.xiazaitool.com/dy')
+  // await webView.present(false)
+  let jsStr = `
+function encrypt(str) {
+  // 密钥--应和后台java解密或是前台js解密的密钥保持一致（16进制）
+  var key = CryptoJS.enc.Utf8.parse("aLr8011v82deTFQwCZd1wCcD");
+  // 偏移量
+  var srcs = CryptoJS.enc.Utf8.parse(str);
+  // 算法
+  var encrypted = CryptoJS.AES.encrypt(srcs, key, {
+    mode: CryptoJS.mode.ECB,
+    padding: CryptoJS.pad.Pkcs7
+  });
+  // 替换--防止值为“1”的情况
+  var reg = new RegExp('/', "g"); 
+  return encrypted.toString().replace(reg, "#");
+}
+function loadScript(url, callback) {
+  const script = document.createElement("script")
+  script.type = "application/javascript"
+  script.src = url
+  document.getElementsByTagName('head')[0].appendChild(script);
+  script.onload = function() {  
+    var params = '${jsonStr}';
+    var encryptedStr = encrypt(params);
+    callback(encryptedStr)
+  }
+}
+const scriptUrl = 'https://www.xiazaitool.com/parseVideo/js/crytool.js'
+loadScript(scriptUrl, (encryptedStr) => {
+  completion(encryptedStr)
+})
+  `
+  const encryptedStr = await webView.evaluateJavaScript(jsStr, true)
+  jsonData.params = encryptedStr;
+  return jsonData
+}
+
 async function fetchVideo(clip) {
+  const re = /(http|https):\/\/([a-zA-Z0-9.:?=&-/%#]+)/g
+  const result = clip.match(re)
+  console.log(result)
+  if (result != null && result[0] !== undefined) {
+      const dyUrl = result[0]
+      const apiUrl = "https://www.xiazaitool.com/video/parseVideoUrl"
+      let params = {
+        url: dyUrl,
+        platform: 'douyin',
+      }
+      const encryptedParams = await encryptParams(params)
+      json = await $http.req(
+        'post', 
+        apiUrl, 
+        encryptedParams,
+        {
+          'Timestam': new Date().getTime()
+        }
+      ).loadJSON()
+      console.log(json)
+      if (json.status == 200) {
+        let videoUrl = json.data.voideDeatilVoList[0]['url']
+        const cb = new CallbackURL("shortcuts://x-callback-url/run-shortcut")
+        cb.addParameter("name", "下载文件")
+        cb.addParameter("input", "text")
+        cb.addParameter("text", videoUrl)
+        cb.open()
+        notify("VideoHelper", "Please select file path to download/请选择路径下载")
+        return
+      }
+  } 
+}
+
+// 该接口已也失效，并改名为 _fetchVideo3，之前仅支持 `抖音` 与 `tiktok` 2个平台无水印视频下载，
+/*
+async function fetchVideo3(clip) {
     const re = /(http|https):\/\/([a-zA-Z0-9.:?=&-/%#]+)/g
     const result = clip.match(re)
     console.log(result)
@@ -45,6 +121,7 @@ async function fetchVideo(clip) {
         }
     } 
 }
+*/
 
 // 该接口已也失效，并改名为 _fetchVideo2
 /*
