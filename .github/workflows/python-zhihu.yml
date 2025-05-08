@@ -37,10 +37,12 @@ jobs:
         MSG="Update Zhihu Hot at $DATE"
         git config --local user.email "3280204+ycrao@users.noreply.github.com"
         git config --local user.name "GitHub Action"
+        git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add outputs/
         git commit -m "$MSG"
-    - name: GitHub Push
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        directory: "."
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git push
+    # - name: Push changes
+    #   uses: ad-m/github-push-action@master
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     branch: ${{ github.ref }}
