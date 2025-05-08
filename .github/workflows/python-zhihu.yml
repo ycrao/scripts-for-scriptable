@@ -36,11 +36,11 @@ jobs:
     - name: Git Commit
       run: |
         DATE=(date +"%Y-%m-%d %H:%M")
-        MSG="Update Zhihu Hot at $DATE"
+        MSG="Update Zhihu Hot at "
         git config --local user.email "3280204+ycrao@users.noreply.github.com"
         git config --local user.name "GitHub Action"
         git add outputs/
-        git commit -m "$MSG"
+        git commit -m "$MSG $DATE"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
