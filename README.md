@@ -76,12 +76,12 @@ $http.req('get', 'https://httpbin.org/ip').loadJSON().then(resp => {
 
 | 名称 | 中文名称 | 说明或备注 |
 | --------------------------- | ---------- | ------------------------- |
-| [IPTV](app/IPTV.js) 🆕 | 网络电视 | 手机在线看电视 |
+| [IPTV](app/IPTV.js) 🆕 ❌（已失效不可用）| 网络电视 | 手机在线看电视 |
 | [zhihuHot](app/zhihuHot.js) | 知乎热点 | 展示知乎热点数据，50条结果中随机 |
 | [priceReminder](app/priceReminder.js) | 贵金属价格提示器 | 展示现货黄金/白银价格 |
 | [acgGirl](app/acgGirl.js) | 二次元妹子 | 各种二次元妹子，支持多种来源提供者 |
 | [dogDiary](app/dogDiary.js) | 舔狗日记 | 舔到最后，一无所有 |
-| [videoHelper](app/videoHelper.js) | 视频助手 | 支持头条系等应用短视频下载 |
+| [videoHelper](app/videoHelper.js) ❌（API解析已失效，改为打开第三方网站） | 视频助手 | 支持头条系等应用短视频下载 |
 | [acgPPT](app/acgPPT.js) | 动漫游PPT | 动态切换动漫游主题图片 |
 | [todayHistory](app/todayHistory.js) | 历史上的今天 | 展示历史上的今天旧闻 |
 | [showPhoto](app/showPhoto.js) | 秀相册 | 展示本地相册图片 |
