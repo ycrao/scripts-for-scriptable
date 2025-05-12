@@ -1,48 +1,48 @@
 {
-  "artifact_id": "d42f4db4-1399-4a3f-a9c5-1885d90bbafc",
+  "artifact_id": "9287d6c8-6b0c-4910-869e-96cd6af07623",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "中美日内瓦经贸会谈联合声明发布，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1905276871555397317",
-      "heat": "502 万热度"
+      "heat": "479 万热度"
     },
     {
       "rank": "2",
       "title": "沙瑞金为什么不是第一个得到赵立春落马消息的？",
       "link": "https://www.zhihu.com/question/6468629595",
-      "heat": "249 万热度"
+      "heat": "290 万热度"
     },
     {
       "rank": "3",
+      "title": "如何看待前苏联金星探测器时隔 53 年返回地球？",
+      "link": "https://www.zhihu.com/question/1904120865001563280",
+      "heat": "212 万热度"
+    },
+    {
+      "rank": "4",
+      "title": "你觉得《三角洲行动》中哪个干员的上限最高，哪个干员的下限最高呢?",
+      "link": "https://www.zhihu.com/question/1904999299240134445",
+      "heat": "77 万热度"
+    },
+    {
+      "rank": "5",
       "title": "为什么好多家里不穷的人「宁上公办专科，不上民办本科」?",
       "link": "https://www.zhihu.com/question/1901999622194439391",
       "heat": "58 万热度"
     },
     {
-      "rank": "4",
-      "title": "如何评价央视主持人朱迅 2 小时 14 分跑完半马？这个成绩属于什么水平？",
-      "link": "https://www.zhihu.com/question/1904995548978704538",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "5",
-      "title": "高校文科专业被裁撤、预算削减，如何看待教育资源向 STEM 倾斜的趋势？为何文科逐渐沦为「边缘部门」？",
-      "link": "https://www.zhihu.com/question/1905238979512625098",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "6",
-      "title": "美国当地人常吃的快餐品牌也是肯德基、麦当劳么?",
-      "link": "https://www.zhihu.com/question/37302015",
-      "heat": "56 万热度"
+      "title": "中美日内瓦经贸会谈联合声明发布，回到起点后是否意味着中美贸易将回归正常？",
+      "link": "https://www.zhihu.com/question/1905279013489963438",
+      "heat": "58 万热度"
     },
     {
       "rank": "7",
-      "title": "中美日内瓦经贸会谈联合声明发布，回到起点后是否意味着中美贸易将回归正常？",
-      "link": "https://www.zhihu.com/question/1905279013489963438",
-      "heat": "56 万热度"
+      "title": "美国当地人常吃的快餐品牌也是肯德基、麦当劳么?",
+      "link": "https://www.zhihu.com/question/37302015",
+      "heat": "58 万热度"
     },
     {
       "rank": "8",
@@ -52,14 +52,14 @@
     },
     {
       "rank": "9",
-      "title": "如何看待奈雪的茶再换 logo 改成奈雪？从商业角度如何解读？",
-      "link": "https://www.zhihu.com/question/1903718615179556514",
+      "title": "如何评价央视主持人朱迅 2 小时 14 分跑完半马？这个成绩属于什么水平？",
+      "link": "https://www.zhihu.com/question/1904995548978704538",
       "heat": "56 万热度"
     },
     {
       "rank": "10",
-      "title": "大连西山水库现成群黑色大鱼，专家确认系外来物种埃及塘鲺，这是什么鱼？会对当地生态系统造成影响吗？",
-      "link": "https://www.zhihu.com/question/1904654397293684588",
+      "title": "如何看待奈雪的茶再换 logo 改成奈雪？从商业角度如何解读？",
+      "link": "https://www.zhihu.com/question/1903718615179556514",
       "heat": "56 万热度"
     },
     {
@@ -70,50 +70,50 @@
     },
     {
       "rank": "12",
+      "title": "大连西山水库现成群黑色大鱼，专家确认系外来物种埃及塘鲺，这是什么鱼？会对当地生态系统造成影响吗？",
+      "link": "https://www.zhihu.com/question/1904654397293684588",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "13",
       "title": "公司是十几个人的小公司，突然老板安排了四五个老家的亲戚来上班，作为业务骨干我该怎么做好防备？",
       "link": "https://www.zhihu.com/question/1895635178367469224",
       "heat": "56 万热度"
     },
     {
-      "rank": "13",
+      "rank": "14",
+      "title": "高校文科专业被裁撤、预算削减，如何看待教育资源向 STEM 倾斜的趋势？为何文科逐渐沦为「边缘部门」？",
+      "link": "https://www.zhihu.com/question/1905238979512625098",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "15",
       "title": "骑行两个月了，每天 20 公里，肚子上的肉感觉一点没掉怎么办？",
       "link": "https://www.zhihu.com/question/1902867716580282723",
       "heat": "54 万热度"
     },
     {
-      "rank": "14",
-      "title": "人到底要经历什么，才会心智成熟、变得特别强大？",
-      "link": "https://www.zhihu.com/question/665426382",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "关原之战石田为何失败得如此之快？",
-      "link": "https://www.zhihu.com/question/428570041",
-      "heat": "53 万热度"
-    },
-    {
       "rank": "16",
       "title": "婚姻登记「全国通办」首日，多地结婚登记约满，如何评价这一变化？会有助于提高结婚意愿吗？",
       "link": "https://www.zhihu.com/question/1905224553774413692",
-      "heat": "53 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "17",
-      "title": "如何让天下第一门派一夜之间灭门？",
-      "link": "https://www.zhihu.com/question/1889965387564696258",
+      "title": "如果我没有任何体育爱好，也不喜欢运动，仅仅为了保持健康而锻炼，推荐进行怎么样的锻炼？",
+      "link": "https://www.zhihu.com/question/1902773122823856690",
       "heat": "53 万热度"
     },
     {
       "rank": "18",
-      "title": "如何评价《崩坏：星穹铁道》本期 (5.12-6.23) 混沌回忆「彼岸之息」?",
-      "link": "https://www.zhihu.com/question/1905139372409480606",
+      "title": "强大的内心源于什么？",
+      "link": "https://www.zhihu.com/question/513712505",
       "heat": "53 万热度"
     },
     {
       "rank": "19",
-      "title": "如果我没有任何体育爱好，也不喜欢运动，仅仅为了保持健康而锻炼，推荐进行怎么样的锻炼？",
-      "link": "https://www.zhihu.com/question/1902773122823856690",
+      "title": "空战的时候可不可以先击落预警机?",
+      "link": "https://www.zhihu.com/question/27704977",
       "heat": "53 万热度"
     },
     {
@@ -124,26 +124,26 @@
     },
     {
       "rank": "21",
-      "title": "有孩子的家庭如何在装修时有效预防磕碰等风险，同时给孩子打造一个充满乐趣的成长空间？",
-      "link": "https://www.zhihu.com/question/14562426434",
+      "title": "为什么阿根廷新一代领军球员劳塔罗一直在没落的意甲踢球?",
+      "link": "https://www.zhihu.com/question/1901758610893182078",
       "heat": "53 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么现在的科幻小说很少有太空歌剧式的了?",
-      "link": "https://www.zhihu.com/question/1903434526736248908",
+      "title": "人脑的智能或者说思考模式会不会也像大语言模型 llm 一样只是概率预测？",
+      "link": "https://www.zhihu.com/question/14821661304",
       "heat": "53 万热度"
     },
     {
       "rank": "23",
-      "title": "LPL 2025 赛季第二赛段组内赛 TT 2:1 WBG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1904959552186712559",
+      "title": "如何评价王钰栋最近 10 场中超进 8 球的表现？",
+      "link": "https://www.zhihu.com/question/1900486918677987349",
       "heat": "53 万热度"
     },
     {
       "rank": "24",
-      "title": "赵云论资历论功劳都应该比魏延好一点，为什么最后地位没有魏延高？",
-      "link": "https://www.zhihu.com/question/1901936184063664611",
+      "title": "为什么现在好多人都把《CS:GO》当做 FPS 游戏的标杆？",
+      "link": "https://www.zhihu.com/question/420314518",
       "heat": "53 万热度"
     },
     {
@@ -154,44 +154,44 @@
     },
     {
       "rank": "26",
-      "title": "想初尝苹果 Mac 电脑，纯体验，选 Macbook air 还是 pro？",
-      "link": "https://www.zhihu.com/question/653783963",
+      "title": "你吃过的最难忘的饺子是什么馅儿?",
+      "link": "https://www.zhihu.com/question/579922916",
       "heat": "53 万热度"
     },
     {
       "rank": "27",
-      "title": "很多 JRPG 游戏中的 Boss 都对异常状态免疫 (中毒，魅惑，眩晕等)，那么设计这些机制的意义是什么？",
-      "link": "https://www.zhihu.com/question/1903952925895689638",
+      "title": "有哪些重要考古发现出土文物是我们需要跑多个博物馆才能看全的？都有哪些不可错过的文物？",
+      "link": "https://www.zhihu.com/question/1899121013653997118",
       "heat": "53 万热度"
     },
     {
       "rank": "28",
-      "title": "如果是被动离职，后面找不到多好的工作，还可以回原来的公司吗？",
-      "link": "https://www.zhihu.com/question/1902637627057873654",
+      "title": "中国为什么没有企业做好单反相机？",
+      "link": "https://www.zhihu.com/question/1902861172933400253",
       "heat": "53 万热度"
     },
     {
       "rank": "29",
-      "title": "高三时，你是靠什么坚持下来的？",
-      "link": "https://www.zhihu.com/question/1899875997106542068",
+      "title": "洞庭湖为什么越来越小, 会消失吗?",
+      "link": "https://www.zhihu.com/question/620851165",
       "heat": "53 万热度"
     },
     {
       "rank": "30",
-      "title": "从你的经历来看，中国最宜居的城市或者地区是哪里？",
-      "link": "https://www.zhihu.com/question/1896488704979220461",
+      "title": "赵云论资历论功劳都应该比魏延好一点，为什么最后地位没有魏延高？",
+      "link": "https://www.zhihu.com/question/1901936184063664611",
       "heat": "53 万热度"
     },
     {
       "rank": "31",
-      "title": "突然停电，对电脑伤害大吗？",
-      "link": "https://www.zhihu.com/question/2178639737",
+      "title": "LPL 2025 赛季第二赛段组内赛 JDG 0:2 TES，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1905005568424379351",
       "heat": "53 万热度"
     },
     {
       "rank": "32",
-      "title": "如何看待老一辈人对心理健康问题的传统认知？",
-      "link": "https://www.zhihu.com/question/1891275841016661644",
+      "title": "亲人喜欢挑拨、刺激情绪，现实中根本无法远离，怎样才能让自己的情绪状态不受他人影响？",
+      "link": "https://www.zhihu.com/question/1894905616788608446",
       "heat": "53 万热度"
     },
     {
@@ -202,106 +202,106 @@
     },
     {
       "rank": "34",
-      "title": "为什么人大多都难以完全客观地认识自己？",
-      "link": "https://www.zhihu.com/question/1901538655639696481",
+      "title": "今天，高考到底在「考」什么？",
+      "link": "https://www.zhihu.com/question/1899875997240764397",
       "heat": "53 万热度"
     },
     {
       "rank": "35",
-      "title": "东吴有榻上策，蜀汉有隆中对，那曹魏有什么呢？",
-      "link": "https://www.zhihu.com/question/15035018813",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "普通玩家玩 RTS 游戏的爽快点是什么？",
-      "link": "https://www.zhihu.com/question/1897263053659174884",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "童年时吃过的哪一款「面包」至今让你念念不忘？",
-      "link": "https://www.zhihu.com/question/1896839967197619274",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "辣椒明朝时才传入中国，那么明朝之前的四川人湖南人吃什么？",
-      "link": "https://www.zhihu.com/question/335637235",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "有没有哪句台词，让你记住了整部电影 / 电视剧？",
-      "link": "https://www.zhihu.com/question/590527384",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "40",
       "title": "为什么许多游戏总是要费劲巴拉去做一套「天气系统」，一个好的天气系统会给游戏体验带来怎样的帮助？",
       "link": "https://www.zhihu.com/question/1898804875673991011",
       "heat": "53 万热度"
     },
     {
+      "rank": "36",
+      "title": "如何评价古装电视剧《淮水竹亭》的大结局？",
+      "link": "https://www.zhihu.com/question/1904922776223056893",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "「妈妈岗」灵活就业模式正在全国各地兴起，能带娃还能赚钱，你看好这种模式吗？还有哪些方面需要完善？",
+      "link": "https://www.zhihu.com/question/1904956944860542426",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "为什么鸿蒙 PC 版电脑不使用 x86 架构？",
+      "link": "https://www.zhihu.com/question/1904527221168804880",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "有没有哪部漫画战力设定强过龙珠？",
+      "link": "https://www.zhihu.com/question/553478260",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "情绪稳定是否正在成为「新型道德绑架」？",
+      "link": "https://www.zhihu.com/question/1899755665624393521",
+      "heat": "52 万热度"
+    },
+    {
       "rank": "41",
-      "title": "普通人使用 AI 工具时，在享受效率提升的同时，是否正在经历 「认知能力退化」？",
-      "link": "https://www.zhihu.com/question/1903064323431073443",
-      "heat": "53 万热度"
+      "title": "高三时的人际关系，真的是「多余」的吗？",
+      "link": "https://www.zhihu.com/question/1899875997131702566",
+      "heat": "52 万热度"
     },
     {
       "rank": "42",
-      "title": "为什么现在的英语课，都不学音标了呢？",
-      "link": "https://www.zhihu.com/question/1889698261331329916",
-      "heat": "53 万热度"
+      "title": "为何很少有对买断制游戏数值膨胀问题的抨击？",
+      "link": "https://www.zhihu.com/question/1904108456677471414",
+      "heat": "52 万热度"
     },
     {
       "rank": "43",
-      "title": "「妈妈岗」灵活就业模式正在全国各地兴起，能带娃还能赚钱，你看好这种模式吗？还有哪些方面需要完善？",
-      "link": "https://www.zhihu.com/question/1904956944860542426",
-      "heat": "53 万热度"
+      "title": "如果我作为 LoL 职业选手大赛只输各赛区的一号种子，会有强队要我吗？",
+      "link": "https://www.zhihu.com/question/657059109",
+      "heat": "52 万热度"
     },
     {
       "rank": "44",
-      "title": "先减肥减到一定重量之后再增肌，是不是一个好的规划？",
-      "link": "https://www.zhihu.com/question/1898526174944137276",
-      "heat": "53 万热度"
+      "title": "为什么现在的英语课，都不学音标了呢？",
+      "link": "https://www.zhihu.com/question/1889698261331329916",
+      "heat": "52 万热度"
     },
     {
       "rank": "45",
-      "title": "亲人喜欢挑拨、刺激情绪，现实中根本无法远离，怎样才能让自己的情绪状态不受他人影响？",
-      "link": "https://www.zhihu.com/question/1894905616788608446",
-      "heat": "53 万热度"
+      "title": "很多 JRPG 游戏中的 Boss 都对异常状态免疫 (中毒，魅惑，眩晕等)，那么设计这些机制的意义是什么？",
+      "link": "https://www.zhihu.com/question/1903952925895689638",
+      "heat": "52 万热度"
     },
     {
       "rank": "46",
-      "title": "如何评价古装电视剧《淮水竹亭》的大结局？",
-      "link": "https://www.zhihu.com/question/1904922776223056893",
-      "heat": "53 万热度"
+      "title": "减肥过程中是否需要运动？",
+      "link": "https://www.zhihu.com/question/14269319848",
+      "heat": "52 万热度"
     },
     {
       "rank": "47",
-      "title": "如何评价王钰栋最近 10 场中超进 8 球的表现？",
-      "link": "https://www.zhihu.com/question/1900486918677987349",
-      "heat": "53 万热度"
+      "title": "宁德时代 5 月 20 日将在港交所上市，最高发行价 263 港元 / 股，如何看待其赴港二次上市？",
+      "link": "https://www.zhihu.com/question/1905207659931596372",
+      "heat": "52 万热度"
     },
     {
       "rank": "48",
-      "title": "为什么阿根廷新一代领军球员劳塔罗一直在没落的意甲踢球?",
-      "link": "https://www.zhihu.com/question/1901758610893182078",
-      "heat": "53 万热度"
+      "title": "辣椒明朝时才传入中国，那么明朝之前的四川人湖南人吃什么？",
+      "link": "https://www.zhihu.com/question/335637235",
+      "heat": "52 万热度"
     },
     {
       "rank": "49",
-      "title": "为什么现在好多人都把《CS:GO》当做 FPS 游戏的标杆？",
-      "link": "https://www.zhihu.com/question/420314518",
-      "heat": "53 万热度"
+      "title": "如果邓肯的职业生涯像马龙一样，主要巅峰在乔丹的时代，邓肯能坐稳历史第一大前吗？",
+      "link": "https://www.zhihu.com/question/1901311077712658541",
+      "heat": "52 万热度"
     },
     {
       "rank": "50",
-      "title": "强大的内心源于什么？",
-      "link": "https://www.zhihu.com/question/513712505",
-      "heat": "53 万热度"
+      "title": "为什么管理一严员工就走人？",
+      "link": "https://www.zhihu.com/question/1904109747277366376",
+      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-05-13 06:57:12"
+  "generated_at": "2025-05-13 07:24:42"
 }
