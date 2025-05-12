@@ -1,18 +1,18 @@
 {
-  "artifact_id": "d3ae0fc9-9d02-4093-9b03-3bd3cabebbde",
+  "artifact_id": "d42f4db4-1399-4a3f-a9c5-1885d90bbafc",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "中美日内瓦经贸会谈联合声明发布，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1905276871555397317",
-      "heat": "496 万热度"
+      "heat": "502 万热度"
     },
     {
       "rank": "2",
       "title": "沙瑞金为什么不是第一个得到赵立春落马消息的？",
       "link": "https://www.zhihu.com/question/6468629595",
-      "heat": "239 万热度"
+      "heat": "249 万热度"
     },
     {
       "rank": "3",
@@ -24,7 +24,7 @@
       "rank": "4",
       "title": "如何评价央视主持人朱迅 2 小时 14 分跑完半马？这个成绩属于什么水平？",
       "link": "https://www.zhihu.com/question/1904995548978704538",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "5",
@@ -52,14 +52,14 @@
     },
     {
       "rank": "9",
-      "title": "大连西山水库现成群黑色大鱼，专家确认系外来物种埃及塘鲺，这是什么鱼？会对当地生态系统造成影响吗？",
-      "link": "https://www.zhihu.com/question/1904654397293684588",
+      "title": "如何看待奈雪的茶再换 logo 改成奈雪？从商业角度如何解读？",
+      "link": "https://www.zhihu.com/question/1903718615179556514",
       "heat": "56 万热度"
     },
     {
       "rank": "10",
-      "title": "如何看待奈雪的茶再换 logo 改成奈雪？从商业角度如何解读？",
-      "link": "https://www.zhihu.com/question/1903718615179556514",
+      "title": "大连西山水库现成群黑色大鱼，专家确认系外来物种埃及塘鲺，这是什么鱼？会对当地生态系统造成影响吗？",
+      "link": "https://www.zhihu.com/question/1904654397293684588",
       "heat": "56 万热度"
     },
     {
@@ -76,21 +76,21 @@
     },
     {
       "rank": "13",
-      "title": "人到底要经历什么，才会心智成熟、变得特别强大？",
-      "link": "https://www.zhihu.com/question/665426382",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "14",
       "title": "骑行两个月了，每天 20 公里，肚子上的肉感觉一点没掉怎么办？",
       "link": "https://www.zhihu.com/question/1902867716580282723",
       "heat": "54 万热度"
     },
     {
-      "rank": "15",
-      "title": "普通人使用 AI 工具时，在享受效率提升的同时，是否正在经历 「认知能力退化」？",
-      "link": "https://www.zhihu.com/question/1903064323431073443",
+      "rank": "14",
+      "title": "人到底要经历什么，才会心智成熟、变得特别强大？",
+      "link": "https://www.zhihu.com/question/665426382",
       "heat": "54 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "关原之战石田为何失败得如此之快？",
+      "link": "https://www.zhihu.com/question/428570041",
+      "heat": "53 万热度"
     },
     {
       "rank": "16",
@@ -100,20 +100,20 @@
     },
     {
       "rank": "17",
-      "title": "先减肥减到一定重量之后再增肌，是不是一个好的规划？",
-      "link": "https://www.zhihu.com/question/1898526174944137276",
+      "title": "如何让天下第一门派一夜之间灭门？",
+      "link": "https://www.zhihu.com/question/1889965387564696258",
       "heat": "53 万热度"
     },
     {
       "rank": "18",
-      "title": "辣椒明朝时才传入中国，那么明朝之前的四川人湖南人吃什么？",
-      "link": "https://www.zhihu.com/question/335637235",
+      "title": "如何评价《崩坏：星穹铁道》本期 (5.12-6.23) 混沌回忆「彼岸之息」?",
+      "link": "https://www.zhihu.com/question/1905139372409480606",
       "heat": "53 万热度"
     },
     {
       "rank": "19",
-      "title": "为什么人大多都难以完全客观地认识自己？",
-      "link": "https://www.zhihu.com/question/1901538655639696481",
+      "title": "如果我没有任何体育爱好，也不喜欢运动，仅仅为了保持健康而锻炼，推荐进行怎么样的锻炼？",
+      "link": "https://www.zhihu.com/question/1902773122823856690",
       "heat": "53 万热度"
     },
     {
@@ -124,8 +124,8 @@
     },
     {
       "rank": "21",
-      "title": "东吴有榻上策，蜀汉有隆中对，那曹魏有什么呢？",
-      "link": "https://www.zhihu.com/question/15035018813",
+      "title": "有孩子的家庭如何在装修时有效预防磕碰等风险，同时给孩子打造一个充满乐趣的成长空间？",
+      "link": "https://www.zhihu.com/question/14562426434",
       "heat": "53 万热度"
     },
     {
@@ -154,44 +154,44 @@
     },
     {
       "rank": "26",
-      "title": "关原之战石田为何失败得如此之快？",
-      "link": "https://www.zhihu.com/question/428570041",
+      "title": "想初尝苹果 Mac 电脑，纯体验，选 Macbook air 还是 pro？",
+      "link": "https://www.zhihu.com/question/653783963",
       "heat": "53 万热度"
     },
     {
       "rank": "27",
-      "title": "如果邓肯的职业生涯像马龙一样，主要巅峰在乔丹的时代，邓肯能坐稳历史第一大前吗？",
-      "link": "https://www.zhihu.com/question/1901311077712658541",
+      "title": "很多 JRPG 游戏中的 Boss 都对异常状态免疫 (中毒，魅惑，眩晕等)，那么设计这些机制的意义是什么？",
+      "link": "https://www.zhihu.com/question/1903952925895689638",
       "heat": "53 万热度"
     },
     {
       "rank": "28",
-      "title": "如果我没有任何体育爱好，也不喜欢运动，仅仅为了保持健康而锻炼，推荐进行怎么样的锻炼？",
-      "link": "https://www.zhihu.com/question/1902773122823856690",
+      "title": "如果是被动离职，后面找不到多好的工作，还可以回原来的公司吗？",
+      "link": "https://www.zhihu.com/question/1902637627057873654",
       "heat": "53 万热度"
     },
     {
       "rank": "29",
-      "title": "空战的时候可不可以先击落预警机?",
-      "link": "https://www.zhihu.com/question/27704977",
+      "title": "高三时，你是靠什么坚持下来的？",
+      "link": "https://www.zhihu.com/question/1899875997106542068",
       "heat": "53 万热度"
     },
     {
       "rank": "30",
-      "title": "如何让天下第一门派一夜之间灭门？",
-      "link": "https://www.zhihu.com/question/1889965387564696258",
+      "title": "从你的经历来看，中国最宜居的城市或者地区是哪里？",
+      "link": "https://www.zhihu.com/question/1896488704979220461",
       "heat": "53 万热度"
     },
     {
       "rank": "31",
-      "title": "如何评价《崩坏：星穹铁道》本期 (5.12-6.23) 混沌回忆「彼岸之息」?",
-      "link": "https://www.zhihu.com/question/1905139372409480606",
+      "title": "突然停电，对电脑伤害大吗？",
+      "link": "https://www.zhihu.com/question/2178639737",
       "heat": "53 万热度"
     },
     {
       "rank": "32",
-      "title": "有孩子的家庭如何在装修时有效预防磕碰等风险，同时给孩子打造一个充满乐趣的成长空间？",
-      "link": "https://www.zhihu.com/question/14562426434",
+      "title": "如何看待老一辈人对心理健康问题的传统认知？",
+      "link": "https://www.zhihu.com/question/1891275841016661644",
       "heat": "53 万热度"
     },
     {
@@ -202,106 +202,106 @@
     },
     {
       "rank": "34",
-      "title": "想初尝苹果 Mac 电脑，纯体验，选 Macbook air 还是 pro？",
-      "link": "https://www.zhihu.com/question/653783963",
+      "title": "为什么人大多都难以完全客观地认识自己？",
+      "link": "https://www.zhihu.com/question/1901538655639696481",
       "heat": "53 万热度"
     },
     {
       "rank": "35",
-      "title": "很多 JRPG 游戏中的 Boss 都对异常状态免疫 (中毒，魅惑，眩晕等)，那么设计这些机制的意义是什么？",
-      "link": "https://www.zhihu.com/question/1903952925895689638",
+      "title": "东吴有榻上策，蜀汉有隆中对，那曹魏有什么呢？",
+      "link": "https://www.zhihu.com/question/15035018813",
       "heat": "53 万热度"
     },
     {
       "rank": "36",
-      "title": "如果是被动离职，后面找不到多好的工作，还可以回原来的公司吗？",
-      "link": "https://www.zhihu.com/question/1902637627057873654",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "高三时，你是靠什么坚持下来的？",
-      "link": "https://www.zhihu.com/question/1899875997106542068",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "从你的经历来看，中国最宜居的城市或者地区是哪里？",
-      "link": "https://www.zhihu.com/question/1896488704979220461",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "突然停电，对电脑伤害大吗？",
-      "link": "https://www.zhihu.com/question/2178639737",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "如何看待老一辈人对心理健康问题的传统认知？",
-      "link": "https://www.zhihu.com/question/1891275841016661644",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "41",
       "title": "普通玩家玩 RTS 游戏的爽快点是什么？",
       "link": "https://www.zhihu.com/question/1897263053659174884",
       "heat": "53 万热度"
     },
     {
-      "rank": "42",
-      "title": "减肥过程中是否需要运动？",
-      "link": "https://www.zhihu.com/question/14269319848",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "高三时的人际关系，真的是「多余」的吗？",
-      "link": "https://www.zhihu.com/question/1899875997131702566",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "44",
+      "rank": "37",
       "title": "童年时吃过的哪一款「面包」至今让你念念不忘？",
       "link": "https://www.zhihu.com/question/1896839967197619274",
       "heat": "53 万热度"
     },
     {
-      "rank": "45",
-      "title": "为什么现在的英语课，都不学音标了呢？",
-      "link": "https://www.zhihu.com/question/1889698261331329916",
+      "rank": "38",
+      "title": "辣椒明朝时才传入中国，那么明朝之前的四川人湖南人吃什么？",
+      "link": "https://www.zhihu.com/question/335637235",
       "heat": "53 万热度"
     },
     {
-      "rank": "46",
+      "rank": "39",
       "title": "有没有哪句台词，让你记住了整部电影 / 电视剧？",
       "link": "https://www.zhihu.com/question/590527384",
       "heat": "53 万热度"
     },
     {
-      "rank": "47",
+      "rank": "40",
       "title": "为什么许多游戏总是要费劲巴拉去做一套「天气系统」，一个好的天气系统会给游戏体验带来怎样的帮助？",
       "link": "https://www.zhihu.com/question/1898804875673991011",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
+      "rank": "41",
+      "title": "普通人使用 AI 工具时，在享受效率提升的同时，是否正在经历 「认知能力退化」？",
+      "link": "https://www.zhihu.com/question/1903064323431073443",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "为什么现在的英语课，都不学音标了呢？",
+      "link": "https://www.zhihu.com/question/1889698261331329916",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "43",
       "title": "「妈妈岗」灵活就业模式正在全国各地兴起，能带娃还能赚钱，你看好这种模式吗？还有哪些方面需要完善？",
       "link": "https://www.zhihu.com/question/1904956944860542426",
       "heat": "53 万热度"
     },
     {
-      "rank": "49",
+      "rank": "44",
+      "title": "先减肥减到一定重量之后再增肌，是不是一个好的规划？",
+      "link": "https://www.zhihu.com/question/1898526174944137276",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "亲人喜欢挑拨、刺激情绪，现实中根本无法远离，怎样才能让自己的情绪状态不受他人影响？",
+      "link": "https://www.zhihu.com/question/1894905616788608446",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "46",
       "title": "如何评价古装电视剧《淮水竹亭》的大结局？",
       "link": "https://www.zhihu.com/question/1904922776223056893",
       "heat": "53 万热度"
     },
     {
+      "rank": "47",
+      "title": "如何评价王钰栋最近 10 场中超进 8 球的表现？",
+      "link": "https://www.zhihu.com/question/1900486918677987349",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么阿根廷新一代领军球员劳塔罗一直在没落的意甲踢球?",
+      "link": "https://www.zhihu.com/question/1901758610893182078",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "为什么现在好多人都把《CS:GO》当做 FPS 游戏的标杆？",
+      "link": "https://www.zhihu.com/question/420314518",
+      "heat": "53 万热度"
+    },
+    {
       "rank": "50",
-      "title": "LPL 2025 赛季第二赛段组内赛 JDG 0:2 TES，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1905005568424379351",
+      "title": "强大的内心源于什么？",
+      "link": "https://www.zhihu.com/question/513712505",
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-05-13 06:44:16"
+  "generated_at": "2025-05-13 06:57:12"
 }
