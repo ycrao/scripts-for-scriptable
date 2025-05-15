@@ -33,10 +33,10 @@ for row in table.find('tbody').find_all('tr'):
     
     # Extract data from columns
     rank = cols[0].text.strip().rstrip('.')  # Remove trailing dot from rank
-    title_link = cols[1].find('a')
+    title_link = cols[2].find('a')
     title = title_link.text.strip()
     link = title_link['href']
-    heat = cols[2].text.strip()
+    heat = cols[2].find('div.item-desc').text.strip()
     
     # Check if the first column contains a date (for historical entries)
     date = None
