@@ -36,13 +36,9 @@ for row in table.find('tbody').find_all('tr'):
     title_link = cols[2].find('a')
     title = title_link.text.strip()
     link = title_link['href']
-    heat = cols[2].find('div.item-desc').text.strip()
-    
-    # Check if the first column contains a date (for historical entries)
-    date = None
-    if cols[0].get('width') == '80px':
-        date = cols[0].text.strip()
-        rank = None  # No rank for dated entries
+    # print(cols[2].select_one('div.item-desc').text.strip())
+    # print(cols[2].find('div', class_='item-desc').text.strip())
+    heat = cols[2].find('div', class_='item-desc').text.strip()
     
     # Create item dictionary
     item = {
