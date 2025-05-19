@@ -1,197 +1,197 @@
 {
-  "artifact_id": "83d13ea8-8ab7-4294-a9ca-a6bd282548a5",
+  "artifact_id": "7a3365bc-c807-4495-aa68-c43fb34d40a1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "陈奕迅发文报平安「复活后先吃肉」，此前歌手叶晓粤辟谣「陈奕迅因新冠去世」，造谣者将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1907719607806026889",
-      "heat": "1537 万热度"
+      "heat": "1363 万热度"
     },
     {
       "rank": "2",
       "title": "雷军称小米 SoC 芯片累计投入超 135 亿，这个投入在芯片领域算高吗？中国半导体供应链是否已非常成熟?",
       "link": "https://www.zhihu.com/question/1907808423749349410",
-      "heat": "550 万热度"
+      "heat": "556 万热度"
     },
     {
       "rank": "3",
       "title": "网传虞书欣父亲侵吞国有资产 15 亿、官商勾结，本人回应「已对造谣者提起诉讼」，造谣者将承担哪些责任？",
       "link": "https://www.zhihu.com/question/1907878299805378488",
-      "heat": "499 万热度"
+      "heat": "492 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待福耀科技大学校长王树国三问中国教育？",
       "link": "https://www.zhihu.com/question/1907236737752757749",
-      "heat": "350 万热度"
+      "heat": "343 万热度"
     },
     {
       "rank": "5",
       "title": "茅台股东大会招待晚宴改为自助餐，飞天茅台变蓝莓果汁，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1907820359668962038",
-      "heat": "285 万热度"
+      "heat": "283 万热度"
     },
     {
       "rank": "6",
       "title": "小米称网络黑公关案已告破，犯罪团伙操纵近万账号诋毁小米，如何看待此事？如何从法律角度解读？",
       "link": "https://www.zhihu.com/question/1907815026326206383",
-      "heat": "266 万热度"
+      "heat": "252 万热度"
     },
     {
       "rank": "7",
-      "title": "如何看待 MCN 机构商单分成只给「特厨隋卞」500 元？这个分成合适吗？业内一般是如何分账的？",
-      "link": "https://www.zhihu.com/question/1907547041992794439",
-      "heat": "248 万热度"
+      "title": "小米报案的网络黑公关案已告破，多名犯罪嫌疑人被采取刑事强制措施，这对新型网络水军犯罪有哪些打击作用？",
+      "link": "https://www.zhihu.com/question/1907811172452906361",
+      "heat": "222 万热度"
     },
     {
       "rank": "8",
-      "title": "小米报案的网络黑公关案已告破，多名犯罪嫌疑人被采取刑事强制措施，这对新型网络水军犯罪有哪些打击作用？",
-      "link": "https://www.zhihu.com/question/1907811172452906361",
-      "heat": "214 万热度"
+      "title": "越南总理呼吁「世界银行为北南高速铁路项目提供资金支持」，这将对越南的经济发展带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1906765170639868809",
+      "heat": "210 万热度"
     },
     {
       "rank": "9",
-      "title": "2025 多哈世乒赛混双第二轮，王楚钦孙颖莎 3-0 获胜晋级 16 强，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1907910334263554726",
-      "heat": "209 万热度"
+      "title": "澳洲野狗和中华田园犬很相似，它们之间有什么联系吗？",
+      "link": "https://www.zhihu.com/question/358296754",
+      "heat": "183 万热度"
     },
     {
       "rank": "10",
-      "title": "越南总理呼吁「世界银行为北南高速铁路项目提供资金支持」，这将对越南的经济发展带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1906765170639868809",
-      "heat": "208 万热度"
+      "title": "如何看待公务用车要求政府集中采购，且应当选用国产汽车，优选新能源？",
+      "link": "https://www.zhihu.com/question/1907580070404547885",
+      "heat": "182 万热度"
     },
     {
       "rank": "11",
       "title": "5 月 19 日发布的首款鸿蒙折叠电脑华为 MateBook Fold 非凡大师，有何亮点值得关注？",
       "link": "https://www.zhihu.com/question/1907762492056278687",
-      "heat": "199 万热度"
+      "heat": "179 万热度"
     },
     {
       "rank": "12",
       "title": "地方专项债收储土地规模爆发式增长，地方政府下场发债买地，能在多大程度上稳住房价？",
       "link": "https://www.zhihu.com/question/1907735925464721315",
-      "heat": "190 万热度"
+      "heat": "177 万热度"
     },
     {
       "rank": "13",
-      "title": "澳洲野狗和中华田园犬很相似，它们之间有什么联系吗？",
-      "link": "https://www.zhihu.com/question/358296754",
-      "heat": "186 万热度"
+      "title": "为什么给游戏充值，会有一单是「648」这么零碎的数，背后有什么设计原理？",
+      "link": "https://www.zhihu.com/question/1898804875795601287",
+      "heat": "148 万热度"
     },
     {
       "rank": "14",
-      "title": "如何看待公务用车要求政府集中采购，且应当选用国产汽车，优选新能源？",
-      "link": "https://www.zhihu.com/question/1907580070404547885",
-      "heat": "184 万热度"
+      "title": "2025 多哈世乒赛混双第二轮，王楚钦孙颖莎 3-0 获胜晋级 16 强，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1907910334263554726",
+      "heat": "145 万热度"
     },
     {
       "rank": "15",
-      "title": "为什么给游戏充值，会有一单是「648」这么零碎的数，背后有什么设计原理？",
-      "link": "https://www.zhihu.com/question/1898804875795601287",
-      "heat": "151 万热度"
+      "title": "为什么很多三四十岁的北京人都说「咱是一北京孩子」?",
+      "link": "https://www.zhihu.com/question/607280855",
+      "heat": "117 万热度"
     },
     {
       "rank": "16",
-      "title": "人在什么情况下成长的最快？",
-      "link": "https://www.zhihu.com/question/552521991",
-      "heat": "131 万热度"
+      "title": "「朱雀玄武敕令」成功改名为「周乔治华盛顿」，后续可能再次改名，我国法律对起名和改名的相关规定是怎样的？",
+      "link": "https://www.zhihu.com/question/1906673716588406382",
+      "heat": "114 万热度"
     },
     {
       "rank": "17",
-      "title": "为什么很多三四十岁的北京人都说「咱是一北京孩子」?",
-      "link": "https://www.zhihu.com/question/607280855",
-      "heat": "129 万热度"
+      "title": "为什么香港会有英国法官？",
+      "link": "https://www.zhihu.com/question/55974330",
+      "heat": "109 万热度"
     },
     {
       "rank": "18",
-      "title": "为什么其他动物幼崽都抢着吃饭，唯独人类幼崽需要求着哄着才吃饭？",
-      "link": "https://www.zhihu.com/question/620889402",
-      "heat": "127 万热度"
+      "title": "网友自曝在上海公园放生外来物种美国牛蛙，这是一种怎样的生物？会对生态环境造成影响吗？",
+      "link": "https://www.zhihu.com/question/1906800693433561808",
+      "heat": "108 万热度"
     },
     {
       "rank": "19",
-      "title": "「朱雀玄武敕令」成功改名为「周乔治华盛顿」，后续可能再次改名，我国法律对起名和改名的相关规定是怎样的？",
-      "link": "https://www.zhihu.com/question/1906673716588406382",
-      "heat": "116 万热度"
+      "title": "为什么现在很多人都以「抽象、疯癫、自我贬低」等方式来表达乐观幽默？",
+      "link": "https://www.zhihu.com/question/1906286432194101286",
+      "heat": "103 万热度"
     },
     {
       "rank": "20",
-      "title": "网友自曝在上海公园放生外来物种美国牛蛙，这是一种怎样的生物？会对生态环境造成影响吗？",
-      "link": "https://www.zhihu.com/question/1906800693433561808",
-      "heat": "109 万热度"
+      "title": "为什么其他动物幼崽都抢着吃饭，唯独人类幼崽需要求着哄着才吃饭？",
+      "link": "https://www.zhihu.com/question/620889402",
+      "heat": "101 万热度"
     },
     {
       "rank": "21",
       "title": "如何看待小米将于 5 月 22 日发布 3nm 自研芯片「玄戒 O1 」？预计性能表现怎样？",
       "link": "https://www.zhihu.com/question/1907770078377779240",
-      "heat": "108 万热度"
+      "heat": "95 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么香港会有英国法官？",
-      "link": "https://www.zhihu.com/question/55974330",
-      "heat": "107 万热度"
+      "title": "美国丧失最后一个 3A 评级，白宫回应这是针对特朗普，如何解读，对美国经济有何影响？",
+      "link": "https://www.zhihu.com/question/1907129622153393691",
+      "heat": "90 万热度"
     },
     {
       "rank": "23",
-      "title": "为什么现在很多人都以「抽象、疯癫、自我贬低」等方式来表达乐观幽默？",
-      "link": "https://www.zhihu.com/question/1906286432194101286",
-      "heat": "104 万热度"
+      "title": "人在什么情况下成长的最快？",
+      "link": "https://www.zhihu.com/question/552521991",
+      "heat": "86 万热度"
     },
     {
       "rank": "24",
       "title": "林志炫时隔 12 年再上《歌手》，第一期演唱的《悟空》遭差评险些淘汰，是选歌问题还是真的年纪大了？",
       "link": "https://www.zhihu.com/question/1907060349305320049",
-      "heat": "99 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "美国丧失最后一个 3A 评级，白宫回应这是针对特朗普，如何解读，对美国经济有何影响？",
-      "link": "https://www.zhihu.com/question/1907129622153393691",
-      "heat": "89 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "为什么木叶会允许玖辛奈怀孕生子？",
-      "link": "https://www.zhihu.com/question/634407803",
       "heat": "80 万热度"
     },
     {
-      "rank": "27",
+      "rank": "25",
+      "title": "为什么木叶会允许玖辛奈怀孕生子？",
+      "link": "https://www.zhihu.com/question/634407803",
+      "heat": "79 万热度"
+    },
+    {
+      "rank": "26",
       "title": "成都春熙路巨型 3D 蛇广告太逼真引争议，网友称对恐蛇人士不友好，你怎么看？怎样平衡不同人群的接受度？",
       "link": "https://www.zhihu.com/question/1907208859002560536",
       "heat": "78 万热度"
     },
     {
-      "rank": "28",
+      "rank": "27",
       "title": "如何评价游戏《绝地潜兵 2》?",
       "link": "https://www.zhihu.com/question/645307391",
       "heat": "71 万热度"
     },
     {
-      "rank": "29",
+      "rank": "28",
       "title": "如何向 10 岁孩子解释土是什么？为什么世界上有土？",
       "link": "https://www.zhihu.com/question/1891606018401752211",
       "heat": "70 万热度"
     },
     {
-      "rank": "30",
+      "rank": "29",
       "title": "地库这么凉快为什么不把冷气吸上来制冷?",
       "link": "https://www.zhihu.com/question/612815164",
-      "heat": "65 万热度"
+      "heat": "61 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "如果博物馆展品会在半夜「活过来」，它们会聊什么？",
       "link": "https://www.zhihu.com/question/1896581012043052902",
       "heat": "60 万热度"
     },
     {
-      "rank": "32",
+      "rank": "31",
       "title": "微软在裁员声明中提到其明确目标之一是「通过减少管理者来精简层级」。裁员是先裁管理者还是先裁新员工呢？",
       "link": "https://www.zhihu.com/question/1907028197205316630",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "文学史上，有哪些优秀的女诗人，她们留下了哪些作品？",
+      "link": "https://www.zhihu.com/question/1905634174435554149",
       "heat": "59 万热度"
     },
     {
@@ -226,14 +226,14 @@
     },
     {
       "rank": "38",
-      "title": "文学史上，有哪些优秀的女诗人，她们留下了哪些作品？",
-      "link": "https://www.zhihu.com/question/1905634174435554149",
+      "title": "如何让年迈的老人有尊严地度过晚年？",
+      "link": "https://www.zhihu.com/question/291174788",
       "heat": "59 万热度"
     },
     {
       "rank": "39",
-      "title": "如何让年迈的老人有尊严地度过晚年？",
-      "link": "https://www.zhihu.com/question/291174788",
+      "title": "为什么美国的体育联赛发展出来季后赛制，例如 NBA，而欧洲的体育联赛发展出了升降级制，如欧洲五大联赛？",
+      "link": "https://www.zhihu.com/question/21457092",
       "heat": "59 万热度"
     },
     {
@@ -256,8 +256,8 @@
     },
     {
       "rank": "43",
-      "title": "为什么美国的体育联赛发展出来季后赛制，例如 NBA，而欧洲的体育联赛发展出了升降级制，如欧洲五大联赛？",
-      "link": "https://www.zhihu.com/question/21457092",
+      "title": "如何看待 MCN 机构商单分成只给「特厨隋卞」500 元？这个分成合适吗？业内一般是如何分账的？",
+      "link": "https://www.zhihu.com/question/1907547041992794439",
       "heat": "59 万热度"
     },
     {
@@ -270,7 +270,7 @@
       "rank": "45",
       "title": "多哈世乒赛，陈幸同 / 钱天一 2-3 不敌德国组合温特 / 万远，止步 32 强，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1907883804112183373",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "46",
@@ -303,5 +303,5 @@
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-05-20 02:56:24"
+  "generated_at": "2025-05-20 03:21:25"
 }
