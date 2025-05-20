@@ -1,65 +1,65 @@
 {
-  "artifact_id": "f7be1bf5-4f9c-42b9-b4d4-c1cc4723b731",
+  "artifact_id": "0f095371-e935-400b-90d9-d2a6f29719fc",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待「特厨隋卞」账号发布的新视频《回应一下网友的质疑》?",
       "link": "https://www.zhihu.com/question/1907900421126747019",
-      "heat": "671 万热度"
+      "heat": "691 万热度"
     },
     {
       "rank": "2",
       "title": "北京地铁为什么废除左行右立？",
       "link": "https://www.zhihu.com/question/641143391",
-      "heat": "139 万热度"
+      "heat": "166 万热度"
     },
     {
       "rank": "3",
-      "title": "年内首次存款利率下调启动，1 年期下破 1％，3 年期、 5 年期均下调 0.25 个百分点，如何解读？",
-      "link": "https://www.zhihu.com/question/1908079213141038811",
-      "heat": "103 万热度"
-    },
-    {
-      "rank": "4",
       "title": "24 岁女生上课突发脑出血，症状竟是不会说英语了，普通话粤语都能说，这是怎么回事？怎样从医学角度解读？",
       "link": "https://www.zhihu.com/question/1907710315791085827",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "5",
-      "title": "服装从业者称「电商 90% 衣服连 20 年前的都不如」，该观点有道理吗？为啥现在很难买到心仪衣服了？",
-      "link": "https://www.zhihu.com/question/1905949176040220633",
       "heat": "79 万热度"
     },
     {
-      "rank": "6",
+      "rank": "4",
+      "title": "服装从业者称「电商 90% 衣服连 20 年前的都不如」，该观点有道理吗？为啥现在很难买到心仪衣服了？",
+      "link": "https://www.zhihu.com/question/1905949176040220633",
+      "heat": "69 万热度"
+    },
+    {
+      "rank": "5",
       "title": "《我不是药神》最后程勇出狱的时候为什么牧师和思慧没有来？",
       "link": "https://www.zhihu.com/question/284603128",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "6",
+      "title": "姜文执导电影《英雄出少年》定档 7 月 15 日，你期待这部作品会带来怎样的突破？",
+      "link": "https://www.zhihu.com/question/1907370418253309346",
       "heat": "56 万热度"
     },
     {
       "rank": "7",
       "title": "2025 年多哈世乒赛男单第三轮，林高远 2:4 不敌西蒙高茨止步 32 强，怎么评价这一场比赛？",
       "link": "https://www.zhihu.com/question/1908301641469396566",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "8",
-      "title": "姜文执导电影《英雄出少年》定档 7 月 15 日，你期待这部作品会带来怎样的突破？",
-      "link": "https://www.zhihu.com/question/1907370418253309346",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "9",
       "title": "林志炫时隔 12 年再上《歌手》，第一期演唱的《悟空》遭差评险些淘汰，是选歌问题还是真的年纪大了？",
       "link": "https://www.zhihu.com/question/1907060349305320049",
       "heat": "55 万热度"
     },
     {
-      "rank": "10",
+      "rank": "9",
       "title": "如果全国每人都领到 1 块钱，是否等同于大家都没有领到 1 块钱？",
       "link": "https://www.zhihu.com/question/1906609772683301425",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "郑晓龙在《甄嬛传》播出 14 年后，再导古装剧《藏海传》，是否能再创辉煌成为爆款？",
+      "link": "https://www.zhihu.com/question/1905962385497367332",
       "heat": "55 万热度"
     },
     {
@@ -76,38 +76,38 @@
     },
     {
       "rank": "13",
-      "title": "成都春熙路巨型 3D 蛇广告太逼真引争议，网友称对恐蛇人士不友好，你怎么看？怎样平衡不同人群的接受度？",
-      "link": "https://www.zhihu.com/question/1907208859002560536",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "14",
-      "title": "郑晓龙在《甄嬛传》播出 14 年后，再导古装剧《藏海传》，是否能再创辉煌成为爆款？",
-      "link": "https://www.zhihu.com/question/1905962385497367332",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "15",
       "title": "《奋斗》里陆涛为什么选择夏琳而不是米莱？",
       "link": "https://www.zhihu.com/question/23379248",
       "heat": "55 万热度"
     },
     {
+      "rank": "14",
+      "title": "高考不足一个月，商家开始突击赚钱，DeepSeek 押题成新商机，算法押题靠谱吗？是新神器还是纯噱头？",
+      "link": "https://www.zhihu.com/question/1905703343482971166",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "如何看待网传清华大学姚班 2025 届延毕 20 人？",
+      "link": "https://www.zhihu.com/question/1907034124394422305",
+      "heat": "54 万热度"
+    },
+    {
       "rank": "16",
       "title": "胖东来创始人称非常想脱离胖东来，没有于东来的胖东来还能这么火吗？他的财产传承方式为何惊世骇俗？",
       "link": "https://www.zhihu.com/question/1907912492836974768",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "17",
-      "title": "美国前总统拜登被确诊患恶性前列腺癌，癌细胞扩散至骨骼，前列腺癌严重吗？该怎样治疗？为何此前体检没发现？",
-      "link": "https://www.zhihu.com/question/1907670425544131899",
-      "heat": "55 万热度"
+      "title": "如果《绝地潜兵 2》的宇宙与《战锤 40k》的宇宙融合，帝国与联邦双方会发生什么交集和可能互动？",
+      "link": "https://www.zhihu.com/question/1907572957309563551",
+      "heat": "54 万热度"
     },
     {
       "rank": "18",
-      "title": "有没有发现现在的《原神》演出动作越来越多了?",
-      "link": "https://www.zhihu.com/question/1907226551835165023",
+      "title": "如何看待《毁灭战士：黑暗时代》好评率上升至 83%？",
+      "link": "https://www.zhihu.com/question/1905693371487465743",
       "heat": "54 万热度"
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "rank": "20",
-      "title": "作为一个企业 / 公司的管理者，怎样做才能防止公司的人被已离职的人带走？",
-      "link": "https://www.zhihu.com/question/13961719992",
+      "title": "《海贼王》在自然系太强时加入了霸气这个补丁，事后看霸气是一个很失败的补丁，那么你觉得补丁应该如何设计?",
+      "link": "https://www.zhihu.com/question/1903910386987701085",
       "heat": "54 万热度"
     },
     {
@@ -130,56 +130,56 @@
     },
     {
       "rank": "22",
-      "title": "为什么木叶会允许玖辛奈怀孕生子？",
-      "link": "https://www.zhihu.com/question/634407803",
+      "title": "职场中敢于「质疑权威」的能力应该如何养成？怎样从心理上做好心态建设？",
+      "link": "https://www.zhihu.com/question/1907790729754932278",
       "heat": "54 万热度"
     },
     {
       "rank": "23",
-      "title": "上班时忘记拉裤子的拉链，领导当着其他同事的面大声提醒我，该感谢领导还是恨领导？",
-      "link": "https://www.zhihu.com/question/1905726791970170294",
+      "title": "如何找到自己真实的欲望？",
+      "link": "https://www.zhihu.com/question/1890416720855953758",
       "heat": "54 万热度"
     },
     {
       "rank": "24",
-      "title": "网友自曝在上海公园放生外来物种美国牛蛙，这是一种怎样的生物？会对生态环境造成影响吗？",
-      "link": "https://www.zhihu.com/question/1906800693433561808",
+      "title": "读博是不是「赌博」？",
+      "link": "https://www.zhihu.com/question/1904215056671023483",
       "heat": "54 万热度"
     },
     {
       "rank": "25",
-      "title": "从「假努力」到「高效科研」，你的科研秘诀是什么？",
-      "link": "https://www.zhihu.com/question/1905306885285974640",
+      "title": "没带过团队，想应聘管理岗，怎么办？",
+      "link": "https://www.zhihu.com/question/438187876",
       "heat": "54 万热度"
     },
     {
       "rank": "26",
-      "title": "男子喝酒怕家人发现，多次从 30 楼扔下酒瓶，涉嫌高空抛物罪已被刑拘，该男子可能承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1907803213287100886",
+      "title": "准研究生目前只接触过「知网」担心输在起跑线怎么办？",
+      "link": "https://www.zhihu.com/question/1905306885285979937",
       "heat": "54 万热度"
     },
     {
       "rank": "27",
-      "title": "文学史上，有哪些优秀的女诗人，她们留下了哪些作品？",
-      "link": "https://www.zhihu.com/question/1905634174435554149",
+      "title": "近几年博物馆「一票难求」，你都看过哪些「不虚此行」的爆款展览？",
+      "link": "https://www.zhihu.com/question/1906435531606299330",
       "heat": "54 万热度"
     },
     {
       "rank": "28",
-      "title": "为什么很多三四十岁的北京人都说「咱是一北京孩子」?",
-      "link": "https://www.zhihu.com/question/607280855",
+      "title": "小米 15 周年战略新品发布会定档 5 月 22 日，有哪些内容值得期待？",
+      "link": "https://www.zhihu.com/question/1907746767082058879",
       "heat": "54 万热度"
     },
     {
       "rank": "29",
-      "title": "中规中矩的孩子与敢于打破规矩的孩子，哪一种更受当今时代的欢迎？",
-      "link": "https://www.zhihu.com/question/1906719257028453061",
+      "title": "为什么现在的年轻人都想跨界？",
+      "link": "https://www.zhihu.com/question/1902430364686881970",
       "heat": "54 万热度"
     },
     {
       "rank": "30",
-      "title": "情绪性进食怎么缓解？",
-      "link": "https://www.zhihu.com/question/1905054804478263686",
+      "title": "有谁能直观的告诉我考公难度有多大？",
+      "link": "https://www.zhihu.com/question/1899818361778601998",
       "heat": "54 万热度"
     },
     {
@@ -232,76 +232,76 @@
     },
     {
       "rank": "39",
+      "title": "5 月 19 日发布的首款鸿蒙折叠电脑华为 MateBook Fold 非凡大师，有何亮点值得关注？",
+      "link": "https://www.zhihu.com/question/1907762492056278687",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "40",
       "title": "什么产品美国人经常会使用，每家每户都有需求，但是中国人不知道的？",
       "link": "https://www.zhihu.com/question/14033867754",
       "heat": "54 万热度"
     },
     {
-      "rank": "40",
-      "title": "鱼腥草，臭豆腐，榴莲，你能接受哪个？",
-      "link": "https://www.zhihu.com/question/1886289603725594630",
-      "heat": "54 万热度"
-    },
-    {
       "rank": "41",
-      "title": "下属的做事风格和工作理念与我不相符，没有绩效管理权，分配工作下属不配合怎么办？",
-      "link": "https://www.zhihu.com/question/1906593621534291658",
+      "title": "微软在裁员声明中提到其明确目标之一是「通过减少管理者来精简层级」。裁员是先裁管理者还是先裁新员工呢？",
+      "link": "https://www.zhihu.com/question/1907028197205316630",
       "heat": "54 万热度"
     },
     {
       "rank": "42",
-      "title": "高三了，关于人际方面、成绩方面都内耗很严重，有解决办法吗？高中毕业后会好吗？",
-      "link": "https://www.zhihu.com/question/11441537701",
+      "title": "用一个非常强的定理证明一个很弱的结论是怎么样的?",
+      "link": "https://www.zhihu.com/question/1888655162769391726",
       "heat": "54 万热度"
     },
     {
       "rank": "43",
-      "title": "如何评价美剧《最后生还者》第二季第六集？",
-      "link": "https://www.zhihu.com/question/1907749781725472457",
+      "title": "假如你获得了可以瞬间求解任何偏微分方程的能力，你会做什么？",
+      "link": "https://www.zhihu.com/question/1906085115844629193",
       "heat": "54 万热度"
     },
     {
       "rank": "44",
-      "title": "40 岁的宋远桥打不过金毛狮王，而张三丰又是天下第一高手，所以张三丰传授武艺的水平是不是很差 ？",
-      "link": "https://www.zhihu.com/question/1908107134413018691",
+      "title": "孩子对自己要求很高，一做不好就会发脾气，怎么帮助孩子改善这种心理？",
+      "link": "https://www.zhihu.com/question/1907198223036163454",
       "heat": "54 万热度"
     },
     {
       "rank": "45",
+      "title": "618 买扫地机，自清洁、避障能力、滚刷技术等各种功能优先级要怎么排？",
+      "link": "https://www.zhihu.com/question/1905289855707088134",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "对于游戏策划来说，该如何解决长线游戏的数值膨胀问题，又能让用户持续保持粘性？",
+      "link": "https://www.zhihu.com/question/1898804875652998832",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何看待 MCN 机构商单分成只给「特厨隋卞」500 元？这个分成合适吗？业内一般是如何分账的？",
+      "link": "https://www.zhihu.com/question/1907547041992794439",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "48",
       "title": "如何看待福耀科技大学校长王树国三问中国教育？",
       "link": "https://www.zhihu.com/question/1907236737752757749",
       "heat": "54 万热度"
     },
     {
-      "rank": "46",
-      "title": "如何快速分辨出一个人是否善良？",
-      "link": "https://www.zhihu.com/question/511919341",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "澳洲野狗和中华田园犬很相似，它们之间有什么联系吗？",
-      "link": "https://www.zhihu.com/question/358296754",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "生吃生蚝是什么味道?",
-      "link": "https://www.zhihu.com/question/316684190",
-      "heat": "54 万热度"
-    },
-    {
       "rank": "49",
-      "title": "刘备是怎么做到三顾茅庐而让诸葛亮觉得他不烦人的？",
-      "link": "https://www.zhihu.com/question/660460337",
+      "title": "如何让年迈的老人有尊严地度过晚年？",
+      "link": "https://www.zhihu.com/question/291174788",
       "heat": "54 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么「第六代导演」之后，业内好像不怎么称第几代导演了？现在导演这行还有「代际特征」吗?",
-      "link": "https://www.zhihu.com/question/11755122164",
+      "title": "目前公认的 JOJO 中最强的替身是哪个？",
+      "link": "https://www.zhihu.com/question/373441238",
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-05-21 06:56:43"
+  "generated_at": "2025-05-21 07:24:21"
 }
