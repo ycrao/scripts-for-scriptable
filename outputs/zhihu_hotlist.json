@@ -1,65 +1,65 @@
 {
-  "artifact_id": "279aa70d-7dca-48e0-92fc-95a70c5bfb0d",
+  "artifact_id": "b8614749-b257-4843-b9dd-02187c9deebf",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待「特厨隋卞」账号发布的新视频《回应一下网友的质疑》?",
       "link": "https://www.zhihu.com/question/1907900421126747019",
-      "heat": "745 万热度"
+      "heat": "719 万热度"
     },
     {
       "rank": "2",
       "title": "年内首次存款利率下调启动，1 年期下破 1％，3 年期、 5 年期均下调 0.25 个百分点，如何解读？",
       "link": "https://www.zhihu.com/question/1908079213141038811",
-      "heat": "418 万热度"
+      "heat": "332 万热度"
     },
     {
       "rank": "3",
       "title": "24 岁女生上课突发脑出血，症状竟是不会说英语了，普通话粤语都能说，这是怎么回事？怎样从医学角度解读？",
       "link": "https://www.zhihu.com/question/1907710315791085827",
-      "heat": "138 万热度"
+      "heat": "127 万热度"
     },
     {
       "rank": "4",
-      "title": "服装从业者称「电商 90% 衣服连 20 年前的都不如」，该观点有道理吗？为啥现在很难买到心仪衣服了？",
-      "link": "https://www.zhihu.com/question/1905949176040220633",
-      "heat": "122 万热度"
-    },
-    {
-      "rank": "5",
       "title": "北京地铁为什么废除左行右立？",
       "link": "https://www.zhihu.com/question/641143391",
       "heat": "116 万热度"
     },
     {
+      "rank": "5",
+      "title": "服装从业者称「电商 90% 衣服连 20 年前的都不如」，该观点有道理吗？为啥现在很难买到心仪衣服了？",
+      "link": "https://www.zhihu.com/question/1905949176040220633",
+      "heat": "113 万热度"
+    },
+    {
       "rank": "6",
-      "title": "2025 年多哈世乒赛男单第三轮，林高远 2:4 不敌西蒙高茨止步 32 强，怎么评价这一场比赛？",
-      "link": "https://www.zhihu.com/question/1908301641469396566",
-      "heat": "59 万热度"
+      "title": "《我不是药神》最后程勇出狱的时候为什么牧师和思慧没有来？",
+      "link": "https://www.zhihu.com/question/284603128",
+      "heat": "57 万热度"
     },
     {
       "rank": "7",
-      "title": "如何评价美剧《最后生还者》第二季第六集？",
-      "link": "https://www.zhihu.com/question/1907749781725472457",
-      "heat": "58 万热度"
+      "title": "2025 年多哈世乒赛男单第三轮，林高远 2:4 不敌西蒙高茨止步 32 强，怎么评价这一场比赛？",
+      "link": "https://www.zhihu.com/question/1908301641469396566",
+      "heat": "57 万热度"
     },
     {
       "rank": "8",
-      "title": "姜文执导电影《英雄出少年》定档 7 月 15 日，你期待这部作品会带来怎样的突破？",
-      "link": "https://www.zhihu.com/question/1907370418253309346",
-      "heat": "58 万热度"
+      "title": "小米 15 周年战略新品发布会定档 5 月 22 日，有哪些内容值得期待？",
+      "link": "https://www.zhihu.com/question/1907746767082058879",
+      "heat": "57 万热度"
     },
     {
       "rank": "9",
-      "title": "生吃生蚝是什么味道?",
-      "link": "https://www.zhihu.com/question/316684190",
+      "title": "如果全国每人都领到 1 块钱，是否等同于大家都没有领到 1 块钱？",
+      "link": "https://www.zhihu.com/question/1906609772683301425",
       "heat": "57 万热度"
     },
     {
       "rank": "10",
-      "title": "《我不是药神》最后程勇出狱的时候为什么牧师和思慧没有来？",
-      "link": "https://www.zhihu.com/question/284603128",
+      "title": "姜文执导电影《英雄出少年》定档 7 月 15 日，你期待这部作品会带来怎样的突破？",
+      "link": "https://www.zhihu.com/question/1907370418253309346",
       "heat": "57 万热度"
     },
     {
@@ -76,39 +76,39 @@
     },
     {
       "rank": "13",
-      "title": "小米 15 周年战略新品发布会定档 5 月 22 日，有哪些内容值得期待？",
-      "link": "https://www.zhihu.com/question/1907746767082058879",
+      "title": "生吃生蚝是什么味道?",
+      "link": "https://www.zhihu.com/question/316684190",
       "heat": "57 万热度"
     },
     {
       "rank": "14",
-      "title": "如果全国每人都领到 1 块钱，是否等同于大家都没有领到 1 块钱？",
-      "link": "https://www.zhihu.com/question/1906609772683301425",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "15",
       "title": "职场中敢于「质疑权威」的能力应该如何养成？怎样从心理上做好心态建设？",
       "link": "https://www.zhihu.com/question/1907790729754932278",
       "heat": "57 万热度"
     },
     {
+      "rank": "15",
+      "title": "作为一个企业 / 公司的管理者，怎样做才能防止公司的人被已离职的人带走？",
+      "link": "https://www.zhihu.com/question/13961719992",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "16",
       "title": "胖东来创始人称非常想脱离胖东来，没有于东来的胖东来还能这么火吗？他的财产传承方式为何惊世骇俗？",
       "link": "https://www.zhihu.com/question/1907912492836974768",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "17",
-      "title": "郑晓龙在《甄嬛传》播出 14 年后，再导古装剧《藏海传》，是否能再创辉煌成为爆款？",
-      "link": "https://www.zhihu.com/question/1905962385497367332",
-      "heat": "57 万热度"
+      "title": "有谁能直观的告诉我考公难度有多大？",
+      "link": "https://www.zhihu.com/question/1899818361778601998",
+      "heat": "56 万热度"
     },
     {
       "rank": "18",
-      "title": "作为一个企业 / 公司的管理者，怎样做才能防止公司的人被已离职的人带走？",
-      "link": "https://www.zhihu.com/question/13961719992",
-      "heat": "57 万热度"
+      "title": "郑晓龙在《甄嬛传》播出 14 年后，再导古装剧《藏海传》，是否能再创辉煌成为爆款？",
+      "link": "https://www.zhihu.com/question/1905962385497367332",
+      "heat": "56 万热度"
     },
     {
       "rank": "19",
@@ -118,8 +118,8 @@
     },
     {
       "rank": "20",
-      "title": "有谁能直观的告诉我考公难度有多大？",
-      "link": "https://www.zhihu.com/question/1899818361778601998",
+      "title": "如何评价美剧《最后生还者》第二季第六集？",
+      "link": "https://www.zhihu.com/question/1907749781725472457",
       "heat": "56 万热度"
     },
     {
@@ -160,26 +160,26 @@
     },
     {
       "rank": "27",
-      "title": "美国前总统拜登被确诊患恶性前列腺癌，癌细胞扩散至骨骼，前列腺癌严重吗？该怎样治疗？为何此前体检没发现？",
-      "link": "https://www.zhihu.com/question/1907670425544131899",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "28",
       "title": "微软在裁员声明中提到其明确目标之一是「通过减少管理者来精简层级」。裁员是先裁管理者还是先裁新员工呢？",
       "link": "https://www.zhihu.com/question/1907028197205316630",
       "heat": "55 万热度"
     },
     {
-      "rank": "29",
+      "rank": "28",
       "title": "如何看待《毁灭战士：黑暗时代》好评率上升至 83%？",
       "link": "https://www.zhihu.com/question/1905693371487465743",
       "heat": "55 万热度"
     },
     {
-      "rank": "30",
+      "rank": "29",
       "title": "《海贼王》在自然系太强时加入了霸气这个补丁，事后看霸气是一个很失败的补丁，那么你觉得补丁应该如何设计?",
       "link": "https://www.zhihu.com/question/1903910386987701085",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "美国前总统拜登被确诊患恶性前列腺癌，癌细胞扩散至骨骼，前列腺癌严重吗？该怎样治疗？为何此前体检没发现？",
+      "link": "https://www.zhihu.com/question/1907670425544131899",
       "heat": "55 万热度"
     },
     {
@@ -256,14 +256,14 @@
     },
     {
       "rank": "43",
-      "title": "为什么很多三四十岁的北京人都说「咱是一北京孩子」?",
-      "link": "https://www.zhihu.com/question/607280855",
+      "title": "自来也为什么会被佩恩杀死？",
+      "link": "https://www.zhihu.com/question/484339253",
       "heat": "55 万热度"
     },
     {
       "rank": "44",
-      "title": "自来也为什么会被佩恩杀死？",
-      "link": "https://www.zhihu.com/question/484339253",
+      "title": "为什么很多三四十岁的北京人都说「咱是一北京孩子」?",
+      "link": "https://www.zhihu.com/question/607280855",
       "heat": "55 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-05-21 04:45:33"
+  "generated_at": "2025-05-21 05:22:46"
 }
