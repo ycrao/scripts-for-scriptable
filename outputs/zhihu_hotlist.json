@@ -1,120 +1,120 @@
 {
-  "artifact_id": "3913bb1c-e38b-4b6e-92b8-3c7e5407ff7d",
+  "artifact_id": "66a9eae6-1409-4c81-af80-530147d0612e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "朝鲜新建驱逐舰下水过程发生严重事故，具体是怎么回事？对朝鲜海军影响有多大？",
       "link": "https://www.zhihu.com/question/1908801067422021027",
-      "heat": "3848 万热度"
+      "heat": "4350 万热度"
     },
     {
       "rank": "2",
       "title": "黄仁勋称英伟达在华市占率从 95% 暴跌至 50%，背后原因是什么？中国市场对英伟达意味着什么？",
       "link": "https://www.zhihu.com/question/1908602057188930599",
-      "heat": "476 万热度"
+      "heat": "513 万热度"
     },
     {
       "rank": "3",
       "title": "《是，大臣》中，汉弗莱为什么拼命维护那个没有医生和病人，却有 500 个行政人员的医院？",
       "link": "https://www.zhihu.com/question/508648117",
-      "heat": "417 万热度"
+      "heat": "469 万热度"
     },
     {
       "rank": "4",
-      "title": "网友倒卖蜜雪冰城柠檬水 3.5 小时赚 254 元，商家称正在核实，法律角度如何看待这种倒卖行为？",
-      "link": "https://www.zhihu.com/question/1908551972103087228",
-      "heat": "397 万热度"
+      "title": "如何评价 2025 年 520 单日电影票房仅有 4338 万，远低于 2023 年和 2024 年？",
+      "link": "https://www.zhihu.com/question/1908434961305933692",
+      "heat": "317 万热度"
     },
     {
       "rank": "5",
-      "title": "如何评价 2025 年 520 单日电影票房仅有 4338 万，远低于 2023 年和 2024 年？",
-      "link": "https://www.zhihu.com/question/1908434961305933692",
-      "heat": "280 万热度"
+      "title": "多家股份银行下调存款挂牌利率，活期存款已接近 0 利率，将产生哪些影响？钱该怎么存？",
+      "link": "https://www.zhihu.com/question/1908666198675133355",
+      "heat": "298 万热度"
     },
     {
       "rank": "6",
       "title": "吴奇隆刘诗诗再被曝离婚，两人已无共同关联公司，事件真相是什么？为什么他们总是被传离婚？",
       "link": "https://www.zhihu.com/question/1908482306626282993",
-      "heat": "262 万热度"
+      "heat": "254 万热度"
     },
     {
       "rank": "7",
-      "title": "多家股份银行下调存款挂牌利率，活期存款已接近 0 利率，将产生哪些影响？钱该怎么存？",
-      "link": "https://www.zhihu.com/question/1908666198675133355",
-      "heat": "244 万热度"
+      "title": "网友倒卖蜜雪冰城柠檬水 3.5 小时赚 254 元，商家称正在核实，法律角度如何看待这种倒卖行为？",
+      "link": "https://www.zhihu.com/question/1908551972103087228",
+      "heat": "210 万热度"
     },
     {
       "rank": "8",
-      "title": "热刺 1-0 曼联夺欧联冠军，打破 17 年冠军荒，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1908481784640963192",
-      "heat": "185 万热度"
+      "title": "《疯狂动物城 2》发布首支预告片，从中你能发现什么信息？你对该影片都有哪些期待？",
+      "link": "https://www.zhihu.com/question/1908230322535010423",
+      "heat": "193 万热度"
     },
     {
       "rank": "9",
-      "title": "印度为阵风战机换装国产导弹，印度空军称米卡导弹难以满足现代作战需求，这种混搭模式是否会加剧后勤混乱？",
-      "link": "https://www.zhihu.com/question/1908208295312856578",
-      "heat": "183 万热度"
+      "title": "英雄联盟派克这种抢人头辅助存在的意义是什么?",
+      "link": "https://www.zhihu.com/question/1906954980168020368",
+      "heat": "180 万热度"
     },
     {
       "rank": "10",
-      "title": "《疯狂动物城 2》发布首支预告片，从中你能发现什么信息？你对该影片都有哪些期待？",
-      "link": "https://www.zhihu.com/question/1908230322535010423",
-      "heat": "173 万热度"
+      "title": "球员亚历山大当选 2024-25 赛季常规赛 MVP，如何评价这赛季他的表现？",
+      "link": "https://www.zhihu.com/question/1908785170061952033",
+      "heat": "110 万热度"
     },
     {
       "rank": "11",
-      "title": "英雄联盟派克这种抢人头辅助存在的意义是什么?",
-      "link": "https://www.zhihu.com/question/1906954980168020368",
-      "heat": "168 万热度"
+      "title": "张本智和 1-4 不敌户上隼辅，无缘世乒赛男单 16 强，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1908681109560096160",
+      "heat": "104 万热度"
     },
     {
       "rank": "12",
-      "title": "张本智和 1-4 不敌户上隼辅，无缘世乒赛男单 16 强，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1908681109560096160",
-      "heat": "159 万热度"
+      "title": "为什么射击游戏通常会把步枪设定成最强枪型？",
+      "link": "https://www.zhihu.com/question/1906143711139717979",
+      "heat": "91 万热度"
     },
     {
       "rank": "13",
-      "title": "据 ESPN 记者 Shams 报道，球员亚历山大当选 2024-25 赛季常规赛 MVP，如何评价这赛季他的表现？",
-      "link": "https://www.zhihu.com/question/1908785170061952033",
-      "heat": "93 万热度"
+      "title": "如何评价 2025 年 5 月 22 日步行者 138：135 尼克斯东决 G1 的比赛，步行者神奇将比赛拖入加时并取胜？",
+      "link": "https://www.zhihu.com/question/1908825484034315792",
+      "heat": "88 万热度"
     },
     {
       "rank": "14",
-      "title": "为什么射击游戏通常会把步枪设定成最强枪型？",
-      "link": "https://www.zhihu.com/question/1906143711139717979",
+      "title": "你怎么评价「拼好饭」? 为什么这么多人选择它?",
+      "link": "https://www.zhihu.com/question/3373149402",
       "heat": "84 万热度"
     },
     {
       "rank": "15",
       "title": "每天数十亿篇 AI 生成内容涌入互联网，我们是否需要设立数字时代的「文化排污标准」？",
       "link": "https://www.zhihu.com/question/1899868096895877911",
-      "heat": "81 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "16",
       "title": "特朗普宣布「金穹」导弹防御系统细节，提出大幅增加外空作战手段，中方严重关切，该计划会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1908556371445647198",
-      "heat": "79 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "17",
-      "title": "《欧陆风云 5》里你会第一个选择哪个国家呢？",
-      "link": "https://www.zhihu.com/question/1906844228807525513",
-      "heat": "77 万热度"
+      "title": "热刺 1-0 曼联夺欧联冠军，打破 17 年冠军荒，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1908481784640963192",
+      "heat": "82 万热度"
     },
     {
       "rank": "18",
-      "title": "参加学术会议的一般都得是多大的大咖?",
-      "link": "https://www.zhihu.com/question/1907363444241458569",
-      "heat": "76 万热度"
+      "title": "《欧陆风云 5》里你会第一个选择哪个国家呢？",
+      "link": "https://www.zhihu.com/question/1906844228807525513",
+      "heat": "79 万热度"
     },
     {
       "rank": "19",
-      "title": "电视剧《金婚》里有哪些细思极恐的细节？",
-      "link": "https://www.zhihu.com/question/310397307",
-      "heat": "74 万热度"
+      "title": "都说项羽分封没错，那他到底栽在哪步臭棋上？",
+      "link": "https://www.zhihu.com/question/1907408868230829003",
+      "heat": "75 万热度"
     },
     {
       "rank": "20",
@@ -124,184 +124,184 @@
     },
     {
       "rank": "21",
-      "title": "为什么现在电视剧很难再看到群星云集的场面了？",
-      "link": "https://www.zhihu.com/question/1891810947976365685",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "22",
       "title": "如何看待《哪吒之魔童闹海》第四次密钥延期至 6 月 30 日？之前也有影片多次延期吗？",
       "link": "https://www.zhihu.com/question/1908537866704876805",
       "heat": "72 万热度"
     },
     {
+      "rank": "22",
+      "title": "中国在全球医药供应链中占据重要地位，在哪些细分领域有着突出竞争力？",
+      "link": "https://www.zhihu.com/question/1908131647611691879",
+      "heat": "71 万热度"
+    },
+    {
       "rank": "23",
-      "title": "中国考古史上有哪些永远的遗憾？",
-      "link": "https://www.zhihu.com/question/2172534728",
-      "heat": "70 万热度"
+      "title": "数论问题困难性的根源是什么？",
+      "link": "https://www.zhihu.com/question/23252228",
+      "heat": "71 万热度"
     },
     {
       "rank": "24",
-      "title": "都说项羽分封没错，那他到底栽在哪步臭棋上？",
-      "link": "https://www.zhihu.com/question/1907408868230829003",
-      "heat": "70 万热度"
+      "title": "小鹏智驾系统高速异常致撞车，客服称系偶发软件控制异常，具体情况如何？这一技术漏洞存在哪些安全隐患？",
+      "link": "https://www.zhihu.com/question/1908606973357810445",
+      "heat": "69 万热度"
     },
     {
       "rank": "25",
-      "title": "中国在全球医药供应链中占据重要地位，在哪些细分领域有着突出竞争力？",
-      "link": "https://www.zhihu.com/question/1908131647611691879",
-      "heat": "69 万热度"
+      "title": "为什么现在电视剧很难再看到群星云集的场面了？",
+      "link": "https://www.zhihu.com/question/1891810947976365685",
+      "heat": "68 万热度"
     },
     {
       "rank": "26",
-      "title": "数论问题困难性的根源是什么？",
-      "link": "https://www.zhihu.com/question/23252228",
-      "heat": "69 万热度"
+      "title": "如果你发现自己站在了自己所在群体大多数的对立面，你会如何应对？",
+      "link": "https://www.zhihu.com/question/1905376335192373145",
+      "heat": "64 万热度"
     },
     {
       "rank": "27",
-      "title": "想买一辆 20 万 -35 万左右的车，不考虑混动，请问我该选纯油、 48v 轻混还是纯电?",
-      "link": "https://www.zhihu.com/question/1908501924191381224",
-      "heat": "62 万热度"
+      "title": "哪些速食早餐味道好又方便，最适合早晨赶时间的上班族？",
+      "link": "https://www.zhihu.com/question/656846696",
+      "heat": "64 万热度"
     },
     {
       "rank": "28",
-      "title": "如何看待《崩坏：星穹铁道》3.3 版本「在黎明升起时坠落」?",
-      "link": "https://www.zhihu.com/question/1908477681332359363",
-      "heat": "59 万热度"
+      "title": "中国考古史上有哪些永远的遗憾？",
+      "link": "https://www.zhihu.com/question/2172534728",
+      "heat": "64 万热度"
     },
     {
       "rank": "29",
-      "title": "老板让我做裁员计划给他，我应该裁绩效差的呢？还是裁工资高的老员工呢？",
-      "link": "https://www.zhihu.com/question/1892949852142430111",
-      "heat": "58 万热度"
+      "title": "现在的年轻人自己带孩子，是因为孩子好带了吗？",
+      "link": "https://www.zhihu.com/question/1908561426127226545",
+      "heat": "61 万热度"
     },
     {
       "rank": "30",
-      "title": "荀彧是不是曹操逼死的？",
-      "link": "https://www.zhihu.com/question/660505777",
-      "heat": "57 万热度"
+      "title": "参加学术会议的一般都得是多大的大咖?",
+      "link": "https://www.zhihu.com/question/1907363444241458569",
+      "heat": "58 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么很多人认为现代音乐不如古典音乐，难道人类的音乐水平在退步？",
-      "link": "https://www.zhihu.com/question/12477545019",
+      "title": "电视剧《金婚》里有哪些细思极恐的细节？",
+      "link": "https://www.zhihu.com/question/310397307",
       "heat": "57 万热度"
     },
     {
       "rank": "32",
-      "title": "如何评价《崩坏：星穹铁道》 3.3 版本 「在黎明升起时坠落」 主线剧情？",
-      "link": "https://www.zhihu.com/question/1903716389581194177",
-      "heat": "55 万热度"
+      "title": "为什么日本有大量外国劳动力，日本应届毕业生依然就业率高涨，迎来”就业反选时代”？",
+      "link": "https://www.zhihu.com/question/7047113851",
+      "heat": "57 万热度"
     },
     {
       "rank": "33",
       "title": "如何看待 5 月 19 日华为发布会上公布的擎云星河计划，这对商用领域用户有何影响？",
       "link": "https://www.zhihu.com/question/1907590154979382213",
-      "heat": "55 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "34",
       "title": "想趁 618 为夏天投资一台省电又健康空调，有哪些 AI 黑科技空调推荐？",
       "link": "https://www.zhihu.com/question/1907782731464696959",
-      "heat": "55 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "35",
+      "title": "老板让我做裁员计划给他，我应该裁绩效差的呢？还是裁工资高的老员工呢？",
+      "link": "https://www.zhihu.com/question/1892949852142430111",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "如何看待《崩坏：星穹铁道》3.3 版本「在黎明升起时坠落」?",
+      "link": "https://www.zhihu.com/question/1908477681332359363",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "37",
       "title": "如果邀请你来做策展⼈，给宝墩遗址展览馆办一场「稻田里的博物馆」主题特展，你会如何策划？",
       "link": "https://www.zhihu.com/question/1900893430223177245",
       "heat": "55 万热度"
     },
     {
-      "rank": "36",
+      "rank": "38",
       "title": "人可以极简主义到什么程度？",
       "link": "https://www.zhihu.com/question/313020218",
       "heat": "55 万热度"
     },
     {
-      "rank": "37",
+      "rank": "39",
+      "title": "荀彧是不是曹操逼死的？",
+      "link": "https://www.zhihu.com/question/660505777",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "40",
       "title": "2025 年 618 叠加国补，扫地机器人值不值得买？有推荐的吗？",
       "link": "https://www.zhihu.com/question/1908094228707382163",
       "heat": "55 万热度"
     },
     {
-      "rank": "38",
+      "rank": "41",
       "title": "永乐年间的甜白釉温润如玉，给人甜的感受，故名「甜白」，在博物馆中你还见过哪些令人垂涎欲滴的文物？",
       "link": "https://www.zhihu.com/question/1900153253133550792",
       "heat": "55 万热度"
     },
     {
-      "rank": "39",
-      "title": "如何评价《藏海传》5-8 集？",
-      "link": "https://www.zhihu.com/question/1907880488070263152",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "42",
       "title": "法国、意大利、西班牙，你会选择哪个国家旅游?",
       "link": "https://www.zhihu.com/question/625446337",
       "heat": "55 万热度"
     },
     {
-      "rank": "41",
-      "title": "现在机动性最好的战斗机是哪种？",
-      "link": "https://www.zhihu.com/question/301629670",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "为什么水杯摔在地上弹好几下最后一下才碎？",
-      "link": "https://www.zhihu.com/question/1893305447273981887",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "43",
-      "title": "AI 时代普通人该何去何从？",
-      "link": "https://www.zhihu.com/question/1903323000327115778",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "如果中国象棋取消掉别马腿这个设定，马的价值能提高多少？",
-      "link": "https://www.zhihu.com/question/8817211058",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "一个人出独立游戏的成本有多高？",
-      "link": "https://www.zhihu.com/question/65338384",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "如何评价 5 月 20 日开售的联想小新平板 11 系列，其是否能成为百元高性能平板标杆？",
-      "link": "https://www.zhihu.com/question/1908094166270977701",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "请问开车被插队，有什么合法的应对方式吗？",
-      "link": "https://www.zhihu.com/question/1907460261360665973",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "48",
       "title": "《崩坏：星穹铁道》3.3 的剧情，各位过完了吗？感觉如何？",
       "link": "https://www.zhihu.com/question/1908549651382120772",
       "heat": "55 万热度"
     },
     {
+      "rank": "44",
+      "title": "如何评价《藏海传》5-8 集？",
+      "link": "https://www.zhihu.com/question/1907880488070263152",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "现在机动性最好的战斗机是哪种？",
+      "link": "https://www.zhihu.com/question/301629670",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "为什么水杯摔在地上弹好几下最后一下才碎？",
+      "link": "https://www.zhihu.com/question/1893305447273981887",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "AI 时代普通人该何去何从？",
+      "link": "https://www.zhihu.com/question/1903323000327115778",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "如果中国象棋取消掉别马腿这个设定，马的价值能提高多少？",
+      "link": "https://www.zhihu.com/question/8817211058",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "49",
-      "title": "网友把奶茶放进微波炉 30 秒差点把家烧了，为什么会这样？还有哪些食物不能放进微波炉？",
-      "link": "https://www.zhihu.com/question/1907803422075351501",
+      "title": "一个人出独立游戏的成本有多高？",
+      "link": "https://www.zhihu.com/question/65338384",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "从原来的单位离职了，原来的工作群退还是不退好？",
-      "link": "https://www.zhihu.com/question/1898833161330336050",
+      "title": "如何评价 5 月 20 日开售的联想小新平板 11 系列，其是否能成为百元高性能平板标杆？",
+      "link": "https://www.zhihu.com/question/1908094166270977701",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-05-22 11:56:18"
+  "generated_at": "2025-05-22 12:33:01"
 }
