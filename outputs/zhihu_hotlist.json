@@ -1,120 +1,120 @@
 {
-  "artifact_id": "381dd4b2-bc1f-4382-9234-64151112b053",
+  "artifact_id": "78cb6edb-3660-4aaf-9072-ff129774b59e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "美国暂停哈佛大学招收国际学生资格，现有外国学生必须转学，对哈佛影响有多大？外国学生转学面临哪些问题？",
       "link": "https://www.zhihu.com/question/1909064803181367581",
-      "heat": "1229 万热度"
+      "heat": "667 万热度"
     },
     {
       "rank": "2",
       "title": "朝鲜驱逐舰事故调查结果公布「船底无破洞，右舷被刮削」，对该舰影响大吗？暴露出朝鲜军事工业体系哪些问题？",
       "link": "https://www.zhihu.com/question/1909157846853055771",
-      "heat": "584 万热度"
+      "heat": "532 万热度"
     },
     {
       "rank": "3",
-      "title": "小米 YU7 主打豪华为什么绑着 Model Y 做对比？",
-      "link": "https://www.zhihu.com/question/1908993244802552342",
-      "heat": "270 万热度"
+      "title": "蚂蚁为什么会被带电的充电接口吸引聚集？它们不会被电吗？",
+      "link": "https://www.zhihu.com/question/1908480552446686763",
+      "heat": "271 万热度"
     },
     {
       "rank": "4",
-      "title": "蚂蚁为什么会被带电的充电接口吸引聚集？它们不会被电吗？",
-      "link": "https://www.zhihu.com/question/1908480552446686763",
-      "heat": "267 万热度"
+      "title": "时隔 5 年，《灵笼 2》正式开播，看完你有何评价？",
+      "link": "https://www.zhihu.com/question/1908849184649486570",
+      "heat": "217 万热度"
     },
     {
       "rank": "5",
       "title": "教育部拟同意设置 32 所新大学，哪些学校值得关注？会对高等教育格局产生怎样的影响？",
       "link": "https://www.zhihu.com/question/1908893083896100608",
-      "heat": "222 万热度"
+      "heat": "212 万热度"
     },
     {
       "rank": "6",
-      "title": "比亚迪 4 月欧洲纯电车销量首次击败特斯拉，特斯拉登记销量大跌 49%，这意味着什么？",
-      "link": "https://www.zhihu.com/question/1908962214293008709",
-      "heat": "207 万热度"
+      "title": "「声称看到龙」的事件近期频繁出现，有说法称「地球升维」，如何科学看待这种说法？",
+      "link": "https://www.zhihu.com/question/1904671407947903737",
+      "heat": "205 万热度"
     },
     {
       "rank": "7",
-      "title": "时隔 5 年，《灵笼 2》正式开播，看完你有何评价？",
-      "link": "https://www.zhihu.com/question/1908849184649486570",
-      "heat": "206 万热度"
+      "title": "比亚迪 4 月欧洲纯电车销量首次击败特斯拉，特斯拉登记销量大跌 49%，这意味着什么？",
+      "link": "https://www.zhihu.com/question/1908962214293008709",
+      "heat": "201 万热度"
     },
     {
       "rank": "8",
       "title": "鸡那么脏，那为啥鸡巢几乎没有蟑螂？",
       "link": "https://www.zhihu.com/question/1908102066179663619",
-      "heat": "202 万热度"
+      "heat": "198 万热度"
     },
     {
       "rank": "9",
-      "title": "「声称看到龙」的事件近期频繁出现，有说法称「地球升维」，如何科学看待这种说法？",
-      "link": "https://www.zhihu.com/question/1904671407947903737",
-      "heat": "197 万热度"
+      "title": "野比大雄的父母为什么从来不利用哆啦 A 梦的道具发家致富，称霸一方？",
+      "link": "https://www.zhihu.com/question/350330532",
+      "heat": "195 万热度"
     },
     {
       "rank": "10",
-      "title": "野比大雄的父母为什么从来不利用哆啦 A 梦的道具发家致富，称霸一方？",
-      "link": "https://www.zhihu.com/question/350330532",
-      "heat": "194 万热度"
+      "title": "小米 YU7 主打豪华为什么绑着 Model Y 做对比？",
+      "link": "https://www.zhihu.com/question/1908993244802552342",
+      "heat": "180 万热度"
     },
     {
       "rank": "11",
-      "title": "美取消哈佛留学生合法身份行为被叫停，未来特朗普政府和各大学之间的关系将如何发展？会达成和解吗？",
-      "link": "https://www.zhihu.com/question/1909309927144560368",
-      "heat": "160 万热度"
+      "title": "周末跟领导去钓鱼，办公室主任却悄悄提醒我「领导没钓到鱼之前别拉杆」，要不要听他的？",
+      "link": "https://www.zhihu.com/question/1904939420261529539",
+      "heat": "174 万热度"
     },
     {
       "rank": "12",
-      "title": "Claude Opus 4 惊现试图逃逸、勒索工程师等行为，这意味着什么？会有哪些风险？",
-      "link": "https://www.zhihu.com/question/1909150186124571661",
-      "heat": "153 万热度"
+      "title": "美取消哈佛留学生合法身份行为被叫停，未来特朗普政府和各大学之间的关系将如何发展？会达成和解吗？",
+      "link": "https://www.zhihu.com/question/1909309927144560368",
+      "heat": "173 万热度"
     },
     {
       "rank": "13",
       "title": "35 岁以上技术型人才、 45 岁以上中高级管理人员，为什么他们一旦失业，再就业就比较困难？",
       "link": "https://www.zhihu.com/question/1908771568798115692",
-      "heat": "149 万热度"
+      "heat": "157 万热度"
     },
     {
       "rank": "14",
-      "title": "周末跟领导去钓鱼，办公室主任却悄悄提醒我「领导没钓到鱼之前别拉杆」，要不要听他的？",
-      "link": "https://www.zhihu.com/question/1904939420261529539",
-      "heat": "134 万热度"
+      "title": "教授怒斥学生用 AI 写作业，被图灵奖得主反问「为何布置能用 AI 完成的作业」，如何解读这一质疑？",
+      "link": "https://www.zhihu.com/question/1908482208823469211",
+      "heat": "136 万热度"
     },
     {
       "rank": "15",
       "title": "2025 年多哈世乒赛男单 1/4 决赛，梁靖崑 4-3 战胜林诗栋晋级四强，如何评价他们的表现？",
       "link": "https://www.zhihu.com/question/1909327196948011007",
-      "heat": "132 万热度"
+      "heat": "134 万热度"
     },
     {
       "rank": "16",
-      "title": "教授怒斥学生用 AI 写作业，被图灵奖得主反问「为何布置能用 AI 完成的作业」，如何解读这一质疑？",
-      "link": "https://www.zhihu.com/question/1908482208823469211",
-      "heat": "130 万热度"
+      "title": "小米 YU7 内嵌 2200Mpa 防滚架，提供铠甲笼式钢铝混合车身，2200Mpa 什么概念？越硬越安全吗？",
+      "link": "https://www.zhihu.com/question/1909218924240790415",
+      "heat": "131 万热度"
     },
     {
       "rank": "17",
-      "title": "小米 YU7 内嵌 2200Mpa 防滚架，提供铠甲笼式钢铝混合车身，2200Mpa 什么概念？越硬越安全吗？",
-      "link": "https://www.zhihu.com/question/1909218924240790415",
+      "title": "Claude Opus 4 惊现试图逃逸、勒索工程师等行为，这意味着什么？会有哪些风险？",
+      "link": "https://www.zhihu.com/question/1909150186124571661",
       "heat": "120 万热度"
     },
     {
       "rank": "18",
       "title": "为什么洗碗机洗一次碗要 3 个小时，结果还是那么多年轻人决定要买一台放在家里？",
       "link": "https://www.zhihu.com/question/1900856262998090307",
-      "heat": "110 万热度"
+      "heat": "116 万热度"
     },
     {
       "rank": "19",
       "title": "老外为啥不倒车入库？",
       "link": "https://www.zhihu.com/question/337349601",
-      "heat": "102 万热度"
+      "heat": "101 万热度"
     },
     {
       "rank": "20",
@@ -126,61 +126,61 @@
       "rank": "21",
       "title": "小米自主研发的玄戒 T1 集成了 4G 基带，5G 基带还要多久？",
       "link": "https://www.zhihu.com/question/1908971425856983043",
-      "heat": "99 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "22",
-      "title": "工资很低但是工作很舒服，要离职吗?",
-      "link": "https://www.zhihu.com/question/608908305",
-      "heat": "98 万热度"
+      "title": "如何评价《歌手 2025》第二期所有歌手的演唱？",
+      "link": "https://www.zhihu.com/question/1909328842813833886",
+      "heat": "94 万热度"
     },
     {
       "rank": "23",
       "title": "医生晒朱媛媛生前住院照遭质疑，疑删除相关动态，如何看待这一行为？若追责该医生将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1908912025691711289",
-      "heat": "95 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "你认为走向物理新世界的锁匙是意识吗？",
-      "link": "https://www.zhihu.com/question/1907498767256625235",
       "heat": "92 万热度"
     },
     {
+      "rank": "24",
+      "title": "如何评价绝区零 2.0「云霞同归处」特别前瞻？如何看待 2.0 版送 30 抽限定和常驻 5 星自选（角色 + 武器）？",
+      "link": "https://www.zhihu.com/question/1909324874352133615",
+      "heat": "89 万热度"
+    },
+    {
       "rank": "25",
-      "title": "为什么优秀员工往往最先离职？",
-      "link": "https://www.zhihu.com/question/385026167",
-      "heat": "80 万热度"
+      "title": "女幼师下班途中遭男子刺死，家属质疑凶手精神病鉴定，警方启动重新鉴定程序，如何从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1909261051322692279",
+      "heat": "85 万热度"
     },
     {
       "rank": "26",
-      "title": "光速为什么定义为 299792458m/s，而不是取整数 300000000m/s？",
-      "link": "https://www.zhihu.com/question/662333481",
-      "heat": "78 万热度"
+      "title": "为什么优秀员工往往最先离职？",
+      "link": "https://www.zhihu.com/question/385026167",
+      "heat": "81 万热度"
     },
     {
       "rank": "27",
       "title": "《潜伏》中，李涯和陆桥山都死了，很显然内鬼就是余则成了，为何余则成没有暴露？",
       "link": "https://www.zhihu.com/question/500948049",
-      "heat": "75 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "28",
-      "title": "福建沿海是不是全国降水最少的沿海地区?",
-      "link": "https://www.zhihu.com/question/1908133113764253741",
-      "heat": "74 万热度"
+      "title": "光速为什么定义为 299792458m/s，而不是取整数 300000000m/s？",
+      "link": "https://www.zhihu.com/question/662333481",
+      "heat": "78 万热度"
     },
     {
       "rank": "29",
       "title": "中国有多少城市能撑起来七日游？",
       "link": "https://www.zhihu.com/question/652919609",
-      "heat": "73 万热度"
+      "heat": "75 万热度"
     },
     {
       "rank": "30",
       "title": "猪为什么是蛇的天敌？",
       "link": "https://www.zhihu.com/question/598821148",
-      "heat": "73 万热度"
+      "heat": "74 万热度"
     },
     {
       "rank": "31",
@@ -190,118 +190,118 @@
     },
     {
       "rank": "32",
-      "title": "看见地狱笑话，明明知道不合适，但还是憋不住，怎么办？",
-      "link": "https://www.zhihu.com/question/582141145",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "迄今为止你见过最惊艳的建筑是哪个？",
-      "link": "https://www.zhihu.com/question/264213676",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "获得博士学位那一刻是什么感觉？",
-      "link": "https://www.zhihu.com/question/629413007",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "哈佛大学近期一连串遭遇后，还能保得住世界前五的位置吗？",
-      "link": "https://www.zhihu.com/question/1909256155173187785",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "36",
       "title": "满大街都是法国梧桐，为什么看不见中国梧桐了？",
       "link": "https://www.zhihu.com/question/3237464007",
       "heat": "72 万热度"
     },
     {
-      "rank": "37",
-      "title": "你导师是如何嫌弃你的？",
-      "link": "https://www.zhihu.com/question/37098794",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如果在银河系中迷路了，怎样才能找到地球？",
-      "link": "https://www.zhihu.com/question/274084212",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "你见过的最好看的 / 最奇特的中国地图是什么样的？",
-      "link": "https://www.zhihu.com/question/62972590",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "为什么警犬基本上都是德国牧羊犬？",
-      "link": "https://www.zhihu.com/question/269082334",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "你认为哪些华语电影是被严重低估的？",
-      "link": "https://www.zhihu.com/question/20826845",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "你身边的癌症患者都是怎么发现自己得癌的？",
-      "link": "https://www.zhihu.com/question/506470415",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "《武林外传》中为何杨蕙兰要啥都不要李大嘴？",
-      "link": "https://www.zhihu.com/question/502781217",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "袭人为什么不找晴雯做针线，非要麻烦宝钗和湘云两位小姐呢？",
-      "link": "https://www.zhihu.com/question/1892157291286995034",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "如何才能在家打造媲美「影院级别」的观影效果？",
-      "link": "https://www.zhihu.com/question/1908604413972570975",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "有没有什么电影后劲很大？",
-      "link": "https://www.zhihu.com/question/640181483",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "47",
+      "rank": "33",
       "title": "段誉跟虚竹结拜的时候，在乔峰不知情的情况下把他也算在内了，这样好吗？",
       "link": "https://www.zhihu.com/question/443268531",
       "heat": "71 万热度"
     },
     {
-      "rank": "48",
+      "rank": "34",
+      "title": "为什么警犬基本上都是德国牧羊犬？",
+      "link": "https://www.zhihu.com/question/269082334",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "《武林外传》中为何杨蕙兰要啥都不要李大嘴？",
+      "link": "https://www.zhihu.com/question/502781217",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "明明现在都有手机电脑了，为什么大部分人还是会追求画质好的智能电视？",
+      "link": "https://www.zhihu.com/question/520985632",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "你认为哪些华语电影是被严重低估的？",
+      "link": "https://www.zhihu.com/question/20826845",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "如果在银河系中迷路了，怎样才能找到地球？",
+      "link": "https://www.zhihu.com/question/274084212",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "39",
       "title": "你都见过哪些不动声色的善良？",
       "link": "https://www.zhihu.com/question/537980991",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "雍正王朝里，四爷路过江夏镇时为什么不亮身份？",
+      "link": "https://www.zhihu.com/question/3373372033",
       "heat": "70 万热度"
     },
     {
-      "rank": "49",
+      "rank": "41",
+      "title": "袭人为什么不找晴雯做针线，非要麻烦宝钗和湘云两位小姐呢？",
+      "link": "https://www.zhihu.com/question/1892157291286995034",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "有没有什么电影后劲很大？",
+      "link": "https://www.zhihu.com/question/640181483",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "机器狗有什么很难被替代的用途？",
+      "link": "https://www.zhihu.com/question/627893373",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "为什么会有深湖比深海更可怕这种说法？",
+      "link": "https://www.zhihu.com/question/310112318",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "45",
       "title": "Chez scheme 是怎样一个编译器啊，听说编译后的 scheme 代码速度能媲美 C？有人用过么？",
       "link": "https://www.zhihu.com/question/20904713",
       "heat": "70 万热度"
     },
     {
+      "rank": "46",
+      "title": "为什么潮汕鱼饭不放葱姜蒜去腥，依旧这么鲜？",
+      "link": "https://www.zhihu.com/question/664293409",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "为什么现在的大学生经常去图书馆?",
+      "link": "https://www.zhihu.com/question/726170759",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么有的明星宁愿长期住酒店，也不租个房子？",
+      "link": "https://www.zhihu.com/question/442085261",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如果三国的人彼此都能看到五维，会怎么样？",
+      "link": "https://www.zhihu.com/question/621260472",
+      "heat": "70 万热度"
+    },
+    {
       "rank": "50",
-      "title": "为什么会有深湖比深海更可怕这种说法？",
-      "link": "https://www.zhihu.com/question/310112318",
+      "title": "为什么玩乐器的人都不喜欢让别人碰自己的乐器？",
+      "link": "https://www.zhihu.com/question/377421755",
       "heat": "70 万热度"
     }
   ],
-  "generated_at": "2025-05-23 21:53:07"
+  "generated_at": "2025-05-23 22:24:04"
 }
