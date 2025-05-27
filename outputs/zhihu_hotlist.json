@@ -1,138 +1,138 @@
 {
-  "artifact_id": "daa6f12e-1e73-4ef8-87b3-fecad10d1e26",
+  "artifact_id": "6c19c81b-4101-4109-9e1b-4e8a51cd0ba5",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "交警回应「余承东疑似开车睡觉」，睡觉等行为影响安全不允许，若属实他会受到哪些处罚？",
       "link": "https://www.zhihu.com/question/1910459710823428481",
-      "heat": "651 万热度"
+      "heat": "629 万热度"
     },
     {
       "rank": "2",
       "title": "如何看待棋手战鹰在直播打《艾尔登法环》时斩获装备「战鹰的骨灰」？",
       "link": "https://www.zhihu.com/question/1910637705290802412",
-      "heat": "580 万热度"
+      "heat": "593 万热度"
     },
     {
       "rank": "3",
       "title": "如何看待美团一季度收入不降反增，净利润 100.57 亿，同比大增 87.3% ？",
       "link": "https://www.zhihu.com/question/1910634631956498039",
-      "heat": "328 万热度"
+      "heat": "333 万热度"
     },
     {
       "rank": "4",
       "title": "虾是海蟑螂吗？为啥感觉不怎么卫生呢?",
       "link": "https://www.zhihu.com/question/1908998949999719676",
-      "heat": "290 万热度"
+      "heat": "264 万热度"
     },
     {
       "rank": "5",
-      "title": "OpenAI o3 模型通过篡改代码拒绝关闭，系首个抗命的 AI 系统，意味着什么？会带来怎样的影响？",
-      "link": "https://www.zhihu.com/question/1910634870541124048",
-      "heat": "256 万热度"
+      "title": "教育部通知「严禁违规频繁考试，加重学生学业负担」，怎样算是违规频繁考试？你认为哪类考试可以减少？",
+      "link": "https://www.zhihu.com/question/1910668567432624074",
+      "heat": "262 万热度"
     },
     {
       "rank": "6",
       "title": "山东高密一化工车间发生爆炸事故，正全力救援救治，目前情况怎么样？可能是什么原因导致爆炸？",
       "link": "https://www.zhihu.com/question/1910699066037336021",
-      "heat": "232 万热度"
+      "heat": "251 万热度"
     },
     {
       "rank": "7",
-      "title": "河北的张飞是杀猪的，山西的关羽是卖枣的，他们在哪学的武艺？",
-      "link": "https://www.zhihu.com/question/426938125",
-      "heat": "209 万热度"
+      "title": "OpenAI o3 模型通过篡改代码拒绝关闭，系首个抗命的 AI 系统，意味着什么？会带来怎样的影响？",
+      "link": "https://www.zhihu.com/question/1910634870541124048",
+      "heat": "241 万热度"
     },
     {
       "rank": "8",
+      "title": "河北的张飞是杀猪的，山西的关羽是卖枣的，他们在哪学的武艺？",
+      "link": "https://www.zhihu.com/question/426938125",
+      "heat": "222 万热度"
+    },
+    {
+      "rank": "9",
       "title": "中国的电影工业为何连合格的爆米花电影都无法稳定产出了？",
       "link": "https://www.zhihu.com/question/1909214165526091518",
       "heat": "203 万热度"
     },
     {
-      "rank": "9",
+      "rank": "10",
       "title": "王健林已被冻结 4.9 亿股权，多家企业已吊销或注销，股权冻结会削弱王健林对万达的控制吗？有什么影响？",
       "link": "https://www.zhihu.com/question/1910606564890469726",
-      "heat": "156 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "教育部通知「严禁违规频繁考试，加重学生学业负担」，怎样算是违规频繁考试？你认为哪类考试可以减少？",
-      "link": "https://www.zhihu.com/question/1910668567432624074",
-      "heat": "147 万热度"
+      "heat": "150 万热度"
     },
     {
       "rank": "11",
       "title": "印度为什么向多国派出「宣讲团」？",
       "link": "https://www.zhihu.com/question/1910255124120606618",
-      "heat": "138 万热度"
+      "heat": "147 万热度"
     },
     {
       "rank": "12",
-      "title": "优衣库上新的 S 码女装比童装还小，如何看待这种「女装变童装」的现象？",
-      "link": "https://www.zhihu.com/question/1910344792786863934",
-      "heat": "129 万热度"
+      "title": "亲兄妹之间长大后关系为什么会变差？",
+      "link": "https://www.zhihu.com/question/326863397",
+      "heat": "143 万热度"
     },
     {
       "rank": "13",
-      "title": "孙悟空林黛玉 CP 爆火，为什么大家看好他俩组 CP？你心中还有哪些拉郎配 CP？",
-      "link": "https://www.zhihu.com/question/1910243492321519118",
-      "heat": "125 万热度"
+      "title": "优衣库上新的 S 码女装比童装还小，如何看待这种「女装变童装」的现象？",
+      "link": "https://www.zhihu.com/question/1910344792786863934",
+      "heat": "139 万热度"
     },
     {
       "rank": "14",
       "title": "印度宣称已超越日本成为第四大经济体，并称 2.5-3 年后将成为第三大经济体，印度的经济发展究竟如何？",
       "link": "https://www.zhihu.com/question/1910242710213859151",
-      "heat": "123 万热度"
+      "heat": "132 万热度"
     },
     {
       "rank": "15",
       "title": "年轻人绘制「相亲排序表」，将择偶标准量化后进行筛选，这种表格为何会兴起？理性的表格真能评估爱情吗？",
       "link": "https://www.zhihu.com/question/1908500987318081134",
-      "heat": "122 万热度"
+      "heat": "129 万热度"
     },
     {
       "rank": "16",
+      "title": "孙悟空林黛玉 CP 爆火，为什么大家看好他俩组 CP？你心中还有哪些拉郎配 CP？",
+      "link": "https://www.zhihu.com/question/1910243492321519118",
+      "heat": "125 万热度"
+    },
+    {
+      "rank": "17",
       "title": "特斯拉高速路追尾大货车，径直撞入货车底部，具体情况如何？导致车祸的原因可能是什么？",
       "link": "https://www.zhihu.com/question/1910353459632365574",
       "heat": "122 万热度"
     },
     {
-      "rank": "17",
-      "title": "亲兄妹之间长大后关系为什么会变差？",
-      "link": "https://www.zhihu.com/question/326863397",
-      "heat": "121 万热度"
-    },
-    {
       "rank": "18",
       "title": "蔡崇信建议「年轻人不要过于在意简历，选老板比选岗位重要」，如何评价他这一观点？",
       "link": "https://www.zhihu.com/question/1909953844726719890",
-      "heat": "98 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "19",
       "title": "《戏说乾隆》等皇帝微服私访的电视剧是模仿日本的《暴坊将军》吗？",
       "link": "https://www.zhihu.com/question/1909749935139718778",
-      "heat": "92 万热度"
+      "heat": "91 万热度"
     },
     {
       "rank": "20",
       "title": "小米一季度营收 1112.9 亿元，同比增长 47.4%，电动汽车收入 181 亿元，如何评价此业绩？",
       "link": "https://www.zhihu.com/question/1910749694902108898",
-      "heat": "85 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "21",
       "title": "上海地铁「禁止行走或奔跑」取代「左行右立」已经 6 年，达到完全被遵守，是否还要 10 年以上？",
       "link": "https://www.zhihu.com/question/1909540538329325833",
-      "heat": "84 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "22",
       "title": "为什么鸡肋在古代食之无味弃之可惜，在现代却成为了鸡架美食？",
       "link": "https://www.zhihu.com/question/1885653641",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "23",
@@ -142,44 +142,44 @@
     },
     {
       "rank": "24",
-      "title": "5 月 28 日晚 8 点天猫 618 开卖，天猫 618 全新无门槛九折消费券，用法有变化吗？有什么好物推荐？",
-      "link": "https://www.zhihu.com/question/1910731393417328560",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "为何大一的学生眼中充满了光，到了大三的学生眼中一片迷茫？",
-      "link": "https://www.zhihu.com/question/1894329137902096859",
+      "title": "如何评价 Google 发布的 Gemini Diffusion? 会代替自回归模型成为下一代模型吗？",
+      "link": "https://www.zhihu.com/question/1908479621466396378",
       "heat": "59 万热度"
     },
     {
-      "rank": "26",
+      "rank": "25",
       "title": "「职业空窗期」是否正在被污名化？为什么职场对「人生留白」的容忍度越来越低？",
       "link": "https://www.zhihu.com/question/1908564236977824173",
       "heat": "59 万热度"
     },
     {
+      "rank": "26",
+      "title": "5 月 28 日晚 8 点天猫 618 开卖，天猫 618 全新无门槛九折消费券，用法有变化吗？有什么好物推荐？",
+      "link": "https://www.zhihu.com/question/1910731393417328560",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "27",
-      "title": "25/26 夏窗利物浦签约了弗林蓬，创纪录 1.2 亿引进维尔茨，还有意哲凯赖什等，利物浦怎么突然肯花钱了？",
-      "link": "https://www.zhihu.com/question/1910367516414416163",
+      "title": "为何大一的学生眼中充满了光，到了大三的学生眼中一片迷茫？",
+      "link": "https://www.zhihu.com/question/1894329137902096859",
       "heat": "59 万热度"
     },
     {
       "rank": "28",
-      "title": "火车是怎样变轨的？",
-      "link": "https://www.zhihu.com/question/19840116",
+      "title": "明明白面是由小麦制成的，为什么很多老人 80 年代后才吃得起白面馒头？",
+      "link": "https://www.zhihu.com/question/1901669056756585856",
       "heat": "59 万热度"
     },
     {
       "rank": "29",
-      "title": "《崩坏：星穹铁道》 3.3 剧情中，赛飞儿为什么要撒谎说「奥赫玛黎明永不落幕」？",
-      "link": "https://www.zhihu.com/question/1909371541596111043",
+      "title": "说说这赛季（24-25）欧洲五大你认为比较厉害的主教练吧？",
+      "link": "https://www.zhihu.com/question/1907926532359447499",
       "heat": "59 万热度"
     },
     {
       "rank": "30",
-      "title": "如何评价 Google 发布的 Gemini Diffusion? 会代替自回归模型成为下一代模型吗？",
-      "link": "https://www.zhihu.com/question/1908479621466396378",
+      "title": "《喜羊羊与灰太狼》里有什么细思极恐的细节？",
+      "link": "https://www.zhihu.com/question/265931334",
       "heat": "59 万热度"
     },
     {
@@ -196,62 +196,62 @@
     },
     {
       "rank": "33",
-      "title": "说说这赛季（24-25）欧洲五大你认为比较厉害的主教练吧？",
-      "link": "https://www.zhihu.com/question/1907926532359447499",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "《喜羊羊与灰太狼》里有什么细思极恐的细节？",
-      "link": "https://www.zhihu.com/question/265931334",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "我家小孩初一年级，考试成绩考差了一下子接受不了。崩溃了，整天躺在床上怎么办？",
-      "link": "https://www.zhihu.com/question/1903864848653214006",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "明明白面是由小麦制成的，为什么很多老人 80 年代后才吃得起白面馒头？",
-      "link": "https://www.zhihu.com/question/1901669056756585856",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "降龙十八掌具体都有哪十八掌，金庸把名字写全了吗？",
-      "link": "https://www.zhihu.com/question/1906792793873051877",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "38",
       "title": "《老炮儿》里的六爷为什么不借洋火儿的钱？",
       "link": "https://www.zhihu.com/question/40690565",
       "heat": "59 万热度"
     },
     {
-      "rank": "39",
-      "title": "如何看待李沐宸称「长剧目前给不到自己在中剧（短剧）市场的费用，没有天选角色，应该不会回到长剧市场」？",
-      "link": "https://www.zhihu.com/question/1910284367013570163",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "34",
       "title": "跑步真的会越跑越年轻吗？",
       "link": "https://www.zhihu.com/question/613276777",
       "heat": "59 万热度"
     },
     {
+      "rank": "35",
+      "title": "降龙十八掌具体都有哪十八掌，金庸把名字写全了吗？",
+      "link": "https://www.zhihu.com/question/1906792793873051877",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "《崩坏：星穹铁道》 3.3 剧情中，赛飞儿为什么要撒谎说「奥赫玛黎明永不落幕」？",
+      "link": "https://www.zhihu.com/question/1909371541596111043",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "员工培养起来就跳槽怎么办？",
+      "link": "https://www.zhihu.com/question/4977882144",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "如何看待李沐宸称「长剧目前给不到自己在中剧（短剧）市场的费用，没有天选角色，应该不会回到长剧市场」？",
+      "link": "https://www.zhihu.com/question/1910284367013570163",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "赵匡胤和朱元璋，谁统一天下的难度更大？",
+      "link": "https://www.zhihu.com/question/13373895007",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "电竞职业化发展多年，为什么家长对「打游戏 = 不务正业」的偏见依然根深蒂固？",
+      "link": "https://www.zhihu.com/question/1903392619767272140",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "41",
-      "title": "考上 985/211 真的很需要智商吗？",
-      "link": "https://www.zhihu.com/question/1908658119317393979",
+      "title": "中国历史上古代为何不称为「国」而称为「朝」？",
+      "link": "https://www.zhihu.com/question/1902681642503479460",
       "heat": "59 万热度"
     },
     {
       "rank": "42",
-      "title": "电竞职业化发展多年，为什么家长对「打游戏 = 不务正业」的偏见依然根深蒂固？",
-      "link": "https://www.zhihu.com/question/1903392619767272140",
+      "title": "考上 985/211 真的很需要智商吗？",
+      "link": "https://www.zhihu.com/question/1908658119317393979",
       "heat": "59 万热度"
     },
     {
@@ -262,46 +262,46 @@
     },
     {
       "rank": "44",
-      "title": "员工培养起来就跳槽怎么办？",
-      "link": "https://www.zhihu.com/question/4977882144",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "45",
       "title": "沙特媒体称「因对手门将注册文件无效，利雅得胜利将获三分」，这是否意味着 C 罗仍有机会重返亚冠？如何评价？",
       "link": "https://www.zhihu.com/question/1910441075845346690",
       "heat": "59 万热度"
     },
     {
+      "rank": "45",
+      "title": "工作让人崩溃、焦虑、失眠，已远远超过自身能力的极限，抑郁可能随时爆发，我该怎么办？",
+      "link": "https://www.zhihu.com/question/1908420738878280366",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "46",
-      "title": "赵匡胤和朱元璋，谁统一天下的难度更大？",
-      "link": "https://www.zhihu.com/question/13373895007",
+      "title": "25/26 夏窗利物浦签约了弗林蓬，创纪录 1.2 亿引进维尔茨，还有意哲凯赖什等，利物浦怎么突然肯花钱了？",
+      "link": "https://www.zhihu.com/question/1910367516414416163",
       "heat": "59 万热度"
     },
     {
       "rank": "47",
-      "title": "用天猫苹果惊喜券 3000 不到入 iPad，这波叠加九折券是入手的好机会吗？还有什么能入？",
-      "link": "https://www.zhihu.com/question/1910685838892860825",
-      "heat": "59 万热度"
+      "title": "中国和欧洲电动车的供应链优势差别主要来自于人力成本？还有哪些核心差别？",
+      "link": "https://www.zhihu.com/question/1905627510831538472",
+      "heat": "58 万热度"
     },
     {
       "rank": "48",
-      "title": "孩子时间精力有限，是花在长板上精益求精，还是补齐短板?",
-      "link": "https://www.zhihu.com/question/1889772850077995326",
-      "heat": "59 万热度"
+      "title": "你是怎么发现亲戚开始见不得你好的？",
+      "link": "https://www.zhihu.com/question/642426962",
+      "heat": "58 万热度"
     },
     {
       "rank": "49",
-      "title": "中国历史上古代为何不称为「国」而称为「朝」？",
-      "link": "https://www.zhihu.com/question/1902681642503479460",
-      "heat": "59 万热度"
+      "title": "第 30 届白玉兰奖入围名单公布，谁是你心中的最佳女主?",
+      "link": "https://www.zhihu.com/question/1910353656181666406",
+      "heat": "58 万热度"
     },
     {
       "rank": "50",
-      "title": "工作让人崩溃、焦虑、失眠，已远远超过自身能力的极限，抑郁可能随时爆发，我该怎么办？",
-      "link": "https://www.zhihu.com/question/1908420738878280366",
-      "heat": "59 万热度"
+      "title": "如何理解席慕容的青春书写：「青春是一本太仓促的书」？",
+      "link": "https://www.zhihu.com/question/1906066338251765004",
+      "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-05-27 19:40:57"
+  "generated_at": "2025-05-27 19:53:38"
 }
