@@ -1,307 +1,307 @@
 {
-  "artifact_id": "34b3043b-871f-4531-8e5b-9c7a637cbf2e",
+  "artifact_id": "ca0e16bd-efe9-4bea-98c8-66ce93d3678b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "SpaceX 星舰第九次试飞失败，意味着什么？问题可能出在哪里？会对美国未来载人登月计划带来哪些影响？",
       "link": "https://www.zhihu.com/question/1905995237165335220",
-      "heat": "1344 万热度"
+      "heat": "1446 万热度"
     },
     {
       "rank": "2",
       "title": "美国政府下令美使领馆暂停留学生新签证面谈，将带来哪些影响？美国大学在全球人才竞争中还有优势吗？",
       "link": "https://www.zhihu.com/question/1910957028861506396",
-      "heat": "1244 万热度"
+      "heat": "1331 万热度"
     },
     {
       "rank": "3",
       "title": "在山上挖一座不放鱼的池塘，再过 100 年时间，里面会慢慢有鱼吗？",
       "link": "https://www.zhihu.com/question/1907409016080019592",
-      "heat": "523 万热度"
+      "heat": "566 万热度"
     },
     {
       "rank": "4",
       "title": "如何评价 Uzi 名人堂通行证「洗澡狗」及薇恩与卡莎皮肤？",
       "link": "https://www.zhihu.com/question/1910836794112574100",
-      "heat": "337 万热度"
+      "heat": "361 万热度"
     },
     {
       "rank": "5",
       "title": "KTV 现在只能靠老年人「续命」，年轻人为什么不愿意去 KTV 了？反映了怎样的消费趋势？",
       "link": "https://www.zhihu.com/question/1910722769341080201",
-      "heat": "327 万热度"
+      "heat": "299 万热度"
     },
     {
       "rank": "6",
-      "title": "学者炮轰「烫碗」习惯，餐前烫碗是为了消毒还是「仪式感」？从科学角度来看，这种习惯会让碗更卫生吗？",
-      "link": "https://www.zhihu.com/question/1910781211254716128",
-      "heat": "313 万热度"
+      "title": "高校教师迟到 1 分钟被认定教学事故，学校称此举为保证教学秩序，这个责罚合理吗？监管教师的度在哪？",
+      "link": "https://www.zhihu.com/question/1910977732445168010",
+      "heat": "278 万热度"
     },
     {
       "rank": "7",
-      "title": "高校教师迟到 1 分钟被认定教学事故，学校称此举为保证教学秩序，这个责罚合理吗？监管教师的度在哪？",
-      "link": "https://www.zhihu.com/question/1910977732445168010",
-      "heat": "243 万热度"
+      "title": "选错专业毁一生，到社会上终于明白之后，已经没有资源让我重启，怎么办？",
+      "link": "https://www.zhihu.com/question/1909435692490159100",
+      "heat": "234 万热度"
     },
     {
       "rank": "8",
-      "title": "选错专业毁一生，到社会上终于明白之后，已经没有资源让我重启，怎么办？",
-      "link": "https://www.zhihu.com/question/1909435692490159100",
-      "heat": "222 万热度"
+      "title": "为什么只有数学界有师承谱系？",
+      "link": "https://www.zhihu.com/question/410008864",
+      "heat": "228 万热度"
     },
     {
       "rank": "9",
-      "title": "为什么只有数学界有师承谱系？",
-      "link": "https://www.zhihu.com/question/410008864",
-      "heat": "222 万热度"
+      "title": "乌鸦喜欢收集亮晶晶东西，那么有没有可能靠掏乌鸦窝发财致富，不伤害乌鸦只寻宝可不可行?",
+      "link": "https://www.zhihu.com/question/1908317699026715862",
+      "heat": "215 万热度"
     },
     {
       "rank": "10",
-      "title": "乌鸦喜欢收集亮晶晶东西，那么有没有可能靠掏乌鸦窝发财致富，不伤害乌鸦只寻宝可不可行?",
-      "link": "https://www.zhihu.com/question/1908317699026715862",
-      "heat": "221 万热度"
+      "title": "中国为什么不采用德式键盘以方便ü的输入？",
+      "link": "https://www.zhihu.com/question/1910045792342905978",
+      "heat": "209 万热度"
     },
     {
       "rank": "11",
       "title": "拼多多第一季度营收 956.7 亿元，盈利不及预期，美股盘前跌幅一度超 16%，如何评价这一业绩？",
       "link": "https://www.zhihu.com/question/1910769403819176899",
-      "heat": "205 万热度"
+      "heat": "209 万热度"
     },
     {
       "rank": "12",
-      "title": "中国为什么不采用德式键盘以方便ü的输入？",
-      "link": "https://www.zhihu.com/question/1910045792342905978",
-      "heat": "204 万热度"
+      "title": "学者炮轰「烫碗」习惯，餐前烫碗是为了消毒还是「仪式感」？从科学角度来看，这种习惯会让碗更卫生吗？",
+      "link": "https://www.zhihu.com/question/1910781211254716128",
+      "heat": "200 万热度"
     },
     {
       "rank": "13",
       "title": "如何看待王石称正尝试和万科决策层建立联系，为万科平稳过渡尽所能？万科发展遇到哪些困境？",
       "link": "https://www.zhihu.com/question/1910827965056513945",
-      "heat": "199 万热度"
+      "heat": "192 万热度"
     },
     {
       "rank": "14",
-      "title": "「末流 985」与「顶级 211」到底该选择哪个？",
-      "link": "https://www.zhihu.com/question/1908210038251689403",
-      "heat": "134 万热度"
+      "title": "NBA 季后赛，东部决赛 G4，步行者 130:121 尼克斯，大比分 3:1 领先，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1911011907512545939",
+      "heat": "127 万热度"
     },
     {
       "rank": "15",
       "title": "你的同事或领导知道你有其他兼职时，你会因此而烦恼么？",
       "link": "https://www.zhihu.com/question/1905549478703899560",
-      "heat": "124 万热度"
+      "heat": "126 万热度"
     },
     {
       "rank": "16",
-      "title": "广东人吃东西讲究「食材本味」，那为什么西湖醋鱼没有在广东流行开来？",
-      "link": "https://www.zhihu.com/question/5751796770",
-      "heat": "114 万热度"
+      "title": "如何评价最新公开的 HBO 剧版《哈利·波特》铁三角的选角？",
+      "link": "https://www.zhihu.com/question/1910853012739592557",
+      "heat": "125 万热度"
     },
     {
       "rank": "17",
-      "title": "如何评价最新公开的 HBO 剧版《哈利·波特》铁三角的选角？",
-      "link": "https://www.zhihu.com/question/1910853012739592557",
-      "heat": "111 万热度"
+      "title": "广东人吃东西讲究「食材本味」，那为什么西湖醋鱼没有在广东流行开来？",
+      "link": "https://www.zhihu.com/question/5751796770",
+      "heat": "119 万热度"
     },
     {
       "rank": "18",
-      "title": "NBA 季后赛，东部决赛 G4，步行者 130:121 尼克斯，大比分 3:1 领先，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1911011907512545939",
-      "heat": "106 万热度"
+      "title": "「末流 985」与「顶级 211」到底该选择哪个？",
+      "link": "https://www.zhihu.com/question/1908210038251689403",
+      "heat": "112 万热度"
     },
     {
       "rank": "19",
       "title": "如何看待棋手战鹰在直播打《艾尔登法环》时斩获装备「战鹰的骨灰」？",
       "link": "https://www.zhihu.com/question/1910637705290802412",
-      "heat": "105 万热度"
+      "heat": "103 万热度"
     },
     {
       "rank": "20",
       "title": "为什么每次从亲戚家拜访回来我妈都说我没眼力见?",
       "link": "https://www.zhihu.com/question/1897088079233253850",
-      "heat": "102 万热度"
+      "heat": "103 万热度"
     },
     {
       "rank": "21",
       "title": "岳云鹏要开巡回演唱会，你看好吗？为什么会跨界开演唱会？",
       "link": "https://www.zhihu.com/question/1910767361260221195",
-      "heat": "100 万热度"
+      "heat": "102 万热度"
     },
     {
       "rank": "22",
-      "title": "外媒锐评《最终幻想 7》重制，就不该是三部曲，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1894434907771611131",
-      "heat": "83 万热度"
+      "title": "AI 独角兽用程序员冒充 AI 写代码，虚报营收撑起 15 亿美元估值，为何连微软、亚马逊都没能识破？",
+      "link": "https://www.zhihu.com/question/1910047089766917491",
+      "heat": "96 万热度"
     },
     {
       "rank": "23",
+      "title": "杨紫凭借《国色芳华》再次获得白玉兰最佳女主角提名，如何评价她在剧中的表现？",
+      "link": "https://www.zhihu.com/question/1910360027497203243",
+      "heat": "82 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "冷兵器时代，花队和纯队哪个更具备优势？",
+      "link": "https://www.zhihu.com/question/343446398",
+      "heat": "78 万热度"
+    },
+    {
+      "rank": "25",
       "title": "阿格莱雅从哪个方面能看出来有神性？",
       "link": "https://www.zhihu.com/question/1910480346866225913",
       "heat": "76 万热度"
     },
     {
-      "rank": "24",
-      "title": "51 岁了，体制内还是办事员怎么办？很丢人吗？",
-      "link": "https://www.zhihu.com/question/1898995523853218480",
-      "heat": "69 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "《星穹铁道》里公司突然没了令使，单靠科技武器，还能那么强吗？",
-      "link": "https://www.zhihu.com/question/1887915473921889743",
-      "heat": "68 万热度"
-    },
-    {
       "rank": "26",
-      "title": "为什么摄影爱好者都追求背景虚化？",
-      "link": "https://www.zhihu.com/question/795255230",
-      "heat": "65 万热度"
+      "title": "无门槛九折消费券让我终于不用做数学题了，今晚 8 点天猫 618 开卖，有大佬给份攻略不？",
+      "link": "https://www.zhihu.com/question/1910999713257353461",
+      "heat": "70 万热度"
     },
     {
       "rank": "27",
+      "title": "51 岁了，体制内还是办事员怎么办？很丢人吗？",
+      "link": "https://www.zhihu.com/question/1898995523853218480",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "为什么没有金色的车子，是不允许吗？",
+      "link": "https://www.zhihu.com/question/1909401605914223428",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "成绩之外，我们该如何真正走出「人生考场」？",
+      "link": "https://www.zhihu.com/question/1910702943834960234",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "30",
       "title": "AI 创作是基于历史的知识和逻辑推理，那么 AI 的适用范围更多的是不是文学领域？",
       "link": "https://www.zhihu.com/question/1903008202305574052",
       "heat": "60 万热度"
     },
     {
-      "rank": "28",
+      "rank": "31",
       "title": "如果我想追求自己的兴趣爱好，但又担心被别人嘲笑「不务正业」，我该怎么办？",
       "link": "https://www.zhihu.com/question/1909291149262320236",
       "heat": "60 万热度"
     },
     {
-      "rank": "29",
-      "title": "哲学里的「实在性」是什么意思？",
-      "link": "https://www.zhihu.com/question/660976066",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "30",
+      "rank": "32",
       "title": "对新生儿来说，洗衣机的「母婴洗」功能有必要吗？",
       "link": "https://www.zhihu.com/question/1900576119486383577",
       "heat": "60 万热度"
     },
     {
-      "rank": "31",
-      "title": "为什么建筑要设计成奇形怪状，就不能按照最大化利用率去盖么？",
-      "link": "https://www.zhihu.com/question/1896567883489841631",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "江苏城市足球联赛为什么火了？这种模式其他地方能「抄作业」吗？",
-      "link": "https://www.zhihu.com/question/1910732449572427589",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "33",
+      "title": "张爱玲的经历告诉我们什么道理？",
+      "link": "https://www.zhihu.com/question/1906864888200042099",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "《星穹铁道》里公司突然没了令使，单靠科技武器，还能那么强吗？",
+      "link": "https://www.zhihu.com/question/1887915473921889743",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "35",
       "title": "34 岁皇马巨星退役 2 年已「胖成球」，为什么体育运动员退役后会容易变胖？",
       "link": "https://www.zhihu.com/question/1910723915820524645",
       "heat": "59 万热度"
     },
     {
-      "rank": "34",
-      "title": "高盛首席称人民币升值支撑中国股市和楼市上涨，汇率和股市存在怎样的关联？",
-      "link": "https://www.zhihu.com/question/1910601774206816935",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "高考倒计时 10 天，提分进入瓶颈期该怎么办？",
-      "link": "https://www.zhihu.com/question/1910704576648144100",
-      "heat": "58 万热度"
-    },
-    {
       "rank": "36",
+      "title": "外媒锐评《最终幻想 7》重制，就不该是三部曲，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1894434907771611131",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "37",
       "title": "韩媒称「LCK 是电竞界的英超，计划把比赛放在海外」你觉得以 LCK 的体量在海外办赛有市场吗？",
       "link": "https://www.zhihu.com/question/1910645076868163219",
       "heat": "58 万热度"
     },
     {
-      "rank": "37",
-      "title": "白天写方案、晚上摆地摊，「斜杠青年」的兴起是抵抗职场异化还是加速自我工具化？",
-      "link": "https://www.zhihu.com/question/1910350034974766138",
-      "heat": "58 万热度"
-    },
-    {
       "rank": "38",
-      "title": "优衣库上新的 S 码女装比童装还小，如何看待这种「女装变童装」的现象？",
-      "link": "https://www.zhihu.com/question/1910344792786863934",
+      "title": "高考倒计时 10 天，提分进入瓶颈期该怎么办？",
+      "link": "https://www.zhihu.com/question/1910704576648144100",
       "heat": "58 万热度"
     },
     {
       "rank": "39",
+      "title": "高盛首席称人民币升值支撑中国股市和楼市上涨，汇率和股市存在怎样的关联？",
+      "link": "https://www.zhihu.com/question/1910601774206816935",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "为什么建筑要设计成奇形怪状，就不能按照最大化利用率去盖么？",
+      "link": "https://www.zhihu.com/question/1896567883489841631",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "41",
       "title": "如何评价《机动战士高达 GQuuuuuuX》第八集？",
       "link": "https://www.zhihu.com/question/1910866410562883988",
       "heat": "58 万热度"
     },
     {
-      "rank": "40",
+      "rank": "42",
+      "title": "白天写方案、晚上摆地摊，「斜杠青年」的兴起是抵抗职场异化还是加速自我工具化？",
+      "link": "https://www.zhihu.com/question/1910350034974766138",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "43",
       "title": "如何评价《原神》5.6 版本 5 月 27 日更新的「机谋变策战记」挑战活动?",
       "link": "https://www.zhihu.com/question/1910663667827081482",
       "heat": "58 万热度"
     },
     {
-      "rank": "41",
+      "rank": "44",
       "title": "为什么有那么多人喜欢追美剧？",
       "link": "https://www.zhihu.com/question/290073022",
       "heat": "58 万热度"
     },
     {
-      "rank": "42",
+      "rank": "45",
+      "title": "优衣库上新的 S 码女装比童装还小，如何看待这种「女装变童装」的现象？",
+      "link": "https://www.zhihu.com/question/1910344792786863934",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "哲学里的「实在性」是什么意思？",
+      "link": "https://www.zhihu.com/question/660976066",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "为什么摄影爱好者都追求背景虚化？",
+      "link": "https://www.zhihu.com/question/795255230",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "48",
       "title": "如果 21 世纪人类还没发现广义相对论。但是发现人造卫星定位精度不准。可以用深度学习的办法来修正错误吗？",
       "link": "https://www.zhihu.com/question/652858706",
       "heat": "58 万热度"
     },
     {
-      "rank": "43",
+      "rank": "49",
       "title": "印度为什么向多国派出「宣讲团」？",
       "link": "https://www.zhihu.com/question/1910255124120606618",
       "heat": "58 万热度"
     },
     {
-      "rank": "44",
+      "rank": "50",
       "title": "如何看待美团一季度收入不降反增，净利润 100.57 亿，同比大增 87.3% ？",
       "link": "https://www.zhihu.com/question/1910634631956498039",
       "heat": "57 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "《红楼梦》中让你印象最深刻的片段是什么？",
-      "link": "https://www.zhihu.com/question/474231266",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "特斯拉高速路追尾大货车，径直撞入货车底部，具体情况如何？导致车祸的原因可能是什么？",
-      "link": "https://www.zhihu.com/question/1910353459632365574",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "张爱玲的经历告诉我们什么道理？",
-      "link": "https://www.zhihu.com/question/1906864888200042099",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "假如在战锤 40k 传播可以修炼的磁场转动训练法和基因锁会怎么样？",
-      "link": "https://www.zhihu.com/question/3852326353",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "《DOTA》切后排是什么意思？",
-      "link": "https://www.zhihu.com/question/662599693",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "江苏十三个地级市足球超级联赛能不能成为拉内需的一手妙棋？",
-      "link": "https://www.zhihu.com/question/1908775606113510628",
-      "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-05-28 12:55:27"
+  "generated_at": "2025-05-28 13:25:45"
 }
