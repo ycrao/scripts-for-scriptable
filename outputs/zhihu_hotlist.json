@@ -1,156 +1,156 @@
 {
-  "artifact_id": "16ddf58d-2954-42aa-85de-5a34cc621480",
+  "artifact_id": "0faa1867-406f-4d5a-afe4-413d71915bd8",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "全国各地现理发店倒闭潮，没有电商冲击，理发店为什么自己能干黄？",
       "link": "https://www.zhihu.com/question/1910780418401212230",
-      "heat": "681 万热度"
+      "heat": "636 万热度"
     },
     {
       "rank": "2",
       "title": "深蓝汽车「车机开屏广告」为何遭到用户抵制？这一行为侵犯了消费者的哪些权益，会带来哪些隐患？",
       "link": "https://www.zhihu.com/question/1910861129627973147",
-      "heat": "248 万热度"
+      "heat": "243 万热度"
     },
     {
       "rank": "3",
-      "title": "2025 高考报名人数 1335 万，较去年减少 7 万，与网传 1400 万有出入，如何看待高考人数变化？",
-      "link": "https://www.zhihu.com/question/1911012849683228026",
-      "heat": "181 万热度"
+      "title": "商务部就「零公里二手车」乱象约谈车企，这一现象对市场秩序和消费者权益有何影响？",
+      "link": "https://www.zhihu.com/question/1910736247544067650",
+      "heat": "169 万热度"
     },
     {
       "rank": "4",
-      "title": "商务部就「零公里二手车」乱象约谈车企，这一现象对市场秩序和消费者权益有何影响？",
-      "link": "https://www.zhihu.com/question/1910736247544067650",
-      "heat": "171 万热度"
+      "title": "2025 高考报名人数 1335 万，较去年减少 7 万，与网传 1400 万有出入，如何看待高考人数变化？",
+      "link": "https://www.zhihu.com/question/1911012849683228026",
+      "heat": "129 万热度"
     },
     {
       "rank": "5",
       "title": "为什么外骨骼还没有在重体力劳动中普及呢？",
       "link": "https://www.zhihu.com/question/1903589892237288535",
-      "heat": "128 万热度"
+      "heat": "110 万热度"
     },
     {
       "rank": "6",
       "title": "法国军方首次回应印巴冲突中「阵风」疑被击落，回应透露哪些关键信息？",
       "link": "https://www.zhihu.com/question/1911062044934926621",
-      "heat": "111 万热度"
+      "heat": "101 万热度"
     },
     {
       "rank": "7",
-      "title": "张学友东莞演唱会为高考延期，此前被投诉，如何看待这一结果？",
-      "link": "https://www.zhihu.com/question/1910999088041785015",
-      "heat": "94 万热度"
+      "title": "人民币兑美元汇率双双升破 7.17，创 2024 年 12 月以来新高，货币升值会更有利于股市和楼市上涨吗？",
+      "link": "https://www.zhihu.com/question/1910601043349333924",
+      "heat": "91 万热度"
     },
     {
       "rank": "8",
-      "title": "项羽如果乌江没自刎而是卷土重来，还能成功吗？",
-      "link": "https://www.zhihu.com/question/1906739121298322494",
-      "heat": "92 万热度"
-    },
-    {
-      "rank": "9",
-      "title": "人民币兑美元汇率双双升破 7.17，创 2024 年 12 月以来新高，货币升值会更有利于股市和楼市上涨吗？",
-      "link": "https://www.zhihu.com/question/1910601043349333924",
-      "heat": "90 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "《绝地潜兵 2》的地球保卫战中，本该沦陷的城市「超级上海」被中美玩家携手保卫屹立不倒，如何评价此事？",
-      "link": "https://www.zhihu.com/question/1910753744209052550",
-      "heat": "89 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "美国内部「去美元化」，佛州承认黄金和白银为法定货币，会对美元有什么影响？其能为民众提供贬值对冲吗？",
-      "link": "https://www.zhihu.com/question/1910961690582967542",
-      "heat": "83 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "王熙凤出生于四大家族，却大字不识，这样的设定合理吗？",
-      "link": "https://www.zhihu.com/question/1888731851767654284",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "如何评价赵丽颖、尹昉主演的电视剧《在人间》？",
-      "link": "https://www.zhihu.com/question/1910774107483661789",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "14",
       "title": "编程语言函数定义有 fn，fun，func，function，def 关键字，你喜欢哪一种？",
       "link": "https://www.zhihu.com/question/1911020987971004259",
       "heat": "71 万热度"
     },
     {
-      "rank": "15",
-      "title": "你的同事或领导知道你有其他兼职时，你会因此而烦恼么？",
-      "link": "https://www.zhihu.com/question/1905549478703899560",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "16",
+      "rank": "9",
       "title": "梅西为什么会那么强，强到横压一个时代？",
       "link": "https://www.zhihu.com/question/2113951682",
       "heat": "70 万热度"
     },
     {
-      "rank": "17",
-      "title": "苏州工业园区充电站多辆汽车起火，这反映出电动汽车安全性和充电站管理存在哪些问题？",
-      "link": "https://www.zhihu.com/question/1909978461226919225",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "18",
+      "rank": "10",
       "title": "AI 独角兽用程序员冒充 AI 写代码，虚报营收撑起 15 亿美元估值，为何连微软、亚马逊都没能识破？",
       "link": "https://www.zhihu.com/question/1910047089766917491",
-      "heat": "70 万热度"
+      "heat": "69 万热度"
     },
     {
-      "rank": "19",
+      "rank": "11",
+      "title": "美国内部「去美元化」，佛州承认黄金和白银为法定货币，会对美元有什么影响？其能为民众提供贬值对冲吗？",
+      "link": "https://www.zhihu.com/question/1910961690582967542",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "12",
       "title": "历史上哪些名人有特别搞笑或者离奇的死亡方式？",
       "link": "https://www.zhihu.com/question/23028959",
       "heat": "64 万热度"
     },
     {
-      "rank": "20",
-      "title": "为什么每次从亲戚家拜访回来我妈都说我没眼力见?",
-      "link": "https://www.zhihu.com/question/1897088079233253850",
-      "heat": "63 万热度"
+      "rank": "13",
+      "title": "王熙凤出生于四大家族，却大字不识，这样的设定合理吗？",
+      "link": "https://www.zhihu.com/question/1888731851767654284",
+      "heat": "64 万热度"
     },
     {
-      "rank": "21",
-      "title": "网传巴西检方起诉比亚迪侵犯劳工权益，涉嫌人口贩运，具体情况如何？如何看待这一风波？",
-      "link": "https://www.zhihu.com/question/1911094824402129595",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "22",
+      "rank": "14",
       "title": "为什么没有金色的车子，是不允许吗？",
       "link": "https://www.zhihu.com/question/1909401605914223428",
       "heat": "63 万热度"
     },
     {
-      "rank": "23",
+      "rank": "15",
+      "title": "你的同事或领导知道你有其他兼职时，你会因此而烦恼么？",
+      "link": "https://www.zhihu.com/question/1905549478703899560",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "项羽如果乌江没自刎而是卷土重来，还能成功吗？",
+      "link": "https://www.zhihu.com/question/1906739121298322494",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "苏州工业园区充电站多辆汽车起火，这反映出电动汽车安全性和充电站管理存在哪些问题？",
+      "link": "https://www.zhihu.com/question/1909978461226919225",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "18",
+      "title": "如何评价赵丽颖、尹昉主演的电视剧《在人间》？",
+      "link": "https://www.zhihu.com/question/1910774107483661789",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "19",
       "title": "从文学创作者到剧本开发，网文作者和编剧的差距有多大？",
       "link": "https://www.zhihu.com/question/1907815853023555680",
       "heat": "59 万热度"
     },
     {
-      "rank": "24",
+      "rank": "20",
+      "title": "为什么每次从亲戚家拜访回来我妈都说我没眼力见?",
+      "link": "https://www.zhihu.com/question/1897088079233253850",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "网传巴西检方起诉比亚迪侵犯劳工权益，涉嫌人口贩运，具体情况如何？如何看待这一风波？",
+      "link": "https://www.zhihu.com/question/1911094824402129595",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "22",
       "title": "如何评价《折腰》中大乔不愿出兵一事？",
       "link": "https://www.zhihu.com/question/1910458400598374229",
       "heat": "59 万热度"
     },
     {
-      "rank": "25",
+      "rank": "23",
       "title": "在山上挖一座不放鱼的池塘，再过 100 年时间，里面会慢慢有鱼吗？",
       "link": "https://www.zhihu.com/question/1907409016080019592",
       "heat": "58 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "张学友东莞演唱会为高考延期，此前被投诉，如何看待这一结果？",
+      "link": "https://www.zhihu.com/question/1910999088041785015",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "《绝地潜兵 2》的地球保卫战中，本该沦陷的城市「超级上海」被中美玩家携手保卫屹立不倒，如何评价此事？",
+      "link": "https://www.zhihu.com/question/1910753744209052550",
+      "heat": "57 万热度"
     },
     {
       "rank": "26",
@@ -208,14 +208,14 @@
     },
     {
       "rank": "35",
-      "title": "如何评价《一人之下》第 718（761）话情报？",
-      "link": "https://www.zhihu.com/question/1911064070263636988",
+      "title": "广东人吃东西讲究「食材本味」，那为什么西湖醋鱼没有在广东流行开来？",
+      "link": "https://www.zhihu.com/question/5751796770",
       "heat": "56 万热度"
     },
     {
       "rank": "36",
-      "title": "广东人吃东西讲究「食材本味」，那为什么西湖醋鱼没有在广东流行开来？",
-      "link": "https://www.zhihu.com/question/5751796770",
+      "title": "韩媒称「LCK 是电竞界的英超，计划把比赛放在海外」你觉得以 LCK 的体量在海外办赛有市场吗？",
+      "link": "https://www.zhihu.com/question/1910645076868163219",
       "heat": "56 万热度"
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "rank": "38",
-      "title": "韩媒称「LCK 是电竞界的英超，计划把比赛放在海外」你觉得以 LCK 的体量在海外办赛有市场吗？",
-      "link": "https://www.zhihu.com/question/1910645076868163219",
+      "title": "如何评价《一人之下》第 718（761）话情报？",
+      "link": "https://www.zhihu.com/question/1911064070263636988",
       "heat": "56 万热度"
     },
     {
       "rank": "39",
-      "title": "很多人都说现在的网文文笔好不好无所谓，只要爽点够多，就一定有流量。事实真的是这样吗？",
-      "link": "https://www.zhihu.com/question/1909283405503369379",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "40",
       "title": "特斯拉高速路追尾大货车，径直撞入货车底部，具体情况如何？导致车祸的原因可能是什么？",
       "link": "https://www.zhihu.com/question/1910353459632365574",
       "heat": "56 万热度"
     },
     {
-      "rank": "41",
+      "rank": "40",
       "title": "高盛首席称人民币升值支撑中国股市和楼市上涨，汇率和股市存在怎样的关联？",
       "link": "https://www.zhihu.com/question/1910601774206816935",
       "heat": "56 万热度"
     },
     {
-      "rank": "42",
+      "rank": "41",
       "title": "为什么有那么多人喜欢追美剧？",
       "link": "https://www.zhihu.com/question/290073022",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "很多人都说现在的网文文笔好不好无所谓，只要爽点够多，就一定有流量。事实真的是这样吗？",
+      "link": "https://www.zhihu.com/question/1909283405503369379",
       "heat": "56 万热度"
     },
     {
@@ -262,8 +262,8 @@
     },
     {
       "rank": "44",
-      "title": "大学生是否应该为自己的以后考虑？",
-      "link": "https://www.zhihu.com/question/326007043",
+      "title": "如何评价《原神》5.6 版本 5 月 27 日更新的「机谋变策战记」挑战活动?",
+      "link": "https://www.zhihu.com/question/1910663667827081482",
       "heat": "56 万热度"
     },
     {
@@ -274,34 +274,34 @@
     },
     {
       "rank": "46",
-      "title": "如何评价《原神》5.6 版本 5 月 27 日更新的「机谋变策战记」挑战活动?",
-      "link": "https://www.zhihu.com/question/1910663667827081482",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "47",
       "title": "34 岁皇马巨星退役 2 年已「胖成球」，为什么体育运动员退役后会容易变胖？",
       "link": "https://www.zhihu.com/question/1910723915820524645",
       "heat": "56 万热度"
     },
     {
+      "rank": "47",
+      "title": "大学生是否应该为自己的以后考虑？",
+      "link": "https://www.zhihu.com/question/326007043",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "48",
-      "title": "计算机是如何识别代码的？比如 if，计算机是怎么知道它是「如果」的意思的？",
-      "link": "https://www.zhihu.com/question/1910147480336695918",
+      "title": "阿格莱雅从哪个方面能看出来有神性？",
+      "link": "https://www.zhihu.com/question/1910480346866225913",
       "heat": "56 万热度"
     },
     {
       "rank": "49",
-      "title": "如果你可以从历史上抹去一种编程语言，你会选择哪个？",
-      "link": "https://www.zhihu.com/question/1910388738661549773",
+      "title": "如何在面对失败时，不再用「好坏」来衡量自己？",
+      "link": "https://www.zhihu.com/question/1909291149199405320",
       "heat": "56 万热度"
     },
     {
       "rank": "50",
-      "title": "阿格莱雅从哪个方面能看出来有神性？",
-      "link": "https://www.zhihu.com/question/1910480346866225913",
+      "title": "《红楼梦》中让你印象最深刻的片段是什么？",
+      "link": "https://www.zhihu.com/question/474231266",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-05-29 04:27:29"
+  "generated_at": "2025-05-29 04:45:09"
 }
