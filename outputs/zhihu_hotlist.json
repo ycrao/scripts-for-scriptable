@@ -1,96 +1,96 @@
 {
-  "artifact_id": "69439421-c31a-4922-b018-dc6be7242803",
+  "artifact_id": "ccbfc74b-ec9f-44bf-a7e6-436d7929e5ee",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "今年西瓜收购价只有 2 毛一斤，有瓜农把西瓜扔池塘，现在超市西瓜仍几元一斤，为何会这样？",
       "link": "https://www.zhihu.com/question/1911848991445968024",
-      "heat": "453 万热度"
+      "heat": "437 万热度"
     },
     {
       "rank": "2",
       "title": "QQ 等级集齐 4 个皇冠后是什么样的？",
       "link": "https://www.zhihu.com/question/52704017",
-      "heat": "313 万热度"
+      "heat": "301 万热度"
     },
     {
       "rank": "3",
       "title": "单位规定 8:30 上班，但我有一个同事，今年 50，他每天 6-7 点就上班了，我不理解，这是怎样一种心态？",
       "link": "https://www.zhihu.com/question/1909204346266162393",
-      "heat": "178 万热度"
+      "heat": "169 万热度"
     },
     {
       "rank": "4",
       "title": "女子 6.8 元网购 10 斤花生米到手只有 10 粒，涉事店铺已注销，这一情况是否可向平台索赔？",
       "link": "https://www.zhihu.com/question/1910326110253709092",
-      "heat": "167 万热度"
+      "heat": "163 万热度"
     },
     {
       "rank": "5",
       "title": "一个连长能叫出每一个士兵的名字吗？",
       "link": "https://www.zhihu.com/question/1911118462111163994",
-      "heat": "132 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "6",
-      "title": "超级上海保卫战搁战锤算是什么级别的战役？",
-      "link": "https://www.zhihu.com/question/1911525709211501751",
-      "heat": "112 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "日本坐地铁高铁为什么没有进站候车和巨大的候车大厅？",
-      "link": "https://www.zhihu.com/question/658045977",
-      "heat": "88 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "银川烧烤店 31 死爆炸案宣判，15 人分别被判处六年至一年不等有期徒刑，怎样从法律角度解读？",
-      "link": "https://www.zhihu.com/question/1911739929010074583",
-      "heat": "86 万热度"
-    },
-    {
-      "rank": "9",
-      "title": "618 有什么电竞椅值得入手，选购应该注意哪些方面？",
-      "link": "https://www.zhihu.com/question/1910761276625355460",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "为什么程序员可以处理闰年，但处理不了闰秒？",
-      "link": "https://www.zhihu.com/question/569807653",
-      "heat": "82 万热度"
-    },
-    {
-      "rank": "11",
       "title": "为什么人类不把垃圾倾倒在活火山里？",
       "link": "https://www.zhihu.com/question/50578415",
       "heat": "71 万热度"
     },
     {
-      "rank": "12",
-      "title": "为什么那么多人宁愿月薪五六千，上下班挤地铁，每月剩不了几个钱也要留在大城市生活？",
-      "link": "https://www.zhihu.com/question/1911319943682700530",
-      "heat": "67 万热度"
+      "rank": "7",
+      "title": "日本坐地铁高铁为什么没有进站候车和巨大的候车大厅？",
+      "link": "https://www.zhihu.com/question/658045977",
+      "heat": "71 万热度"
     },
     {
-      "rank": "13",
-      "title": "韩国生育率走高，单月出生人口实现「九连涨」，韩国生育率上升的原因有哪些？",
-      "link": "https://www.zhihu.com/question/1911458788420056077",
+      "rank": "8",
+      "title": "银川烧烤店 31 死爆炸案宣判，15 人分别被判处六年至一年不等有期徒刑，怎样从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1911739929010074583",
+      "heat": "68 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "为什么那么多人宁愿月薪五六千，上下班挤地铁，每月剩不了几个钱也要留在大城市生活？",
+      "link": "https://www.zhihu.com/question/1911319943682700530",
       "heat": "66 万热度"
     },
     {
-      "rank": "14",
+      "rank": "10",
       "title": "高考前最后两周如何调整到好的状态？",
       "link": "https://www.zhihu.com/question/1907676655251592972",
       "heat": "65 万热度"
     },
     {
+      "rank": "11",
+      "title": "超级上海保卫战搁战锤算是什么级别的战役？",
+      "link": "https://www.zhihu.com/question/1911525709211501751",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "618 有什么电竞椅值得入手，选购应该注意哪些方面？",
+      "link": "https://www.zhihu.com/question/1910761276625355460",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "韩国生育率走高，单月出生人口实现「九连涨」，韩国生育率上升的原因有哪些？",
+      "link": "https://www.zhihu.com/question/1911458788420056077",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "为什么程序员可以处理闰年，但处理不了闰秒？",
+      "link": "https://www.zhihu.com/question/569807653",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "15",
       "title": "LPL 2025 赛季第二赛段淘汰赛 BLG 3:0 淘汰 iG，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1912202624754758747",
-      "heat": "63 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "16",
@@ -106,44 +106,44 @@
     },
     {
       "rank": "18",
-      "title": "一个 NBA 球员：大当家冠军数 +MVP 数量 =6，怎么排列历史地位最高？",
-      "link": "https://www.zhihu.com/question/1906951870049685878",
-      "heat": "59 万热度"
+      "title": "如何评价断眉在《歌手 2025》第三期演唱的《Attention》+《See You Again》？",
+      "link": "https://www.zhihu.com/question/1911866662505931329",
+      "heat": "58 万热度"
     },
     {
       "rank": "19",
-      "title": "如何评价断眉在《歌手 2025》第三期演唱的《Attention》+《See You Again》？",
-      "link": "https://www.zhihu.com/question/1911866662505931329",
-      "heat": "59 万热度"
+      "title": "一个 NBA 球员：大当家冠军数 +MVP 数量 =6，怎么排列历史地位最高？",
+      "link": "https://www.zhihu.com/question/1906951870049685878",
+      "heat": "58 万热度"
     },
     {
       "rank": "20",
       "title": "为什么「不吃早餐」不健康，而「轻断食」又是健康的？",
       "link": "https://www.zhihu.com/question/1909413081139885864",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "21",
       "title": "河北武邑县一化工企业车间发生煮洗釜爆炸，已致 5 死 2 伤，具体情况如何？",
       "link": "https://www.zhihu.com/question/1912188985633104911",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "22",
       "title": "影视飓风揭露视频号可发布有偿卖血视频乱象，具体情况如何？视频号平台是否涉嫌违法违规？",
       "link": "https://www.zhihu.com/question/1911544383972537715",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "如何看待 2025 年江苏省城市足球联赛第三轮比赛，扬州队战胜常州队？",
-      "link": "https://www.zhihu.com/question/1912203339011171677",
       "heat": "58 万热度"
     },
     {
-      "rank": "24",
+      "rank": "23",
       "title": "为啥广东这么潮湿，但是广东人基本不吃辣椒排湿？",
       "link": "https://www.zhihu.com/question/1911398623553513175",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "如何看待 2025 年江苏省城市足球联赛第三轮比赛，扬州队战胜常州队？",
+      "link": "https://www.zhihu.com/question/1912203339011171677",
       "heat": "57 万热度"
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "rank": "38",
-      "title": "LPL 2025 赛季第二赛段淘汰赛 TES vs FPX，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1912189389020308266",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "39",
       "title": "为什么游戏里需要将冲锋枪设定为一个低伤害的武器？",
       "link": "https://www.zhihu.com/question/1911308625529513790",
       "heat": "54 万热度"
     },
     {
-      "rank": "40",
-      "title": "孩子从小就开始英语启蒙，学着学着就讨厌英语了，你觉得是为什么？什么才是正确的启蒙方式呢？",
-      "link": "https://www.zhihu.com/question/661068852",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "41",
+      "rank": "39",
       "title": "理想汽车第一季度调整后净利润下降 20％，交付量增长 16％ 至 92864 辆，如何评价这一业绩？",
       "link": "https://www.zhihu.com/question/1911467242572461998",
       "heat": "54 万热度"
     },
     {
-      "rank": "42",
+      "rank": "40",
       "title": "奔驰 e 和奥迪 a6 哪个气场足?",
       "link": "https://www.zhihu.com/question/415981200",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "孩子从小就开始英语启蒙，学着学着就讨厌英语了，你觉得是为什么？什么才是正确的启蒙方式呢？",
+      "link": "https://www.zhihu.com/question/661068852",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "LPL 2025 赛季第二赛段淘汰赛 TES vs FPX，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1912189389020308266",
       "heat": "54 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-06-01 04:25:04"
+  "generated_at": "2025-06-01 04:41:51"
 }
