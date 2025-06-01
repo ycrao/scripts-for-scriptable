@@ -1,90 +1,90 @@
 {
-  "artifact_id": "7f25640a-6255-4ce4-92dd-f4fd3164216e",
+  "artifact_id": "a4b51a03-fec6-4d87-a522-36396498fcb4",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "姆巴佩离队后巴黎 5:0 夺欧冠，是否说明「姆总」反而限制了球队的发展？",
       "link": "https://www.zhihu.com/question/1912372997861384712",
-      "heat": "641 万热度"
+      "heat": "650 万热度"
     },
     {
       "rank": "2",
       "title": "人社部印发通知，将推动国有企业建立以技能为导向的薪酬分配制度，从经济结构看，为什么要做这样的改革？",
       "link": "https://www.zhihu.com/question/1912063755723993251",
-      "heat": "526 万热度"
+      "heat": "560 万热度"
     },
     {
       "rank": "3",
       "title": "微信服务器会保留聊天记录吗？ 会保存多久?",
       "link": "https://www.zhihu.com/question/1909284708476499954",
-      "heat": "250 万热度"
+      "heat": "267 万热度"
     },
     {
       "rank": "4",
       "title": "华为推出参数规模高达 7180 亿的盘古 Ultra MoE 模型，这一突破对 AI 领域意味着什么？",
       "link": "https://www.zhihu.com/question/1911841949167646404",
-      "heat": "200 万热度"
+      "heat": "167 万热度"
     },
     {
       "rank": "5",
       "title": "40 多岁男子坐共享单车车篮摔死，单手骑车的同伴被认定全责，骑车同伴将承担哪些责任？",
       "link": "https://www.zhihu.com/question/1910782566706934331",
-      "heat": "153 万热度"
+      "heat": "165 万热度"
     },
     {
       "rank": "6",
-      "title": "87 版《红楼梦》哪个角色选角最失败？",
-      "link": "https://www.zhihu.com/question/722809797",
-      "heat": "133 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "2025 端午档票房破 3 亿，《碟中谍 8》领跑，你看了哪部电影？感受如何？",
-      "link": "https://www.zhihu.com/question/1912189600996234757",
-      "heat": "132 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "为什么山水集团明知道孙连城的爱好，却不送他望远镜投其所好?",
-      "link": "https://www.zhihu.com/question/466540537",
-      "heat": "126 万热度"
-    },
-    {
-      "rank": "9",
       "title": "哈佛 6700 名在校国际学生需转学或离境，学生们该怎样应对？美国其他高校留学生未来会受影响吗？",
       "link": "https://www.zhihu.com/question/1911351790210879752",
       "heat": "120 万热度"
     },
     {
-      "rank": "10",
+      "rank": "7",
       "title": "如何评价《原神》2025 年 6 月 1 日更新的幻想真境剧诗（雷冰草）？",
       "link": "https://www.zhihu.com/question/1912460850888942300",
-      "heat": "113 万热度"
+      "heat": "118 万热度"
+    },
+    {
+      "rank": "8",
+      "title": "为什么山水集团明知道孙连城的爱好，却不送他望远镜投其所好?",
+      "link": "https://www.zhihu.com/question/466540537",
+      "heat": "115 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "2025 端午档票房破 3 亿，《碟中谍 8》领跑，你看了哪部电影？感受如何？",
+      "link": "https://www.zhihu.com/question/1912189600996234757",
+      "heat": "112 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "87 版《红楼梦》哪个角色选角最失败？",
+      "link": "https://www.zhihu.com/question/722809797",
+      "heat": "101 万热度"
     },
     {
       "rank": "11",
       "title": "印度首次承认战机在印巴冲突中被击落，未透露具体数字，印度为何在冲突结束数周后承认战机损失，有何考量？",
       "link": "https://www.zhihu.com/question/1912286902863790241",
-      "heat": "111 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "12",
       "title": "如何看待樊振东加盟德国乒乓球甲级联赛？",
       "link": "https://www.zhihu.com/question/1912349234226794753",
-      "heat": "109 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "13",
       "title": "如何评价余承东在未来汽车先行者大会的发言？",
       "link": "https://www.zhihu.com/question/1912235818241758698",
-      "heat": "104 万热度"
+      "heat": "99 万热度"
     },
     {
       "rank": "14",
       "title": "榴莲价格暴跌 50% ，商家称「一天一个价」，如何看待此次榴莲价格「腰斩」？未来还会降吗？",
       "link": "https://www.zhihu.com/question/655234965",
-      "heat": "100 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "15",
@@ -96,84 +96,84 @@
       "rank": "16",
       "title": "对做理论物理而言，在一个二三本学校做教职是否意味着学术生涯的终结？",
       "link": "https://www.zhihu.com/question/1911829669407339899",
-      "heat": "95 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "17",
-      "title": "如何评价赵丽颖在《在人间》中的演技？",
-      "link": "https://www.zhihu.com/question/1911111542553937734",
-      "heat": "92 万热度"
-    },
-    {
-      "rank": "18",
       "title": "单位规定 8:30 上班，但我有一个同事，今年 50，他每天 6-7 点就上班了，我不理解，这是怎样一种心态？",
       "link": "https://www.zhihu.com/question/1909204346266162393",
       "heat": "75 万热度"
     },
     {
+      "rank": "18",
+      "title": "丁太升说单依纯这次必须输，称常石磊对其演唱影响过重，有依据吗？单依纯是否过度依赖常石磊？",
+      "link": "https://www.zhihu.com/question/1912122539787907778",
+      "heat": "67 万热度"
+    },
+    {
       "rank": "19",
-      "title": "佛山赛龙舟带动消费，有店主收入翻了 3-5 倍，怎样看待龙舟赛对地方经济的提振？值得推广吗？",
-      "link": "https://www.zhihu.com/question/1911753051057911391",
-      "heat": "59 万热度"
+      "title": "宇树科技更名「股份有限公司」，是为上市做准备吗？",
+      "link": "https://www.zhihu.com/question/1911722932851400830",
+      "heat": "62 万热度"
     },
     {
       "rank": "20",
-      "title": "QQ 等级集齐 4 个皇冠后是什么样的？",
-      "link": "https://www.zhihu.com/question/52704017",
-      "heat": "53 万热度"
+      "title": "如何评价赵丽颖在《在人间》中的演技？",
+      "link": "https://www.zhihu.com/question/1911111542553937734",
+      "heat": "59 万热度"
     },
     {
       "rank": "21",
       "title": "如何评价卢伟冰发文「诋毁本身就是一种仰望」，疑似回应余承东发言？两者言论反映了中国科技圈怎样的现状？",
       "link": "https://www.zhihu.com/question/1912439934184289246",
-      "heat": "52 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "22",
-      "title": "如果儿童节允许你做件平时觉得很「孩子气」的事，你会做什么？",
-      "link": "https://www.zhihu.com/question/1908210995224117795",
-      "heat": "51 万热度"
+      "title": "佛山赛龙舟带动消费，有店主收入翻了 3-5 倍，怎样看待龙舟赛对地方经济的提振？值得推广吗？",
+      "link": "https://www.zhihu.com/question/1911753051057911391",
+      "heat": "58 万热度"
     },
     {
       "rank": "23",
-      "title": "如何评价电视剧《藏海传》25-28 集？",
-      "link": "https://www.zhihu.com/question/1911486354937872613",
-      "heat": "51 万热度"
+      "title": "QQ 等级集齐 4 个皇冠后是什么样的？",
+      "link": "https://www.zhihu.com/question/52704017",
+      "heat": "53 万热度"
     },
     {
       "rank": "24",
-      "title": "创作者该如何处理读者「想看爽文」与「想看深度成长」的需求冲突？",
-      "link": "https://www.zhihu.com/question/1910365756706776718",
+      "title": "能推荐一些国产单机武侠游戏吗？",
+      "link": "https://www.zhihu.com/question/420763378",
       "heat": "51 万热度"
     },
     {
       "rank": "25",
-      "title": "为啥广东这么潮湿，但是广东人基本不吃辣椒排湿？",
-      "link": "https://www.zhihu.com/question/1911398623553513175",
+      "title": "奔驰 e 和奥迪 a6 哪个气场足?",
+      "link": "https://www.zhihu.com/question/415981200",
       "heat": "51 万热度"
     },
     {
       "rank": "26",
-      "title": "车主曝深蓝汽车更改隐私协议，要求「必须同意推送推广，否则无法使用软件」，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1911498219470434791",
+      "title": "为什么人类不把垃圾倾倒在活火山里？",
+      "link": "https://www.zhihu.com/question/50578415",
       "heat": "51 万热度"
     },
     {
       "rank": "27",
-      "title": "面对游戏行业开出三倍薪资抢原画师等情况，国漫公司除了「用爱发电」还有什么留人杀手锏么？",
-      "link": "https://www.zhihu.com/question/1910363707436926453",
+      "title": "你坚持玩的最久的一款游戏是什么？",
+      "link": "https://www.zhihu.com/question/377988622",
       "heat": "51 万热度"
     },
     {
       "rank": "28",
-      "title": "LPL 2025 赛季第二赛段淘汰赛 TES vs FPX，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1912189389020308266",
+      "title": "健身中发现很多健身大佬没有指导别人健身的习惯，因为什么?",
+      "link": "https://www.zhihu.com/question/1906376315113805053",
       "heat": "51 万热度"
     },
     {
       "rank": "29",
-      "title": "药物残留最多的蔬菜有哪些？",
-      "link": "https://www.zhihu.com/question/11247597040",
+      "title": "如何评价张爱玲的弟弟张子静的一生？",
+      "link": "https://www.zhihu.com/question/349218568",
       "heat": "51 万热度"
     },
     {
@@ -202,38 +202,38 @@
     },
     {
       "rank": "34",
-      "title": "有没有在一瞬间，感觉到世界十分温暖？",
-      "link": "https://www.zhihu.com/question/353755621",
+      "title": "外包是一种什么体验？",
+      "link": "https://www.zhihu.com/question/313850393",
       "heat": "51 万热度"
     },
     {
       "rank": "35",
-      "title": "无菌蛋和其他鸡蛋的区别在哪里？无菌蛋的「无菌」概念是智商税吗？",
-      "link": "https://www.zhihu.com/question/1911082648983541149",
+      "title": "618 有什么电竞椅值得入手，选购应该注意哪些方面？",
+      "link": "https://www.zhihu.com/question/1910761276625355460",
       "heat": "51 万热度"
     },
     {
       "rank": "36",
-      "title": "如果让你用 Python 开发一个实用的小工具，你会想做什么？",
-      "link": "https://www.zhihu.com/question/14986086706",
+      "title": "游客发现重庆武陵山天池底为 304 不锈钢，景区称可能是防漏措施，用不锈钢治理湖泊渗漏效果怎么样？",
+      "link": "https://www.zhihu.com/question/1911019629867918389",
       "heat": "51 万热度"
     },
     {
       "rank": "37",
-      "title": "如何评价国产动画电影《时间之子》？",
-      "link": "https://www.zhihu.com/question/1908932793662157517",
+      "title": "大厦保安临时学习索降从 27 楼滑降到 23 楼实施盗窃，偷走 1 亿元玉石被刑拘，他将受到哪些处罚？",
+      "link": "https://www.zhihu.com/question/1911422567568339965",
       "heat": "51 万热度"
     },
     {
       "rank": "38",
-      "title": "如何看待《一人之下》第 718 话中张楚岚「质问」赵董的举动?",
-      "link": "https://www.zhihu.com/question/1911589327600881761",
+      "title": "如何评价「绝区零」2025 年 5 月 30 日发布的视频「《绝区零》仪玄角色展示 | 决战武道之巅」？",
+      "link": "https://www.zhihu.com/question/1911756045170243227",
       "heat": "51 万热度"
     },
     {
       "rank": "39",
-      "title": "樊振东在 19 年世乒赛和 21 年东京奥运会的两次失利，哪个对他职业生涯影响更大？",
-      "link": "https://www.zhihu.com/question/1911779548846092833",
+      "title": "《西虹市首富》里面想花完钱却越花越多的情况，现实里面会发生吗？",
+      "link": "https://www.zhihu.com/question/428046378",
       "heat": "51 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "能推荐一些国产单机武侠游戏吗？",
-      "link": "https://www.zhihu.com/question/420763378",
+      "title": "为什么黑潮这么强大的外力也没能让黄金裔和元老院联合起来？",
+      "link": "https://www.zhihu.com/question/1911553523868500465",
       "heat": "51 万热度"
     },
     {
       "rank": "42",
-      "title": "618 有什么电竞椅值得入手，选购应该注意哪些方面？",
-      "link": "https://www.zhihu.com/question/1910761276625355460",
+      "title": "《还珠格格》中的皇后是真的坏吗？",
+      "link": "https://www.zhihu.com/question/583912436",
       "heat": "51 万热度"
     },
     {
       "rank": "43",
-      "title": "影视飓风揭露视频号可发布有偿卖血视频乱象，具体情况如何？视频号平台是否涉嫌违法违规？",
-      "link": "https://www.zhihu.com/question/1911544383972537715",
+      "title": "如何看待《一人之下》第 718 话中张楚岚「质问」赵董的举动?",
+      "link": "https://www.zhihu.com/question/1911589327600881761",
       "heat": "51 万热度"
     },
     {
       "rank": "44",
-      "title": "一个 NBA 球员：大当家冠军数 +MVP 数量 =6，怎么排列历史地位最高？",
-      "link": "https://www.zhihu.com/question/1906951870049685878",
+      "title": "感觉自己越来越冷漠，对待亲密的人也只是流于表面的担心，不知道该怎么应对这种情况怎么办？",
+      "link": "https://www.zhihu.com/question/1911235410304148853",
       "heat": "51 万热度"
     },
     {
       "rank": "45",
-      "title": "奔驰 e 和奥迪 a6 哪个气场足?",
-      "link": "https://www.zhihu.com/question/415981200",
+      "title": "流血、燃烧、中毒、冻伤在游戏中往往表现都是持续性损失血量，既然表现形式大同小异为何要做出多种异常状态？",
+      "link": "https://www.zhihu.com/question/1911892826792396257",
       "heat": "51 万热度"
     },
     {
       "rank": "46",
-      "title": "你坚持玩的最久的一款游戏是什么？",
-      "link": "https://www.zhihu.com/question/377988622",
+      "title": "幼儿园的时候，下雨天就会让孩子请假在家不上学吗?",
+      "link": "https://www.zhihu.com/question/1910789473840640018",
       "heat": "51 万热度"
     },
     {
       "rank": "47",
-      "title": "外包是一种什么体验？",
-      "link": "https://www.zhihu.com/question/313850393",
+      "title": "为什么感觉旅游越来越没意思了？",
+      "link": "https://www.zhihu.com/question/1909216971469337728",
       "heat": "51 万热度"
     },
     {
       "rank": "48",
-      "title": "为什么人类不把垃圾倾倒在活火山里？",
-      "link": "https://www.zhihu.com/question/50578415",
+      "title": "孩子从小就开始英语启蒙，学着学着就讨厌英语了，你觉得是为什么？什么才是正确的启蒙方式呢？",
+      "link": "https://www.zhihu.com/question/661068852",
       "heat": "51 万热度"
     },
     {
       "rank": "49",
-      "title": "健身中发现很多健身大佬没有指导别人健身的习惯，因为什么?",
-      "link": "https://www.zhihu.com/question/1906376315113805053",
+      "title": "旅游，除了照片，你还收获了什么？",
+      "link": "https://www.zhihu.com/question/1908487145259242122",
       "heat": "51 万热度"
     },
     {
       "rank": "50",
-      "title": "如何评价张爱玲的弟弟张子静的一生？",
-      "link": "https://www.zhihu.com/question/349218568",
+      "title": "如果让你用 Python 开发一个实用的小工具，你会想做什么？",
+      "link": "https://www.zhihu.com/question/14986086706",
       "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-06-01 19:39:33"
+  "generated_at": "2025-06-01 19:53:29"
 }
