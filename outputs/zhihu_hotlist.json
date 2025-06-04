@@ -1,48 +1,48 @@
 {
-  "artifact_id": "dd73072f-d2c0-403d-8564-aeec7363cd99",
+  "artifact_id": "371155bf-55e5-4c66-b057-8e169b4984e5",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "白象多半袋面的「多半」是商标，这种行为是否涉及虚假宣传？消费者如何应对商标套路？",
       "link": "https://www.zhihu.com/question/1913626861910582406",
-      "heat": "680 万热度"
+      "heat": "712 万热度"
     },
     {
       "rank": "2",
       "title": "怎么看待美国通过稳定币法案？会对当今世界的金融局势带来哪些变化？",
       "link": "https://www.zhihu.com/question/1910461209506997477",
-      "heat": "334 万热度"
+      "heat": "341 万热度"
     },
     {
       "rank": "3",
       "title": "四川对医护人员发布多条禁令，要求医生未经医院报备，禁止擅自科普，这么要求合理吗？",
       "link": "https://www.zhihu.com/question/1908892182284330474",
-      "heat": "220 万热度"
+      "heat": "210 万热度"
     },
     {
       "rank": "4",
-      "title": "科学家发现一颗超级地球 Kepler-725c，可能存在类地生命，什么是超级地球？能适合人类生存吗？",
-      "link": "https://www.zhihu.com/question/1913368137421775878",
-      "heat": "183 万热度"
+      "title": "一位女士因血友病小孩「鬼探头」交通事故被索 47 万元赔偿，责任判定和索赔金额是否合理？",
+      "link": "https://www.zhihu.com/question/1913602934744252885",
+      "heat": "193 万热度"
     },
     {
       "rank": "5",
       "title": "如何看待小米 15s pro 的首发销量，是否达到小米的预期？",
       "link": "https://www.zhihu.com/question/1913348049624883907",
-      "heat": "180 万热度"
+      "heat": "191 万热度"
     },
     {
       "rank": "6",
-      "title": "一位女士因血友病小孩「鬼探头」交通事故被索 47 万元赔偿，责任判定和索赔金额是否合理？",
-      "link": "https://www.zhihu.com/question/1913602934744252885",
-      "heat": "168 万热度"
+      "title": "科学家发现一颗超级地球 Kepler-725c，可能存在类地生命，什么是超级地球？能适合人类生存吗？",
+      "link": "https://www.zhihu.com/question/1913368137421775878",
+      "heat": "191 万热度"
     },
     {
       "rank": "7",
       "title": "如果不考虑买车的面子问题，是不是一直打车才更理性？",
       "link": "https://www.zhihu.com/question/573754491",
-      "heat": "128 万热度"
+      "heat": "134 万热度"
     },
     {
       "rank": "8",
@@ -90,7 +90,7 @@
       "rank": "15",
       "title": "李在明当选韩国新总统，如何看待他的「实用的外交政策」？中韩关系会回暖吗？",
       "link": "https://www.zhihu.com/question/1913488129228256182",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "16",
@@ -130,56 +130,56 @@
     },
     {
       "rank": "22",
-      "title": "我孩子成绩很差，不想高考怎么办？",
-      "link": "https://www.zhihu.com/question/1913401674199984083",
+      "title": "芝加哥公牛算是豪门么？如何评价公牛管理层的水平？",
+      "link": "https://www.zhihu.com/question/394368686",
       "heat": "52 万热度"
     },
     {
       "rank": "23",
-      "title": "如何评价《绝区零》2.0 版本「商城」上新说明，信号余波」商店可兑换「A 级代理人」自选箱？",
-      "link": "https://www.zhihu.com/question/1913312565280342114",
+      "title": "班级高价请老师，花钱买节目，外包的校园演出真能培养孩子能力吗？素质教育如何避免沦为「拼钱拼资源」竞赛？",
+      "link": "https://www.zhihu.com/question/1911758020532208546",
       "heat": "52 万热度"
     },
     {
       "rank": "24",
-      "title": "暑假快到了，有哪些游戏适合学生党在夏日的漫长假期中游玩呢？",
-      "link": "https://www.zhihu.com/question/1913250169832584893",
+      "title": "哪些文学作品书写了「女性困境」？",
+      "link": "https://www.zhihu.com/question/1910357497216202097",
       "heat": "52 万热度"
     },
     {
       "rank": "25",
-      "title": "现在前南斯拉夫球星为什么越来越少了？",
-      "link": "https://www.zhihu.com/question/38759681",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "读博可以改变一个人的性格吗？",
-      "link": "https://www.zhihu.com/question/14631231510",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "扁平足的孩子为什么普遍运动表现不佳？",
-      "link": "https://www.zhihu.com/question/1907768889389089538",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "28",
       "title": "为什么《剑网 3》浩气盟普遍弱势?",
       "link": "https://www.zhihu.com/question/327170768",
       "heat": "52 万热度"
     },
     {
+      "rank": "26",
+      "title": "如何看待「夏侯湛」把自己撰写《魏书》销毁了？",
+      "link": "https://www.zhihu.com/question/1122982633",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "为什么冰箱全年无休 24 小时运作都不用休息，而空调连续开几个小时就要休息一会？",
+      "link": "https://www.zhihu.com/question/661845513",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "《猫和老鼠》为何能风靡全球？",
+      "link": "https://www.zhihu.com/question/564554080",
+      "heat": "52 万热度"
+    },
+    {
       "rank": "29",
-      "title": "如何看待《神雕侠侣》小说中，英雄大会上，黄蓉安排的「田忌赛马」？",
-      "link": "https://www.zhihu.com/question/1899538001404630040",
+      "title": "你觉得教育是老师重要还是父母重要？",
+      "link": "https://www.zhihu.com/question/648209092",
       "heat": "52 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么冰箱全年无休 24 小时运作都不用休息，而空调连续开几个小时就要休息一会？",
-      "link": "https://www.zhihu.com/question/661845513",
+      "title": "T1 在 LCK 的统治力并不强，但是为什么 LPL 队伍很多都打不过 T1 呢？",
+      "link": "https://www.zhihu.com/question/665764247",
       "heat": "52 万热度"
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "rank": "32",
-      "title": "如何看待「夏侯湛」把自己撰写《魏书》销毁了？",
-      "link": "https://www.zhihu.com/question/1122982633",
+      "title": "听摇滚乐如何入门，有什么推荐的专辑吗？",
+      "link": "https://www.zhihu.com/question/577366931",
       "heat": "52 万热度"
     },
     {
@@ -202,8 +202,8 @@
     },
     {
       "rank": "34",
-      "title": "哪些文学作品书写了「女性困境」？",
-      "link": "https://www.zhihu.com/question/1910357497216202097",
+      "title": "亚朵酒店就「枕套是医院用品」致歉，已中止与供应商合作，如何看待此事？酒店医院共用一家洗涤商真的安全吗？",
+      "link": "https://www.zhihu.com/question/1913362342470705906",
       "heat": "52 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "芝加哥公牛算是豪门么？如何评价公牛管理层的水平？",
-      "link": "https://www.zhihu.com/question/394368686",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "班级高价请老师，花钱买节目，外包的校园演出真能培养孩子能力吗？素质教育如何避免沦为「拼钱拼资源」竞赛？",
-      "link": "https://www.zhihu.com/question/1911758020532208546",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "巴黎世家平角短裤造型裙子 4500 一条，怎样看待这一设计？你觉得值吗？",
-      "link": "https://www.zhihu.com/question/1913204327620768876",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "你觉得教育是老师重要还是父母重要？",
-      "link": "https://www.zhihu.com/question/648209092",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "LPL 2025 赛季第二赛段淘汰赛 FPX 2:3 iG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1913627104895010404",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "《猫和老鼠》为何能风靡全球？",
-      "link": "https://www.zhihu.com/question/564554080",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "T1 在 LCK 的统治力并不强，但是为什么 LPL 队伍很多都打不过 T1 呢？",
-      "link": "https://www.zhihu.com/question/665764247",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "听摇滚乐如何入门，有什么推荐的专辑吗？",
-      "link": "https://www.zhihu.com/question/577366931",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "2025 年 618 轻薄本怎么选？华为笔记本 Linux 版值得入手吗？",
-      "link": "https://www.zhihu.com/question/1913310256861283293",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "亚朵酒店就「枕套是医院用品」致歉，已中止与供应商合作，如何看待此事？酒店医院共用一家洗涤商真的安全吗？",
-      "link": "https://www.zhihu.com/question/1913362342470705906",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "46",
       "title": "《泰坦尼克号》中跨越阶层的爱情如果放在现在的环境下会变成什么样子？",
       "link": "https://www.zhihu.com/question/1911855901243081231",
       "heat": "52 万热度"
     },
     {
-      "rank": "47",
+      "rank": "37",
       "title": "老是怀疑别人，对别人不信任，猜忌心重怎么办？",
       "link": "https://www.zhihu.com/question/323048289",
       "heat": "52 万热度"
     },
     {
-      "rank": "48",
-      "title": "请问如何学好初中英语 ，并在中考取得高分？",
-      "link": "https://www.zhihu.com/question/311594328",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "49",
+      "rank": "38",
       "title": "河南一水库水位下降现千佛石窟，很多佛像头部消失，这一石窟有多大考古价值？该如何对其进行保护？",
       "link": "https://www.zhihu.com/question/1912777720422688721",
       "heat": "52 万热度"
     },
     {
-      "rank": "50",
+      "rank": "39",
       "title": "《dota2》为什么末日大招施法距离在 7.38 版本只有 400 点，这个英雄依然有人选？",
       "link": "https://www.zhihu.com/question/1908116796302680996",
       "heat": "52 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "你觉得什么时候，玩模拟器游戏是毫无心理压力的？",
+      "link": "https://www.zhihu.com/question/1907155596303656435",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "世界各国主食是什么？",
+      "link": "https://www.zhihu.com/question/26811467",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "现在前南斯拉夫球星为什么越来越少了？",
+      "link": "https://www.zhihu.com/question/38759681",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "为什么拼音 26 键没有ü?",
+      "link": "https://www.zhihu.com/question/1908613408124827588",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "2025 年 618 轻薄本怎么选？华为笔记本 Linux 版值得入手吗？",
+      "link": "https://www.zhihu.com/question/1913310256861283293",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "我孩子成绩很差，不想高考怎么办？",
+      "link": "https://www.zhihu.com/question/1913401674199984083",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "00 后、 10 后对于经典影视作品很多都只是听说，几十年后像《大宅门》《亮剑》这类的作品会不会被遗忘？",
+      "link": "https://www.zhihu.com/question/1911862324077224711",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何评价《绝区零》2.0 版本「商城」上新说明，信号余波」商店可兑换「A 级代理人」自选箱？",
+      "link": "https://www.zhihu.com/question/1913312565280342114",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "LPL 2025 赛季第二赛段淘汰赛 FPX 2:3 iG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1913627104895010404",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "重庆一小区物业引入弹性定价模式，将物业服务选择和定价权交给业主，存在哪些利弊？适合推广吗？",
+      "link": "https://www.zhihu.com/question/1911040359246554537",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "暑假快到了，有哪些游戏适合学生党在夏日的漫长假期中游玩呢？",
+      "link": "https://www.zhihu.com/question/1913250169832584893",
+      "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-06-05 07:42:16"
+  "generated_at": "2025-06-05 07:54:45"
 }
