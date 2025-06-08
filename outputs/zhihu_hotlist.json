@@ -1,54 +1,54 @@
 {
-  "artifact_id": "1ce3d433-d751-4733-b07b-3802e971c9ec",
+  "artifact_id": "5005c394-9200-4e0f-825f-d42ae94ddc0d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待青海黄河源发现秦始皇遣使「采药昆仑」石刻？",
       "link": "https://www.zhihu.com/question/1915008181442159378",
-      "heat": "224 万热度"
+      "heat": "209 万热度"
     },
     {
       "rank": "2",
       "title": "怎样看待 2025 语文高考中出现的「开放式默写」？对考生来讲是简单了还是更难了？你能想到哪些诗句？",
       "link": "https://www.zhihu.com/question/1914709128036706293",
-      "heat": "108 万热度"
+      "heat": "111 万热度"
     },
     {
       "rank": "3",
       "title": "如何评价 2025 各地高考英语试卷？今年的英语作文你会怎么写？",
       "link": "https://www.zhihu.com/question/1915084221267026167",
-      "heat": "102 万热度"
+      "heat": "105 万热度"
     },
     {
       "rank": "4",
       "title": "师范生饱和，出生人口下降，师范类专业是不是不建议报了？",
       "link": "https://www.zhihu.com/question/1914986510035452070",
-      "heat": "97 万热度"
+      "heat": "99 万热度"
     },
     {
       "rank": "5",
       "title": "2025 年法网男单决赛，阿尔卡拉斯 3:2 力克辛纳豪取第 5 个大满贯赛事男单冠军，怎么评价他的统治力？",
       "link": "https://www.zhihu.com/question/1915215447655188265",
-      "heat": "86 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "6",
       "title": "2025 年法网男单决赛，阿尔卡拉斯 3:2 极限逆转辛纳夺冠，怎么评价这场网坛 00 后天王之间的史诗对决？",
       "link": "https://www.zhihu.com/question/1915240592507671245",
-      "heat": "85 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "7",
-      "title": "如何评价成龙重返好莱坞的最新作品《功夫梦：融合之道》？",
-      "link": "https://www.zhihu.com/question/1911582568484168667",
-      "heat": "82 万热度"
+      "title": "超充 VS 换电，谁才是电动汽车的未来？",
+      "link": "https://www.zhihu.com/question/10806802666",
+      "heat": "81 万热度"
     },
     {
       "rank": "8",
       "title": "特朗普称和马斯克的关系已结束，警告其若资助民主党将面临严重后果，马斯克这次是做了「亏本」买卖吗？",
       "link": "https://www.zhihu.com/question/1914959625784096578",
-      "heat": "81 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "9",
@@ -58,15 +58,15 @@
     },
     {
       "rank": "10",
-      "title": "超充 VS 换电，谁才是电动汽车的未来？",
-      "link": "https://www.zhihu.com/question/10806802666",
-      "heat": "80 万热度"
+      "title": "如何评价成龙重返好莱坞的最新作品《功夫梦：融合之道》？",
+      "link": "https://www.zhihu.com/question/1911582568484168667",
+      "heat": "78 万热度"
     },
     {
       "rank": "11",
       "title": "巴黎世家推出「北京烤鸭」包，售价 15500 元，被网友吐槽像零食袋，怎样看待这一设计？",
       "link": "https://www.zhihu.com/question/1914369936584841015",
-      "heat": "77 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "12",
@@ -112,26 +112,26 @@
     },
     {
       "rank": "19",
+      "title": "《凡人修仙传》几个结丹巅峰能打败元婴？",
+      "link": "https://www.zhihu.com/question/1913701759878144220",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "高度近视的你们是怎么控制住度数增长的？",
+      "link": "https://www.zhihu.com/question/430486205",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
       "title": "对于迪丽热巴新剧《枭起青壤》你有哪些期待？",
       "link": "https://www.zhihu.com/question/1915079378993391385",
       "heat": "57 万热度"
     },
     {
-      "rank": "20",
-      "title": "「自由就是拥有说二加二等于四的自由。」——《1984》这句话该怎么理解?",
-      "link": "https://www.zhihu.com/question/524283383",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "如何评价「绝区零」2.0 版本活动「缘于引力的邂逅」？",
-      "link": "https://www.zhihu.com/question/1914997338738492438",
-      "heat": "57 万热度"
-    },
-    {
       "rank": "22",
-      "title": "人们对动物有哪些常见的「误解」？",
-      "link": "https://www.zhihu.com/question/1914285720891294075",
+      "title": "为什么以控卫和大前锋为核心建队的 NBA 球队难以夺冠?",
+      "link": "https://www.zhihu.com/question/318764840",
       "heat": "57 万热度"
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "rank": "24",
-      "title": "文科生有什么好的出路？",
-      "link": "https://www.zhihu.com/question/1904622809860272851",
+      "title": "北大「韦神」粉丝破 2000 万，评论区成高考许愿池，如何看待家长们纷纷从韦神这里「沾福气」的心理？",
+      "link": "https://www.zhihu.com/question/1914998391609455497",
       "heat": "57 万热度"
     },
     {
@@ -160,98 +160,98 @@
     },
     {
       "rank": "27",
-      "title": "能推荐下你心中的 top 10 动漫吗?",
-      "link": "https://www.zhihu.com/question/583293319",
+      "title": "文科生有什么好的出路？",
+      "link": "https://www.zhihu.com/question/1904622809860272851",
       "heat": "57 万热度"
     },
     {
       "rank": "28",
-      "title": "北大「韦神」粉丝破 2000 万，评论区成高考许愿池，如何看待家长们纷纷从韦神这里「沾福气」的心理？",
-      "link": "https://www.zhihu.com/question/1914998391609455497",
+      "title": "「自由就是拥有说二加二等于四的自由。」——《1984》这句话该怎么理解?",
+      "link": "https://www.zhihu.com/question/524283383",
       "heat": "57 万热度"
     },
     {
       "rank": "29",
-      "title": "《凡人修仙传》几个结丹巅峰能打败元婴？",
-      "link": "https://www.zhihu.com/question/1913701759878144220",
+      "title": "你见过最高效的人是怎么工作或生活的？",
+      "link": "https://www.zhihu.com/question/19898873",
       "heat": "57 万热度"
     },
     {
       "rank": "30",
-      "title": "30 岁开始皮肤就会「断崖式」衰老吗？普通人该如何抗老？",
-      "link": "https://www.zhihu.com/question/636136840",
+      "title": "如何评价「绝区零」2.0 版本活动「缘于引力的邂逅」？",
+      "link": "https://www.zhihu.com/question/1914997338738492438",
       "heat": "57 万热度"
     },
     {
       "rank": "31",
       "title": "总看到朋友晒 1.9 元的拼好饭，这种模式为啥突然爆火？",
       "link": "https://www.zhihu.com/question/1914336813935468728",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "学哲学的你，四年后的感悟是什么？",
-      "link": "https://www.zhihu.com/question/1914121650703675835",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "为什么以控卫和大前锋为核心建队的 NBA 球队难以夺冠?",
-      "link": "https://www.zhihu.com/question/318764840",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "高度近视的你们是怎么控制住度数增长的？",
-      "link": "https://www.zhihu.com/question/430486205",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "范玮琪歌手舞台唱《最初的梦想》开口声音就好抖，是太紧张了吗？还是什么问题？",
-      "link": "https://www.zhihu.com/question/1914427845368836796",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "你见过最高效的人是怎么工作或生活的？",
-      "link": "https://www.zhihu.com/question/19898873",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "LPL 2025 赛季第二赛段淘汰赛 WE 3:2 击败 TES 晋级四强，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1915076617568511380",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如何评价陈楚生在《歌手 2025》第四期演唱的《凡人诀》？",
-      "link": "https://www.zhihu.com/question/1914393408434312068",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "我为什么会觉得在《幽灵公主》设定中的社会背景下提倡保护环境其实就是空谈？",
-      "link": "https://www.zhihu.com/question/1912565920775280370",
       "heat": "56 万热度"
     },
     {
-      "rank": "40",
+      "rank": "32",
       "title": "宁波汤圆、水磨年糕、龙凤金团…宁波有哪些非遗美食让你念念不忘？",
       "link": "https://www.zhihu.com/question/1911422719234409938",
       "heat": "56 万热度"
     },
     {
-      "rank": "41",
+      "rank": "33",
+      "title": "LPL 2025 赛季第二赛段淘汰赛 WE 3:2 击败 TES 晋级四强，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1915076617568511380",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "人们对动物有哪些常见的「误解」？",
+      "link": "https://www.zhihu.com/question/1914285720891294075",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "儿子初二了，英语差的一塌糊涂，就是不开窍，如何制定英语学习计划？",
+      "link": "https://www.zhihu.com/question/648916968",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "36",
       "title": "为什么初中高中不偷偷教克拉默法则?",
       "link": "https://www.zhihu.com/question/1914270707803742382",
       "heat": "56 万热度"
     },
     {
+      "rank": "37",
+      "title": "能推荐下你心中的 top 10 动漫吗?",
+      "link": "https://www.zhihu.com/question/583293319",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "我为什么会觉得在《幽灵公主》设定中的社会背景下提倡保护环境其实就是空谈？",
+      "link": "https://www.zhihu.com/question/1912565920775280370",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "30 岁开始皮肤就会「断崖式」衰老吗？普通人该如何抗老？",
+      "link": "https://www.zhihu.com/question/636136840",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "学哲学的你，四年后的感悟是什么？",
+      "link": "https://www.zhihu.com/question/1914121650703675835",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "如何评价陈楚生在《歌手 2025》第四期演唱的《凡人诀》？",
+      "link": "https://www.zhihu.com/question/1914393408434312068",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "42",
-      "title": "儿子初二了，英语差的一塌糊涂，就是不开窍，如何制定英语学习计划？",
-      "link": "https://www.zhihu.com/question/648916968",
+      "title": "范玮琪歌手舞台唱《最初的梦想》开口声音就好抖，是太紧张了吗？还是什么问题？",
+      "link": "https://www.zhihu.com/question/1914427845368836796",
       "heat": "56 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-06-09 06:43:45"
+  "generated_at": "2025-06-09 06:56:44"
 }
