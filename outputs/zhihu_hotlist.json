@@ -1,60 +1,60 @@
 {
-  "artifact_id": "d967b709-0d3e-4f98-aef6-b85c4dbccf35",
+  "artifact_id": "463e4099-119a-4c3a-861f-7752410acc42",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "计算机科学专业爆冷，失业率达 6.1% 飙至全美第七，这是短期波动还是行业长期趋势？",
       "link": "https://www.zhihu.com/question/1915019597716874369",
-      "heat": "1467 万热度"
+      "heat": "1499 万热度"
     },
     {
       "rank": "2",
       "title": "Labubu 将泡泡玛特创始人捧成河南新首富，这个玩偶为何这么赚钱？潮玩圈还有下一个「泡泡玛特」吗？",
       "link": "https://www.zhihu.com/question/1915016021657477854",
-      "heat": "1037 万热度"
+      "heat": "1075 万热度"
     },
     {
       "rank": "3",
       "title": "欧国联决赛葡萄牙点球 7-5 击败西班牙夺冠，科斯塔扑点制胜，C 罗进球，如何评价这场比赛?",
       "link": "https://www.zhihu.com/question/1915284575711655312",
-      "heat": "556 万热度"
+      "heat": "515 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待安徽泾县游客被打副所长「拉偏架」被免职，警方多人被追责？暴露出哪些问题？",
       "link": "https://www.zhihu.com/question/1915348424133403043",
-      "heat": "249 万热度"
+      "heat": "271 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待湖北一医院婚检查出艾滋医生未告知伴侣致感染，医生被停职？反映出哪些问题？",
-      "link": "https://www.zhihu.com/question/1914858029729429401",
-      "heat": "179 万热度"
+      "title": "2025 乒超联赛樊振东 3:2 战胜徐瑛彬，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1915390139523404887",
+      "heat": "210 万热度"
     },
     {
       "rank": "6",
       "title": "洛杉矶抗议升级，警方三弹齐发射向抗议人群，特朗普命令强力解放洛杉矶，具体情况如何？这场冲突将如何收场？",
       "link": "https://www.zhihu.com/question/1915308101378205081",
-      "heat": "174 万热度"
+      "heat": "204 万热度"
     },
     {
       "rank": "7",
-      "title": "2025 乒超联赛樊振东 3:2 战胜徐瑛彬，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1915390139523404887",
-      "heat": "170 万热度"
+      "title": "如何看待湖北一医院婚检查出艾滋医生未告知伴侣致感染，医生被停职？反映出哪些问题？",
+      "link": "https://www.zhihu.com/question/1914858029729429401",
+      "heat": "198 万热度"
     },
     {
       "rank": "8",
-      "title": "部分地区「国补」暂停？最新的情况是什么样的？",
+      "title": "部分地区「国补」暂停了吗？最新的情况是什么样的？",
       "link": "https://www.zhihu.com/question/1913554957644330127",
-      "heat": "151 万热度"
+      "heat": "168 万热度"
     },
     {
       "rank": "9",
       "title": "2025 高考历史题或成「高考刺客」，现如今背知识点是否已无法满足历史应试要求？",
       "link": "https://www.zhihu.com/question/1915072244213834136",
-      "heat": "133 万热度"
+      "heat": "137 万热度"
     },
     {
       "rank": "10",
@@ -66,109 +66,109 @@
       "rank": "11",
       "title": "晚安牛奶宣称含「10 倍 + 原生褪黑素」可以助眠，科学上看站得住脚吗？睡前喝牛奶真的可以助眠吗？",
       "link": "https://www.zhihu.com/question/1911849213786030465",
-      "heat": "120 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "12",
+      "title": "上海高考作文题「专转传」有哪些有意思的梗？",
+      "link": "https://www.zhihu.com/question/1914718412468351689",
+      "heat": "102 万热度"
+    },
+    {
+      "rank": "13",
       "title": "24-25 赛季 NBA 季后赛步行者 107:123 雷霆，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1915357130183148203",
       "heat": "98 万热度"
     },
     {
-      "rank": "13",
+      "rank": "14",
       "title": "何书桓为什么会从原来大家眼中的「深情男主」变成现在的「PUA 大师」？",
       "link": "https://www.zhihu.com/question/1911855901318575467",
-      "heat": "97 万热度"
-    },
-    {
-      "rank": "14",
-      "title": "为什么大多数游戏怪物没智商，有智商难道不好玩？",
-      "link": "https://www.zhihu.com/question/652145325",
-      "heat": "88 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "15",
       "title": "如何评价面壁新发布的端侧模型 MiniCPM-4，该模型有哪些技术亮点？",
       "link": "https://www.zhihu.com/question/1914321160193140575",
-      "heat": "84 万热度"
+      "heat": "93 万热度"
     },
     {
       "rank": "16",
-      "title": "美国缺稀土，中国缺芯片，为什么不用芯片和稀土交换一下？",
-      "link": "https://www.zhihu.com/question/1909252217845847258",
-      "heat": "80 万热度"
+      "title": "2025 乒超第一阶段樊振东单打 3：2 徐瑛彬，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1915391033556051502",
+      "heat": "93 万热度"
     },
     {
       "rank": "17",
-      "title": "允许孩子顺其自然成长，不过多干预他的童年，这样对么？",
-      "link": "https://www.zhihu.com/question/1912028003338264795",
-      "heat": "80 万热度"
+      "title": "水稻为什么先种秧苗后插秧，而不是一次种到位？",
+      "link": "https://www.zhihu.com/question/659052289",
+      "heat": "90 万热度"
     },
     {
       "rank": "18",
-      "title": "6 月 9 日，NBA 总决赛 G2，雷霆 123:107 步行者，大比分 1:1 战平，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1915358201571967090",
-      "heat": "78 万热度"
+      "title": "为什么大多数游戏怪物没智商，有智商难道不好玩？",
+      "link": "https://www.zhihu.com/question/652145325",
+      "heat": "88 万热度"
     },
     {
       "rank": "19",
-      "title": "《聊斋》中 「书生与狐妖」 的古典浪漫是否会沦为过时的叙事模板？",
-      "link": "https://www.zhihu.com/question/1911855901301793989",
-      "heat": "76 万热度"
+      "title": "媒体报道宁波一家企业内部号召员工去其他公司当卧底，具体情况如何？若属实企业要承担哪些法律责任？",
+      "link": "https://www.zhihu.com/question/1915043572564059438",
+      "heat": "85 万热度"
     },
     {
       "rank": "20",
       "title": "电台主持人替听众维权被区政府工作人员嬉笑回怼「不用理，挂掉」，如何看待此事？反映出哪些问题？",
       "link": "https://www.zhihu.com/question/1914993937665471506",
-      "heat": "75 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "21",
       "title": "500 名美海军陆战队员待命准备部署至洛杉矶，我使馆提醒中国公民加强安全防范，暴乱会进一步升级吗？",
       "link": "https://www.zhihu.com/question/1915345615644223209",
-      "heat": "75 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "22",
-      "title": "电视剧《潜伏》里最让你意难平的剧情是哪个？",
-      "link": "https://www.zhihu.com/question/1896849634170742335",
-      "heat": "74 万热度"
+      "title": "允许孩子顺其自然成长，不过多干预他的童年，这样对么？",
+      "link": "https://www.zhihu.com/question/1912028003338264795",
+      "heat": "81 万热度"
     },
     {
       "rank": "23",
-      "title": "《大明王朝 1566》中，嘉靖的这首诗是什么意思？",
-      "link": "https://www.zhihu.com/question/1897412708468494864",
-      "heat": "69 万热度"
+      "title": "《聊斋》中 「书生与狐妖」 的古典浪漫是否会沦为过时的叙事模板？",
+      "link": "https://www.zhihu.com/question/1911855901301793989",
+      "heat": "78 万热度"
     },
     {
       "rank": "24",
-      "title": "现实中，如萍真的会败给依萍吗？",
-      "link": "https://www.zhihu.com/question/1914048891273344374",
-      "heat": "69 万热度"
+      "title": "电视剧《潜伏》里最让你意难平的剧情是哪个？",
+      "link": "https://www.zhihu.com/question/1896849634170742335",
+      "heat": "77 万热度"
     },
     {
       "rank": "25",
-      "title": "如何评价诸葛亮的军事水平？",
-      "link": "https://www.zhihu.com/question/1907502480297796840",
-      "heat": "69 万热度"
+      "title": "《大明王朝 1566》中，嘉靖的这首诗是什么意思？",
+      "link": "https://www.zhihu.com/question/1897412708468494864",
+      "heat": "71 万热度"
     },
     {
       "rank": "26",
       "title": "5 月 CPI 同比下降 0.1%，PPI 同比下降 3.3%，如何解读？",
       "link": "https://www.zhihu.com/question/1915344634734950359",
-      "heat": "68 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "27",
-      "title": "孩子小学一年级，数学语文成绩每次都是八九十分左右，从来没有考过 100，甚至没过 95，很焦虑怎么办？",
-      "link": "https://www.zhihu.com/question/1892881878920456044",
-      "heat": "68 万热度"
+      "title": "现实中，如萍真的会败给依萍吗？",
+      "link": "https://www.zhihu.com/question/1914048891273344374",
+      "heat": "70 万热度"
     },
     {
       "rank": "28",
-      "title": "当家务过程化身为「机械哥德堡」挑战，哪些隐藏环节正在消耗你的耐心值？",
-      "link": "https://www.zhihu.com/question/1914034496182948535",
-      "heat": "66 万热度"
+      "title": "孩子小学一年级，数学语文成绩每次都是八九十分左右，从来没有考过 100，甚至没过 95，很焦虑怎么办？",
+      "link": "https://www.zhihu.com/question/1892881878920456044",
+      "heat": "68 万热度"
     },
     {
       "rank": "29",
@@ -196,44 +196,44 @@
     },
     {
       "rank": "33",
-      "title": "自行车连续骑 50 公里难度有多大？",
-      "link": "https://www.zhihu.com/question/1914334056600048005",
-      "heat": "59 万热度"
+      "title": "孩子想去看心理医生，但老师说没有必要，作为家长我该怎么办？",
+      "link": "https://www.zhihu.com/question/1914588430656074305",
+      "heat": "60 万热度"
     },
     {
       "rank": "34",
-      "title": "相较于其他犯罪片，《周处除三害》中的暴力美学为什么这么吸引人？",
-      "link": "https://www.zhihu.com/question/5975656694",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "水稻为什么先种秧苗后插秧，而不是一次种到位？",
-      "link": "https://www.zhihu.com/question/659052289",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "36",
       "title": "单依纯抽象改编《李白》，这是先锋音乐实验还是魔改消解了原曲的内核？",
       "link": "https://www.zhihu.com/question/1914437804265529818",
       "heat": "59 万热度"
     },
     {
+      "rank": "35",
+      "title": "自行车连续骑 50 公里难度有多大？",
+      "link": "https://www.zhihu.com/question/1914334056600048005",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "相较于其他犯罪片，《周处除三害》中的暴力美学为什么这么吸引人？",
+      "link": "https://www.zhihu.com/question/5975656694",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "37",
-      "title": "企业的多层次管理，如基层管理者、中层管理者、高层管理者，如何协调三者之间的关系，促使团队达成高度协作？",
-      "link": "https://www.zhihu.com/question/427631679",
+      "title": "美国缺稀土，中国缺芯片，为什么不用芯片和稀土交换一下？",
+      "link": "https://www.zhihu.com/question/1909252217845847258",
       "heat": "59 万热度"
     },
     {
       "rank": "38",
-      "title": "媒体报道宁波一家企业内部号召员工去其他公司当卧底，具体情况如何？若属实企业要承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1915043572564059438",
+      "title": "为何觉得《绍宋》的权谋与军事宛如儿戏一样幼稚，是我个人历史水平不足还是其他问题导致的？",
+      "link": "https://www.zhihu.com/question/10812798777",
       "heat": "59 万热度"
     },
     {
       "rank": "39",
-      "title": "为何觉得《绍宋》的权谋与军事宛如儿戏一样幼稚，是我个人历史水平不足还是其他问题导致的？",
-      "link": "https://www.zhihu.com/question/10812798777",
+      "title": "企业的多层次管理，如基层管理者、中层管理者、高层管理者，如何协调三者之间的关系，促使团队达成高度协作？",
+      "link": "https://www.zhihu.com/question/427631679",
       "heat": "59 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
+      "title": "6 月 9 日，NBA 总决赛 G2，雷霆 123:107 步行者，大比分 1:1 战平，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1915358201571967090",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "42",
       "title": "为什么职场中会哭的孩子有「奶」吃？老实人如何避免被当成工具人？",
       "link": "https://www.zhihu.com/question/1911031805982778532",
       "heat": "59 万热度"
     },
     {
-      "rank": "42",
+      "rank": "43",
+      "title": "当家务过程化身为「机械哥德堡」挑战，哪些隐藏环节正在消耗你的耐心值？",
+      "link": "https://www.zhihu.com/question/1914034496182948535",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "为什么写原创小说非常困难？",
+      "link": "https://www.zhihu.com/question/1911697257436259669",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "45",
       "title": "高考没考好人生就真的完蛋了吗？",
       "link": "https://www.zhihu.com/question/1908688387226993964",
       "heat": "59 万热度"
     },
     {
-      "rank": "43",
+      "rank": "46",
       "title": "24-25 赛季 NBA 总决赛 G2 雷霆 123-107 步行者，如何评价这一场比赛？",
       "link": "https://www.zhihu.com/question/1915134337600451371",
       "heat": "59 万热度"
     },
     {
-      "rank": "44",
+      "rank": "47",
+      "title": "如何评价诸葛亮的军事水平？",
+      "link": "https://www.zhihu.com/question/1907502480297796840",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "48",
       "title": "从「斜杠青年」到「数字游民」，当「铁饭碗」概念逐步消解后，职场人如何建立新的安全感？",
       "link": "https://www.zhihu.com/question/1908214851156813584",
       "heat": "59 万热度"
     },
     {
-      "rank": "45",
+      "rank": "49",
       "title": "「苏超」 的热度能维持多久？其未来发展面临的最大挑战是什么？",
       "link": "https://www.zhihu.com/question/1914722470746875841",
       "heat": "59 万热度"
     },
     {
-      "rank": "46",
+      "rank": "50",
       "title": "如何评价 Xbox 与 ROG 合作掌机 ROG Xbox ALLY？",
       "link": "https://www.zhihu.com/question/1915319939461514277",
       "heat": "59 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "为什么夏亚打不过阿姆罗？",
-      "link": "https://www.zhihu.com/question/8769062361",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "如何评价 2025 年上海高考语文作文？",
-      "link": "https://www.zhihu.com/question/1914372633115463901",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "明明工作不忙，为什么一到办公室就犯困，回家却失眠到凌晨？",
-      "link": "https://www.zhihu.com/question/1910348691056862174",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "LPL 2025 赛季第二赛段淘汰赛 TES 2-3 不敌 WE 爆冷出局，无缘 MSI 与 EWC，他们输在哪？",
-      "link": "https://www.zhihu.com/question/1915159198599210571",
-      "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-06-09 15:28:37"
+  "generated_at": "2025-06-09 15:44:29"
 }
