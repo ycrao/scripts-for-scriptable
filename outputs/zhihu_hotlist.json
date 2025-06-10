@@ -1,197 +1,197 @@
 {
-  "artifact_id": "e0cc5564-f1c8-420d-bec1-68e553209751",
+  "artifact_id": "de24b7e9-fb6d-4dd5-8f81-f7cc7ae891bd",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "为什么多地「国补」暂停？消费者买家电该果断下手，还是等等看？",
-      "link": "https://www.zhihu.com/question/1913571245674435597",
-      "heat": "663 万热度"
+      "title": "外交部回应中国两艘航母同时在太平洋海域活动，称「希望日方客观理性看待」，释放哪些信号？",
+      "link": "https://www.zhihu.com/question/1915825460727747247",
+      "heat": "730 万热度"
     },
     {
       "rank": "2",
-      "title": "外交部回应中国两艘航母同时在太平洋海域活动，称「希望日方客观理性看待」，释放哪些信号？",
-      "link": "https://www.zhihu.com/question/1915825460727747247",
-      "heat": "508 万热度"
+      "title": "为什么多地「国补」暂停？消费者买家电该果断下手，还是等等看？",
+      "link": "https://www.zhihu.com/question/1913571245674435597",
+      "heat": "702 万热度"
     },
     {
       "rank": "3",
-      "title": "雷军发布「小米 YU7」设计师手稿，并称「继承小米汽车家族设计」，汽车设计过程是怎样的？要考虑哪些因素？",
-      "link": "https://www.zhihu.com/question/1915497885904111178",
-      "heat": "183 万热度"
+      "title": "世界杯亚洲区预选赛，中国男足 1-0 巴林，王钰栋加时点球破门，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1915778325697230227",
+      "heat": "189 万热度"
     },
     {
       "rank": "4",
-      "title": "世界杯亚洲区预选赛，中国男足 1-0 巴林，王钰栋加时点球破门，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1915778325697230227",
-      "heat": "178 万热度"
+      "title": "如何看待语文特级教师李镇西对全国一卷、上海卷和天津卷的作文题持批评态度？你认同他的观点吗？",
+      "link": "https://www.zhihu.com/question/1915372453095506942",
+      "heat": "181 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待语文特级教师李镇西对全国一卷、上海卷和天津卷的作文题持批评态度？你认同他的观点吗？",
-      "link": "https://www.zhihu.com/question/1915372453095506942",
+      "title": "古代为了让杨贵妃吃上新鲜荔枝，要八百里加急运输，这个八百里加急到底有多快才能让水果保鲜？",
+      "link": "https://www.zhihu.com/question/493481537",
       "heat": "166 万热度"
     },
     {
       "rank": "6",
-      "title": "古代为了让杨贵妃吃上新鲜荔枝，要八百里加急运输，这个八百里加急到底有多快才能让水果保鲜？",
-      "link": "https://www.zhihu.com/question/493481537",
-      "heat": "157 万热度"
+      "title": "财政部称「适当提高退休人员基本养老金」，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1915808060988953834",
+      "heat": "163 万热度"
     },
     {
       "rank": "7",
       "title": "特朗普表示支持逮捕加州州长，从美国法律框架来看有多大的可操作性？这一表态是否会进一步激化矛盾？",
       "link": "https://www.zhihu.com/question/1915698818940383981",
-      "heat": "153 万热度"
+      "heat": "161 万热度"
     },
     {
       "rank": "8",
-      "title": "男子景区内用高压水枪攻击女孩致失明，辱骂恐吓后逃走，具体是怎么回事？该男子需承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1915800070110057766",
-      "heat": "149 万热度"
+      "title": "哥哥抑郁症离开后，家里氛围一直很压抑，我能怎样帮助改变这样的状况？",
+      "link": "https://www.zhihu.com/question/1913086931534845318",
+      "heat": "159 万热度"
     },
     {
       "rank": "9",
-      "title": "哥哥抑郁症离开后，家里氛围一直很压抑，我能怎样帮助改变这样的状况？",
-      "link": "https://www.zhihu.com/question/1913086931534845318",
-      "heat": "146 万热度"
+      "title": "男子景区内用高压水枪攻击女孩致失明，辱骂恐吓后逃走，具体是怎么回事？该男子需承担哪些法律责任？",
+      "link": "https://www.zhihu.com/question/1915800070110057766",
+      "heat": "152 万热度"
     },
     {
       "rank": "10",
-      "title": "如何评价苹果使用 Swift 重写 Java 后端服务，内存占用减少 90%，性能提升 40%？",
-      "link": "https://www.zhihu.com/question/1914406843935068610",
-      "heat": "138 万热度"
+      "title": "雷军发布「小米 YU7」设计师手稿，并称「继承小米汽车家族设计」，汽车设计过程是怎样的？要考虑哪些因素？",
+      "link": "https://www.zhihu.com/question/1915497885904111178",
+      "heat": "146 万热度"
     },
     {
       "rank": "11",
-      "title": "财政部称「适当提高退休人员基本养老金」，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1915808060988953834",
-      "heat": "132 万热度"
+      "title": "如何评价苹果使用 Swift 重写 Java 后端服务，内存占用减少 90%，性能提升 40%？",
+      "link": "https://www.zhihu.com/question/1914406843935068610",
+      "heat": "141 万热度"
     },
     {
       "rank": "12",
       "title": "《碟中谍 8》亏损超 14 亿，中美观众都不买账，这背后的原因是什么？",
       "link": "https://www.zhihu.com/question/1912835432229627500",
-      "heat": "125 万热度"
+      "heat": "129 万热度"
     },
     {
       "rank": "13",
-      "title": "2025 年陕西高考物理力学运动学压轴题疑似出题不够严谨，你觉得呢？",
-      "link": "https://www.zhihu.com/question/1915310187734103896",
-      "heat": "123 万热度"
+      "title": "美国得州爆发反移民政策抗议，示威活动已扩散到纽约、波士顿、华盛顿等多地，美国政府最终会改变移民政策吗？",
+      "link": "https://www.zhihu.com/question/1915785096625120951",
+      "heat": "128 万热度"
     },
     {
       "rank": "14",
-      "title": "美国得州爆发反移民政策抗议，示威活动已扩散到纽约、波士顿、华盛顿等多地，美国政府最终会改变移民政策吗？",
-      "link": "https://www.zhihu.com/question/1915785096625120951",
-      "heat": "119 万热度"
+      "title": "2025 年陕西高考物理力学运动学压轴题疑似出题不够严谨，你觉得呢？",
+      "link": "https://www.zhihu.com/question/1915310187734103896",
+      "heat": "127 万热度"
     },
     {
       "rank": "15",
       "title": "波音重启对中国飞机交付，这意味着什么？对全球航空业有哪些影响？",
       "link": "https://www.zhihu.com/question/1914722300416193986",
-      "heat": "116 万热度"
+      "heat": "117 万热度"
     },
     {
       "rank": "16",
       "title": "江苏一公司拒开离职证明，致前员工新工作被撤销，被判赔偿前员工 17000 元，如何从法律角度解读？",
       "link": "https://www.zhihu.com/question/1914281601879216934",
-      "heat": "100 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "17",
+      "title": "火车过山西隧道吸入煤灰，乘客变煤蛋，铁路部门称「进入隧道时有车窗未关」，隧道内粉尘问题该如何治理？",
+      "link": "https://www.zhihu.com/question/1915329666295756039",
+      "heat": "96 万热度"
+    },
+    {
+      "rank": "18",
+      "title": "如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？",
+      "link": "https://www.zhihu.com/question/1913003206876853004",
+      "heat": "93 万热度"
+    },
+    {
+      "rank": "19",
       "title": "知名家居品牌芝华仕的高管要求员工一天打卡 6 次并随意罚款，这些规定是否合理合法？",
       "link": "https://www.zhihu.com/question/1915095182719821384",
       "heat": "88 万热度"
     },
     {
-      "rank": "18",
-      "title": "你能理解高考走错考场，忘带准考证的孩子吗？",
-      "link": "https://www.zhihu.com/question/1914629881679025395",
-      "heat": "75 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "梁建章建议取消中考淡化高考，鼓励学生在本城市上大学，怎样看待他的观点？",
-      "link": "https://www.zhihu.com/question/1915816349403424439",
-      "heat": "69 万热度"
-    },
-    {
       "rank": "20",
       "title": "成绩之外，我们该如何真正走出「人生考场」？",
       "link": "https://www.zhihu.com/question/1910702943834960234",
-      "heat": "68 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "21",
+      "title": "《长安的荔枝》中，将荔枝树整个运送，是否有可能成功？",
+      "link": "https://www.zhihu.com/question/659896978",
+      "heat": "75 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "梁建章建议取消中考淡化高考，鼓励学生在本城市上大学，怎样看待他的观点？",
+      "link": "https://www.zhihu.com/question/1915816349403424439",
+      "heat": "73 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "小米 YU7 搭载 96.3kWh 磷酸铁锂电池，CLTC 工况续航 835km，这个续航表现怎么做到的？",
+      "link": "https://www.zhihu.com/question/1909001758266586859",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "24",
       "title": "人与其他灵长类 (如黑猩猩等) 能够繁殖后代吗？",
       "link": "https://www.zhihu.com/question/341213184",
       "heat": "68 万热度"
     },
     {
-      "rank": "22",
-      "title": "小米 YU7 搭载 96.3kWh 磷酸铁锂电池，CLTC 工况续航 835km，这个续航表现怎么做到的？",
-      "link": "https://www.zhihu.com/question/1909001758266586859",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "23",
+      "rank": "25",
       "title": "考上事业单位是什么体验?",
       "link": "https://www.zhihu.com/question/394297745",
-      "heat": "66 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "《还珠格格》小燕子闯了那么多祸，为啥皇阿玛总是轻易原谅她？",
-      "link": "https://www.zhihu.com/question/1915474645655741958",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "高一退学的我很羡慕高考生马上要开启新人生，我该怎样打开自己的心结？",
-      "link": "https://www.zhihu.com/question/1915196487597548873",
-      "heat": "60 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "26",
-      "title": "说说你对人际交往的丰富经验？",
-      "link": "https://www.zhihu.com/question/451354360",
-      "heat": "59 万热度"
+      "title": "港片中英叔主演的僵尸片中他的徒弟为什么几乎都很废呢？",
+      "link": "https://www.zhihu.com/question/1914840257486123810",
+      "heat": "67 万热度"
     },
     {
       "rank": "27",
-      "title": "多地事业单位招聘破除 35 岁年龄限制，反映出怎样的就业市场趋势？能不能引起效仿？",
-      "link": "https://www.zhihu.com/question/1915678726143829809",
-      "heat": "59 万热度"
+      "title": "职场上，给领导通过微信请示报告工作，领导不回复你，你该怎么办？",
+      "link": "https://www.zhihu.com/question/1902401209874257506",
+      "heat": "67 万热度"
     },
     {
       "rank": "28",
-      "title": "TES 英雄联盟战队成立 8 年来持续保持大投入却始终无法取得对等成绩回报，又频传丑闻的原因是什么？",
-      "link": "https://www.zhihu.com/question/1915169143314969001",
-      "heat": "58 万热度"
+      "title": "高一退学的我很羡慕高考生马上要开启新人生，我该怎样打开自己的心结？",
+      "link": "https://www.zhihu.com/question/1915196487597548873",
+      "heat": "61 万热度"
     },
     {
       "rank": "29",
+      "title": "你能理解高考走错考场，忘带准考证的孩子吗？",
+      "link": "https://www.zhihu.com/question/1914629881679025395",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "30",
       "title": "如果中国男篮凑齐林书豪、胡卫东、李凯尔、易建联、姚明的首发阵容，在 NBA 和世界杯分别能取得什么成绩？",
       "link": "https://www.zhihu.com/question/1914804751431864832",
       "heat": "58 万热度"
     },
     {
-      "rank": "30",
-      "title": "中国男足国家队首次被泰国队超越，国际足联排名降至近 10 年新低，这反映了什么问题？",
-      "link": "https://www.zhihu.com/question/1915444456175412094",
-      "heat": "58 万热度"
-    },
-    {
       "rank": "31",
-      "title": "我该怎样看待「心理咨询师将我有些糟糕的精神状况泄露给舍友，干涉我的人际交往」这件事？",
-      "link": "https://www.zhihu.com/question/1913238477740413765",
+      "title": "《还珠格格》小燕子闯了那么多祸，为啥皇阿玛总是轻易原谅她？",
+      "link": "https://www.zhihu.com/question/1915474645655741958",
       "heat": "58 万热度"
     },
     {
       "rank": "32",
-      "title": "「星链」卫星突然大批坠落，2024 年有 316 颗卫星在大气层中烧毁，这是怎么回事？会造成哪些影响？",
-      "link": "https://www.zhihu.com/question/1915415851877758912",
+      "title": "想问医生，你会劝人学医吗？会让自己的孩子学医吗？",
+      "link": "https://www.zhihu.com/question/1912921831108764142",
       "heat": "58 万热度"
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "rank": "35",
-      "title": "想问医生，你会劝人学医吗？会让自己的孩子学医吗？",
-      "link": "https://www.zhihu.com/question/1912921831108764142",
+      "title": "「星链」卫星突然大批坠落，2024 年有 316 颗卫星在大气层中烧毁，这是怎么回事？会造成哪些影响？",
+      "link": "https://www.zhihu.com/question/1915415851877758912",
       "heat": "58 万热度"
     },
     {
@@ -222,7 +222,7 @@
       "rank": "37",
       "title": "创出「乾坤大挪移」的是哪位高人？这门绝世武功究竟有多强？缺陷是什么？",
       "link": "https://www.zhihu.com/question/1913864349044433614",
-      "heat": "57 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "38",
@@ -238,38 +238,38 @@
     },
     {
       "rank": "40",
-      "title": "有娃的家庭一定需要家庭互动区吗，如何能实现在有限的空间里拥有和孩子互动交流的区域？",
-      "link": "https://www.zhihu.com/question/1911481147558430554",
+      "title": "「人生好像被卡住了，不管怎么努力都无法走出」这种感觉你有吗？这是怎么回事？又该如何破局？",
+      "link": "https://www.zhihu.com/question/1915313677445358457",
       "heat": "57 万热度"
     },
     {
       "rank": "41",
-      "title": "如何评价《地煞七十二变》这本小说？",
-      "link": "https://www.zhihu.com/question/377586516",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "42",
       "title": "《蓝色生死恋》如果恩熙和俊熙没有分开，还会产生爱情吗？",
       "link": "https://www.zhihu.com/question/352330179",
       "heat": "57 万热度"
     },
     {
-      "rank": "43",
+      "rank": "42",
       "title": "如何看待商家售卖北大未名湖湖水，宣称凝视湖水可提振精神、激发智慧？商家这一行为是否涉嫌违法？",
       "link": "https://www.zhihu.com/question/1915752699875521743",
       "heat": "57 万热度"
     },
     {
+      "rank": "43",
+      "title": "中办、国办发文「完善最低工资标准调整机制，合理提高最低工资标准」，将带来哪些利好？",
+      "link": "https://www.zhihu.com/question/1915476971573441406",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "44",
-      "title": "如何看待《Nintendo Switch 2 秘密展》教程游戏获 IGN 5 分评价？",
-      "link": "https://www.zhihu.com/question/1915064284146300728",
+      "title": "工信部称「对舆论关注度高、存在较大质量安全隐患等车型加大抽查力度」，该举措对汽车行业及消费者有何影响？",
+      "link": "https://www.zhihu.com/question/1915714504148350918",
       "heat": "57 万热度"
     },
     {
       "rank": "45",
-      "title": "中办、国办发文「完善最低工资标准调整机制，合理提高最低工资标准」，将带来哪些利好？",
-      "link": "https://www.zhihu.com/question/1915476971573441406",
+      "title": "如何看待《Nintendo Switch 2 秘密展》教程游戏获 IGN 5 分评价？",
+      "link": "https://www.zhihu.com/question/1915064284146300728",
       "heat": "57 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "「人生好像被卡住了，不管怎么努力都无法走出」这种感觉你有吗？这是怎么回事？又该如何破局？",
-      "link": "https://www.zhihu.com/question/1915313677445358457",
+      "title": "为什么高位下拉能做比自己体重还重的重量，但是引体向上却做不起来？",
+      "link": "https://www.zhihu.com/question/1914077350569685630",
       "heat": "57 万热度"
     },
     {
       "rank": "49",
-      "title": "为什么过去的偶像剧追求「真爱至上」的表达，现在的却开始讲独立、自主，到底什么变了？",
-      "link": "https://www.zhihu.com/question/1913677436480087966",
+      "title": "业绩突出，但队伍断层，这样的领导不能算优秀，这种评判能站住脚吗？",
+      "link": "https://www.zhihu.com/question/1914201392861667514",
       "heat": "57 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么高位下拉能做比自己体重还重的重量，但是引体向上却做不起来？",
-      "link": "https://www.zhihu.com/question/1914077350569685630",
+      "title": "为什么过去的偶像剧追求「真爱至上」的表达，现在的却开始讲独立、自主，到底什么变了？",
+      "link": "https://www.zhihu.com/question/1913677436480087966",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-06-10 22:48:22"
+  "generated_at": "2025-06-10 23:26:39"
 }
