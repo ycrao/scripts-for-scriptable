@@ -1,209 +1,209 @@
 {
-  "artifact_id": "1e5d0e6c-b534-474a-ae9f-f123d605acf8",
+  "artifact_id": "a195f16d-e35e-4bfd-906a-12eb6a90a6b2",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "以色列宣布对伊朗发动打击，打击伊朗数十个目标，以色列全国进入紧急状态，以军目的是什么？目前局势如何？",
       "link": "https://www.zhihu.com/question/1916776075930858160",
-      "heat": "4990 万热度"
+      "heat": "5944 万热度"
     },
     {
       "rank": "2",
       "title": "印度坠机事故中发现一名幸存者，疑似为 11A 座位乘客，哪些因素可能帮助他幸存？和机身结构有关吗？",
       "link": "https://www.zhihu.com/question/1916620135835329534",
-      "heat": "3648 万热度"
+      "heat": "3761 万热度"
     },
     {
       "rank": "3",
       "title": "如何评价现役军人磕头跪母后勇救落水 5 人？",
       "link": "https://www.zhihu.com/question/1915728715628934861",
-      "heat": "842 万热度"
+      "heat": "551 万热度"
     },
     {
       "rank": "4",
       "title": "许多公式都有π和 e，可能的原因有什么？",
       "link": "https://www.zhihu.com/question/379531809",
-      "heat": "547 万热度"
+      "heat": "507 万热度"
     },
     {
       "rank": "5",
       "title": "千万粉丝网红呼吁取消女厕马桶，称公共马桶卫生隐患大，怎样看这一观点？有哪些好的解决方式？",
       "link": "https://www.zhihu.com/question/1916532354278712432",
-      "heat": "269 万热度"
+      "heat": "297 万热度"
     },
     {
       "rank": "6",
       "title": "伊朗伊斯兰革命卫队总司令遭以袭击身亡，多位核科学家也在袭击中丧生，伊朗损失有多大？将如何报复？",
       "link": "https://www.zhihu.com/question/1916800160224212281",
-      "heat": "233 万热度"
+      "heat": "245 万热度"
     },
     {
       "rank": "7",
       "title": "NBA 总决赛 G2 收视率仅 876 万人，低于 G1 并列历史最低，背后的原因是什么？",
       "link": "https://www.zhihu.com/question/1916223710278431772",
-      "heat": "224 万热度"
+      "heat": "194 万热度"
     },
     {
       "rank": "8",
-      "title": "印度航空波音 787 客机坠毁，波音股价盘前一度重挫近 9%，对波音影响有多大？后续走势会如何？",
-      "link": "https://www.zhihu.com/question/1916566585386169052",
-      "heat": "208 万热度"
+      "title": "既然地球电势为零，那么只有火线，把发电机一端和用户一端都接地，是不是就有电流了，零线岂不是多余的？",
+      "link": "https://www.zhihu.com/question/1892360962109064996",
+      "heat": "156 万热度"
     },
     {
       "rank": "9",
-      "title": "Nature 研究表明孕期缺铁可影响胚胎性别，雄性胚胎发育为雌性表型，该研究有哪些意义？",
-      "link": "https://www.zhihu.com/question/1916161011775403093",
-      "heat": "183 万热度"
+      "title": "DC 又换新超人了，我怎么不理解这种操作呢？为什么总要换人呢？",
+      "link": "https://www.zhihu.com/question/1911324414768812924",
+      "heat": "139 万热度"
     },
     {
       "rank": "10",
       "title": "海底捞部分门店上线 22 元工作日自助午餐，你会去消费吗？这一决策有哪些战略考量？",
       "link": "https://www.zhihu.com/question/1916468972980758033",
-      "heat": "159 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "11",
       "title": "中国科学家首次确认史前母系社会存在，成果登上 Nature，有哪些重大意义？",
       "link": "https://www.zhihu.com/question/1913978363254666000",
-      "heat": "157 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "12",
       "title": "实习医生举报医院医疗腐败后坠楼身亡，湖南省卫健委回应湘雅二医院罗帅宇事件警方仍在调查，具体情况怎么样？",
       "link": "https://www.zhihu.com/question/1916588226082202872",
-      "heat": "155 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "13",
-      "title": "既然地球电势为零，那么只有火线，把发电机一端和用户一端都接地，是不是就有电流了，零线岂不是多余的？",
-      "link": "https://www.zhihu.com/question/1892360962109064996",
-      "heat": "152 万热度"
+      "title": "Nature 研究表明孕期缺铁可影响胚胎性别，雄性胚胎发育为雌性表型，该研究有哪些意义？",
+      "link": "https://www.zhihu.com/question/1916161011775403093",
+      "heat": "118 万热度"
     },
     {
       "rank": "14",
-      "title": "DC 又换新超人了，我怎么不理解这种操作呢？为什么总要换人呢？",
-      "link": "https://www.zhihu.com/question/1911324414768812924",
-      "heat": "137 万热度"
+      "title": "飞天茅台散瓶批发价跌破 2000 元，背后什么原因？收藏茅台还能增值吗？",
+      "link": "https://www.zhihu.com/question/1916226610144712689",
+      "heat": "112 万热度"
     },
     {
       "rank": "15",
-      "title": "如何评价在 2025 年高考期间，kimi 、豆包、通义千问等大模型关闭了识图功能？",
-      "link": "https://www.zhihu.com/question/1914777491861661522",
-      "heat": "124 万热度"
+      "title": "川美毕业生作品《祷》为什么火了？它被网友称为「重庆人自己的《蒙娜丽莎》」算过誉吗？",
+      "link": "https://www.zhihu.com/question/1915766350233695284",
+      "heat": "112 万热度"
     },
     {
       "rank": "16",
-      "title": "你卡过最厉害的 bug 是什么？",
-      "link": "https://www.zhihu.com/question/316703576",
-      "heat": "117 万热度"
+      "title": "「大公司病」只在大公司存在吗？有哪些共性问题是职场中普遍存在的？",
+      "link": "https://www.zhihu.com/question/1916449018227160261",
+      "heat": "111 万热度"
     },
     {
       "rank": "17",
       "title": "《西游记》最后弥勒佛出场笑师徒四人取了无字经书，这一情节有何深意？",
       "link": "https://www.zhihu.com/question/427357930",
-      "heat": "113 万热度"
+      "heat": "111 万热度"
     },
     {
       "rank": "18",
-      "title": "「大公司病」只在大公司存在吗？有哪些共性问题是职场中普遍存在的？",
-      "link": "https://www.zhihu.com/question/1916449018227160261",
-      "heat": "110 万热度"
+      "title": "黄金已经超越欧元，成为全球第二大储备资产，这意味着什么？将带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1916454255889448962",
+      "heat": "111 万热度"
     },
     {
       "rank": "19",
-      "title": "黄金已经超越欧元，成为全球第二大储备资产，这意味着什么？将带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1916454255889448962",
-      "heat": "107 万热度"
+      "title": "伊朗纳坦兹核设施 13 日再次发生爆炸，可能造成哪些影响？",
+      "link": "https://www.zhihu.com/question/1916810971340597000",
+      "heat": "94 万热度"
     },
     {
       "rank": "20",
-      "title": "为什么「老实人」总让人感到无趣?",
-      "link": "https://www.zhihu.com/question/1916039943949616949",
-      "heat": "105 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "6 月 12 日网友反馈 B 站崩了，可能是哪些原因导致的？你的 B 站还正常吗？",
-      "link": "https://www.zhihu.com/question/1916598648483058568",
-      "heat": "102 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "一架波音 787 客机在印度坠毁，发现一名幸存者，超 290 人死亡，具体情况如何？事故原因可能是什么？",
-      "link": "https://www.zhihu.com/question/1916538425504397199",
-      "heat": "99 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "飞天茅台散瓶批发价跌破 2000 元，背后什么原因？收藏茅台还能增值吗？",
-      "link": "https://www.zhihu.com/question/1916226610144712689",
-      "heat": "97 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "川美毕业生作品《祷》为什么火了？它被网友称为「重庆人自己的《蒙娜丽莎》」算过誉吗？",
-      "link": "https://www.zhihu.com/question/1915766350233695284",
-      "heat": "93 万热度"
-    },
-    {
-      "rank": "25",
       "title": "如何看待 Falcons 在奥斯汀 Major 上爆冷出局，Niko 创生涯最差 Major 战绩？",
       "link": "https://www.zhihu.com/question/1915733567402668386",
       "heat": "93 万热度"
     },
     {
-      "rank": "26",
+      "rank": "21",
+      "title": "印度航空波音 787 客机坠毁，波音股价盘前一度重挫近 9%，对波音影响有多大？后续走势会如何？",
+      "link": "https://www.zhihu.com/question/1916566585386169052",
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "22",
       "title": "王菲的唱功到底是什么水平？",
       "link": "https://www.zhihu.com/question/292932324",
-      "heat": "83 万热度"
+      "heat": "88 万热度"
     },
     {
-      "rank": "27",
+      "rank": "23",
       "title": "两艘航母战斗群就足以改变世界格局吗?",
       "link": "https://www.zhihu.com/question/1916389622914724641",
-      "heat": "79 万热度"
+      "heat": "87 万热度"
     },
     {
-      "rank": "28",
+      "rank": "24",
       "title": "动漫中有没有极具魅力的天生坏胚，纯粹的反派？",
       "link": "https://www.zhihu.com/question/1905904793475589066",
+      "heat": "80 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "茅台批价跌破 2000 元，LABUBU 却拍出 108 万元高价，年轻人真要抛弃白酒了么？",
+      "link": "https://www.zhihu.com/question/1916789607665722265",
+      "heat": "80 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "你有什么特别的挑水果技巧？",
+      "link": "https://www.zhihu.com/question/21216534",
       "heat": "78 万热度"
     },
     {
+      "rank": "27",
+      "title": "为什么锥体体积系数是 1/3？",
+      "link": "https://www.zhihu.com/question/624746045",
+      "heat": "69 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "如何评价在 2025 年高考期间，kimi 、豆包、通义千问等大模型关闭了识图功能？",
+      "link": "https://www.zhihu.com/question/1914777491861661522",
+      "heat": "65 万热度"
+    },
+    {
       "rank": "29",
-      "title": "你有什么特别的挑水果技巧？",
-      "link": "https://www.zhihu.com/question/21216534",
-      "heat": "75 万热度"
+      "title": "自行车厂为什么不对非竞技骑行者进行舒适度改进，而非要向竞技骑行姿靠拢?",
+      "link": "https://www.zhihu.com/question/1916435200184919111",
+      "heat": "64 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么锥体体积系数是 1/3？",
-      "link": "https://www.zhihu.com/question/624746045",
-      "heat": "67 万热度"
+      "title": "自己成绩很差，可能考不上大学了，我是该去上大专还是直接出去打工呢?",
+      "link": "https://www.zhihu.com/question/1915676313206891786",
+      "heat": "63 万热度"
     },
     {
       "rank": "31",
-      "title": "自己成绩很差，可能考不上大学了，我是该去上大专还是直接出去打工呢?",
-      "link": "https://www.zhihu.com/question/1915676313206891786",
+      "title": "印度空难唯一幸存者坐在 11A 座位，这个座位有什么特殊之处？飞机坐在哪个位置更容易生还？",
+      "link": "https://www.zhihu.com/question/1916762196697900352",
       "heat": "62 万热度"
     },
     {
       "rank": "32",
+      "title": "你卡过最厉害的 bug 是什么？",
+      "link": "https://www.zhihu.com/question/316703576",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "33",
       "title": "商务部称中国已依法批准一定数量的稀土相关物项出口许可合规申请，目前中国稀土出口情况是怎么样的？",
       "link": "https://www.zhihu.com/question/1916522849566417516",
       "heat": "59 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "同样是大汗淋漓的效果，为啥有氧运动能减肥，而太阳底下暴晒不行呢？",
       "link": "https://www.zhihu.com/question/1914407250610590464",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "如何看待《英雄联盟》国服将「联盟不朽 卡莎」皮肤捆绑定制 ID 后缀出售？",
-      "link": "https://www.zhihu.com/question/1916448376137934346",
       "heat": "59 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
+      "title": "为什么「老实人」总让人感到无趣?",
+      "link": "https://www.zhihu.com/question/1916039943949616949",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "38",
       "title": "如何看待广西一女生高考结束后独自用扁担挑行李回家？",
       "link": "https://www.zhihu.com/question/1916106504085411635",
       "heat": "59 万热度"
     },
     {
-      "rank": "38",
+      "rank": "39",
       "title": "为什么在中国，一间「看起来没什么用」的房间最终都会被装修成书房？",
       "link": "https://www.zhihu.com/question/1916101079533335878",
       "heat": "59 万热度"
     },
     {
-      "rank": "39",
-      "title": "张爱玲晚期写不出好作品了吗？",
-      "link": "https://www.zhihu.com/question/23430562",
+      "rank": "40",
+      "title": "如何看待《英雄联盟》国服将「联盟不朽 卡莎」皮肤捆绑定制 ID 后缀出售？",
+      "link": "https://www.zhihu.com/question/1916448376137934346",
       "heat": "59 万热度"
     },
     {
-      "rank": "40",
+      "rank": "41",
+      "title": "张爱玲晚期写不出好作品了吗？",
+      "link": "https://www.zhihu.com/question/23430562",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "42",
       "title": "特朗普移民「金卡」网站上线，该卡是否具备成为金融衍生品的条件？",
       "link": "https://www.zhihu.com/question/1916428033293776297",
       "heat": "58 万热度"
     },
     {
-      "rank": "41",
-      "title": "为什么 Java 被部分开发者认为是低端技术？",
-      "link": "https://www.zhihu.com/question/1914971844215301715",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "42",
+      "rank": "43",
       "title": "准大学生，想当海军，有何建议?",
       "link": "https://www.zhihu.com/question/1915570377360388212",
       "heat": "58 万热度"
     },
     {
-      "rank": "43",
+      "rank": "44",
       "title": "为什么日本足球越来越强？",
       "link": "https://www.zhihu.com/question/504211007",
       "heat": "58 万热度"
     },
     {
-      "rank": "44",
-      "title": "如何评价《一人之下》第 720（763）话？",
-      "link": "https://www.zhihu.com/question/1916624360908755300",
+      "rank": "45",
+      "title": "为什么 Java 被部分开发者认为是低端技术？",
+      "link": "https://www.zhihu.com/question/1914971844215301715",
       "heat": "58 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
+      "title": "一架波音 787 客机在印度坠毁，发现一名幸存者，超 290 人死亡，具体情况如何？事故原因可能是什么？",
+      "link": "https://www.zhihu.com/question/1916538425504397199",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
       "title": "《长安的荔枝》中，将荔枝树整个运送，是否有可能成功？",
       "link": "https://www.zhihu.com/question/659896978",
       "heat": "58 万热度"
     },
     {
-      "rank": "46",
+      "rank": "48",
       "title": "据波兰媒体报道，莱万多夫斯基被撤掉队长职务后，更衣室响起掌声，为何莱万在国家队这么不受欢迎？",
       "link": "https://www.zhihu.com/question/1915464924697687422",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
-      "title": "人形机器人现在阶段最大的痛点是什么？",
-      "link": "https://www.zhihu.com/question/15342955948",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "「上班只需要在意三件事：钱、健康和心理状态」这类热门论调你认可吗？你认为职场需要在意什么？",
-      "link": "https://www.zhihu.com/question/1916088571737138219",
-      "heat": "58 万热度"
-    },
-    {
       "rank": "49",
-      "title": "如何评价《火影忍者》里的角都？",
-      "link": "https://www.zhihu.com/question/303224238",
+      "title": "如何评价《一人之下》第 720（763）话？",
+      "link": "https://www.zhihu.com/question/1916624360908755300",
       "heat": "58 万热度"
     },
     {
       "rank": "50",
-      "title": "《大长今》当初为什么那么火爆？",
-      "link": "https://www.zhihu.com/question/338376705",
+      "title": "人形机器人现在阶段最大的痛点是什么？",
+      "link": "https://www.zhihu.com/question/15342955948",
       "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-06-13 11:31:28"
+  "generated_at": "2025-06-13 12:15:15"
 }
