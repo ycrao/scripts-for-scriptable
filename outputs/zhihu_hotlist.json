@@ -1,209 +1,209 @@
 {
-  "artifact_id": "7c36fd57-6483-4359-bcef-77722cf441eb",
+  "artifact_id": "f8c1bdbe-836a-4463-b723-ade477e5104b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "以色列宣布对伊朗发动打击，打击伊朗数十个目标，以色列全国进入紧急状态，以军目的是什么？目前局势如何？",
       "link": "https://www.zhihu.com/question/1916776075930858160",
-      "heat": "5009 万热度"
+      "heat": "4386 万热度"
     },
     {
       "rank": "2",
       "title": "广州拟全面取消房地产限购、限售、限价并降低贷款首付比例和利率，拟推动赛马运动消费发展，将产生哪些影响？",
       "link": "https://www.zhihu.com/question/1916817285596809086",
-      "heat": "651 万热度"
+      "heat": "708 万热度"
     },
     {
       "rank": "3",
       "title": "川美毕业生作品《祷》为什么火了？它被网友称为「重庆人自己的《蒙娜丽莎》」算过誉吗？",
       "link": "https://www.zhihu.com/question/1915766350233695284",
-      "heat": "279 万热度"
+      "heat": "231 万热度"
     },
     {
       "rank": "4",
-      "title": "千万粉丝网红呼吁取消女厕马桶，称公共马桶卫生隐患大，怎样看这一观点？有哪些好的解决方式？",
-      "link": "https://www.zhihu.com/question/1916532354278712432",
-      "heat": "279 万热度"
+      "title": "我使馆披露日方自卫队飞机闯入中方舰队训练区域，如何看待日方此举？有何意图？",
+      "link": "https://www.zhihu.com/question/1916768213586413045",
+      "heat": "199 万热度"
     },
     {
       "rank": "5",
-      "title": "我使馆披露日方自卫队飞机闯入中方舰队训练区域，如何看待日方此举？有何意图？",
-      "link": "https://www.zhihu.com/question/1916768213586413045",
-      "heat": "189 万热度"
+      "title": "「牛奶湖」游客排队接奶，当地表示可以放心喝，是否符合食品安全标准？此营销行为对当地牧业是否有宣传作用？",
+      "link": "https://www.zhihu.com/question/1915445181739697847",
+      "heat": "180 万热度"
     },
     {
       "rank": "6",
       "title": "湘雅二院两年间给罗帅宇转账 40 多万，或涉及 20 多名医生，这背后存在何疑点？",
       "link": "https://www.zhihu.com/question/1916858689018623967",
-      "heat": "187 万热度"
+      "heat": "175 万热度"
     },
     {
       "rank": "7",
-      "title": "「牛奶湖」游客排队接奶，当地表示可以放心喝，是否符合食品安全标准？此营销行为对当地牧业是否有宣传作用？",
-      "link": "https://www.zhihu.com/question/1915445181739697847",
-      "heat": "185 万热度"
+      "title": "茅台批价跌破 2000 元，LABUBU 却拍出 108 万元高价，年轻人真要抛弃白酒了么？",
+      "link": "https://www.zhihu.com/question/1916789607665722265",
+      "heat": "169 万热度"
     },
     {
       "rank": "8",
       "title": "有没有办法人工培养出一种爱咬杆的鱼？",
       "link": "https://www.zhihu.com/question/1914792998115467792",
-      "heat": "184 万热度"
+      "heat": "159 万热度"
     },
     {
       "rank": "9",
       "title": "伊朗伊斯兰革命卫队总司令遭以袭击身亡，多位核科学家也在袭击中丧生，伊朗损失有多大？将如何报复？",
       "link": "https://www.zhihu.com/question/1916800160224212281",
-      "heat": "175 万热度"
+      "heat": "156 万热度"
     },
     {
       "rank": "10",
-      "title": "茅台批价跌破 2000 元，LABUBU 却拍出 108 万元高价，年轻人真要抛弃白酒了么？",
-      "link": "https://www.zhihu.com/question/1916789607665722265",
-      "heat": "166 万热度"
+      "title": "为什么《长安的荔枝》中的李善德明明是受圣人敕封，却一点权利都没有？",
+      "link": "https://www.zhihu.com/question/1916406892932097730",
+      "heat": "153 万热度"
     },
     {
       "rank": "11",
       "title": "实习医生举报医院医疗腐败后坠楼身亡，湖南省卫健委回应湘雅二医院罗帅宇事件警方仍在调查，具体情况怎么样？",
       "link": "https://www.zhihu.com/question/1916588226082202872",
-      "heat": "155 万热度"
+      "heat": "147 万热度"
     },
     {
       "rank": "12",
-      "title": "飞天茅台散瓶批发价跌破 2000 元，背后什么原因？收藏茅台还能增值吗？",
-      "link": "https://www.zhihu.com/question/1916226610144712689",
-      "heat": "144 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "为什么《长安的荔枝》中的李善德明明是受圣人敕封，却一点权利都没有？",
-      "link": "https://www.zhihu.com/question/1916406892932097730",
-      "heat": "143 万热度"
-    },
-    {
-      "rank": "14",
-      "title": "中国稀土对全世界有多重要？为什么美国执着于要我们的稀土？",
-      "link": "https://www.zhihu.com/question/1916518715345826411",
+      "title": "假设有一种动物，非常好吃，身体结构大幅异于人类，智商无限接近人类，它们会被人类圈养起来当食物来源么?",
+      "link": "https://www.zhihu.com/question/418453179",
       "heat": "140 万热度"
     },
     {
-      "rank": "15",
+      "rank": "13",
       "title": "小孩被天降乌龟砸死，饲主判赔 128 万，如何从法律角度进行解读？",
       "link": "https://www.zhihu.com/question/1915540404377460949",
       "heat": "134 万热度"
     },
     {
-      "rank": "16",
-      "title": "假设有一种动物，非常好吃，身体结构大幅异于人类，智商无限接近人类，它们会被人类圈养起来当食物来源么?",
-      "link": "https://www.zhihu.com/question/418453179",
+      "rank": "14",
+      "title": "中国稀土对全世界有多重要？为什么美国执着于要我们的稀土？",
+      "link": "https://www.zhihu.com/question/1916518715345826411",
       "heat": "130 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "罗帅宇母亲称儿子坠楼和举报刘翔峰有直接关系，举报中涉刘翔峰伪造绝症病例等，还有哪些疑点需要厘清？",
+      "link": "https://www.zhihu.com/question/1916915011193923127",
+      "heat": "129 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "如何看待机器之心重测高考数学全卷，Gemini 夺冠，豆包 DeepSeek 并列第二？",
+      "link": "https://www.zhihu.com/question/1916109733376549071",
+      "heat": "129 万热度"
     },
     {
       "rank": "17",
       "title": "山姆超市是怎么在中国火起来的?",
       "link": "https://www.zhihu.com/question/15229841838",
-      "heat": "123 万热度"
+      "heat": "128 万热度"
     },
     {
       "rank": "18",
       "title": "国际油价暴涨近 5％，地缘冲突将对油价产生怎样的影响？有哪些对冲工具可用？",
       "link": "https://www.zhihu.com/question/1916788683928985893",
-      "heat": "116 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "19",
-      "title": "如何看待机器之心重测高考数学全卷，Gemini 夺冠，豆包 DeepSeek 并列第二？",
-      "link": "https://www.zhihu.com/question/1916109733376549071",
-      "heat": "110 万热度"
+      "title": "千万粉丝网红呼吁取消女厕马桶，称公共马桶卫生隐患大，怎样看这一观点？有哪些好的解决方式？",
+      "link": "https://www.zhihu.com/question/1916532354278712432",
+      "heat": "117 万热度"
     },
     {
       "rank": "20",
-      "title": "罗帅宇母亲称儿子坠楼和举报刘翔峰有直接关系，举报中涉刘翔峰伪造绝症病例等，还有哪些疑点需要厘清？",
-      "link": "https://www.zhihu.com/question/1916915011193923127",
-      "heat": "109 万热度"
+      "title": "如何评价《歌手 2025》第五期所有歌手的演唱？",
+      "link": "https://www.zhihu.com/question/1916935132218107883",
+      "heat": "112 万热度"
     },
     {
       "rank": "21",
       "title": "美国法官裁定特朗普政府将加州国民警卫队指挥权交还州长，法律依据是什么？这一判决意味着什么？",
       "link": "https://www.zhihu.com/question/1916789982938493885",
-      "heat": "106 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么食物被定义成加热后是「熟」的，未经过加热就是生的，「熟」的本质到底是什么？",
-      "link": "https://www.zhihu.com/question/1893786548648014924",
-      "heat": "91 万热度"
+      "title": "HR 这么注重第一学历，为什么不直接按照高考成绩招人？",
+      "link": "https://www.zhihu.com/question/1897610665172124519",
+      "heat": "88 万热度"
     },
     {
       "rank": "23",
-      "title": "HR 这么注重第一学历，为什么不直接按照高考成绩招人？",
-      "link": "https://www.zhihu.com/question/1897610665172124519",
-      "heat": "87 万热度"
+      "title": "足协主席称「中国足球在亚洲已经处于三四流」，你赞同他这一观点吗？目前国足都面临哪些问题，又该如何解决？",
+      "link": "https://www.zhihu.com/question/1916430283001014244",
+      "heat": "86 万热度"
     },
     {
       "rank": "24",
-      "title": "足协主席称「中国足球在亚洲已经处于三四流」，你赞同他这一观点吗？目前国足都面临哪些问题，又该如何解决？",
-      "link": "https://www.zhihu.com/question/1916430283001014244",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "美国务卿称，美未参与以色列对伊朗的军事打击，美方为何急于撇清关系？这一表态对于中东局势有何影响？",
-      "link": "https://www.zhihu.com/question/1916810769082840068",
+      "title": "如何评价《原神》5.7 版本新增常驻模式幽境危战第六层绝境难度的奖励为限时武器幻化皮肤？",
+      "link": "https://www.zhihu.com/question/1916851831679747209",
       "heat": "83 万热度"
     },
     {
+      "rank": "25",
+      "title": "女孩疑似被业余心理咨询师性侵后自杀，留下遗书称咨询师为「爸爸」，你如何看待此事？如何避免此类悲剧发生？",
+      "link": "https://www.zhihu.com/question/1916907055874289864",
+      "heat": "81 万热度"
+    },
+    {
       "rank": "26",
-      "title": "如何评价《原神》5.7 版本新增常驻模式幽境危战第六层绝境难度的奖励为限时武器幻化皮肤？",
-      "link": "https://www.zhihu.com/question/1916851831679747209",
-      "heat": "82 万热度"
+      "title": "LPL 2025 赛季第二赛段淘汰赛 BLG VS iG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1916888693878260685",
+      "heat": "79 万热度"
     },
     {
       "rank": "27",
+      "title": "为什么食物被定义成加热后是「熟」的，未经过加热就是生的，「熟」的本质到底是什么？",
+      "link": "https://www.zhihu.com/question/1893786548648014924",
+      "heat": "78 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "一个人频繁的被辞退，是性格原因还是能力原因？",
+      "link": "https://www.zhihu.com/question/631088976",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "如何评价真人版电影《新·驯龙高手》？",
+      "link": "https://www.zhihu.com/question/1913635009736172460",
+      "heat": "69 万热度"
+    },
+    {
+      "rank": "30",
       "title": "在直角坐标系中，存不存在五个整数坐标点都在一个椭圆上？",
       "link": "https://www.zhihu.com/question/1915723810906313279",
       "heat": "69 万热度"
     },
     {
-      "rank": "28",
-      "title": "如何评价真人版电影《新·驯龙高手》？",
-      "link": "https://www.zhihu.com/question/1913635009736172460",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "如何评价《灵笼 2》第五集？",
-      "link": "https://www.zhihu.com/question/1909633416040808889",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "电影《老炮》中，按照冯小刚的意思，洋火应该怎么做，怎么说，怎么把钱拿出来才不是看不起他，才合他的意？",
-      "link": "https://www.zhihu.com/question/1914414354784318540",
-      "heat": "63 万热度"
-    },
-    {
       "rank": "31",
       "title": "如何用三行文字写出平静的风感？",
       "link": "https://www.zhihu.com/question/1916515180046713430",
-      "heat": "63 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "32",
       "title": "印度空难唯一幸存者坐在 11A 座位，这个座位有什么特殊之处？飞机坐在哪个位置更容易生还？",
       "link": "https://www.zhihu.com/question/1916762196697900352",
-      "heat": "62 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "33",
-      "title": "高考毕业后真的会很开心吗？",
-      "link": "https://www.zhihu.com/question/1916257342716118270",
+      "title": "报大学，专业重要还是大学重要？",
+      "link": "https://www.zhihu.com/question/1916581213025575791",
       "heat": "62 万热度"
     },
     {
       "rank": "34",
-      "title": "报大学，专业重要还是大学重要？",
-      "link": "https://www.zhihu.com/question/1916581213025575791",
+      "title": "高考毕业后真的会很开心吗？",
+      "link": "https://www.zhihu.com/question/1916257342716118270",
       "heat": "62 万热度"
     },
     {
@@ -244,14 +244,14 @@
     },
     {
       "rank": "41",
-      "title": "继「苏超」火后，「粤超」「鲁超」「豫超」也即将启动，谁能延续热度？这么多抄作业的省份你看好谁？",
-      "link": "https://www.zhihu.com/question/1916194854909776571",
+      "title": "如何看待极客湾评测麒麟 X90 的性能与表现?",
+      "link": "https://www.zhihu.com/question/1916784393025991786",
       "heat": "59 万热度"
     },
     {
       "rank": "42",
-      "title": "特别期待知道一些超出认知的东西，可以告诉我一件吗？",
-      "link": "https://www.zhihu.com/question/658934991",
+      "title": "美国务卿称，美未参与以色列对伊朗的军事打击，美方为何急于撇清关系？这一表态对于中东局势有何影响？",
+      "link": "https://www.zhihu.com/question/1916810769082840068",
       "heat": "59 万热度"
     },
     {
@@ -262,8 +262,8 @@
     },
     {
       "rank": "44",
-      "title": "《诡秘之主》动画即将开播，原著粉有哪些期待？",
-      "link": "https://www.zhihu.com/question/1916459178697947003",
+      "title": "电影《老炮》中，按照冯小刚的意思，洋火应该怎么做，怎么说，怎么把钱拿出来才不是看不起他，才合他的意？",
+      "link": "https://www.zhihu.com/question/1914414354784318540",
       "heat": "59 万热度"
     },
     {
@@ -280,28 +280,28 @@
     },
     {
       "rank": "47",
+      "title": "为什么有些漫画明明很有人气但还是画着画着就停更了？",
+      "link": "https://www.zhihu.com/question/1890782011871962760",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "《诡秘之主》动画即将开播，原著粉有哪些期待？",
+      "link": "https://www.zhihu.com/question/1916459178697947003",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "49",
       "title": "为什么我总觉得精神分析理论有一种「恐怖」的气质？",
       "link": "https://www.zhihu.com/question/1894735495860303590",
       "heat": "59 万热度"
     },
     {
-      "rank": "48",
-      "title": "如何看待极客湾评测麒麟 X90 的性能与表现?",
-      "link": "https://www.zhihu.com/question/1916784393025991786",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "49",
+      "rank": "50",
       "title": "中国科学家首次确认史前母系社会存在，成果登上 Nature，有哪些重大意义？",
       "link": "https://www.zhihu.com/question/1913978363254666000",
       "heat": "59 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "作为刚高考完的准大学生，我总下意识认为自己「在任何竞争性活动中都不会胜出」，如何改变这种心理？",
-      "link": "https://www.zhihu.com/question/1916039391840810388",
-      "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-06-13 20:51:59"
+  "generated_at": "2025-06-13 21:35:37"
 }
