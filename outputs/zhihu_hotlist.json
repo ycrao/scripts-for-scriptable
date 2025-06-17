@@ -1,12 +1,12 @@
 {
-  "artifact_id": "80b61ee2-09a0-45fe-a565-9642f81f68bf",
+  "artifact_id": "1cc078a8-9678-4578-9c05-b67b190f60d9",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "科学家发现 16000 光年之外神秘物体每 44 分钟向地球「眨 1 次眼」，它可能是什么？",
       "link": "https://www.zhihu.com/question/1917532443579216828",
-      "heat": "200 万热度"
+      "heat": "212 万热度"
     },
     {
       "rank": "2",
@@ -16,33 +16,33 @@
     },
     {
       "rank": "3",
-      "title": "中国外交部及有关使领馆正迅速组织撤离在以、伊的中国公民，目前当地情况如何？",
-      "link": "https://www.zhihu.com/question/1918332987877064913",
-      "heat": "119 万热度"
+      "title": "考生高考当天买茶饮收到 59 分鸭子，林里回应将培训门店，如何看待此事？你见过哪些很有创意的高考应援？",
+      "link": "https://www.zhihu.com/question/1915804519197008673",
+      "heat": "109 万热度"
     },
     {
       "rank": "4",
-      "title": "考生高考当天买茶饮收到 59 分鸭子，林里回应将培训门店，如何看待此事？你见过哪些很有创意的高考应援？",
-      "link": "https://www.zhihu.com/question/1915804519197008673",
-      "heat": "110 万热度"
-    },
-    {
-      "rank": "5",
       "title": "老板在群里一起艾特我的领导和我，我应该等我的领导回复老板还是我直接回复老板？",
       "link": "https://www.zhihu.com/question/1917311087814111368",
       "heat": "58 万热度"
     },
     {
-      "rank": "6",
+      "rank": "5",
       "title": "如何评价高盛提出的中国「民营十巨头」？如果有一个这样的 ETF 你会买吗？",
       "link": "https://www.zhihu.com/question/1918236286109574345",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "6",
+      "title": "中国外交部及有关使领馆正迅速组织撤离在以、伊的中国公民，目前当地情况如何？",
+      "link": "https://www.zhihu.com/question/1918332987877064913",
+      "heat": "56 万热度"
     },
     {
       "rank": "7",
       "title": "波尔在德甲决赛中完成职业生涯告别战后正式退役，这将对世界乒乓球产生怎样的影响？",
       "link": "https://www.zhihu.com/question/1917945327736034094",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "8",
@@ -58,62 +58,62 @@
     },
     {
       "rank": "10",
-      "title": "元朝时期郭守敬到底是怎么走到北极圈的？",
-      "link": "https://www.zhihu.com/question/50614559",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "湖南临澧烟花厂爆炸事故已致 9 人遇难 26 人受伤，事故原因可能是什么？厂方要承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1918296851205023026",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "陪领导出差了，当地区域公司总经理接待宴请，我在晚宴包间提议给领导们合个影，结果他们很不满意，为什么?",
-      "link": "https://www.zhihu.com/question/1917177022129606676",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "如何评价《机动战士 Gundam GQuuuuuuX》第十一集?",
-      "link": "https://www.zhihu.com/question/1918473176737911091",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "14",
       "title": "如何看待光线传媒董事长称《哪吒 2》票房分账最不公平，100 块票房片方只拿 33 块？怎么分才合理？",
       "link": "https://www.zhihu.com/question/1917937390267377064",
       "heat": "55 万热度"
     },
     {
-      "rank": "15",
-      "title": "伊朗称对以色列情报机构摩萨德总部发动袭击，如何评价此举？以情报机构在此次冲突中发挥了什么作用？",
-      "link": "https://www.zhihu.com/question/1918364347601744526",
+      "rank": "11",
+      "title": "湖南临澧烟花厂爆炸事故已致 9 人遇难 26 人受伤，事故原因可能是什么？厂方要承担哪些法律责任？",
+      "link": "https://www.zhihu.com/question/1918296851205023026",
       "heat": "55 万热度"
     },
     {
-      "rank": "16",
-      "title": "以军称已打死伊朗最高军事指挥官阿里·沙德马尼，具体情况如何？这会对伊朗军方造成怎样的影响？",
-      "link": "https://www.zhihu.com/question/1918319373602486091",
+      "rank": "12",
+      "title": "元朝时期郭守敬到底是怎么走到北极圈的？",
+      "link": "https://www.zhihu.com/question/50614559",
       "heat": "55 万热度"
     },
     {
-      "rank": "17",
-      "title": "为什么国内做偏微分方程（PDE）的人这么多，而且招学生非常快？",
-      "link": "https://www.zhihu.com/question/310502411",
-      "heat": "54 万热度"
+      "rank": "13",
+      "title": "如何评价《机动战士 Gundam GQuuuuuuX》第十一集?",
+      "link": "https://www.zhihu.com/question/1918473176737911091",
+      "heat": "55 万热度"
     },
     {
-      "rank": "18",
+      "rank": "14",
       "title": "如何评价陈可辛导演，章子怡、雷佳音主演，杨幂、赵丽颖参演的电影《酱园弄・悬案》？",
       "link": "https://www.zhihu.com/question/1917581569721332397",
       "heat": "54 万热度"
     },
     {
-      "rank": "19",
+      "rank": "15",
+      "title": "伊朗称对以色列情报机构摩萨德总部发动袭击，如何评价此举？以情报机构在此次冲突中发挥了什么作用？",
+      "link": "https://www.zhihu.com/question/1918364347601744526",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "陪领导出差了，当地区域公司总经理接待宴请，我在晚宴包间提议给领导们合个影，结果他们很不满意，为什么?",
+      "link": "https://www.zhihu.com/question/1917177022129606676",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "以军称已打死伊朗最高军事指挥官阿里·沙德马尼，具体情况如何？这会对伊朗军方造成怎样的影响？",
+      "link": "https://www.zhihu.com/question/1918319373602486091",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "18",
       "title": "华为官宣鸿蒙 HarmonyOS 5.1 将于 7 月开启升级，对此你怎么看？会选择第一时间升级吗？",
       "link": "https://www.zhihu.com/question/1916453480345854649",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "为什么国内做偏微分方程（PDE）的人这么多，而且招学生非常快？",
+      "link": "https://www.zhihu.com/question/310502411",
       "heat": "54 万热度"
     },
     {
@@ -124,184 +124,184 @@
     },
     {
       "rank": "21",
-      "title": "假如古代长城用的是 C140 混凝土，那千百年下来会完整的留存至今还是损坏的更加严重？",
-      "link": "https://www.zhihu.com/question/7371371683",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "家里自己种的蔬菜，该不该打农药呢？",
-      "link": "https://www.zhihu.com/question/1890336241448362471",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "电动车动辄五六百匹马力在民用车上普及真的好吗？",
-      "link": "https://www.zhihu.com/question/1591347442",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "机构称「若严格实行 60 天账期，仅特斯拉、理想两家车企资金最安全」，众车企会按 60 天账期严格实行吗？",
-      "link": "https://www.zhihu.com/question/1917897415932994015",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "「不喜欢接电话」有什么心理层面的原因或问题吗？",
-      "link": "https://www.zhihu.com/question/649993380",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "明清两代，西方传教士真的给中国带来过先进的天文历法吗？",
-      "link": "https://www.zhihu.com/question/1916150875463869901",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "到底有没有办法让还没有踏上社会的孩子明白一个道理「人生的容错率是很大的」？",
-      "link": "https://www.zhihu.com/question/1916980719818904615",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "高考报考大学，是选择离家近差一点的学校，还是选择离家远好一点的学校？",
-      "link": "https://www.zhihu.com/question/1917510180389775105",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "如何用辩证法来思考解决问题？",
-      "link": "https://www.zhihu.com/question/658554783",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "怎么培养一个人的看到事物的本质和洞察力？",
-      "link": "https://www.zhihu.com/question/1913911067534418510",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "31",
       "title": "学历史最好的出路是当老师吗？",
       "link": "https://www.zhihu.com/question/1912888664863770239",
       "heat": "54 万热度"
     },
     {
-      "rank": "32",
+      "rank": "22",
       "title": "我们真的能区分「知道」和「相信」吗？",
       "link": "https://www.zhihu.com/question/1913924827946919287",
       "heat": "54 万热度"
     },
     {
-      "rank": "33",
-      "title": "拼多多怎么逛着逛着就给优惠券了？",
-      "link": "https://www.zhihu.com/question/1918253183538533966",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "现在的冰箱的科学鲜储技术发展到什么阶段了？",
-      "link": "https://www.zhihu.com/question/1909332422178341458",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "从医用面膜、医用护理垫到动态⾎糖仪，有哪些「械」字号装备能让我们有备无患？",
-      "link": "https://www.zhihu.com/question/1913928645979910289",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "天猫 618 巅峰 48 小时，好多消费券和补贴喜从「天」降，赶紧帮我看看得再入点啥好物？",
-      "link": "https://www.zhihu.com/question/1918220935242188545",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "怎么才算是好的 VC 精华？",
-      "link": "https://www.zhihu.com/question/1916823822910354435",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "38",
+      "rank": "23",
       "title": "从进化的角度看，人和动物为何会产生抑郁？",
       "link": "https://www.zhihu.com/question/1917139217483567591",
       "heat": "54 万热度"
     },
     {
-      "rank": "39",
-      "title": "读《资本论》需要什么前置知识吗？",
-      "link": "https://www.zhihu.com/question/659313628",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "24",
       "title": "有报道称「一上高铁就犯困」与高铁的震动频率和二氧化碳浓度高有关，是真的吗？你会一上高铁就犯困吗？",
       "link": "https://www.zhihu.com/question/1917891132131599552",
       "heat": "54 万热度"
     },
     {
-      "rank": "41",
-      "title": "意大利上一代三大旗帜性后卫卡纳瓦罗、内斯塔、马尔蒂尼，谁的防守能力最强？",
-      "link": "https://www.zhihu.com/question/466870767",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "42",
+      "rank": "25",
       "title": "为什么公司都存在内斗，上至高管、中层、下至普通员工内耗？",
       "link": "https://www.zhihu.com/question/659486042",
       "heat": "54 万热度"
     },
     {
-      "rank": "43",
+      "rank": "26",
+      "title": "读《资本论》需要什么前置知识吗？",
+      "link": "https://www.zhihu.com/question/659313628",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "27",
       "title": "玉兔二号工作超 6 年，近日传回月球背面新照片，其设计寿命 3 个月，为什么可以工作这么久？",
       "link": "https://www.zhihu.com/question/1914269366029083988",
       "heat": "54 万热度"
     },
     {
-      "rank": "44",
-      "title": "为什么大部分史书都采用纪传体而不是编年体的形式？",
-      "link": "https://www.zhihu.com/question/1911711019111284837",
+      "rank": "28",
+      "title": "意大利上一代三大旗帜性后卫卡纳瓦罗、内斯塔、马尔蒂尼，谁的防守能力最强？",
+      "link": "https://www.zhihu.com/question/466870767",
       "heat": "54 万热度"
     },
     {
-      "rank": "45",
+      "rank": "29",
       "title": "李连杰时隔多年复出参演武侠电影《镖人：风起大漠》，票房能爆吗？",
       "link": "https://www.zhihu.com/question/1915742945170142597",
-      "heat": "53 万热度"
+      "heat": "54 万热度"
     },
     {
-      "rank": "46",
-      "title": "如何看待「张继科杯」将于 7 月开赛，成人组冠军奖金高达 3 万元?",
-      "link": "https://www.zhihu.com/question/1917604383069308173",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "47",
+      "rank": "30",
       "title": "为什么公司花了很多钱搞激励，还是无法激发员工的积极性？",
       "link": "https://www.zhihu.com/question/640415423",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
+      "rank": "31",
       "title": "离百万年薪最近的人工智能专业，会沦为新的天坑专业吗？",
       "link": "https://www.zhihu.com/question/8419946042",
       "heat": "53 万热度"
     },
     {
+      "rank": "32",
+      "title": "到底有没有办法让还没有踏上社会的孩子明白一个道理「人生的容错率是很大的」？",
+      "link": "https://www.zhihu.com/question/1916980719818904615",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "拼多多怎么逛着逛着就给优惠券了？",
+      "link": "https://www.zhihu.com/question/1918253183538533966",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "现在的冰箱的科学鲜储技术发展到什么阶段了？",
+      "link": "https://www.zhihu.com/question/1909332422178341458",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "从医用面膜、医用护理垫到动态⾎糖仪，有哪些「械」字号装备能让我们有备无患？",
+      "link": "https://www.zhihu.com/question/1913928645979910289",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "天猫 618 巅峰 48 小时，好多消费券和补贴喜从「天」降，赶紧帮我看看得再入点啥好物？",
+      "link": "https://www.zhihu.com/question/1918220935242188545",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "怎么才算是好的 VC 精华？",
+      "link": "https://www.zhihu.com/question/1916823822910354435",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "在职场中领导对你说，现在加薪，每个月加500，年底加薪，每个月加1000，如何抉择？",
+      "link": "https://www.zhihu.com/question/1895392802017366516",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "高考报考大学，是选择离家近差一点的学校，还是选择离家远好一点的学校？",
+      "link": "https://www.zhihu.com/question/1917510180389775105",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "宋江作为一个县城里的小吏，为什么那么有钱？",
+      "link": "https://www.zhihu.com/question/1909950317312848602",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "怎么培养一个人的看到事物的本质和洞察力？",
+      "link": "https://www.zhihu.com/question/1913911067534418510",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "如何用辩证法来思考解决问题？",
+      "link": "https://www.zhihu.com/question/658554783",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "高考完有必要考驾照吗?",
+      "link": "https://www.zhihu.com/question/1916251159175366086",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "健身为什么比较花钱呢？",
+      "link": "https://www.zhihu.com/question/4099326039",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "如何评价《机动战士高达 GQuuuuuuX》第十一集？",
+      "link": "https://www.zhihu.com/question/1918471283760428745",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "《三国杀》的「乐不思蜀」是否过于超标？这张牌强度是否应该削一削？",
+      "link": "https://www.zhihu.com/question/1917188750322169122",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "要在工作中交朋友吗？我们需要在职场关系的处理上耗费多少「心力」？",
+      "link": "https://www.zhihu.com/question/1917945141651531276",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "明清两代，西方传教士真的给中国带来过先进的天文历法吗？",
+      "link": "https://www.zhihu.com/question/1916150875463869901",
+      "heat": "53 万热度"
+    },
+    {
       "rank": "49",
-      "title": "父母会嫉妒自己的子女吗？为什么？",
-      "link": "https://www.zhihu.com/question/32165750",
+      "title": "中国车企会不会反向合资走向海外？",
+      "link": "https://www.zhihu.com/question/1916735363898115001",
       "heat": "53 万热度"
     },
     {
       "rank": "50",
-      "title": "如果长城放开 hi4 结构专利，其他车企会跟进吗？",
-      "link": "https://www.zhihu.com/question/1917499391721312419",
+      "title": "其他部门同事不经过领导直接找你，要帮他做吗？",
+      "link": "https://www.zhihu.com/question/1899883583138686577",
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-06-18 07:42:43"
+  "generated_at": "2025-06-18 07:55:27"
 }
