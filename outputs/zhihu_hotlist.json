@@ -1,78 +1,78 @@
 {
-  "artifact_id": "dd4ef7a5-aa86-4d76-b462-612ec92ed9f8",
+  "artifact_id": "57e15105-1c7d-4f6b-8e99-a7542004a5cf",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "深圳一奔驰车高速上失控多次熄火，前车主远程劫车获刑 4 年，怎样从法律角度解读？远程控制是否存在漏洞？",
       "link": "https://www.zhihu.com/question/1916800023141781539",
-      "heat": "200 万热度"
+      "heat": "230 万热度"
     },
     {
       "rank": "2",
       "title": "广东怀集遇历史最大洪水，18 万人受灾，积水最深处达 3 米，目前当地情况如何？",
       "link": "https://www.zhihu.com/question/1918771126328321307",
-      "heat": "197 万热度"
+      "heat": "223 万热度"
     },
     {
       "rank": "3",
       "title": "为什么人总是下意识反驳别人？好像「反驳别人」比「认同别人」要容易得多？",
       "link": "https://www.zhihu.com/question/1918290377435230509",
-      "heat": "188 万热度"
+      "heat": "198 万热度"
     },
     {
       "rank": "4",
       "title": "为什么现在数学系普遍不学椭圆函数、超几何函数等特殊函数？",
       "link": "https://www.zhihu.com/question/385892250",
-      "heat": "179 万热度"
+      "heat": "174 万热度"
     },
     {
       "rank": "5",
       "title": "蜂鸟音乐指控邓紫棋侵权，要求 48 小时内下架重录歌曲，邓紫棋回应「不会下架」，这一指控合理吗？",
       "link": "https://www.zhihu.com/question/1918670397932528567",
-      "heat": "165 万热度"
+      "heat": "166 万热度"
     },
     {
       "rank": "6",
       "title": "多名美官员暗示以伊冲突接下来「24 至 48 小时将是关键时刻」，具体有哪些节点？美国扮演了何种角色？",
       "link": "https://www.zhihu.com/question/1918661072249922613",
-      "heat": "158 万热度"
+      "heat": "162 万热度"
     },
     {
       "rank": "7",
       "title": "京东正式进军酒旅市场，商家可享最高三年 0 佣金，如何看待这一布局？将给行业格局带来哪些变化？",
       "link": "https://www.zhihu.com/question/1918688395846223076",
-      "heat": "151 万热度"
+      "heat": "158 万热度"
     },
     {
       "rank": "8",
       "title": "江西 2 岁幼童急诊送医后遭遇漏诊、延误病情不幸死亡，当事医生已被刑拘，他将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1918294395142239784",
-      "heat": "138 万热度"
+      "heat": "133 万热度"
     },
     {
       "rank": "9",
+      "title": "你见过最不会点菜的人是什么样子的？",
+      "link": "https://www.zhihu.com/question/40739580",
+      "heat": "92 万热度"
+    },
+    {
+      "rank": "10",
       "title": "8 岁小孩偷花 1 万多买 26 箱荔枝，孩子父亲称在商品未发货时申请退款被拒，这合理吗？",
       "link": "https://www.zhihu.com/question/1918430454584927819",
       "heat": "87 万热度"
     },
     {
-      "rank": "10",
-      "title": "你见过最不会点菜的人是什么样子的？",
-      "link": "https://www.zhihu.com/question/40739580",
-      "heat": "86 万热度"
-    },
-    {
       "rank": "11",
       "title": "俄媒称美国「尼米兹」号航母正驶往中东地区，途中关闭了应答器并停止传输位置信息，这意味着什么？",
       "link": "https://www.zhihu.com/question/1918759028609213799",
-      "heat": "59 万热度"
+      "heat": "60 万热度"
     },
     {
       "rank": "12",
       "title": "江苏一医院称负债 4400 多万全员解聘，具体是怎么回事？医院这么做合法吗？",
       "link": "https://www.zhihu.com/question/1918624585227658644",
-      "heat": "58 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "13",
@@ -100,14 +100,14 @@
     },
     {
       "rank": "17",
-      "title": "如果一辈子只吃荤，不吃素会怎样？",
-      "link": "https://www.zhihu.com/question/637634220",
+      "title": "编程语言 MoonBit 发布 Beta 版，正式进入企业场景应用，会带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1918647759059251705",
       "heat": "56 万热度"
     },
     {
       "rank": "18",
-      "title": "如何评价《原神》丝柯克传说任务「磷星之章」？",
-      "link": "https://www.zhihu.com/question/1918631169345426134",
+      "title": "科学家发现 16000 光年之外神秘物体每 44 分钟向地球「眨 1 次眼」，它可能是什么？",
+      "link": "https://www.zhihu.com/question/1917532443579216828",
       "heat": "56 万热度"
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "rank": "20",
-      "title": "如何评价「能克隆自己」给自己打工的游戏《多重人生》？为什么说它能成为年度最佳游戏的有力竞争者？",
-      "link": "https://www.zhihu.com/question/538471301",
+      "title": "《长安的荔枝》中真的是贵妃想吃荔枝吗？「荔枝」究竟代表着什么？",
+      "link": "https://www.zhihu.com/question/1917564639325152467",
       "heat": "56 万热度"
     },
     {
@@ -130,68 +130,68 @@
     },
     {
       "rank": "22",
-      "title": "为什么现在提到明朝文官带兵都是于谦王守仁没有人提王骥?",
-      "link": "https://www.zhihu.com/question/1917724115562898853",
+      "title": "《英雄联盟》里为什么国人叫英雄更喜欢取外号，外国人都是叫名字?",
+      "link": "https://www.zhihu.com/question/583702643",
       "heat": "56 万热度"
     },
     {
       "rank": "23",
-      "title": "有哪些民国名媛值得敬佩？",
-      "link": "https://www.zhihu.com/question/445972629",
+      "title": "在格斗游戏里，投技或者说指令投角色会破坏游戏平衡性嘛？",
+      "link": "https://www.zhihu.com/question/1915937137188136459",
       "heat": "56 万热度"
     },
     {
       "rank": "24",
-      "title": "网络小白如何建立一个网站，供别人下载文件（主要是 PDF 和 MP3）?",
-      "link": "https://www.zhihu.com/question/15154726741",
+      "title": "如果可以「逆天改命」，你想给哪位童年荧幕形象写一个新的故事和结局？",
+      "link": "https://www.zhihu.com/question/1914356731494000417",
       "heat": "56 万热度"
     },
     {
       "rank": "25",
-      "title": "卡鲁索的防守，在 NBA 历史后卫能挤进前 5 吗？",
-      "link": "https://www.zhihu.com/question/1915412945715836621",
+      "title": "你如何看待张小敬这个人物?",
+      "link": "https://www.zhihu.com/question/338913568",
       "heat": "56 万热度"
     },
     {
       "rank": "26",
-      "title": "当 00 后用能量水晶阵对抗 OKR，玄学为何成为新一代打工人的心理「防弹衣」？",
-      "link": "https://www.zhihu.com/question/1910348691144966170",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "有没有推荐的含二级结论较全的高中数学教辅？",
-      "link": "https://www.zhihu.com/question/605424393",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "为什么有时候我明知碎片化信息没有用，却仍会主动去接触它？",
-      "link": "https://www.zhihu.com/question/1917886142755370885",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "29",
       "title": "如果魔兽里所有召唤物变成永久的，但经验值翻倍，对哪个种族加强？",
       "link": "https://www.zhihu.com/question/1916989328875329337",
       "heat": "56 万热度"
     },
     {
+      "rank": "27",
+      "title": "为何很多人会认为「学法学需大量背诵」呢？",
+      "link": "https://www.zhihu.com/question/1916405534149543848",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "有没有推荐的含二级结论较全的高中数学教辅？",
+      "link": "https://www.zhihu.com/question/605424393",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "为什么有时候我明知碎片化信息没有用，却仍会主动去接触它？",
+      "link": "https://www.zhihu.com/question/1917886142755370885",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "30",
-      "title": "现在的冰箱的科学鲜储技术发展到什么阶段了？",
-      "link": "https://www.zhihu.com/question/1909332422178341458",
+      "title": "在什么时候，你发现自己的孩子是真的快乐？",
+      "link": "https://www.zhihu.com/question/1917127150567428880",
       "heat": "56 万热度"
     },
     {
       "rank": "31",
-      "title": "编程语言 MoonBit 发布 Beta 版，正式进入企业场景应用，会带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1918647759059251705",
+      "title": "跑步第 1 天，2 公里 7 分配就累的不行了，该怎么调整?",
+      "link": "https://www.zhihu.com/question/1918391612033180528",
       "heat": "56 万热度"
     },
     {
       "rank": "32",
-      "title": "《长安的荔枝》中真的是贵妃想吃荔枝吗？「荔枝」究竟代表着什么？",
-      "link": "https://www.zhihu.com/question/1917564639325152467",
+      "title": "当 00 后用能量水晶阵对抗 OKR，玄学为何成为新一代打工人的心理「防弹衣」？",
+      "link": "https://www.zhihu.com/question/1910348691144966170",
       "heat": "56 万热度"
     },
     {
@@ -202,14 +202,14 @@
     },
     {
       "rank": "34",
-      "title": "科学家发现 16000 光年之外神秘物体每 44 分钟向地球「眨 1 次眼」，它可能是什么？",
-      "link": "https://www.zhihu.com/question/1917532443579216828",
+      "title": "有哪些像寒号鸟一样的名不副实的动物？",
+      "link": "https://www.zhihu.com/question/68208296",
       "heat": "56 万热度"
     },
     {
       "rank": "35",
-      "title": "中国足球是否在 90 后一代上出现了人才断档，如果是，为什么？",
-      "link": "https://www.zhihu.com/question/310326755",
+      "title": "我国新一代载人飞船「梦舟」零高度逃逸飞行试验成功，该实验有怎样的意义？「梦舟」在未来会发挥哪些作用？",
+      "link": "https://www.zhihu.com/question/1918309191640159038",
       "heat": "56 万热度"
     },
     {
@@ -220,20 +220,20 @@
     },
     {
       "rank": "37",
-      "title": "《英雄联盟》里为什么国人叫英雄更喜欢取外号，外国人都是叫名字?",
-      "link": "https://www.zhihu.com/question/583702643",
+      "title": "儿子大学想学数学，说喜欢研究数学问题过程， 我尊重他的兴趣，又担心未来就业深造不好把控，请指点迷津？",
+      "link": "https://www.zhihu.com/question/1916794249019631360",
       "heat": "56 万热度"
     },
     {
       "rank": "38",
-      "title": "在格斗游戏里，投技或者说指令投角色会破坏游戏平衡性嘛？",
-      "link": "https://www.zhihu.com/question/1915937137188136459",
+      "title": "在当今局势下学习哪种小语种更好？",
+      "link": "https://www.zhihu.com/question/1901279314332350327",
       "heat": "56 万热度"
     },
     {
       "rank": "39",
-      "title": "如果可以「逆天改命」，你想给哪位童年荧幕形象写一个新的故事和结局？",
-      "link": "https://www.zhihu.com/question/1914356731494000417",
+      "title": "天猫 618 早 10 晚 8 超级秒杀你秒到了什么「战利品」？还有哪些适合入手的好物？",
+      "link": "https://www.zhihu.com/question/1918583528829989733",
       "heat": "56 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "纯电车开空调时续航迅速下降是什么原因导致的？是否是正常现象？",
-      "link": "https://www.zhihu.com/question/1913331270299136083",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "你如何看待张小敬这个人物?",
-      "link": "https://www.zhihu.com/question/338913568",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
       "title": "为什么健身房的男生不怎么练臀？",
       "link": "https://www.zhihu.com/question/1897413466920289464",
       "heat": "56 万热度"
     },
     {
+      "rank": "42",
+      "title": "卡鲁索的防守，在 NBA 历史后卫能挤进前 5 吗？",
+      "link": "https://www.zhihu.com/question/1915412945715836621",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "为什么「类魂游戏」玩家在被虐后，反而会更有动力继续挑战？",
+      "link": "https://www.zhihu.com/question/1916621412770228198",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "44",
-      "title": "为何很多人会认为「学法学需大量背诵」呢？",
-      "link": "https://www.zhihu.com/question/1916405534149543848",
+      "title": "《新·驯龙高手》在国内外均收获高口碑，为什么梦工场这次动画改编真人版能够成功？",
+      "link": "https://www.zhihu.com/question/1917876596683047037",
       "heat": "56 万热度"
     },
     {
       "rank": "45",
-      "title": "大家会容忍小孩子把家里搞得乱七八糟吗？",
-      "link": "https://www.zhihu.com/question/1918221713256191797",
+      "title": "陪你长大的影视剧中哪部是你心中的最佳？",
+      "link": "https://www.zhihu.com/question/1911855901473767707",
       "heat": "56 万热度"
     },
     {
       "rank": "46",
-      "title": "在什么时候，你发现自己的孩子是真的快乐？",
-      "link": "https://www.zhihu.com/question/1917127150567428880",
+      "title": "马斯克宣布星舰将配备 42 台发动机，如何评价这一设计？",
+      "link": "https://www.zhihu.com/question/1917972346041512051",
       "heat": "56 万热度"
     },
     {
       "rank": "47",
-      "title": "跑步第 1 天，2 公里 7 分配就累的不行了，该怎么调整?",
-      "link": "https://www.zhihu.com/question/1918391612033180528",
+      "title": "有哪些民国名媛值得敬佩？",
+      "link": "https://www.zhihu.com/question/445972629",
       "heat": "56 万热度"
     },
     {
       "rank": "48",
-      "title": "我国新一代载人飞船「梦舟」零高度逃逸飞行试验成功，该实验有怎样的意义？「梦舟」在未来会发挥哪些作用？",
-      "link": "https://www.zhihu.com/question/1918309191640159038",
+      "title": "未来想从事人工智能，本科阶段选什么专业合适？",
+      "link": "https://www.zhihu.com/question/1915502092019294211",
       "heat": "56 万热度"
     },
     {
       "rank": "49",
-      "title": "有哪些像寒号鸟一样的名不副实的动物？",
-      "link": "https://www.zhihu.com/question/68208296",
+      "title": "消息称国青主帅久尔杰维奇将出任国足救火主帅，出战东亚杯连战日韩，如何评价他的能力？你看好他吗？",
+      "link": "https://www.zhihu.com/question/1918437495714050189",
       "heat": "56 万热度"
     },
     {
       "rank": "50",
-      "title": "儿子大学想学数学，说喜欢研究数学问题过程， 我尊重他的兴趣，又担心未来就业深造不好把控，请指点迷津？",
-      "link": "https://www.zhihu.com/question/1916794249019631360",
+      "title": "为什么生活没那么糟糕，你却感到不快乐？",
+      "link": "https://www.zhihu.com/question/1917766838319833100",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-06-19 07:44:36"
+  "generated_at": "2025-06-19 07:57:20"
 }
