@@ -1,90 +1,90 @@
 {
-  "artifact_id": "a7a645a5-f729-4356-b279-8814b60de2a3",
+  "artifact_id": "9ccd77d5-bcb5-4550-b619-09ec65e85813",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "网传西藏六月发生三起藏马熊吃人事件，藏马熊真的这么可怕吗？",
       "link": "https://www.zhihu.com/question/1918022865741145979",
-      "heat": "574 万热度"
+      "heat": "571 万热度"
     },
     {
       "rank": "2",
       "title": "中方回应「美国可能对伊朗进行打击」，表示「当前中东地区局势紧张敏感，面临失控的风险」，如何解读？",
       "link": "https://www.zhihu.com/question/1919081061163460059",
-      "heat": "344 万热度"
+      "heat": "397 万热度"
     },
     {
       "rank": "3",
       "title": "北京电子科技学院、国防科技大学等多所高校明确不招复读生，怎样看待这一规定？",
       "link": "https://www.zhihu.com/question/1919032669615912434",
-      "heat": "330 万热度"
+      "heat": "379 万热度"
     },
     {
       "rank": "4",
       "title": "58 同城被曝大规模裁员，比例或达 30%，具体情况如何？58 同城目前面临哪些问题？",
       "link": "https://www.zhihu.com/question/1918967257620551372",
-      "heat": "150 万热度"
+      "heat": "158 万热度"
     },
     {
       "rank": "5",
-      "title": "今天面试第五家公司被拒，面试官说我你技术没问题，但 35 岁要 25k，不如招 2 个应届生，我该如何应对？",
-      "link": "https://www.zhihu.com/question/1918825007863292471",
-      "heat": "117 万热度"
-    },
-    {
-      "rank": "6",
       "title": "34 岁教授王虹在北京大学开数学讲座，她或将成为首位获得菲尔兹奖的中国籍数学家，有多厉害？",
       "link": "https://www.zhihu.com/question/1918959689028302562",
       "heat": "104 万热度"
     },
     {
-      "rank": "7",
+      "rank": "6",
       "title": "哈梅内伊任命伊朗革命卫队新任陆军总司令，如何看待这一任命？",
       "link": "https://www.zhihu.com/question/1919071992151237284",
-      "heat": "97 万热度"
+      "heat": "98 万热度"
+    },
+    {
+      "rank": "7",
+      "title": "为什么黄河的几字看起来拉长了好多但是就是长度比不过看起来更趋直的长江?",
+      "link": "https://www.zhihu.com/question/1914445022838920923",
+      "heat": "93 万热度"
     },
     {
       "rank": "8",
-      "title": "为什么黄河的几字看起来拉长了好多但是就是长度比不过看起来更趋直的长江?",
-      "link": "https://www.zhihu.com/question/1914445022838920923",
-      "heat": "88 万热度"
+      "title": "今天面试第五家公司被拒，面试官说我你技术没问题，但 35 岁要 25k，不如招 2 个应届生，我该如何应对？",
+      "link": "https://www.zhihu.com/question/1918825007863292471",
+      "heat": "85 万热度"
     },
     {
       "rank": "9",
       "title": "《大明王朝 1566》中海瑞母亲为什么后来执意要回海南，导致海瑞妻子中途难产而死？",
       "link": "https://www.zhihu.com/question/1918540480737703593",
-      "heat": "78 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "10",
       "title": "为啥「整顿违规吃喝」的好事在某些省份落实成了「吃饭违规」？这会对当地的餐饮行业造成影响吗？",
       "link": "https://www.zhihu.com/question/1916853495279085443",
-      "heat": "76 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "11",
       "title": "美国将对所有赴美学生签证申请人进行社媒等网络审查，这对赴美留学生将带来哪些影响？申请时需要注意什么？",
       "link": "https://www.zhihu.com/question/1918952962195170667",
-      "heat": "75 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "12",
       "title": "学习 Linux 内核有什么好的书吗？",
       "link": "https://www.zhihu.com/question/424031777",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "13",
-      "title": "在比自己强大优秀的人面前会失去自信，不敢说话、自闭、懦弱、胆怯，连善意都不敢释放，怎么改变？",
-      "link": "https://www.zhihu.com/question/588130957",
-      "heat": "64 万热度"
+      "title": "高中数学老师只是比高中生多了一点超纲知识，凭什么对高中生形成碾压式的解题能力?",
+      "link": "https://www.zhihu.com/question/1918660839906472116",
+      "heat": "59 万热度"
     },
     {
       "rank": "14",
-      "title": "高中数学老师只是比高中生多了一点超纲知识，凭什么对高中生形成碾压式的解题能力?",
-      "link": "https://www.zhihu.com/question/1918660839906472116",
-      "heat": "61 万热度"
+      "title": "奥迪暂停全面电动化计划，不再设定停售燃油车时间表，此前沃尔沃、奔驰也调整全面电动化计划，如何解读？",
+      "link": "https://www.zhihu.com/question/1918786853345142179",
+      "heat": "59 万热度"
     },
     {
       "rank": "15",
@@ -94,8 +94,8 @@
     },
     {
       "rank": "16",
-      "title": "奥迪暂停全面电动化计划，不再设定停售燃油车时间表，此前沃尔沃、奔驰也调整全面电动化计划，如何解读？",
-      "link": "https://www.zhihu.com/question/1918786853345142179",
+      "title": "在比自己强大优秀的人面前会失去自信，不敢说话、自闭、懦弱、胆怯，连善意都不敢释放，怎么改变？",
+      "link": "https://www.zhihu.com/question/588130957",
       "heat": "59 万热度"
     },
     {
@@ -142,38 +142,38 @@
     },
     {
       "rank": "24",
-      "title": "你认为好的伴侣关系会稀释我们成长中的心理创伤吗？",
-      "link": "https://www.zhihu.com/question/1916514793411544795",
+      "title": "如何评价《一人之下》第 721（764）话？",
+      "link": "https://www.zhihu.com/question/1919171558930355479",
       "heat": "52 万热度"
     },
     {
       "rank": "25",
-      "title": "编程语言 MoonBit 发布 Beta 版，正式进入企业场景应用，会带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1918647759059251705",
+      "title": "江西 2 岁幼童急诊送医后遭遇漏诊、延误病情不幸死亡，当事医生已被刑拘，他将承担哪些法律责任？",
+      "link": "https://www.zhihu.com/question/1918294395142239784",
       "heat": "52 万热度"
     },
     {
       "rank": "26",
-      "title": "是什么理由让你一直坚持上班？",
-      "link": "https://www.zhihu.com/question/1917897831152329602",
+      "title": "自学数学可以走多远？",
+      "link": "https://www.zhihu.com/question/1915885793936938303",
       "heat": "52 万热度"
     },
     {
       "rank": "27",
-      "title": "历史上真的有姜子牙吗？",
-      "link": "https://www.zhihu.com/question/390930891",
+      "title": "小学四年级功课不及格，暑期是补四年级内容还是五年级的？",
+      "link": "https://www.zhihu.com/question/1917913354841874873",
       "heat": "52 万热度"
     },
     {
       "rank": "28",
-      "title": "拒绝在职场中站队，被边缘化的概率有多高？「职场老好人」产生讨好型焦虑的根源是什么？",
-      "link": "https://www.zhihu.com/question/1916181432646243207",
+      "title": "如果你是部门经理，手底下有一个你很信任的下属提出离职，你该怎么办？",
+      "link": "https://www.zhihu.com/question/1903806418521415767",
       "heat": "52 万热度"
     },
     {
       "rank": "29",
-      "title": "公立医生帮联系民营救护车，800 公里收费 2.8 万元，收费合理吗？救护车收费标准是什么？",
-      "link": "https://www.zhihu.com/question/1918268909884274138",
+      "title": "我国化学化工领域有没有独创性的技术和产品？",
+      "link": "https://www.zhihu.com/question/667529495",
       "heat": "52 万热度"
     },
     {
@@ -184,14 +184,14 @@
     },
     {
       "rank": "31",
-      "title": "历史上有哪些名将被严重高估？",
-      "link": "https://www.zhihu.com/question/45089774",
+      "title": "世俱杯小组赛皇马 1-1 利雅得新月，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1918897778974791460",
       "heat": "52 万热度"
     },
     {
       "rank": "32",
-      "title": "刚想提离职突然知道公司在裁员了，等还是不等？",
-      "link": "https://www.zhihu.com/question/1915401114368574976",
+      "title": "NBA 有哪些推算起来很有意思的蝴蝶效应？",
+      "link": "https://www.zhihu.com/question/268031925",
       "heat": "52 万热度"
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "rank": "36",
-      "title": "江西 2 岁幼童急诊送医后遭遇漏诊、延误病情不幸死亡，当事医生已被刑拘，他将承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1918294395142239784",
+      "title": "公式背得溜，做题一塌糊涂，五年级孩子数学不是很好，尤其图形方面，该怎么提升？",
+      "link": "https://www.zhihu.com/question/1917997182163874964",
       "heat": "52 万热度"
     },
     {
@@ -226,82 +226,82 @@
     },
     {
       "rank": "38",
-      "title": "自学数学可以走多远？",
-      "link": "https://www.zhihu.com/question/1915885793936938303",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "小学四年级功课不及格，暑期是补四年级内容还是五年级的？",
-      "link": "https://www.zhihu.com/question/1917913354841874873",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "如果你是部门经理，手底下有一个你很信任的下属提出离职，你该怎么办？",
-      "link": "https://www.zhihu.com/question/1903806418521415767",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "我国化学化工领域有没有独创性的技术和产品？",
-      "link": "https://www.zhihu.com/question/667529495",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "世俱杯小组赛皇马 1-1 利雅得新月，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1918897778974791460",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "NBA 有哪些推算起来很有意思的蝴蝶效应？",
-      "link": "https://www.zhihu.com/question/268031925",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "美国发行「稳定币」，是否相当于增发美元？",
-      "link": "https://www.zhihu.com/question/1917486496451110853",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "如果 LoL 你像瑞兹一样可以带上所有大小符文，你有信心带 4 个黄金正常符文的队友打爆巅峰 SKT 吗？",
-      "link": "https://www.zhihu.com/question/1916106625867059785",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "公式背得溜，做题一塌糊涂，五年级孩子数学不是很好，尤其图形方面，该怎么提升？",
-      "link": "https://www.zhihu.com/question/1917997182163874964",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "47",
       "title": "高考成绩不理想，又不想复读怎么办？",
       "link": "https://www.zhihu.com/question/1918329321640157388",
       "heat": "52 万热度"
     },
     {
-      "rank": "48",
+      "rank": "39",
       "title": "现在 ai 编程达到了什么样的水平，是否能独立用来编写游戏？",
       "link": "https://www.zhihu.com/question/1895588590286770789",
       "heat": "52 万热度"
     },
     {
-      "rank": "49",
+      "rank": "40",
+      "title": "如果 LoL 你像瑞兹一样可以带上所有大小符文，你有信心带 4 个黄金正常符文的队友打爆巅峰 SKT 吗？",
+      "link": "https://www.zhihu.com/question/1916106625867059785",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "公立医生帮联系民营救护车，800 公里收费 2.8 万元，收费合理吗？救护车收费标准是什么？",
+      "link": "https://www.zhihu.com/question/1918268909884274138",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "42",
       "title": "目前人工智能在教育领域都有哪些实际应用？",
       "link": "https://www.zhihu.com/question/403244611",
       "heat": "52 万热度"
     },
     {
-      "rank": "50",
+      "rank": "43",
       "title": "个人现处于纠结骑公路车是否锁的尴尬期，关于锁鞋骑车的老手们有哪些建议？",
       "link": "https://www.zhihu.com/question/1917524035824260194",
       "heat": "52 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "如何评价《原神》丝柯克传说任务「磷星之章」？",
+      "link": "https://www.zhihu.com/question/1918631169345426134",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "为什么现在提到明朝文官带兵都是于谦王守仁没有人提王骥?",
+      "link": "https://www.zhihu.com/question/1917724115562898853",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "如果卡卡西不加入鹿丸复仇小队，他们将如何对敌？",
+      "link": "https://www.zhihu.com/question/415815271",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何设计一种高反馈的学习机制，提高孩子的学习兴趣？",
+      "link": "https://www.zhihu.com/question/1909180714798253723",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "假如金轮法王的龙象般若功彻底练成，还有哪种武功可以与之匹敌？",
+      "link": "https://www.zhihu.com/question/1916516999825171752",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "成长过程中很少得到情感，长大后建立亲密关系付出情感很困难，怎么平衡这种心态呢？",
+      "link": "https://www.zhihu.com/question/1917453235041599710",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "为什么过了 15 年，在大荧幕看翻拍电影《新·驯龙高手》依然不觉得过时？",
+      "link": "https://www.zhihu.com/question/1917273211843905454",
+      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-06-20 07:43:29"
+  "generated_at": "2025-06-20 07:56:19"
 }
