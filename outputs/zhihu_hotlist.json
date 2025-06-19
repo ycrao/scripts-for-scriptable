@@ -1,66 +1,66 @@
 {
-  "artifact_id": "b32dbaf2-f4ee-4581-83a0-a1a23e77564b",
+  "artifact_id": "0e76a108-a21e-4e8e-82c4-e07c59f5cf5c",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "网传西藏六月发生三起藏马熊吃人事件，藏马熊真的这么可怕吗？",
       "link": "https://www.zhihu.com/question/1918022865741145979",
-      "heat": "842 万热度"
+      "heat": "839 万热度"
     },
     {
       "rank": "2",
       "title": "34 岁教授王虹在北京大学开数学讲座，她或将成为首位获得菲尔兹奖的中国籍数学家，有多厉害？",
       "link": "https://www.zhihu.com/question/1918959689028302562",
-      "heat": "431 万热度"
+      "heat": "368 万热度"
     },
     {
       "rank": "3",
       "title": "今天面试第五家公司被拒，面试官说我你技术没问题，但 35 岁要 25k，不如招 2 个应届生，我该如何应对？",
       "link": "https://www.zhihu.com/question/1918825007863292471",
-      "heat": "225 万热度"
+      "heat": "175 万热度"
     },
     {
       "rank": "4",
-      "title": "高中数学老师只是比高中生多了一点超纲知识，凭什么对高中生形成碾压式的解题能力?",
-      "link": "https://www.zhihu.com/question/1918660839906472116",
-      "heat": "149 万热度"
+      "title": "北京电子科技学院、国防科技大学等多所高校明确不招复读生，怎样看待这一规定？",
+      "link": "https://www.zhihu.com/question/1919032669615912434",
+      "heat": "154 万热度"
     },
     {
       "rank": "5",
-      "title": "北京电子科技学院、国防科技大学等多所高校明确不招复读生，怎样看待这一规定？",
-      "link": "https://www.zhihu.com/question/1919032669615912434",
-      "heat": "142 万热度"
+      "title": "中方回应「美国可能对伊朗进行打击」，表示「当前中东地区局势紧张敏感，面临失控的风险」，如何解读？",
+      "link": "https://www.zhihu.com/question/1919081061163460059",
+      "heat": "143 万热度"
     },
     {
       "rank": "6",
       "title": "哈梅内伊任命伊朗革命卫队新任陆军总司令，如何看待这一任命？",
       "link": "https://www.zhihu.com/question/1919071992151237284",
-      "heat": "136 万热度"
+      "heat": "142 万热度"
     },
     {
       "rank": "7",
-      "title": "中方回应「美国可能对伊朗进行打击」，表示「当前中东地区局势紧张敏感，面临失控的风险」，如何解读？",
-      "link": "https://www.zhihu.com/question/1919081061163460059",
-      "heat": "130 万热度"
+      "title": "高中数学老师只是比高中生多了一点超纲知识，凭什么对高中生形成碾压式的解题能力?",
+      "link": "https://www.zhihu.com/question/1918660839906472116",
+      "heat": "141 万热度"
     },
     {
       "rank": "8",
       "title": "美国将对所有赴美学生签证申请人进行社媒等网络审查，这对赴美留学生将带来哪些影响？申请时需要注意什么？",
       "link": "https://www.zhihu.com/question/1918952962195170667",
-      "heat": "104 万热度"
+      "heat": "105 万热度"
     },
     {
       "rank": "9",
       "title": "如何饮食才是真正的健康饮食？",
       "link": "https://www.zhihu.com/question/410733452",
-      "heat": "72 万热度"
+      "heat": "74 万热度"
     },
     {
       "rank": "10",
       "title": "为啥「整顿违规吃喝」的好事在某些省份落实成了「吃饭违规」？这会对当地的餐饮行业造成影响吗？",
       "link": "https://www.zhihu.com/question/1916853495279085443",
-      "heat": "71 万热度"
+      "heat": "72 万热度"
     },
     {
       "rank": "11",
@@ -70,20 +70,20 @@
     },
     {
       "rank": "12",
-      "title": "《长安的荔枝》里的故事，真的发生过吗？",
-      "link": "https://www.zhihu.com/question/1914430278119723731",
-      "heat": "69 万热度"
+      "title": "奥迪暂停全面电动化计划，不再设定停售燃油车时间表，此前沃尔沃、奔驰也调整全面电动化计划，如何解读？",
+      "link": "https://www.zhihu.com/question/1918786853345142179",
+      "heat": "59 万热度"
     },
     {
       "rank": "13",
-      "title": "如何评价《一人之下》第 721（764）话？",
-      "link": "https://www.zhihu.com/question/1919171558930355479",
+      "title": "目前人工智能在教育领域都有哪些实际应用？",
+      "link": "https://www.zhihu.com/question/403244611",
       "heat": "59 万热度"
     },
     {
       "rank": "14",
-      "title": "奥迪暂停全面电动化计划，不再设定停售燃油车时间表，此前沃尔沃、奔驰也调整全面电动化计划，如何解读？",
-      "link": "https://www.zhihu.com/question/1918786853345142179",
+      "title": "学科交叉是不是「高端骗局」，大学生怎么规划才能成为复合型人才？",
+      "link": "https://www.zhihu.com/question/8023803010",
       "heat": "59 万热度"
     },
     {
@@ -94,21 +94,21 @@
     },
     {
       "rank": "16",
-      "title": "目前人工智能在教育领域都有哪些实际应用？",
-      "link": "https://www.zhihu.com/question/403244611",
+      "title": "《长安的荔枝》里的故事，真的发生过吗？",
+      "link": "https://www.zhihu.com/question/1914430278119723731",
       "heat": "59 万热度"
     },
     {
       "rank": "17",
-      "title": "学科交叉是不是「高端骗局」，大学生怎么规划才能成为复合型人才？",
-      "link": "https://www.zhihu.com/question/8023803010",
+      "title": "如何评价《一人之下》第 721（764）话？",
+      "link": "https://www.zhihu.com/question/1919171558930355479",
       "heat": "59 万热度"
     },
     {
       "rank": "18",
       "title": "已经提离职了，领导还是像往常哪样压工作任务下来，怎么办？",
       "link": "https://www.zhihu.com/question/1918587416278726358",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "19",
@@ -172,26 +172,26 @@
     },
     {
       "rank": "29",
-      "title": "有什么关于山西的冷知识？",
-      "link": "https://www.zhihu.com/question/52942640",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "30",
       "title": "小学四年级功课不及格，暑期是补四年级内容还是五年级的？",
       "link": "https://www.zhihu.com/question/1917913354841874873",
       "heat": "53 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "孩子为了上重点小学，每天开车送孩子来回 40 公里值得吗？",
       "link": "https://www.zhihu.com/question/1918207138024634018",
       "heat": "53 万热度"
     },
     {
-      "rank": "32",
+      "rank": "31",
       "title": "成长过程中很少得到情感，长大后建立亲密关系付出情感很困难，怎么平衡这种心态呢？",
       "link": "https://www.zhihu.com/question/1917453235041599710",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "现在 ai 编程达到了什么样的水平，是否能独立用来编写游戏？",
+      "link": "https://www.zhihu.com/question/1895588590286770789",
       "heat": "53 万热度"
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "rank": "36",
-      "title": "现在 ai 编程达到了什么样的水平，是否能独立用来编写游戏？",
-      "link": "https://www.zhihu.com/question/1895588590286770789",
+      "title": "有什么关于山西的冷知识？",
+      "link": "https://www.zhihu.com/question/52942640",
       "heat": "53 万热度"
     },
     {
@@ -232,76 +232,76 @@
     },
     {
       "rank": "39",
-      "title": "《原神》丝柯克传说任务「磷星之章」体验如何？",
-      "link": "https://www.zhihu.com/question/1918690477248587192",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "40",
       "title": "如何评价「能克隆自己」给自己打工的游戏《多重人生》？为什么说它能成为年度最佳游戏的有力竞争者？",
       "link": "https://www.zhihu.com/question/538471301",
       "heat": "53 万热度"
     },
     {
-      "rank": "41",
+      "rank": "40",
       "title": "2025 年了，照相机为啥还这么难用？像素低还很贵？",
       "link": "https://www.zhihu.com/question/1918754259823990018",
       "heat": "53 万热度"
     },
     {
-      "rank": "42",
+      "rank": "41",
       "title": "假如金轮法王的龙象般若功彻底练成，还有哪种武功可以与之匹敌？",
       "link": "https://www.zhihu.com/question/1916516999825171752",
       "heat": "53 万热度"
     },
     {
-      "rank": "43",
+      "rank": "42",
       "title": "公式背得溜，做题一塌糊涂，五年级孩子数学不是很好，尤其图形方面，该怎么提升？",
       "link": "https://www.zhihu.com/question/1917997182163874964",
       "heat": "53 万热度"
     },
     {
-      "rank": "44",
+      "rank": "43",
       "title": "有哪些民国名媛值得敬佩？",
       "link": "https://www.zhihu.com/question/445972629",
       "heat": "53 万热度"
     },
     {
-      "rank": "45",
+      "rank": "44",
       "title": "为什么「类魂游戏」玩家在被虐后，反而会更有动力继续挑战？",
       "link": "https://www.zhihu.com/question/1916621412770228198",
       "heat": "53 万热度"
     },
     {
-      "rank": "46",
+      "rank": "45",
       "title": "海胆到底是什么味道？",
       "link": "https://www.zhihu.com/question/272015371",
       "heat": "53 万热度"
     },
     {
-      "rank": "47",
+      "rank": "46",
       "title": "你见过最不会点菜的人是什么样子的？",
       "link": "https://www.zhihu.com/question/40739580",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
-      "title": "高考结束，感觉手机都玩腻了，有什么推荐做的事情吗？能打发时间的?",
-      "link": "https://www.zhihu.com/question/1917699704457761909",
+      "rank": "47",
+      "title": "《原神》丝柯克传说任务「磷星之章」体验如何？",
+      "link": "https://www.zhihu.com/question/1918690477248587192",
       "heat": "53 万热度"
     },
     {
-      "rank": "49",
+      "rank": "48",
       "title": "为什么现在提到明朝文官带兵都是于谦王守仁没有人提王骥?",
       "link": "https://www.zhihu.com/question/1917724115562898853",
       "heat": "53 万热度"
     },
     {
-      "rank": "50",
+      "rank": "49",
       "title": "如何评价《原神》5.7 版本 魔神任务「你存在的时空」？",
       "link": "https://www.zhihu.com/question/1918629921217054704",
       "heat": "53 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如果一辈子只吃荤，不吃素会怎样？",
+      "link": "https://www.zhihu.com/question/637634220",
+      "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-06-20 04:46:54"
+  "generated_at": "2025-06-20 05:23:00"
 }
