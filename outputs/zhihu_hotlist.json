@@ -1,90 +1,90 @@
 {
-  "artifact_id": "1a1a2bd7-2f10-483a-8404-290ee3f3b6c4",
+  "artifact_id": "9516cfda-f27e-4aa0-8079-5839218dd69f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "延边大学毕业典礼上，食堂阿姨的发言为什么能让许多同学落泪？",
       "link": "https://www.zhihu.com/question/1919790712322520153",
-      "heat": "742 万热度"
+      "heat": "776 万热度"
     },
     {
       "rank": "2",
       "title": "如何看待 6 月 20 日中国足协公告重罚四川青年竞技俱乐部，取消其参赛成绩和资格，禁赛两年，罚款 5 万？",
       "link": "https://www.zhihu.com/question/1919918352379404876",
-      "heat": "232 万热度"
+      "heat": "246 万热度"
     },
     {
       "rank": "3",
       "title": "想买一个只用来睡觉，几乎不开的车，最低成本是多少？",
       "link": "https://www.zhihu.com/question/1912084383940191973",
-      "heat": "221 万热度"
+      "heat": "231 万热度"
     },
     {
       "rank": "4",
       "title": "假设把地球上所有的铀 235 集中起来做成一个大核弹，放到马里亚纳海沟里引爆，地球会不会被炸成两半？",
       "link": "https://www.zhihu.com/question/601882469",
-      "heat": "214 万热度"
+      "heat": "188 万热度"
     },
     {
       "rank": "5",
       "title": "泡泡玛特成立电影工作室，将推出《LABUBU 与朋友们》动画剧集，这能够有效延长 IP 寿命吗？",
       "link": "https://www.zhihu.com/question/1919471100099818726",
-      "heat": "96 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "6",
       "title": "特朗普称美国完成对伊朗三处核设施的打击，具体情况如何？伊朗会如何反击？",
       "link": "https://www.zhihu.com/question/1920027937140339395",
-      "heat": "94 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "7",
+      "title": "刘慈欣如何创造出这么多好听又高级的名称，比如「破壁人」「执剑人」「思想钢印」等？",
+      "link": "https://www.zhihu.com/question/343924528",
+      "heat": "94 万热度"
+    },
+    {
+      "rank": "8",
       "title": "犬大将为什么偏爱犬夜叉?",
       "link": "https://www.zhihu.com/question/381228456",
       "heat": "91 万热度"
     },
     {
-      "rank": "8",
+      "rank": "9",
+      "title": "伊朗否认特朗普言论，称「福尔多核设施仅地上部分受损，且可以修复」，伊朗将何时以及如何回应美国？",
+      "link": "https://www.zhihu.com/question/1920082721021080572",
+      "heat": "89 万热度"
+    },
+    {
+      "rank": "10",
       "title": "《斗罗大陆 1》宁荣荣到底为什么会看上奥斯卡？",
       "link": "https://www.zhihu.com/question/1918750416339974035",
       "heat": "88 万热度"
     },
     {
-      "rank": "9",
-      "title": "伊朗否认特朗普言论，称「福尔多核设施仅地上部分受损，且可以修复」，伊朗将何时以及如何回应美国？",
-      "link": "https://www.zhihu.com/question/1920082721021080572",
-      "heat": "87 万热度"
-    },
-    {
-      "rank": "10",
+      "rank": "11",
       "title": "苏宁易购拟 4 元出售四家家乐福子公司，预计增利 5.72 亿元，如何看待此举？苏宁易购经营现状如何？",
       "link": "https://www.zhihu.com/question/1919347780696122490",
-      "heat": "85 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "刘慈欣如何创造出这么多好听又高级的名称，比如「破壁人」「执剑人」「思想钢印」等？",
-      "link": "https://www.zhihu.com/question/343924528",
-      "heat": "84 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "12",
       "title": "我们常说的「地势险要、易守难攻」「兵家必争之地」到底是怎样的？",
       "link": "https://www.zhihu.com/question/28545158",
-      "heat": "80 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "13",
       "title": "特朗普称伊朗关键的核浓缩设施已被「彻底摧毁」，伊朗还有何底牌？会同意结束这场战争吗？",
       "link": "https://www.zhihu.com/question/1920061519980369864",
-      "heat": "71 万热度"
+      "heat": "72 万热度"
     },
     {
       "rank": "14",
       "title": "爱自己，第一步是做什么呢？",
       "link": "https://www.zhihu.com/question/13985488745",
-      "heat": "61 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "15",
@@ -108,13 +108,13 @@
       "rank": "18",
       "title": "什么叫「对复杂系统保持最基本的敬畏」？",
       "link": "https://www.zhihu.com/question/420026207",
-      "heat": "54 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "19",
       "title": "到底是人类驯化了狗，还是小狗驯化了人类？",
       "link": "https://www.zhihu.com/question/1918414336449291928",
-      "heat": "51 万热度"
+      "heat": "50 万热度"
     },
     {
       "rank": "20",
@@ -126,30 +126,30 @@
       "rank": "21",
       "title": "63 岁演员马景涛直播时突然晕倒、后脑勺磕地，合作方称其突发低血糖，为什么会这样？如何急救？",
       "link": "https://www.zhihu.com/question/1919889716385374706",
-      "heat": "48 万热度"
+      "heat": "47 万热度"
     },
     {
       "rank": "22",
       "title": "为什么《大宅门 2》里白家子孙的结局都那么悲惨？",
       "link": "https://www.zhihu.com/question/267826243",
-      "heat": "48 万热度"
+      "heat": "47 万热度"
     },
     {
       "rank": "23",
-      "title": "历史上有没有发生过什么因为政治立场不同而父子反目的事件？",
-      "link": "https://www.zhihu.com/question/632566527",
+      "title": "为什么《还珠格格 3》紫薇和知画成为闺中密友，让大家这么不满意？",
+      "link": "https://www.zhihu.com/question/7345552605",
       "heat": "46 万热度"
     },
     {
       "rank": "24",
-      "title": "「困」住你的是原生家庭，还是你自己？为什么？",
-      "link": "https://www.zhihu.com/question/13157441043",
+      "title": "花旗预测未来几季金价将回落至每盎司 3000 美元以下，这其中有哪些相关依据？",
+      "link": "https://www.zhihu.com/question/1918319708677059237",
       "heat": "46 万热度"
     },
     {
       "rank": "25",
-      "title": "能够自己一个人创业的全栈 web 码农 fullstack developer 要会哪些技术？",
-      "link": "https://www.zhihu.com/question/661910197",
+      "title": "英语基础较弱，怎样才能阅读完一本英文小说？",
+      "link": "https://www.zhihu.com/question/1888560700802180541",
       "heat": "46 万热度"
     },
     {
@@ -160,38 +160,38 @@
     },
     {
       "rank": "27",
-      "title": "如何评价周杰在电视剧《少年包青天》中的演技？",
-      "link": "https://www.zhihu.com/question/549116650",
+      "title": "有什么经典的地名讹变的例子？",
+      "link": "https://www.zhihu.com/question/1913348034005300352",
       "heat": "46 万热度"
     },
     {
       "rank": "28",
-      "title": "是什么原因让你决定开始练书法？",
-      "link": "https://www.zhihu.com/question/479090064",
+      "title": "带你进入摇滚圈的第一首歌是什么？",
+      "link": "https://www.zhihu.com/question/1912412934522541209",
       "heat": "46 万热度"
     },
     {
       "rank": "29",
-      "title": "花旗预测未来几季金价将回落至每盎司 3000 美元以下，这其中有哪些相关依据？",
-      "link": "https://www.zhihu.com/question/1918319708677059237",
+      "title": "为什么聪明的人往往不容易成功？",
+      "link": "https://www.zhihu.com/question/650203205",
       "heat": "46 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么《还珠格格 3》紫薇和知画成为闺中密友，让大家这么不满意？",
-      "link": "https://www.zhihu.com/question/7345552605",
+      "title": "日常生活中，你会对自己的孩子说谢谢吗？会经常抱他们吗？",
+      "link": "https://www.zhihu.com/question/1918336741896618073",
       "heat": "46 万热度"
     },
     {
       "rank": "31",
-      "title": "有没有什么冷门的高颜值女演员？",
-      "link": "https://www.zhihu.com/question/486412889",
+      "title": "同事总把工作推给我，不好意思拒绝该怎么办？",
+      "link": "https://www.zhihu.com/question/1910031725469344011",
       "heat": "46 万热度"
     },
     {
       "rank": "32",
-      "title": "有什么经典的地名讹变的例子？",
-      "link": "https://www.zhihu.com/question/1913348034005300352",
+      "title": "京东 CEO 称一线城市京东外卖全职骑手人均收入 1.3 万元，这属于什么水平？外卖员收入过万难不难？",
+      "link": "https://www.zhihu.com/question/1918728087136363339",
       "heat": "46 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "英语基础较弱，怎样才能阅读完一本英文小说？",
-      "link": "https://www.zhihu.com/question/1888560700802180541",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "带你进入摇滚圈的第一首歌是什么？",
-      "link": "https://www.zhihu.com/question/1912412934522541209",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "为什么聪明的人往往不容易成功？",
-      "link": "https://www.zhihu.com/question/650203205",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "日常生活中，你会对自己的孩子说谢谢吗？会经常抱他们吗？",
-      "link": "https://www.zhihu.com/question/1918336741896618073",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "同事总把工作推给我，不好意思拒绝该怎么办？",
-      "link": "https://www.zhihu.com/question/1910031725469344011",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "41",
       "title": "6 月 21 日「苏超」第五轮南京队 4-0 战胜常州队，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1919529685794124151",
       "heat": "46 万热度"
     },
     {
-      "rank": "42",
-      "title": "京东 CEO 称一线城市京东外卖全职骑手人均收入 1.3 万元，这属于什么水平？外卖员收入过万难不难？",
-      "link": "https://www.zhihu.com/question/1918728087136363339",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "43",
+      "rank": "37",
       "title": "高考生复读对应届生公平吗？",
       "link": "https://www.zhihu.com/question/1919124929745487216",
       "heat": "46 万热度"
     },
     {
-      "rank": "44",
-      "title": "常州苏超联赛排名倒数第一，「叫南哥」帆布包等周边产品却纷纷上架，如何看待常州这一波操作？",
-      "link": "https://www.zhihu.com/question/1913993461297800765",
-      "heat": "46 万热度"
-    },
-    {
-      "rank": "45",
+      "rank": "38",
       "title": "和自己思维不太同频的人有必要深交吗？",
       "link": "https://www.zhihu.com/question/1919911555862106962",
       "heat": "46 万热度"
     },
     {
-      "rank": "46",
+      "rank": "39",
       "title": "蓝箭航天的朱雀三号可重复使用运载火箭一级动力系统试车成功，这将对未来的航天发射带来哪些影响？",
       "link": "https://www.zhihu.com/question/1919400944929601141",
       "heat": "46 万热度"
     },
     {
-      "rank": "47",
+      "rank": "40",
       "title": "橘猫为什么广受欢迎？",
       "link": "https://www.zhihu.com/question/385722571",
       "heat": "46 万热度"
     },
     {
-      "rank": "48",
+      "rank": "41",
       "title": "多所高校再次敞开「第二学士」学位报考大门，第二学士在就业市场认可度如何？对应届生来说，这是条新出路吗？",
       "link": "https://www.zhihu.com/question/1919424035390984947",
       "heat": "46 万热度"
     },
     {
-      "rank": "49",
+      "rank": "42",
+      "title": "猫会不会有时候也觉得人很可爱？",
+      "link": "https://www.zhihu.com/question/362112283",
+      "heat": "46 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "Labubu 大量补货造成二手价格腰斩，你能用经济学解释这种市场金融现象么？",
+      "link": "https://www.zhihu.com/question/1919289326078001308",
+      "heat": "46 万热度"
+    },
+    {
+      "rank": "44",
       "title": "明日香的幸福是什么？",
       "link": "https://www.zhihu.com/question/667581128",
       "heat": "46 万热度"
     },
     {
+      "rank": "45",
+      "title": "陈楚生第一，马嘉祺淘汰，如何评价《歌手 2025》第六期所有歌手的演唱？",
+      "link": "https://www.zhihu.com/question/1919429015539790939",
+      "heat": "46 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "如何评价周杰在电视剧《少年包青天》中的演技？",
+      "link": "https://www.zhihu.com/question/549116650",
+      "heat": "46 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "为什么儿童医院门口会有许多卖玩具的？小孩生病了竟然还有心思玩玩具吗？",
+      "link": "https://www.zhihu.com/question/1913204614741881745",
+      "heat": "46 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么手机摄影已经那么牛了，但还是无法替代相机？",
+      "link": "https://www.zhihu.com/question/1911378137570321599",
+      "heat": "46 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "当你得知你同事不久后将被开除，要不要提前告诉她这个消息？",
+      "link": "https://www.zhihu.com/question/4637225148",
+      "heat": "46 万热度"
+    },
+    {
       "rank": "50",
-      "title": "猫会不会有时候也觉得人很可爱？",
-      "link": "https://www.zhihu.com/question/362112283",
+      "title": "如何评价陈楚生在《歌手 2025》第六期演唱的《未来的主人翁》？",
+      "link": "https://www.zhihu.com/question/1919429015405589539",
       "heat": "46 万热度"
     }
   ],
-  "generated_at": "2025-06-22 23:55:00"
+  "generated_at": "2025-06-23 00:28:52"
 }
