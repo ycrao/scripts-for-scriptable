@@ -1,78 +1,78 @@
 {
-  "artifact_id": "8c129dbe-6a75-489e-86d3-eca342a5f159",
+  "artifact_id": "fb1f6c4e-8707-4067-832e-f0d437119695",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "延边大学毕业典礼上，食堂阿姨的发言为什么能让许多同学落泪？",
       "link": "https://www.zhihu.com/question/1919790712322520153",
-      "heat": "369 万热度"
+      "heat": "292 万热度"
     },
     {
       "rank": "2",
       "title": "古代中国城市是如何处理粪便的？",
       "link": "https://www.zhihu.com/question/28043242",
-      "heat": "161 万热度"
+      "heat": "163 万热度"
     },
     {
       "rank": "3",
       "title": "如何评价网易的单机新作《归唐》？",
       "link": "https://www.zhihu.com/question/1919326218395849174",
-      "heat": "96 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "4",
       "title": "想买一个只用来睡觉，几乎不开的车，最低成本是多少？",
       "link": "https://www.zhihu.com/question/1912084383940191973",
-      "heat": "89 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待 6 月 20 日中国足协公告重罚四川青年竞技俱乐部，取消其参赛成绩和资格，禁赛两年，罚款 5 万？",
-      "link": "https://www.zhihu.com/question/1919918352379404876",
-      "heat": "62 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "特朗普称美国完成对伊朗三处核设施的打击，具体情况如何？伊朗会如何反击？",
-      "link": "https://www.zhihu.com/question/1920027937140339395",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "假设把地球上所有的铀 235 集中起来做成一个大核弹，放到马里亚纳海沟里引爆，地球会不会被炸成两半？",
-      "link": "https://www.zhihu.com/question/601882469",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "8",
       "title": "我们常说的「地势险要、易守难攻」「兵家必争之地」到底是怎样的？",
       "link": "https://www.zhihu.com/question/28545158",
       "heat": "59 万热度"
     },
     {
+      "rank": "6",
+      "title": "特朗普称美国完成对伊朗三处核设施的打击，具体情况如何？伊朗会如何反击？",
+      "link": "https://www.zhihu.com/question/1920027937140339395",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "7",
+      "title": "泡泡玛特成立电影工作室，将推出《LABUBU 与朋友们》动画剧集，这能够有效延长 IP 寿命吗？",
+      "link": "https://www.zhihu.com/question/1919471100099818726",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "8",
+      "title": "苏宁易购拟 4 元出售四家家乐福子公司，预计增利 5.72 亿元，如何看待此举？苏宁易购经营现状如何？",
+      "link": "https://www.zhihu.com/question/1919347780696122490",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "9",
       "title": "伊朗否认特朗普言论，称「福尔多核设施仅地上部分受损，且可以修复」，伊朗将何时以及如何回应美国？",
       "link": "https://www.zhihu.com/question/1920082721021080572",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "10",
-      "title": "泡泡玛特成立电影工作室，将推出《LABUBU 与朋友们》动画剧集，这能够有效延长 IP 寿命吗？",
-      "link": "https://www.zhihu.com/question/1919471100099818726",
-      "heat": "59 万热度"
+      "title": "假设把地球上所有的铀 235 集中起来做成一个大核弹，放到马里亚纳海沟里引爆，地球会不会被炸成两半？",
+      "link": "https://www.zhihu.com/question/601882469",
+      "heat": "58 万热度"
     },
     {
       "rank": "11",
-      "title": "苏宁易购拟 4 元出售四家家乐福子公司，预计增利 5.72 亿元，如何看待此举？苏宁易购经营现状如何？",
-      "link": "https://www.zhihu.com/question/1919347780696122490",
-      "heat": "59 万热度"
+      "title": "如何看待 6 月 20 日中国足协公告重罚四川青年竞技俱乐部，取消其参赛成绩和资格，禁赛两年，罚款 5 万？",
+      "link": "https://www.zhihu.com/question/1919918352379404876",
+      "heat": "58 万热度"
     },
     {
       "rank": "12",
       "title": "中国在战国时期打仗就动不动几十万人，是不是夸大十倍的结果?",
       "link": "https://www.zhihu.com/question/1912664993297576889",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "13",
@@ -84,7 +84,7 @@
       "rank": "14",
       "title": "刘慈欣如何创造出这么多好听又高级的名称，比如「破壁人」「执剑人」「思想钢印」等？",
       "link": "https://www.zhihu.com/question/343924528",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "15",
@@ -94,14 +94,14 @@
     },
     {
       "rank": "16",
-      "title": "你有什么在大学里学到并受用终生的知识或经验吗？",
-      "link": "https://www.zhihu.com/question/667501701",
+      "title": "《斗罗大陆 1》宁荣荣到底为什么会看上奥斯卡？",
+      "link": "https://www.zhihu.com/question/1918750416339974035",
       "heat": "56 万热度"
     },
     {
       "rank": "17",
-      "title": "《斗罗大陆 1》宁荣荣到底为什么会看上奥斯卡？",
-      "link": "https://www.zhihu.com/question/1918750416339974035",
+      "title": "你有什么在大学里学到并受用终生的知识或经验吗？",
+      "link": "https://www.zhihu.com/question/667501701",
       "heat": "56 万热度"
     },
     {
@@ -166,14 +166,14 @@
     },
     {
       "rank": "28",
-      "title": "陈楚生第一，马嘉祺淘汰，如何评价《歌手 2025》第六期所有歌手的演唱？",
-      "link": "https://www.zhihu.com/question/1919429015539790939",
+      "title": "如何评价《崩坏：星穹铁道》3.4 版本前瞻「星穹铁道 FateUBW」联动情报？",
+      "link": "https://www.zhihu.com/question/1919494088648013509",
       "heat": "45 万热度"
     },
     {
       "rank": "29",
-      "title": "如何评价《崩坏：星穹铁道》3.4 版本前瞻「星穹铁道 FateUBW」联动情报？",
-      "link": "https://www.zhihu.com/question/1919494088648013509",
+      "title": "陈楚生第一，马嘉祺淘汰，如何评价《歌手 2025》第六期所有歌手的演唱？",
+      "link": "https://www.zhihu.com/question/1919429015539790939",
       "heat": "45 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "如何评价陈可辛执导的民国悬疑犯罪电影《酱园弄·悬案》？",
-      "link": "https://www.zhihu.com/question/1917945025356095717",
-      "heat": "45 万热度"
-    },
-    {
-      "rank": "49",
       "title": "NBA 总决赛抢七大战来了，你预计谁会赢？",
       "link": "https://www.zhihu.com/question/1919344643084125402",
       "heat": "45 万热度"
     },
     {
-      "rank": "50",
+      "rank": "49",
       "title": "如何评价陈楚生在《歌手 2025》第六期演唱的《未来的主人翁》？",
       "link": "https://www.zhihu.com/question/1919429015405589539",
       "heat": "45 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "电影《无名之辈》第二、三部分别定档 7 月 5 日与 12 月 31 日上映，你对这两部电影有何期待？",
+      "link": "https://www.zhihu.com/question/1917250858372043618",
+      "heat": "45 万热度"
     }
   ],
-  "generated_at": "2025-06-23 05:23:21"
+  "generated_at": "2025-06-23 05:41:33"
 }
