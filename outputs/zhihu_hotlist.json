@@ -1,126 +1,126 @@
 {
-  "artifact_id": "b3f74fe3-ffff-4f62-bb76-acb8953b0b20",
+  "artifact_id": "0fc21bd4-bb2f-4d8c-a41e-8c70abfa7c27",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "程序员不租房住车里，称三年多省了差不多十万，被质疑占用公共资源，怎样看他的选择？这算占用公共资源吗？",
       "link": "https://www.zhihu.com/question/1920401406206112138",
-      "heat": "1172 万热度"
+      "heat": "1230 万热度"
     },
     {
       "rank": "2",
       "title": "24-25 赛季 NBA 总决赛抢七，雷霆 103-91 步行者，夺得本赛季总冠军，如何评价这一结果？",
       "link": "https://www.zhihu.com/question/1920294187129102960",
-      "heat": "656 万热度"
+      "heat": "661 万热度"
     },
     {
       "rank": "3",
       "title": "滴滴打车为什么总派远处的车而不是就近?",
       "link": "https://www.zhihu.com/question/360003919",
-      "heat": "469 万热度"
+      "heat": "451 万热度"
     },
     {
       "rank": "4",
       "title": "网传 2025 年 6 月 22 日天津 CATTI 考试出现重大事故，准考证号和考点学校都是错的，具体是怎么回事？",
       "link": "https://www.zhihu.com/question/1920090569000055820",
-      "heat": "289 万热度"
+      "heat": "250 万热度"
     },
     {
       "rank": "5",
       "title": "「图书馆 30 秒」真的那么不可饶恕吗?",
       "link": "https://www.zhihu.com/question/507916539",
-      "heat": "181 万热度"
+      "heat": "196 万热度"
     },
     {
       "rank": "6",
       "title": "伊朗议会赞成关闭霍尔木兹海峡，会动真格吗？若霍尔木兹海峡关闭，将带来哪些影响？",
       "link": "https://www.zhihu.com/question/1920241902667658126",
-      "heat": "177 万热度"
+      "heat": "170 万热度"
     },
     {
       "rank": "7",
       "title": "现在人热衷泡泡玛特 labubu，是人为炒作还是真的是人的需求?",
       "link": "https://www.zhihu.com/question/1916928384467989456",
-      "heat": "173 万热度"
+      "heat": "143 万热度"
     },
     {
       "rank": "8",
+      "title": "城市客运站迎「关停潮」，部分客运站选择转型购物中心，这是一种好出路吗？未来，客运站会完全消失吗？",
+      "link": "https://www.zhihu.com/question/1919495449775146666",
+      "heat": "115 万热度"
+    },
+    {
+      "rank": "9",
       "title": "如何看待《海贼王》1152 话尾田给出的香克斯断臂的解释？",
       "link": "https://www.zhihu.com/question/1919320162831701767",
       "heat": "114 万热度"
     },
     {
-      "rank": "9",
-      "title": "城市客运站迎「关停潮」，部分客运站选择转型购物中心，这是一种好出路吗？未来，客运站会完全消失吗？",
-      "link": "https://www.zhihu.com/question/1919495449775146666",
-      "heat": "110 万热度"
-    },
-    {
       "rank": "10",
       "title": "中俄巴起草安理会决议草案，呼吁中东立即停火，该草案会被通过吗？联合国决议对伊以双方有实质影响吗？",
       "link": "https://www.zhihu.com/question/1920389141830529105",
-      "heat": "107 万热度"
+      "heat": "103 万热度"
     },
     {
       "rank": "11",
       "title": "宁波东方理工大学学费每人每学年 9.6 万，为什么会这么贵？",
       "link": "https://www.zhihu.com/question/1920234925623305240",
-      "heat": "106 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "12",
       "title": "饿了么前 CEO 韩鎏被曝涉嫌职务犯罪，已被警方带走，若为真他将受到哪些处罚？",
       "link": "https://www.zhihu.com/question/1919439143852794094",
-      "heat": "106 万热度"
+      "heat": "95 万热度"
     },
     {
       "rank": "13",
-      "title": "「跨境支付通」正式上线，内地与香港居民即可实时跨境汇款，将带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1920159078690326443",
-      "heat": "105 万热度"
-    },
-    {
-      "rank": "14",
       "title": "如何看待董宇辉认为「宁要错误的乐观不要正确的悲观」？你认可他这个观点吗？",
       "link": "https://www.zhihu.com/question/1918937918153687137",
       "heat": "92 万热度"
     },
     {
+      "rank": "14",
+      "title": "程序员明明是技术积累岗位，为什么年龄越大反而可替代性变高了？",
+      "link": "https://www.zhihu.com/question/1906283582252651398",
+      "heat": "88 万热度"
+    },
+    {
       "rank": "15",
       "title": "高考查分即将开始，作为考生 / 家长，你此刻的心情怎么样？",
       "link": "https://www.zhihu.com/question/1920178900379592278",
-      "heat": "89 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "程序员明明是技术积累岗位，为什么年龄越大反而可替代性变高了？",
-      "link": "https://www.zhihu.com/question/1906283582252651398",
       "heat": "86 万热度"
     },
     {
-      "rank": "17",
+      "rank": "16",
       "title": "《酱园弄·悬案》中王许梅为什么在刑场要猛锤肚子？",
       "link": "https://www.zhihu.com/question/1919785455316101084",
       "heat": "84 万热度"
     },
     {
-      "rank": "18",
+      "rank": "17",
       "title": "世俱杯进行这么多天了，为何热度不如世界杯？",
       "link": "https://www.zhihu.com/question/1920067417167618507",
-      "heat": "78 万热度"
+      "heat": "79 万热度"
+    },
+    {
+      "rank": "18",
+      "title": "「跨境支付通」正式上线，内地与香港居民即可实时跨境汇款，将带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1920159078690326443",
+      "heat": "71 万热度"
     },
     {
       "rank": "19",
       "title": "公司没有钱给员工发工资了，领导纯靠给员工画大饼让员工干活，如果是你，你愿意继续干下去么？",
       "link": "https://www.zhihu.com/question/1919162997395427701",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "20",
       "title": "如何评价《绝区零》橘福福 EP「食通万物，修心修身」?",
       "link": "https://www.zhihu.com/question/1920453865611965262",
-      "heat": "66 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "21",
@@ -130,110 +130,110 @@
     },
     {
       "rank": "22",
-      "title": "哪有适合初学者阅读的 C++ 代码资源？",
-      "link": "https://www.zhihu.com/question/20138166",
+      "title": "光速在任意参考系下都不可超越，但如果我 2s 内自转一周，这时候太阳相对我的线速度不就超光速了吗？",
+      "link": "https://www.zhihu.com/question/9745860338",
       "heat": "66 万热度"
     },
     {
       "rank": "23",
-      "title": "光速在任意参考系下都不可超越，但如果我 2s 内自转一周，这时候太阳相对我的线速度不就超光速了吗？",
-      "link": "https://www.zhihu.com/question/9745860338",
-      "heat": "65 万热度"
+      "title": "如果你孩子高中毕业，暑假想跟闺蜜约出去旅行，你同意吗？",
+      "link": "https://www.zhihu.com/question/1920259643852175061",
+      "heat": "62 万热度"
     },
     {
       "rank": "24",
-      "title": "如果你孩子高中毕业，暑假想跟闺蜜约出去旅行，你同意吗？",
-      "link": "https://www.zhihu.com/question/1920259643852175061",
-      "heat": "61 万热度"
-    },
-    {
-      "rank": "25",
       "title": "AI 产品需要智能到什么程度，才可以被称之为 Agent？",
       "link": "https://www.zhihu.com/question/1913687569843056895",
       "heat": "60 万热度"
     },
     {
+      "rank": "25",
+      "title": "为什么武侠仙侠修仙题材作品往往都是设定发生在古代的，近现代不行吗？",
+      "link": "https://www.zhihu.com/question/1918743322404581931",
+      "heat": "60 万热度"
+    },
+    {
       "rank": "26",
-      "title": "大家有没有「大众认为是烂片但个人却喜欢看」的影片？",
-      "link": "https://www.zhihu.com/question/1896577486634066504",
+      "title": "哪有适合初学者阅读的 C++ 代码资源？",
+      "link": "https://www.zhihu.com/question/20138166",
       "heat": "59 万热度"
     },
     {
       "rank": "27",
-      "title": "单论人气，孙悟空能当得起四大名著第一人吗？",
-      "link": "https://www.zhihu.com/question/1889777505168242118",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "如何理解反向传播算法的数学原理？",
-      "link": "https://www.zhihu.com/question/279077735",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "康德的名言「人是目的而非手段」给你的生活带来了什么变化?",
-      "link": "https://www.zhihu.com/question/1918277970570778346",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "你是否支持职场人也放暑假？为什么？",
-      "link": "https://www.zhihu.com/question/1916168940012417864",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "柏拉图洞穴比喻过时了吗？",
-      "link": "https://www.zhihu.com/question/1913924827921768860",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "孩子高考成绩六百多分，要去很远的地方读书你会支持他吗？",
-      "link": "https://www.zhihu.com/question/1919237578302939686",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "岳不群骗了包括方证在内的一群大佬，唯独任我行早就知道他是个伪君子，从哪看出来的？",
-      "link": "https://www.zhihu.com/question/278325713",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "中国足球出不了马拉多纳和梅西，因为在青训阶段就已经被淘汰了，这样的说法对吗？",
-      "link": "https://www.zhihu.com/question/1915304562996285533",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "35",
       "title": "如何评价《崩坏：星穹铁道》6 月 23 日更新的忘却之庭混沌回忆：赤月吞狼？",
       "link": "https://www.zhihu.com/question/1920352272933684631",
       "heat": "58 万热度"
     },
     {
-      "rank": "36",
+      "rank": "28",
+      "title": "柏拉图洞穴比喻过时了吗？",
+      "link": "https://www.zhihu.com/question/1913924827921768860",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "29",
       "title": "写作为什么离不开阅读？",
       "link": "https://www.zhihu.com/question/1919975733851304680",
       "heat": "58 万热度"
     },
     {
-      "rank": "37",
+      "rank": "30",
+      "title": "中国足球出不了马拉多纳和梅西，因为在青训阶段就已经被淘汰了，这样的说法对吗？",
+      "link": "https://www.zhihu.com/question/1915304562996285533",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "31",
       "title": "如何评价久尔杰维奇成为国足主帅候选？",
       "link": "https://www.zhihu.com/question/1918563849042362725",
       "heat": "58 万热度"
     },
     {
+      "rank": "32",
+      "title": "迄今为止，你经历过最惊险的一次赶飞机 / 高铁是哪次？最后成功了嘛？",
+      "link": "https://www.zhihu.com/question/638918845",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "如果说天气是「情绪」的调色盘，你的镜头里捕捉到 TA 了吗？你曾记录下哪些被天气渲染的动人瞬间？",
+      "link": "https://www.zhihu.com/question/1916534889269958285",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "世界最大医院郑大一附院有多牛？",
+      "link": "https://www.zhihu.com/question/632268279",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "大家有没有「大众认为是烂片但个人却喜欢看」的影片？",
+      "link": "https://www.zhihu.com/question/1896577486634066504",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "艺术类专业「天赋」和「努力」哪个更重要？",
+      "link": "https://www.zhihu.com/question/1918720087025738975",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "如何看待《原神》6 月 20 日「无限抛掷推演」丝柯克角色网页活动的表现？",
+      "link": "https://www.zhihu.com/question/1919382018719979148",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "38",
-      "title": "正是吃荔枝的季节，果肉除了能直接吃，还有什么吃法吗？",
-      "link": "https://www.zhihu.com/question/1916808678025180598",
+      "title": "单论人气，孙悟空能当得起四大名著第一人吗？",
+      "link": "https://www.zhihu.com/question/1889777505168242118",
       "heat": "58 万热度"
     },
     {
       "rank": "39",
-      "title": "迄今为止，你经历过最惊险的一次赶飞机 / 高铁是哪次？最后成功了嘛？",
-      "link": "https://www.zhihu.com/question/638918845",
+      "title": "你是否支持职场人也放暑假？为什么？",
+      "link": "https://www.zhihu.com/question/1916168940012417864",
       "heat": "58 万热度"
     },
     {
@@ -250,58 +250,58 @@
     },
     {
       "rank": "42",
-      "title": "如果说天气是「情绪」的调色盘，你的镜头里捕捉到 TA 了吗？你曾记录下哪些被天气渲染的动人瞬间？",
-      "link": "https://www.zhihu.com/question/1916534889269958285",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "艺术类专业「天赋」和「努力」哪个更重要？",
-      "link": "https://www.zhihu.com/question/1918720087025738975",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "世界最大医院郑大一附院有多牛？",
-      "link": "https://www.zhihu.com/question/632268279",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "如何看待《原神》6 月 20 日「无限抛掷推演」丝柯克角色网页活动的表现？",
-      "link": "https://www.zhihu.com/question/1919382018719979148",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "46",
       "title": "为何游戏约定俗成「升级自动 HP MP 调满」？",
       "link": "https://www.zhihu.com/question/1901644641650082337",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
+      "rank": "43",
       "title": "旅游是不是越来越没意思了？",
       "link": "https://www.zhihu.com/question/1919714066215183085",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
+      "rank": "44",
       "title": "为何物理学中常见的微分方程大多至多是二阶的？",
       "link": "https://www.zhihu.com/question/1918069580288495892",
       "heat": "58 万热度"
     },
     {
-      "rank": "49",
+      "rank": "45",
+      "title": "康德的名言「人是目的而非手段」给你的生活带来了什么变化?",
+      "link": "https://www.zhihu.com/question/1918277970570778346",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "如何理解反向传播算法的数学原理？",
+      "link": "https://www.zhihu.com/question/279077735",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
       "title": "平原相和洛阳北部尉谁级别高?",
       "link": "https://www.zhihu.com/question/1910025636166215578",
       "heat": "58 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "学编程要不要买电脑?",
       "link": "https://www.zhihu.com/question/1907503315576657267",
       "heat": "58 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "稳定币热度不减，媒体发文鼓励基于「数字人民币和离岸人民币稳定币」进行双轨并进，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1920387328624526698",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "岳不群骗了包括方证在内的一群大佬，唯独任我行早就知道他是个伪君子，从哪看出来的？",
+      "link": "https://www.zhihu.com/question/278325713",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-06-23 15:29:34"
+  "generated_at": "2025-06-23 15:46:39"
 }
