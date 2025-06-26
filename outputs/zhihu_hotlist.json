@@ -1,60 +1,60 @@
 {
-  "artifact_id": "9982ca93-649a-4b20-8ff3-0c550e80b453",
+  "artifact_id": "27025f73-94a1-419f-8945-2f5a4b312dce",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "小米首款 SUV YU7 发布，有九种配色，25.35 万元起售，该车市场竞争力如何？你会买吗？",
       "link": "https://www.zhihu.com/question/1921683853203956015",
-      "heat": "3855 万热度"
+      "heat": "4043 万热度"
     },
     {
       "rank": "2",
       "title": "我国自主研发新一代 CPU 龙芯 3C6000 发布，不依赖国外授权技术和境外供应链，有何技术亮点？",
       "link": "https://www.zhihu.com/question/1921601229571747890",
-      "heat": "491 万热度"
+      "heat": "521 万热度"
     },
     {
       "rank": "3",
       "title": "山西一职工「1 岁工作、 22 岁退休」，冒领养老金 69 万，此事该如何追责？谁该赔偿财政损失？",
       "link": "https://www.zhihu.com/question/1921627298987205820",
-      "heat": "450 万热度"
+      "heat": "500 万热度"
     },
     {
       "rank": "4",
       "title": "小米 YU7 发布会，有哪些大说特说的点其实是行业基操？",
       "link": "https://www.zhihu.com/question/1921687694624383317",
-      "heat": "158 万热度"
+      "heat": "171 万热度"
     },
     {
       "rank": "5",
       "title": "媒体曝光有学生吸食打火机气体成瘾，打火机气体中有哪些成分？吸食会对身体有怎样的伤害？",
       "link": "https://www.zhihu.com/question/1921546286026416232",
-      "heat": "141 万热度"
+      "heat": "150 万热度"
     },
     {
       "rank": "6",
       "title": "同事突然被优化了，主管把她的工作几乎全给了我，请问面对这种情况，该怎么办？或者以何种心态面对？",
       "link": "https://www.zhihu.com/question/1893378744414103136",
-      "heat": "112 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "7",
-      "title": "黑龙江吉林等地发布高温预报，部分地区可达 40 度，为什么 6 月东北比很多南方地区都热？这正常吗？",
-      "link": "https://www.zhihu.com/question/1921476946845463808",
-      "heat": "97 万热度"
+      "title": "未来可能取消港澳通行证，刷身份证直接去港澳吗？",
+      "link": "https://www.zhihu.com/question/660748307",
+      "heat": "96 万热度"
     },
     {
       "rank": "8",
-      "title": "未来可能取消港澳通行证，刷身份证直接去港澳吗？",
-      "link": "https://www.zhihu.com/question/660748307",
-      "heat": "93 万热度"
+      "title": "考上公务员后，却发现不是自己想要的生活，该辞职吗？",
+      "link": "https://www.zhihu.com/question/10515233077",
+      "heat": "86 万热度"
     },
     {
       "rank": "9",
-      "title": "考上公务员后，却发现不是自己想要的生活，该辞职吗？",
-      "link": "https://www.zhihu.com/question/10515233077",
-      "heat": "80 万热度"
+      "title": "黑龙江吉林等地发布高温预报，部分地区可达 40 度，为什么 6 月东北比很多南方地区都热？这正常吗？",
+      "link": "https://www.zhihu.com/question/1921476946845463808",
+      "heat": "83 万热度"
     },
     {
       "rank": "10",
@@ -108,13 +108,13 @@
       "rank": "18",
       "title": "日本首次在本土试射「远程导弹」，射程达 180 公里，这意味着什么？其远程导弹威力怎么样？",
       "link": "https://www.zhihu.com/question/1921494102358324582",
-      "heat": "57 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "19",
       "title": "我是办公室主任，外地的商人朋友向我打听领导的具体家庭住址，怎么处理才好？",
       "link": "https://www.zhihu.com/question/1921161713140622467",
-      "heat": "57 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "20",
@@ -142,56 +142,56 @@
     },
     {
       "rank": "24",
-      "title": "能否对比一下 Claude Code 和 Gemini CLI，你的选择建议是？",
-      "link": "https://www.zhihu.com/question/1921330600498959141",
+      "title": "电视剧《雍正王朝》中，为什么雍正帝刚刚登基，邬思道就提出要半隐？",
+      "link": "https://www.zhihu.com/question/290773466",
       "heat": "56 万热度"
     },
     {
       "rank": "25",
-      "title": "跳槽真能治愈「原生公司创伤」吗？还是职场版的「强迫性重复」？",
-      "link": "https://www.zhihu.com/question/1921221866384749873",
+      "title": "PlayStation 5 发布五周年，销量不错但粉丝们普遍表示失望，这背后的原因是什么？",
+      "link": "https://www.zhihu.com/question/1917878419473040425",
       "heat": "56 万热度"
     },
     {
       "rank": "26",
-      "title": "有哪些快乐，是只有在「夏天」才能感受到的？",
-      "link": "https://www.zhihu.com/question/1916168940171789456",
+      "title": "存在是否先于本质？",
+      "link": "https://www.zhihu.com/question/1913924827376488528",
       "heat": "56 万热度"
     },
     {
       "rank": "27",
-      "title": "古代没有 150 米的树所以造不了 150 米的郑和宝船吗？",
-      "link": "https://www.zhihu.com/question/1916650091034424175",
+      "title": "《三体》衍生剧《三体：大史》正式官宣，于和伟、张鲁一回归出演，这个阵容你满意吗？",
+      "link": "https://www.zhihu.com/question/1920580668653560604",
       "heat": "56 万热度"
     },
     {
       "rank": "28",
+      "title": "工作中发生紧急情况，领导正在午睡，要不要叫醒他？",
+      "link": "https://www.zhihu.com/question/1920047372022547896",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "大家都是在哪一瞬间学会了自由泳的？",
+      "link": "https://www.zhihu.com/question/504404293",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "高考结束了，去旅游属于浪费钱吗?",
+      "link": "https://www.zhihu.com/question/1919029922392933075",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "31",
       "title": "美国为什么热衷于开着飞机去敌人头顶扔炸弹？",
       "link": "https://www.zhihu.com/question/1920271278427845666",
       "heat": "56 万热度"
     },
     {
-      "rank": "29",
-      "title": "猫的什么行为证明它把你当自己人？",
-      "link": "https://www.zhihu.com/question/421347011",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "如何评价《一人之下》第 722（765）话？",
-      "link": "https://www.zhihu.com/question/1921725358325075981",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "改制后的世俱杯，拥有梅西的迈阿密国际遭遇老东家巴黎圣日耳曼，你怎么看这场比赛？",
-      "link": "https://www.zhihu.com/question/1920907831487477297",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "32",
-      "title": "电视剧《雍正王朝》中，为什么雍正帝刚刚登基，邬思道就提出要半隐？",
-      "link": "https://www.zhihu.com/question/290773466",
+      "title": "以前很多人家里都有家庭影院，为什么现在几乎看不到了？",
+      "link": "https://www.zhihu.com/question/1916178949467276541",
       "heat": "56 万热度"
     },
     {
@@ -202,8 +202,8 @@
     },
     {
       "rank": "34",
-      "title": "PlayStation 5 发布五周年，销量不错但粉丝们普遍表示失望，这背后的原因是什么？",
-      "link": "https://www.zhihu.com/question/1917878419473040425",
+      "title": "古代没有 150 米的树所以造不了 150 米的郑和宝船吗？",
+      "link": "https://www.zhihu.com/question/1916650091034424175",
       "heat": "56 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
-      "title": "存在是否先于本质？",
-      "link": "https://www.zhihu.com/question/1913924827376488528",
+      "title": "有哪些快乐，是只有在「夏天」才能感受到的？",
+      "link": "https://www.zhihu.com/question/1916168940171789456",
       "heat": "56 万热度"
     },
     {
       "rank": "38",
-      "title": "《三体》衍生剧《三体：大史》正式官宣，于和伟、张鲁一回归出演，这个阵容你满意吗？",
-      "link": "https://www.zhihu.com/question/1920580668653560604",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "工作中发生紧急情况，领导正在午睡，要不要叫醒他？",
-      "link": "https://www.zhihu.com/question/1920047372022547896",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "大家都是在哪一瞬间学会了自由泳的？",
-      "link": "https://www.zhihu.com/question/504404293",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "高考结束了，去旅游属于浪费钱吗?",
-      "link": "https://www.zhihu.com/question/1919029922392933075",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "以前很多人家里都有家庭影院，为什么现在几乎看不到了？",
-      "link": "https://www.zhihu.com/question/1916178949467276541",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
       "title": "英国登山队靠人均 124 万元的氙气疗法，无高反四天登顶珠峰，该方法究竟是什么体验？背后有哪些争议？",
       "link": "https://www.zhihu.com/question/1921327776423707981",
       "heat": "56 万热度"
     },
     {
-      "rank": "44",
+      "rank": "39",
       "title": "如何看待男生毕业典礼连线工地父亲「谢谢爸爸让我有机会踮脚看世界」？",
       "link": "https://www.zhihu.com/question/1920596487471064427",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
+      "rank": "40",
       "title": "现在既然全靠雷达了，为啥伊以炸来炸去都要在晚上？",
       "link": "https://www.zhihu.com/question/1920822911360566226",
       "heat": "56 万热度"
     },
     {
-      "rank": "46",
+      "rank": "41",
       "title": "如何评价国产像素武侠 RPG 游戏《逸剑风云决》的两个 DLC「碧海仙踪」和「武家旧事」 ？",
       "link": "https://www.zhihu.com/question/1918995988107981812",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "42",
       "title": "如果发现孩子真的不是学习的料，你会怎么办？",
       "link": "https://www.zhihu.com/question/1903779664478048403",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
+      "rank": "43",
       "title": "夏天运动是不是最容易减肥？",
       "link": "https://www.zhihu.com/question/1920798529422591134",
       "heat": "56 万热度"
     },
     {
+      "rank": "44",
+      "title": "语文能考 130 分以上的人在现实生活中是什么样子的？",
+      "link": "https://www.zhihu.com/question/1887484011665921019",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "《一人之下》中的左若童，由谁出演最合适？",
+      "link": "https://www.zhihu.com/question/1920630973294413046",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "成为一名优秀的中层管理者，需要具备哪些能力？",
+      "link": "https://www.zhihu.com/question/1920344180678457082",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "高达的驾驶员们为什么不受过载的影响？",
+      "link": "https://www.zhihu.com/question/1920273795945592193",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "写满数据的硬盘是否比空硬盘重？",
+      "link": "https://www.zhihu.com/question/19771092",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "49",
-      "title": "索尼互动娱乐宣布 PS6 的开发工作已经全面启动，你会如何期待索尼的下一代游戏主机呢？",
-      "link": "https://www.zhihu.com/question/1921543669145629564",
+      "title": "感觉自己很丑，有严重的容貌焦虑，怎么调适？",
+      "link": "https://www.zhihu.com/question/1920623304017945541",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "语文能考 130 分以上的人在现实生活中是什么样子的？",
-      "link": "https://www.zhihu.com/question/1887484011665921019",
+      "title": "如何评价《三角洲行动》S5 赛季新地图「潮汐监狱」？",
+      "link": "https://www.zhihu.com/question/1919000111100420202",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-06-27 07:42:58"
+  "generated_at": "2025-06-27 07:55:46"
 }
