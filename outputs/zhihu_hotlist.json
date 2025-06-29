@@ -1,83 +1,83 @@
 {
-  "artifact_id": "4673af01-a289-492a-be94-ed4ab0960f68",
+  "artifact_id": "d317e55a-4216-4072-ae8d-056e1db7e434",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "「辽宁舰遭外军双航母夹击，歼 -15 挂弹起飞，将其驱离」影像详情披露，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1922371463639471918",
-      "heat": "654 万热度"
+      "heat": "638 万热度"
     },
     {
       "rank": "2",
       "title": "小米 YU7 全车 9 处磁吸点位，可吸附纸巾盒、眼镜盒等，发生碰撞等极端情况下是否会增加安全隐患？",
       "link": "https://www.zhihu.com/question/1921993737908745208",
-      "heat": "155 万热度"
+      "heat": "179 万热度"
     },
     {
       "rank": "3",
       "title": "荔枝价格大跳水从 5 月跌到 6 月，9.9 元 3 斤包邮，什么原因？",
       "link": "https://www.zhihu.com/question/1922690298108143090",
-      "heat": "139 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "4",
       "title": "世俱杯 1/8 决赛，巴黎圣日耳曼 vs 迈阿密国际，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1922803330909988719",
-      "heat": "117 万热度"
+      "heat": "137 万热度"
     },
     {
       "rank": "5",
       "title": "到派出所报警和打 110 报警有什么区别?",
       "link": "https://www.zhihu.com/question/1903769033515439827",
-      "heat": "102 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "6",
-      "title": "一汽丰田销售总部正式搬离北京，离职员工补偿 N+7，多数人随迁，此次搬迁出于哪些商业考量？",
-      "link": "https://www.zhihu.com/question/1922035860678866835",
-      "heat": "96 万热度"
+      "title": "为什么同样是体力消耗，运动后神清气爽，而工作后却只想瘫着？",
+      "link": "https://www.zhihu.com/question/1918735644064220720",
+      "heat": "92 万热度"
     },
     {
       "rank": "7",
-      "title": "为什么同样是体力消耗，运动后神清气爽，而工作后却只想瘫着？",
-      "link": "https://www.zhihu.com/question/1918735644064220720",
-      "heat": "83 万热度"
+      "title": "国内有哪些气候舒适和较恶劣的城市？",
+      "link": "https://www.zhihu.com/question/21094184",
+      "heat": "74 万热度"
     },
     {
       "rank": "8",
       "title": "博士后能拿的项目都拿了，出站后失业，还有什么出路？",
       "link": "https://www.zhihu.com/question/1920654864830169129",
-      "heat": "68 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "9",
+      "title": "一汽丰田销售总部正式搬离北京，离职员工补偿 N+7，多数人随迁，此次搬迁出于哪些商业考量？",
+      "link": "https://www.zhihu.com/question/1922035860678866835",
+      "heat": "69 万热度"
+    },
+    {
+      "rank": "10",
       "title": "外卖员吐槽殡仪馆深夜有人点外卖，警方已介入，这是真实订单还是恶作剧？平台如何平衡配送要求与骑手心理安全？",
       "link": "https://www.zhihu.com/question/1922320110196060789",
       "heat": "64 万热度"
     },
     {
-      "rank": "10",
+      "rank": "11",
       "title": "特斯拉 Model Y 首次实现全自动驾驶交付，从工厂开到车主家，最高时速 115 公里，有哪些技术亮点？",
       "link": "https://www.zhihu.com/question/1922413213326242540",
-      "heat": "62 万热度"
+      "heat": "63 万热度"
     },
     {
-      "rank": "11",
+      "rank": "12",
       "title": "为什么至今仍未有任何主流游戏为 NPC 接入大语言模型 LLM？",
       "link": "https://www.zhihu.com/question/11416391656",
       "heat": "59 万热度"
     },
     {
-      "rank": "12",
+      "rank": "13",
       "title": "潜伏中为什么站长太太喜欢翠萍?",
       "link": "https://www.zhihu.com/question/450055805",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "原著孙悟空真的没有架海之力吗？",
-      "link": "https://www.zhihu.com/question/1916946924004705412",
       "heat": "59 万热度"
     },
     {
@@ -88,146 +88,146 @@
     },
     {
       "rank": "15",
-      "title": "何猷君收购王思聪旗下寰聚商业，怎样从商业角度解读？",
-      "link": "https://www.zhihu.com/question/1920409628849698484",
+      "title": "原著孙悟空真的没有架海之力吗？",
+      "link": "https://www.zhihu.com/question/1916946924004705412",
       "heat": "59 万热度"
     },
     {
       "rank": "16",
-      "title": "夏天开车你们都是怎样处理车内高温的？",
-      "link": "https://www.zhihu.com/question/1921153977417991530",
-      "heat": "57 万热度"
+      "title": "何猷君收购王思聪旗下寰聚商业，怎样从商业角度解读？",
+      "link": "https://www.zhihu.com/question/1920409628849698484",
+      "heat": "58 万热度"
     },
     {
       "rank": "17",
-      "title": "杨瀚森被选中后预计四年薪资 2139 万美元，这是否意味着中国球员有了更多冲击 NBA 的动力？",
-      "link": "https://www.zhihu.com/question/1921949374436599448",
+      "title": "夏天开车你们都是怎样处理车内高温的？",
+      "link": "https://www.zhihu.com/question/1921153977417991530",
       "heat": "56 万热度"
     },
     {
       "rank": "18",
-      "title": "神锋无影威力这么大的咒语为什么哈利几乎不使用？",
-      "link": "https://www.zhihu.com/question/491457987",
+      "title": "杨瀚森被选中后预计四年薪资 2139 万美元，这是否意味着中国球员有了更多冲击 NBA 的动力？",
+      "link": "https://www.zhihu.com/question/1921949374436599448",
       "heat": "55 万热度"
     },
     {
       "rank": "19",
-      "title": "薛姨妈叫人送宫花，林黛玉最后才拿到，受欺负了吗？",
-      "link": "https://www.zhihu.com/question/584107430",
-      "heat": "55 万热度"
+      "title": "神锋无影威力这么大的咒语为什么哈利几乎不使用？",
+      "link": "https://www.zhihu.com/question/491457987",
+      "heat": "54 万热度"
     },
     {
       "rank": "20",
       "title": "6 月 29 日苏超联赛第五轮，苏州队 3:0 战胜扬州队，开局 1 分钟进球，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1922734243836031163",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "21",
       "title": "以伊美三方均宣称「胜利」，实际各方得失是怎样的？未来伊朗与美国关于核问题的谈判能否开启？",
       "link": "https://www.zhihu.com/question/1921974807588770685",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "22",
       "title": "影视作品中有哪些「与喜相逢」的时刻，值得用茅台 1935 举杯？",
       "link": "https://www.zhihu.com/question/1921894272149480596",
-      "heat": "55 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "23",
-      "title": "如何评价马斯克 Neuralink 的最新发布会？",
-      "link": "https://www.zhihu.com/question/1922309310303668031",
-      "heat": "55 万热度"
+      "title": "刚升职，要不要每项工作依然亲力亲为？",
+      "link": "https://www.zhihu.com/question/1921367027748152577",
+      "heat": "53 万热度"
     },
     {
       "rank": "24",
-      "title": "新手去健身房，刚开始空杆，会有羞耻感吗？",
-      "link": "https://www.zhihu.com/question/1919327268355966034",
-      "heat": "55 万热度"
+      "title": "土库曼斯坦是一个怎样的国家？",
+      "link": "https://www.zhihu.com/question/29342391",
+      "heat": "53 万热度"
     },
     {
       "rank": "25",
-      "title": "自学量子力学的最佳教材是什么？",
-      "link": "https://www.zhihu.com/question/582558945",
-      "heat": "55 万热度"
+      "title": "新手去健身房，刚开始空杆，会有羞耻感吗？",
+      "link": "https://www.zhihu.com/question/1919327268355966034",
+      "heat": "53 万热度"
     },
     {
       "rank": "26",
-      "title": "为什么现在的成年人都没有大人的感觉？",
-      "link": "https://www.zhihu.com/question/2607971174",
-      "heat": "55 万热度"
+      "title": "希灵帝国有多强大？",
+      "link": "https://www.zhihu.com/question/367183858",
+      "heat": "53 万热度"
     },
     {
       "rank": "27",
-      "title": "为什么有人一直喜欢 C 而不喜欢 C++？",
-      "link": "https://www.zhihu.com/question/563374432",
-      "heat": "55 万热度"
+      "title": "如何评价马斯克 Neuralink 的最新发布会？",
+      "link": "https://www.zhihu.com/question/1922309310303668031",
+      "heat": "53 万热度"
     },
     {
       "rank": "28",
-      "title": "网文开篇怎样快速抓住读者的注意力？",
-      "link": "https://www.zhihu.com/question/1903226524301231588",
-      "heat": "55 万热度"
+      "title": "开电车为什么高速反而更费电？",
+      "link": "https://www.zhihu.com/question/1910672770867627070",
+      "heat": "53 万热度"
     },
     {
       "rank": "29",
-      "title": "现代鸟类是否还具有演化成完全海洋动物的潜力，就像鲸类一样？",
-      "link": "https://www.zhihu.com/question/1921164489358829543",
-      "heat": "55 万热度"
+      "title": "周末你允许孩子睡懒觉吗？",
+      "link": "https://www.zhihu.com/question/1920023051824767540",
+      "heat": "53 万热度"
     },
     {
       "rank": "30",
-      "title": "开电车为什么高速反而更费电？",
-      "link": "https://www.zhihu.com/question/1910672770867627070",
-      "heat": "55 万热度"
+      "title": "为什么有人一直喜欢 C 而不喜欢 C++？",
+      "link": "https://www.zhihu.com/question/563374432",
+      "heat": "53 万热度"
     },
     {
       "rank": "31",
-      "title": "刚升职，要不要每项工作依然亲力亲为？",
-      "link": "https://www.zhihu.com/question/1921367027748152577",
-      "heat": "55 万热度"
+      "title": "现代鸟类是否还具有演化成完全海洋动物的潜力，就像鲸类一样？",
+      "link": "https://www.zhihu.com/question/1921164489358829543",
+      "heat": "53 万热度"
     },
     {
       "rank": "32",
-      "title": "土库曼斯坦是一个怎样的国家？",
-      "link": "https://www.zhihu.com/question/29342391",
-      "heat": "55 万热度"
+      "title": "薛姨妈叫人送宫花，林黛玉最后才拿到，受欺负了吗？",
+      "link": "https://www.zhihu.com/question/584107430",
+      "heat": "53 万热度"
     },
     {
       "rank": "33",
-      "title": "希灵帝国有多强大？",
-      "link": "https://www.zhihu.com/question/367183858",
-      "heat": "54 万热度"
+      "title": "自学量子力学的最佳教材是什么？",
+      "link": "https://www.zhihu.com/question/582558945",
+      "heat": "53 万热度"
     },
     {
       "rank": "34",
-      "title": "周末你允许孩子睡懒觉吗？",
-      "link": "https://www.zhihu.com/question/1920023051824767540",
-      "heat": "54 万热度"
+      "title": "网文开篇怎样快速抓住读者的注意力？",
+      "link": "https://www.zhihu.com/question/1903226524301231588",
+      "heat": "53 万热度"
     },
     {
       "rank": "35",
-      "title": "玄奘大师花了 20 年从天竺取得真经，可是他这么做的现实意义究竟在哪呢？",
-      "link": "https://www.zhihu.com/question/47609664",
-      "heat": "53 万热度"
+      "title": "你最近有看什么书？",
+      "link": "https://www.zhihu.com/question/655609364",
+      "heat": "52 万热度"
     },
     {
       "rank": "36",
-      "title": "你最近有看什么书？",
-      "link": "https://www.zhihu.com/question/655609364",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "37",
       "title": "特朗普称美国将立即终止与加拿大的所有贸易谈判，这会对两国带来怎样的影响？",
       "link": "https://www.zhihu.com/question/1922204898440734150",
       "heat": "52 万热度"
     },
     {
-      "rank": "38",
+      "rank": "37",
       "title": "如何评价《原神》5.7 版本肉鸽自走棋活动「伙伴冒险大战记」？",
       "link": "https://www.zhihu.com/question/1919565039960060201",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "为什么现在的成年人都没有大人的感觉？",
+      "link": "https://www.zhihu.com/question/2607971174",
       "heat": "52 万热度"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "rank": "44",
-      "title": "股票分红明明是好事，为什么不受待见？",
-      "link": "https://www.zhihu.com/question/1915690332424741850",
+      "title": "弗利萨那么害怕超级赛亚人，为啥还留着贝吉塔等人，不完全杀光？",
+      "link": "https://www.zhihu.com/question/1900647967037297942",
       "heat": "51 万热度"
     },
     {
       "rank": "45",
-      "title": "弗利萨那么害怕超级赛亚人，为啥还留着贝吉塔等人，不完全杀光？",
-      "link": "https://www.zhihu.com/question/1900647967037297942",
+      "title": "股票分红明明是好事，为什么不受待见？",
+      "link": "https://www.zhihu.com/question/1915690332424741850",
       "heat": "51 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-06-30 06:57:15"
+  "generated_at": "2025-06-30 07:25:12"
 }
