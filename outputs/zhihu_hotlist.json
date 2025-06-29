@@ -1,149 +1,149 @@
 {
-  "artifact_id": "aace0f15-287b-45ff-946c-dbe22465ae44",
+  "artifact_id": "687545bd-45b4-470f-b963-533ed9cc91df",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "外卖员吐槽殡仪馆深夜有人点外卖，警方已介入，这是真实订单还是恶作剧？平台如何平衡配送要求与骑手心理安全？",
       "link": "https://www.zhihu.com/question/1922320110196060789",
-      "heat": "948 万热度"
+      "heat": "958 万热度"
     },
     {
       "rank": "2",
       "title": "美企为 150 人办「太空骨灰游」，飞船失控致骨灰被扬在太平洋，飞船失控原因是什么？骨灰家属如何维权？",
       "link": "https://www.zhihu.com/question/1922069978049372464",
-      "heat": "355 万热度"
+      "heat": "358 万热度"
     },
     {
       "rank": "3",
       "title": "清华硕士放弃大厂当文眉师月入 3 万，仍遭母亲反对，高学历必须绑定「高大上」职业吗？如何打破此类偏见？",
       "link": "https://www.zhihu.com/question/1922415709109057099",
-      "heat": "316 万热度"
+      "heat": "324 万热度"
     },
     {
       "rank": "4",
       "title": "消费者称邮寄罗马仕安克等召回充电宝，遭快递公司拒收，快递员称查到要罚款，为什么会这样？怎样才能退货？",
       "link": "https://www.zhihu.com/question/1921896804154302914",
-      "heat": "209 万热度"
+      "heat": "220 万热度"
     },
     {
       "rank": "5",
       "title": "考生花费 5499 元报 96 个志愿全滑档，花数千乃至上万元找机构报志愿值吗？",
       "link": "https://www.zhihu.com/question/1921495577755100947",
-      "heat": "195 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "蔡澜曾说「年轻人要存到 100 万以上，这是脱离牛马生活的第一步」，怎样看这一观点？",
-      "link": "https://www.zhihu.com/question/1922241976545271850",
-      "heat": "183 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "曾经羡慕影视作品中的「牺牲式爱情」，为什么现在却感觉不适，只觉得恋爱脑？",
-      "link": "https://www.zhihu.com/question/1913267676035385175",
       "heat": "177 万热度"
     },
     {
-      "rank": "8",
+      "rank": "6",
+      "title": "曾经羡慕影视作品中的「牺牲式爱情」，为什么现在却感觉不适，只觉得恋爱脑？",
+      "link": "https://www.zhihu.com/question/1913267676035385175",
+      "heat": "174 万热度"
+    },
+    {
+      "rank": "7",
       "title": "特斯拉 Model Y 首次实现全自动驾驶交付，从工厂开到车主家，最高时速 115 公里，有哪些技术亮点？",
       "link": "https://www.zhihu.com/question/1922413213326242540",
       "heat": "171 万热度"
     },
     {
+      "rank": "8",
+      "title": "蔡澜曾说「年轻人要存到 100 万以上，这是脱离牛马生活的第一步」，怎样看这一观点？",
+      "link": "https://www.zhihu.com/question/1922241976545271850",
+      "heat": "170 万热度"
+    },
+    {
       "rank": "9",
-      "title": "杨瀚森在中国篮球运动员里是什么档次？和年轻时的王治郅、易建联、姚明或者周琦相比水平如何？",
-      "link": "https://www.zhihu.com/question/1921662376303895614",
-      "heat": "168 万热度"
+      "title": "2025 季中冠军赛入围赛 BLG 3:0 G2 晋级正赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1922575395787596960",
+      "heat": "169 万热度"
     },
     {
       "rank": "10",
       "title": "隆基绿能创始人称「十年后光伏转换效率有望达到 35%」，这个数字说明了什么？中国光伏行业发展现状如何？",
       "link": "https://www.zhihu.com/question/1921214677909730700",
-      "heat": "163 万热度"
+      "heat": "168 万热度"
     },
     {
       "rank": "11",
-      "title": "2025 季中冠军赛入围赛 BLG 3:0 G2 晋级正赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1922575395787596960",
-      "heat": "156 万热度"
+      "title": "为什么现在有人会觉得《还珠格格》中的香妃和皇帝在一起，会比出逃皇宫更好呢？",
+      "link": "https://www.zhihu.com/question/1913290443883549108",
+      "heat": "167 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么现在有人会觉得《还珠格格》中的香妃和皇帝在一起，会比出逃皇宫更好呢？",
-      "link": "https://www.zhihu.com/question/1913290443883549108",
-      "heat": "132 万热度"
+      "title": "杨瀚森在中国篮球运动员里是什么档次？和年轻时的王治郅、易建联、姚明或者周琦相比水平如何？",
+      "link": "https://www.zhihu.com/question/1921662376303895614",
+      "heat": "163 万热度"
     },
     {
       "rank": "13",
       "title": "高考报志愿都说口腔以后会越来越吃香，真实的口腔科医生是什么样子的？",
       "link": "https://www.zhihu.com/question/1912921831159080683",
-      "heat": "128 万热度"
+      "heat": "131 万热度"
     },
     {
       "rank": "14",
-      "title": "6 月 28 日贵州榕江县防汛应急响应提升至 Ⅰ 级，全城撤离，当地情况如何？",
-      "link": "https://www.zhihu.com/question/1922279554124314486",
-      "heat": "123 万热度"
+      "title": "如何看待杭州多家健身房拒绝为 60 岁以上老人办卡？如果有老年友好健身房，哪些设备是必要的？",
+      "link": "https://www.zhihu.com/question/1921910354667115284",
+      "heat": "115 万热度"
     },
     {
       "rank": "15",
-      "title": "如何看待杭州多家健身房拒绝为 60 岁以上老人办卡？如果有老年友好健身房，哪些设备是必要的？",
-      "link": "https://www.zhihu.com/question/1921910354667115284",
-      "heat": "114 万热度"
+      "title": "经历过生离死别是一种是什么样的感觉？",
+      "link": "https://www.zhihu.com/question/38750658",
+      "heat": "103 万热度"
     },
     {
       "rank": "16",
-      "title": "上海海立集团被传向印度转让空调技术，官方已澄清未达成合作，这背后的技术转让和国际合作问题如何理解？",
-      "link": "https://www.zhihu.com/question/1921164320504521439",
-      "heat": "85 万热度"
+      "title": "6 月 28 日贵州榕江县防汛应急响应提升至 Ⅰ 级，全城撤离，当地情况如何？",
+      "link": "https://www.zhihu.com/question/1922279554124314486",
+      "heat": "92 万热度"
     },
     {
       "rank": "17",
-      "title": "以伊美三方均宣称「胜利」，实际各方得失是怎样的？未来伊朗与美国关于核问题的谈判能否开启？",
-      "link": "https://www.zhihu.com/question/1921974807588770685",
-      "heat": "84 万热度"
+      "title": "大家老说「XX 被资本做局了」，资本这么容易做局吗？",
+      "link": "https://www.zhihu.com/question/1912469060408534710",
+      "heat": "85 万热度"
     },
     {
       "rank": "18",
-      "title": "特朗普称美国将立即终止与加拿大的所有贸易谈判，这会对两国带来怎样的影响？",
-      "link": "https://www.zhihu.com/question/1922204898440734150",
-      "heat": "84 万热度"
+      "title": "在单位里工作被同事看不起，自己连班都不想去上，但是为了生活为了家人又不能不去，怎么办？",
+      "link": "https://www.zhihu.com/question/1899661230391682996",
+      "heat": "78 万热度"
     },
     {
       "rank": "19",
-      "title": "在单位里工作被同事看不起，自己连班都不想去上，但是为了生活为了家人又不能不去，怎么办？",
-      "link": "https://www.zhihu.com/question/1899661230391682996",
-      "heat": "83 万热度"
+      "title": "如何评价刘德华的《见龙卸甲》？",
+      "link": "https://www.zhihu.com/question/25398116",
+      "heat": "71 万热度"
     },
     {
       "rank": "20",
-      "title": "如何评价刘德华的《见龙卸甲》？",
-      "link": "https://www.zhihu.com/question/25398116",
-      "heat": "68 万热度"
+      "title": "√3+√5=3.9681…, 如果知道足够多位数的小数点数字，能反推出这个无理数就是√3+√5 吗？",
+      "link": "https://www.zhihu.com/question/1918341354389476929",
+      "heat": "58 万热度"
     },
     {
       "rank": "21",
-      "title": "从《你行！你上！》的预告片来看，会不会成为暑期档第二个《酱园弄》？",
-      "link": "https://www.zhihu.com/question/1921577321225253948",
-      "heat": "58 万热度"
+      "title": "以伊美三方均宣称「胜利」，实际各方得失是怎样的？未来伊朗与美国关于核问题的谈判能否开启？",
+      "link": "https://www.zhihu.com/question/1921974807588770685",
+      "heat": "57 万热度"
     },
     {
       "rank": "22",
       "title": "如果把杨志卖刀换成李逵卖斧，牛二的命运会截然不同吗？",
       "link": "https://www.zhihu.com/question/1921851525887665745",
-      "heat": "57 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "23",
-      "title": "未来重型步战和主战坦克集群会被有反坦克导弹的小汽车冲垮吗?",
-      "link": "https://www.zhihu.com/question/1921371549707007501",
-      "heat": "54 万热度"
+      "title": "里弗斯本周正式拒绝湖人开出的 4 年 8920 万美元的顶薪合同，如何看待他的这一决定？",
+      "link": "https://www.zhihu.com/question/1921716612953780621",
+      "heat": "53 万热度"
     },
     {
       "rank": "24",
-      "title": "「苏超」盐城队 2-0 镇江队，升至苏超第一，镇江 4 轮不胜仍倒 2，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1922395980021588783",
+      "title": "如何看待拳头游戏「为何我们开放电竞博彩赞助以及我们将如何负责任地推进这项工作」一文？",
+      "link": "https://www.zhihu.com/question/1921853953924100134",
       "heat": "53 万热度"
     },
     {
@@ -154,38 +154,38 @@
     },
     {
       "rank": "26",
-      "title": "股票分红明明是好事，为什么不受待见？",
-      "link": "https://www.zhihu.com/question/1915690332424741850",
+      "title": "特朗普称美国将立即终止与加拿大的所有贸易谈判，这会对两国带来怎样的影响？",
+      "link": "https://www.zhihu.com/question/1922204898440734150",
       "heat": "53 万热度"
     },
     {
       "rank": "27",
-      "title": "在国企，哪些事是你觉得只有在国企才会发生的？",
-      "link": "https://www.zhihu.com/question/1908572891638895717",
+      "title": "如果魏延的子午谷奇谋是份 PPT，你觉得能说服诸葛亮吗？",
+      "link": "https://www.zhihu.com/question/1910253117569729448",
       "heat": "53 万热度"
     },
     {
       "rank": "28",
-      "title": "《钢铁雄心》4 中缴获他国的武器能直接拿来武装本国部队，这种情况真实历史上存在吗?",
-      "link": "https://www.zhihu.com/question/1898309448537208164",
+      "title": "如何评价《绝区零》代理人秘闻「猛虎伏魔传！」？",
+      "link": "https://www.zhihu.com/question/1921178344428377332",
       "heat": "53 万热度"
     },
     {
       "rank": "29",
-      "title": "《甄嬛传》中，皇后在后期为什么被甄嬛碾压得毫无还手之力？",
-      "link": "https://www.zhihu.com/question/372451881",
+      "title": "对自己的孩子，为什么千万不能打压式教育？",
+      "link": "https://www.zhihu.com/question/658657421",
       "heat": "53 万热度"
     },
     {
       "rank": "30",
-      "title": "如何看待江苏省一对夫妻将大花萱草当作黄花菜食用，双双中毒？",
-      "link": "https://www.zhihu.com/question/1920899901472113945",
+      "title": "为什么有的程序员很抗拒使用 Ai?",
+      "link": "https://www.zhihu.com/question/1919478868361842758",
       "heat": "53 万热度"
     },
     {
       "rank": "31",
-      "title": "我是办公室主任，外地的商人朋友向我打听领导的具体家庭住址，怎么处理才好？",
-      "link": "https://www.zhihu.com/question/1921161713140622467",
+      "title": "为什么各种大公司小公司还要开发 AI Agent？",
+      "link": "https://www.zhihu.com/question/1913932324036379153",
       "heat": "53 万热度"
     },
     {
@@ -196,112 +196,112 @@
     },
     {
       "rank": "33",
-      "title": "假如把一只成年湾鳄丢到太平洋中央，它生存下来的几率大吗？",
-      "link": "https://www.zhihu.com/question/1888225542660157826",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "「苏超」宿迁队球员为房企站台遭质疑，商业化会对「草根」竞技体育带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1921908549241533793",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "《西游记》里沙僧只封了个金身罗汉，官复原职无望，沙僧还拜谢了佛祖，这究竟藏着啥玄机？",
-      "link": "https://www.zhihu.com/question/1919435318429480012",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "b2 都出了三十年了，为啥伊朗还挡不住它凌空丢铁炸弹？",
-      "link": "https://www.zhihu.com/question/1920222623171850828",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "里弗斯本周正式拒绝湖人开出的 4 年 8920 万美元的顶薪合同，如何看待他的这一决定？",
-      "link": "https://www.zhihu.com/question/1921716612953780621",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如何看待拳头游戏「为何我们开放电竞博彩赞助以及我们将如何负责任地推进这项工作」一文？",
-      "link": "https://www.zhihu.com/question/1921853953924100134",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "如果魏延的子午谷奇谋是份 PPT，你觉得能说服诸葛亮吗？",
-      "link": "https://www.zhihu.com/question/1910253117569729448",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "如何评价《绝区零》代理人秘闻「猛虎伏魔传！」？",
-      "link": "https://www.zhihu.com/question/1921178344428377332",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "对自己的孩子，为什么千万不能打压式教育？",
-      "link": "https://www.zhihu.com/question/658657421",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "为什么有的程序员很抗拒使用 Ai?",
-      "link": "https://www.zhihu.com/question/1919478868361842758",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "为什么各种大公司小公司还要开发 AI Agent？",
-      "link": "https://www.zhihu.com/question/1913932324036379153",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "44",
       "title": "靳东三提白玉兰终获最佳男主角，如何评价他的演技？",
       "link": "https://www.zhihu.com/question/1922063669770065650",
       "heat": "53 万热度"
     },
     {
-      "rank": "45",
+      "rank": "34",
+      "title": "b2 都出了三十年了，为啥伊朗还挡不住它凌空丢铁炸弹？",
+      "link": "https://www.zhihu.com/question/1920222623171850828",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "35",
       "title": "看《长安的荔枝》，杨贵妃为了吃上一颗新鲜的荔枝，运一趟能跑死 200 多匹马，她为什么不直接去产地吃?",
       "link": "https://www.zhihu.com/question/1919747868681548950",
       "heat": "53 万热度"
     },
     {
-      "rank": "46",
-      "title": "如果漫威是中国的话，那么变种人真的还会被人歧视吗？",
-      "link": "https://www.zhihu.com/question/408466799",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "47",
+      "rank": "36",
       "title": "欧盟正考虑降低一系列美国进口商品的关税，欧美最终走到一起，在偶然中是否有其必然性？",
       "link": "https://www.zhihu.com/question/1921831549051036632",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
+      "rank": "37",
+      "title": "如果漫威是中国的话，那么变种人真的还会被人歧视吗？",
+      "link": "https://www.zhihu.com/question/408466799",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "38",
       "title": "农村孩子 2025 年上大专还有没有意义？",
       "link": "https://www.zhihu.com/question/1922005175796752443",
       "heat": "53 万热度"
     },
     {
-      "rank": "49",
+      "rank": "39",
       "title": "为什么 pH 不用 dB 作为单位？",
       "link": "https://www.zhihu.com/question/639579283",
       "heat": "53 万热度"
     },
     {
-      "rank": "50",
+      "rank": "40",
       "title": "有哪些地方最好的高中不是一中？",
       "link": "https://www.zhihu.com/question/1917512323159004909",
       "heat": "53 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "馒头的绝配是什么？",
+      "link": "https://www.zhihu.com/question/641038031",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "如果北洋水师有足够炮弹，是不是甲午战争就赢了？",
+      "link": "https://www.zhihu.com/question/668133810",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "把「four」变成「five」最少需要多少步？",
+      "link": "https://www.zhihu.com/question/1919816090692847467",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "家长过度提醒是否真的会损害孩子的自驱力？",
+      "link": "https://www.zhihu.com/question/1908818712141730778",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "跳槽到一家新公司后，发现没人管我，也没有什么任务给到我，已经在这家公司发呆一周了，请问如何破局？",
+      "link": "https://www.zhihu.com/question/1921154615820399071",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "如何看待詹姆斯认为弗拉格很幸运一进联盟就有名人堂队友和教练?",
+      "link": "https://www.zhihu.com/question/1921647463661563908",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "萨伊定律说「供给创造需求」，凯恩斯则认为「需求决定供给」，在当前全球经济发展环境中，哪者更适用？",
+      "link": "https://www.zhihu.com/question/1921828141388756861",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "有网友称相机电池不能上飞机了，哪怕是原厂电池只要没有 3C 标志就不行，是真的吗？这规定合理吗？",
+      "link": "https://www.zhihu.com/question/1921903993078113300",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "特朗普称考虑因铀浓缩问题再次轰炸伊朗，美国还会再次出手吗？伊朗不重启核计划对美国有多重要？",
+      "link": "https://www.zhihu.com/question/1922205645588882283",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "感觉跑步浪费时间，没啥实质性的收获，也无法带来金钱上的收获，有没有既能锻炼身体，又有收获的运动？",
+      "link": "https://www.zhihu.com/question/1919726421154183073",
+      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-06-29 13:32:11"
+  "generated_at": "2025-06-29 13:54:20"
 }
