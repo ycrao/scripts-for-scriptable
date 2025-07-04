@@ -1,126 +1,126 @@
 {
-  "artifact_id": "5d06db48-8489-436b-938b-25264b3607ca",
+  "artifact_id": "9337765d-27e1-45cb-9922-1d05015474ec",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
       "link": "https://www.zhihu.com/question/1923049081044960601",
-      "heat": "529 万热度"
+      "heat": "541 万热度"
     },
     {
       "rank": "2",
       "title": "雷军返场直播称「纸巾盒是车规级的，成本巨高」，怎么定义「车规级」纸巾盒？需要满足哪些严苛的条件？",
       "link": "https://www.zhihu.com/question/1924125295436363403",
-      "heat": "517 万热度"
+      "heat": "454 万热度"
     },
     {
       "rank": "3",
       "title": "外星系神秘天体 A11pl3Z 造访太阳系，为已知第三颗星际访客，它有什么特点？会对地球带来危险吗？",
       "link": "https://www.zhihu.com/question/1924113656288875536",
-      "heat": "362 万热度"
+      "heat": "404 万热度"
     },
     {
       "rank": "4",
       "title": "上海申花队 U21 球员温竹新私自踢苏超后受到球队处罚，你如何看待此事，是否支持俱乐部处罚？",
       "link": "https://www.zhihu.com/question/1924502136223392862",
-      "heat": "232 万热度"
+      "heat": "260 万热度"
     },
     {
       "rank": "5",
       "title": "00 后女子衣食住行全靠白剽，用无理由退货穿新衣，已被警方刑拘，她将受到哪些处罚？",
       "link": "https://www.zhihu.com/question/1924476393070224207",
-      "heat": "143 万热度"
+      "heat": "156 万热度"
     },
     {
       "rank": "6",
       "title": "如何看待「日本 7 月 5 日末日论」疯传，不少游客取消赴日行程？",
       "link": "https://www.zhihu.com/question/1913161451897610426",
-      "heat": "132 万热度"
+      "heat": "141 万热度"
     },
     {
       "rank": "7",
-      "title": "弟弟为了 211 去海南大学，但是我发现海南大学保研率还没有山西大学高，那应该选择海南大学还是山西大学？",
-      "link": "https://www.zhihu.com/question/411196219",
-      "heat": "120 万热度"
+      "title": "如何看待《绝区零》官方于 7 月 4 日发布的 2.1 版本《迟吟的浪涌》前瞻特别节目预告？",
+      "link": "https://www.zhihu.com/question/1923753576649437752",
+      "heat": "127 万热度"
     },
     {
       "rank": "8",
-      "title": "如何看待《绝区零》官方于 7 月 4 日发布的 2.1 版本《迟吟的浪涌》前瞻特别节目预告？",
-      "link": "https://www.zhihu.com/question/1923753576649437752",
-      "heat": "120 万热度"
+      "title": "小米 YU7 搭载的第三代骁龙 8Gen3 座舱 soc 芯片是不是车规级芯片？什么是车规级芯片？",
+      "link": "https://www.zhihu.com/question/1924125295314703237",
+      "heat": "121 万热度"
     },
     {
       "rank": "9",
       "title": "米奇第一，者来女淘汰，如何评价《歌手 2025》第八期所有歌手的演唱？",
       "link": "https://www.zhihu.com/question/1924522661209444626",
-      "heat": "119 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "10",
-      "title": "小米 YU7 搭载的第三代骁龙 8Gen3 座舱 soc 芯片是不是车规级芯片？什么是车规级芯片？",
-      "link": "https://www.zhihu.com/question/1924125295314703237",
-      "heat": "118 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "「鑫慷嘉」暴雷或成稳定币国内金诈第一案，200 万人受骗，USDT 首成转移百亿现金工具，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1924103920319443762",
-      "heat": "116 万热度"
-    },
-    {
-      "rank": "12",
       "title": "耐克中国销售大跌，一年少卖 70 亿，耐克为何突然卖不动了？",
       "link": "https://www.zhihu.com/question/1923763716429709394",
       "heat": "114 万热度"
     },
     {
+      "rank": "11",
+      "title": "「鑫慷嘉」暴雷或成稳定币国内金诈第一案，200 万人受骗，USDT 首成转移百亿现金工具，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1924103920319443762",
+      "heat": "114 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "弟弟为了 211 去海南大学，但是我发现海南大学保研率还没有山西大学高，那应该选择海南大学还是山西大学？",
+      "link": "https://www.zhihu.com/question/411196219",
+      "heat": "114 万热度"
+    },
+    {
       "rank": "13",
-      "title": "《名侦探柯南：独眼的残像 》上映 6 天，总票房破 2 亿，如何评价这一成绩？",
-      "link": "https://www.zhihu.com/question/1922348538643317705",
-      "heat": "95 万热度"
+      "title": "如何评价电视剧《以法之名》23-24 集？",
+      "link": "https://www.zhihu.com/question/1924522661045862692",
+      "heat": "81 万热度"
     },
     {
       "rank": "14",
-      "title": "如何评价电视剧《以法之名》23-24 集？",
-      "link": "https://www.zhihu.com/question/1924522661045862692",
-      "heat": "88 万热度"
-    },
-    {
-      "rank": "15",
       "title": "广州中心城区的自来水为什么要用水质这么差的西江水？而不是尽量多用东江水和北江水？",
       "link": "https://www.zhihu.com/question/1923500064745170436",
       "heat": "80 万热度"
     },
     {
-      "rank": "16",
+      "rank": "15",
       "title": "为什么来古士要告诉白厄和昔涟翁法罗斯的真相?",
       "link": "https://www.zhihu.com/question/1924260134407889383",
-      "heat": "77 万热度"
+      "heat": "80 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "《名侦探柯南：独眼的残像 》上映 6 天，总票房破 2 亿，如何评价这一成绩？",
+      "link": "https://www.zhihu.com/question/1922348538643317705",
+      "heat": "78 万热度"
     },
     {
       "rank": "17",
-      "title": "如何评价单依纯在《歌手 2025》第八期演唱的《梦一场》？",
-      "link": "https://www.zhihu.com/question/1924060785010779016",
-      "heat": "76 万热度"
+      "title": "《风骚律师》的拍摄是一开始就定下来的，还是《绝命毒师》火了之后才计划拍的？",
+      "link": "https://www.zhihu.com/question/532071794",
+      "heat": "73 万热度"
     },
     {
       "rank": "18",
+      "title": "如何评价单依纯在《歌手 2025》第八期演唱的《梦一场》？",
+      "link": "https://www.zhihu.com/question/1924060785010779016",
+      "heat": "73 万热度"
+    },
+    {
+      "rank": "19",
       "title": "卫子夫到底是不是废后？汉书不是明显有废字吗？",
       "link": "https://www.zhihu.com/question/285254201",
       "heat": "72 万热度"
     },
     {
-      "rank": "19",
+      "rank": "20",
       "title": "在《士兵突击》中，高城为什么能容忍白铁军？",
       "link": "https://www.zhihu.com/question/570532186",
       "heat": "71 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "《风骚律师》的拍摄是一开始就定下来的，还是《绝命毒师》火了之后才计划拍的？",
-      "link": "https://www.zhihu.com/question/532071794",
-      "heat": "69 万热度"
     },
     {
       "rank": "21",
@@ -130,74 +130,74 @@
     },
     {
       "rank": "22",
-      "title": "作为新提领导，如何提升自身气质？",
-      "link": "https://www.zhihu.com/question/564988236",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "23",
       "title": "上班四年，突然意识到打工没有出路，如何破局？",
       "link": "https://www.zhihu.com/question/5194734346",
       "heat": "64 万热度"
     },
     {
-      "rank": "24",
-      "title": "《一人之下》的通天箓可能有什么隐藏的力量，让张灵玉如此汗流浃背？",
-      "link": "https://www.zhihu.com/question/660896875",
-      "heat": "62 万热度"
+      "rank": "23",
+      "title": "作为新提领导，如何提升自身气质？",
+      "link": "https://www.zhihu.com/question/564988236",
+      "heat": "59 万热度"
     },
     {
-      "rank": "25",
+      "rank": "24",
       "title": "华为盘古开源大模型被指抄袭 Qwen2.5 大模型，HonestAGI 的这份技术报告怎么理解？",
       "link": "https://www.zhihu.com/question/1924254207063593527",
       "heat": "59 万热度"
     },
     {
-      "rank": "26",
-      "title": "为什么说买车等于养了个祖宗，有哪些原因？",
-      "link": "https://www.zhihu.com/question/561451022",
+      "rank": "25",
+      "title": "《一人之下》的通天箓可能有什么隐藏的力量，让张灵玉如此汗流浃背？",
+      "link": "https://www.zhihu.com/question/660896875",
       "heat": "58 万热度"
     },
     {
-      "rank": "27",
+      "rank": "26",
       "title": "多地公交增设冰柜、自动售货机卖冷饮，在公交车上安装此类设施合适吗？这种「移动小卖部」有市场吗？",
       "link": "https://www.zhihu.com/question/1923761652639196208",
       "heat": "57 万热度"
     },
     {
-      "rank": "28",
-      "title": "「大而美」法案通过，美国 6 月宏观经济数据呈明显复苏特征，但贸易逆差环比加大，如何看待？",
-      "link": "https://www.zhihu.com/question/1924369035199512996",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "29",
+      "rank": "27",
       "title": "上汽奥迪 A5L 售价 26 万起，这个价格你们怎么看？有市场吗？",
       "link": "https://www.zhihu.com/question/1924033470415496636",
       "heat": "57 万热度"
     },
     {
-      "rank": "30",
-      "title": "为什么买了 4k 显示器却感觉不到提升？",
-      "link": "https://www.zhihu.com/question/1922689704853222535",
+      "rank": "28",
+      "title": "为什么说买车等于养了个祖宗，有哪些原因？",
+      "link": "https://www.zhihu.com/question/561451022",
       "heat": "57 万热度"
     },
     {
+      "rank": "29",
+      "title": "为什么买了 4k 显示器却感觉不到提升？",
+      "link": "https://www.zhihu.com/question/1922689704853222535",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "「大而美」法案通过，美国 6 月宏观经济数据呈明显复苏特征，但贸易逆差环比加大，如何看待？",
+      "link": "https://www.zhihu.com/question/1924369035199512996",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "31",
+      "title": "如何评价 2025 年 7 月米哈游《绝区零》2.1 版本前瞻直播「迟吟的浪涌」？",
+      "link": "https://www.zhihu.com/question/1924243196537467752",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
       "title": "女子在黑救护车死亡，其母亲称救护车缺氧、停车吃饭耽误半小时，若为真涉事司机、医院、医生将承担哪些责任？",
       "link": "https://www.zhihu.com/question/1923761914296628924",
       "heat": "56 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "萨尔布吕肯官宣樊振东两场比赛时间，8 月 31 日樊振东将迎来德甲首秀，你对此有哪些期待？",
       "link": "https://www.zhihu.com/question/1924514044250910883",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "战斗力膨胀的作品很多，有哪些战斗力缩水的作品？",
-      "link": "https://www.zhihu.com/question/467469534",
       "heat": "56 万热度"
     },
     {
@@ -208,100 +208,100 @@
     },
     {
       "rank": "35",
-      "title": "为什么《战争雷霆》没有什么竞品游戏?",
-      "link": "https://www.zhihu.com/question/1920193870899152703",
+      "title": "战斗力膨胀的作品很多，有哪些战斗力缩水的作品？",
+      "link": "https://www.zhihu.com/question/467469534",
       "heat": "56 万热度"
     },
     {
       "rank": "36",
+      "title": "如何评价 AL 战队教练 Tabe 因采访中谈及的「梦想阵容」一事而发文致歉？",
+      "link": "https://www.zhihu.com/question/1924244421840443102",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "怎么判断自己在猫心里的地位？",
+      "link": "https://www.zhihu.com/question/405804438",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
       "title": "可不可以把「尊严」理解为「与里子有关的面子」？",
       "link": "https://www.zhihu.com/question/1920169599422412588",
       "heat": "56 万热度"
     },
     {
-      "rank": "37",
-      "title": "如何评价 AL 战队教练 Tabe 因采访中谈及的「梦想阵容」一事而发文致歉？",
-      "link": "https://www.zhihu.com/question/1924244421840443102",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "总高 6 层洋房，就剩一楼和顶楼，选哪一个好？",
-      "link": "https://www.zhihu.com/question/1922182092869066831",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "39",
-      "title": "怎么判断自己在猫心里的地位？",
-      "link": "https://www.zhihu.com/question/405804438",
-      "heat": "55 万热度"
+      "title": "为什么《战争雷霆》没有什么竞品游戏?",
+      "link": "https://www.zhihu.com/question/1920193870899152703",
+      "heat": "56 万热度"
     },
     {
       "rank": "40",
-      "title": "理科生认为哲学无用，正常吗?",
-      "link": "https://www.zhihu.com/question/1918461729953802107",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "41",
       "title": "武汉真的很热吗，北方人去了受得了吗?",
       "link": "https://www.zhihu.com/question/1903561504005003004",
       "heat": "55 万热度"
     },
     {
-      "rank": "42",
+      "rank": "41",
       "title": "书真的退出历史舞台了吗？你最近枕边看完的一本书是什么？",
       "link": "https://www.zhihu.com/question/1923364787045274867",
       "heat": "55 万热度"
     },
     {
-      "rank": "43",
-      "title": "如何评价 2025 年 7 月米哈游《绝区零》2.1 版本前瞻直播「迟吟的浪涌」？",
-      "link": "https://www.zhihu.com/question/1924243196537467752",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "44",
+      "rank": "42",
       "title": "总楼层 25 楼，现 13 楼业主把承重墙砸成这样，对房屋的安全性能影响大么？",
       "link": "https://www.zhihu.com/question/661051865",
       "heat": "55 万热度"
     },
     {
-      "rank": "45",
+      "rank": "43",
+      "title": "理科生认为哲学无用，正常吗?",
+      "link": "https://www.zhihu.com/question/1918461729953802107",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "44",
       "title": "因为喜欢轨道交通，你都拓展了哪些「附加技能」？",
       "link": "https://www.zhihu.com/question/1923125997173217073",
       "heat": "55 万热度"
     },
     {
-      "rank": "46",
+      "rank": "45",
       "title": "在学历贬值的当下复读一年从末流 211 到 top5 值得吗？",
       "link": "https://www.zhihu.com/question/1914007393995563168",
       "heat": "55 万热度"
     },
     {
+      "rank": "46",
+      "title": "在「苏式航天」模式中「无菌车间」是必须的吗？",
+      "link": "https://www.zhihu.com/question/1923512465469207479",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "47",
+      "title": "自由职业者如何选择适合自己的工作环境？是居家办公还是在咖啡馆更高效？",
+      "link": "https://www.zhihu.com/question/1923702084458472128",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "48",
       "title": "孩子数学成绩一直很差，报网课一直补，没什么进步，要放弃吗？",
       "link": "https://www.zhihu.com/question/1921533836409435971",
       "heat": "55 万热度"
     },
     {
-      "rank": "48",
-      "title": "日本人为什么这么喜欢熊猫而不喜欢北海道棕熊呢？",
-      "link": "https://www.zhihu.com/question/1923705149290944127",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "49",
-      "title": "上位机开发的程序员去学下位机开发是降维打击吗？",
-      "link": "https://www.zhihu.com/question/619494473",
+      "title": "总高 6 层洋房，就剩一楼和顶楼，选哪一个好？",
+      "link": "https://www.zhihu.com/question/1922182092869066831",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "美 6 月季调后非农就业新增 14.7 万人，失业率 4.1%，如何解读？美联储七月降息概率有多大？",
-      "link": "https://www.zhihu.com/question/1924205401190176445",
+      "title": "日本人为什么这么喜欢熊猫而不喜欢北海道棕熊呢？",
+      "link": "https://www.zhihu.com/question/1923705149290944127",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-07-05 02:56:39"
+  "generated_at": "2025-07-05 03:21:48"
 }
