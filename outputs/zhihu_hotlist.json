@@ -1,307 +1,307 @@
 {
-  "artifact_id": "7d06003a-7365-4fbc-bb76-2a6b501846a7",
+  "artifact_id": "b868b293-021b-4fac-bee6-9b05a818a818",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "12306 回应充电宝上高铁规定，暂不查看 3C 标识，只看电池额定能量，高铁为何可以放宽要求？",
-      "link": "https://www.zhihu.com/question/1923366153901798650",
-      "heat": "879 万热度"
+      "title": "耐克中国销售大跌，一年少卖 70 亿，耐克为何突然卖不动了？",
+      "link": "https://www.zhihu.com/question/1923763716429709394",
+      "heat": "946 万热度"
     },
     {
       "rank": "2",
-      "title": "耐克中国销售大跌，一年少卖 70 亿，耐克为何突然卖不动了？",
-      "link": "https://www.zhihu.com/question/1923763716429709394",
-      "heat": "694 万热度"
+      "title": "12306 回应充电宝上高铁规定，暂不查看 3C 标识，只看电池额定能量，高铁为何可以放宽要求？",
+      "link": "https://www.zhihu.com/question/1923366153901798650",
+      "heat": "642 万热度"
     },
     {
       "rank": "3",
-      "title": "为什么网上对北京胡同夸声一片，可是我就是 get 不到北京胡同的美？",
-      "link": "https://www.zhihu.com/question/758016636",
-      "heat": "474 万热度"
+      "title": "雷军返场直播称「纸巾盒是车规级的，成本巨高」，怎么定义「车规级」纸巾盒？需要满足哪些严苛的条件？",
+      "link": "https://www.zhihu.com/question/1924125295436363403",
+      "heat": "581 万热度"
     },
     {
       "rank": "4",
-      "title": "美国演员争演中国短剧日薪涨 7 倍，这反映了哪些影视行业现状？",
-      "link": "https://www.zhihu.com/question/1923325594596246355",
-      "heat": "359 万热度"
+      "title": "为什么网上对北京胡同夸声一片，可是我就是 get 不到北京胡同的美？",
+      "link": "https://www.zhihu.com/question/758016636",
+      "heat": "424 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待于 7 月 3 日晚上市发售的小鹏 G7？",
-      "link": "https://www.zhihu.com/question/1924029893743731761",
-      "heat": "312 万热度"
+      "title": "美国演员争演中国短剧日薪涨 7 倍，这反映了哪些影视行业现状？",
+      "link": "https://www.zhihu.com/question/1923325594596246355",
+      "heat": "366 万热度"
     },
     {
       "rank": "6",
-      "title": "欧洲迎极端高温，埃菲尔铁塔热到弯曲，如此高温会对城市其他基础设施产生哪些影响？",
-      "link": "https://www.zhihu.com/question/1924014129926075838",
-      "heat": "242 万热度"
+      "title": "如何看待「日本 7 月 5 日末日论」疯传，不少游客取消赴日行程？",
+      "link": "https://www.zhihu.com/question/1913161451897610426",
+      "heat": "264 万热度"
     },
     {
       "rank": "7",
-      "title": "如何看待「日本 7 月 5 日末日论」疯传，不少游客取消赴日行程？",
-      "link": "https://www.zhihu.com/question/1913161451897610426",
-      "heat": "207 万热度"
+      "title": "如何看待于 7 月 3 日晚上市发售的小鹏 G7？",
+      "link": "https://www.zhihu.com/question/1924029893743731761",
+      "heat": "254 万热度"
     },
     {
       "rank": "8",
-      "title": "上汽奥迪 A5L 售价 26 万起，这个价格你们怎么看？有市场吗？",
-      "link": "https://www.zhihu.com/question/1924033470415496636",
-      "heat": "173 万热度"
+      "title": "欧洲迎极端高温，埃菲尔铁塔热到弯曲，如此高温会对城市其他基础设施产生哪些影响？",
+      "link": "https://www.zhihu.com/question/1924014129926075838",
+      "heat": "253 万热度"
     },
     {
       "rank": "9",
-      "title": "雨果无缘 WTT 美国大满贯，因入境手续存在问题，如何看待此事？会造成什么样的影响？",
-      "link": "https://www.zhihu.com/question/1924397736448451644",
-      "heat": "164 万热度"
+      "title": "上汽奥迪 A5L 售价 26 万起，这个价格你们怎么看？有市场吗？",
+      "link": "https://www.zhihu.com/question/1924033470415496636",
+      "heat": "176 万热度"
     },
     {
       "rank": "10",
       "title": "2025 年哪些盐言故事让你拍手叫绝？",
       "link": "https://www.zhihu.com/render/zda-page/111111",
-      "heat": "162 万热度"
+      "heat": "160 万热度"
     },
     {
       "rank": "11",
-      "title": "2025 季中冠军赛淘汰赛 CFO 2:3 不敌 T1，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1924402822616707505",
-      "heat": "161 万热度"
+      "title": "郑州铁路职业技术学院连续多年招收本科生，毕业对口铁路局，如何看待该校「本升专」这一培养模式？",
+      "link": "https://www.zhihu.com/question/1924070206940079609",
+      "heat": "144 万热度"
     },
     {
       "rank": "12",
-      "title": "郑州铁路职业技术学院连续多年招收本科生，毕业对口铁路局，如何看待该校「本升专」这一培养模式？",
-      "link": "https://www.zhihu.com/question/1924070206940079609",
-      "heat": "159 万热度"
+      "title": "「大而美」法案通过，美国 6 月宏观经济数据呈明显复苏特征，但贸易逆差环比加大，如何看待？",
+      "link": "https://www.zhihu.com/question/1924369035199512996",
+      "heat": "134 万热度"
     },
     {
       "rank": "13",
-      "title": "「大而美」法案通过，美国 6 月宏观经济数据呈明显复苏特征，但贸易逆差环比加大，如何看待？",
-      "link": "https://www.zhihu.com/question/1924369035199512996",
-      "heat": "128 万热度"
+      "title": "2025 季中冠军赛淘汰赛 CFO 2:3 不敌 T1，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1924402822616707505",
+      "heat": "133 万热度"
     },
     {
       "rank": "14",
       "title": "如何看待马龙当选全国青联副主席？",
       "link": "https://www.zhihu.com/question/1924426582543529150",
-      "heat": "120 万热度"
+      "heat": "132 万热度"
     },
     {
       "rank": "15",
-      "title": "多地公交增设冰柜、自动售货机卖冷饮，在公交车上安装此类设施合适吗？这种「移动小卖部」有市场吗？",
-      "link": "https://www.zhihu.com/question/1923761652639196208",
-      "heat": "119 万热度"
+      "title": "小鹏 G7 上市售价 19.58 万起，怎样看待这一价格？会对市场带来怎样的影响？",
+      "link": "https://www.zhihu.com/question/1924223042378233456",
+      "heat": "124 万热度"
     },
     {
       "rank": "16",
-      "title": "对于钱七虎院士的发文《土木工程并不「土」》，你有何感想？",
-      "link": "https://www.zhihu.com/question/1924136814513489070",
-      "heat": "119 万热度"
+      "title": "美国会众议院表决通过「大而美」法案，接下来美国将面临什么？",
+      "link": "https://www.zhihu.com/question/1924376506211198140",
+      "heat": "123 万热度"
     },
     {
       "rank": "17",
-      "title": "美国会众议院表决通过「大而美」法案，接下来美国将面临什么？",
-      "link": "https://www.zhihu.com/question/1924376506211198140",
-      "heat": "119 万热度"
+      "title": "多地公交增设冰柜、自动售货机卖冷饮，在公交车上安装此类设施合适吗？这种「移动小卖部」有市场吗？",
+      "link": "https://www.zhihu.com/question/1923761652639196208",
+      "heat": "122 万热度"
     },
     {
       "rank": "18",
-      "title": "小鹏 G7 上市售价 19.58 万起，怎样看待这一价格？会对市场带来怎样的影响？",
-      "link": "https://www.zhihu.com/question/1924223042378233456",
-      "heat": "118 万热度"
+      "title": "部分高校进入本科三年制时代，怎样看待这一变化？实施「完全学分制」这种弹性学制会带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1923337378610783683",
+      "heat": "120 万热度"
     },
     {
       "rank": "19",
-      "title": "麒麟 9030 会达到什么水平？",
-      "link": "https://www.zhihu.com/question/1923121859886560729",
-      "heat": "98 万热度"
+      "title": "雨果无缘 WTT 美国大满贯，因入境手续存在问题，如何看待此事？会造成什么样的影响？",
+      "link": "https://www.zhihu.com/question/1924397736448451644",
+      "heat": "118 万热度"
     },
     {
       "rank": "20",
-      "title": "《崩坏：星穹铁道》3.4 中的白厄最终拥有了自由意志吗？",
-      "link": "https://www.zhihu.com/question/1924236894360807107",
-      "heat": "95 万热度"
+      "title": "对于钱七虎院士的发文《土木工程并不「土」》，你有何感想？",
+      "link": "https://www.zhihu.com/question/1924136814513489070",
+      "heat": "110 万热度"
     },
     {
       "rank": "21",
       "title": "万科年内第六次向深铁集团借钱，金额不超过 62.49 亿元，借款能否助力万科化险？房企终极出路在哪儿？",
       "link": "https://www.zhihu.com/question/1924161950260139300",
-      "heat": "94 万热度"
+      "heat": "106 万热度"
     },
     {
       "rank": "22",
-      "title": "如何评价《灵笼 2》第八集？",
-      "link": "https://www.zhihu.com/question/1924424471579715445",
-      "heat": "92 万热度"
+      "title": "麒麟 9030 会达到什么水平？",
+      "link": "https://www.zhihu.com/question/1923121859886560729",
+      "heat": "102 万热度"
     },
     {
       "rank": "23",
-      "title": "女子在黑救护车死亡，其母亲称救护车缺氧、停车吃饭耽误半小时，若为真涉事司机、医院、医生将承担哪些责任？",
-      "link": "https://www.zhihu.com/question/1923761914296628924",
-      "heat": "86 万热度"
+      "title": "如何评价《灵笼 2》第八集？",
+      "link": "https://www.zhihu.com/question/1924424471579715445",
+      "heat": "96 万热度"
     },
     {
       "rank": "24",
       "title": "员工曝罗马仕已通知全面停工停产，随后罗马仕否认「倒闭」传言，具体情况如何？罗马仕目前面临怎样的困境？",
       "link": "https://www.zhihu.com/question/1924230489637611165",
-      "heat": "84 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "25",
-      "title": "下赛季艾顿来到湖人，对湖人的战力来说是怎样的提升？",
-      "link": "https://www.zhihu.com/question/1924043716240318533",
-      "heat": "82 万热度"
+      "title": "《崩坏：星穹铁道》3.4 中的白厄最终拥有了自由意志吗？",
+      "link": "https://www.zhihu.com/question/1924236894360807107",
+      "heat": "95 万热度"
     },
     {
       "rank": "26",
-      "title": "上位机开发的程序员去学下位机开发是降维打击吗？",
-      "link": "https://www.zhihu.com/question/619494473",
-      "heat": "80 万热度"
+      "title": "女子在黑救护车死亡，其母亲称救护车缺氧、停车吃饭耽误半小时，若为真涉事司机、医院、医生将承担哪些责任？",
+      "link": "https://www.zhihu.com/question/1923761914296628924",
+      "heat": "88 万热度"
     },
     {
       "rank": "27",
-      "title": "白厄为什么不能走巡猎命途？",
-      "link": "https://www.zhihu.com/question/1924085854818787690",
-      "heat": "80 万热度"
+      "title": "杭州初中期末考试后增设「小学期」让孩子返校上课，考完再学习能取得好效果吗？你支持学校增设「小学期」吗？",
+      "link": "https://www.zhihu.com/question/1923760726637511605",
+      "heat": "85 万热度"
     },
     {
       "rank": "28",
-      "title": "如何评价凯文•鲁尼的勇士队生涯？",
-      "link": "https://www.zhihu.com/question/1923372526098162352",
-      "heat": "80 万热度"
+      "title": "下赛季艾顿来到湖人，对湖人的战力来说是怎样的提升？",
+      "link": "https://www.zhihu.com/question/1924043716240318533",
+      "heat": "84 万热度"
     },
     {
       "rank": "29",
-      "title": "总楼层 25 楼，现 13 楼业主把承重墙砸成这样，对房屋的安全性能影响大么？",
-      "link": "https://www.zhihu.com/question/661051865",
-      "heat": "68 万热度"
+      "title": "上位机开发的程序员去学下位机开发是降维打击吗？",
+      "link": "https://www.zhihu.com/question/619494473",
+      "heat": "81 万热度"
     },
     {
       "rank": "30",
-      "title": "在学历贬值的当下复读一年从末流 211 到 top5 值得吗？",
-      "link": "https://www.zhihu.com/question/1914007393995563168",
-      "heat": "65 万热度"
+      "title": "白厄为什么不能走巡猎命途？",
+      "link": "https://www.zhihu.com/question/1924085854818787690",
+      "heat": "81 万热度"
     },
     {
       "rank": "31",
+      "title": "如何评价凯文•鲁尼的勇士队生涯？",
+      "link": "https://www.zhihu.com/question/1923372526098162352",
+      "heat": "81 万热度"
+    },
+    {
+      "rank": "32",
       "title": "总高 6 层洋房，就剩一楼和顶楼，选哪一个好？",
       "link": "https://www.zhihu.com/question/1922182092869066831",
       "heat": "65 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "理科生认为哲学无用，正常吗?",
       "link": "https://www.zhihu.com/question/1918461729953802107",
       "heat": "65 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "孩子数学成绩一直很差，报网课一直补，没什么进步，要放弃吗？",
       "link": "https://www.zhihu.com/question/1921533836409435971",
       "heat": "62 万热度"
     },
     {
-      "rank": "34",
+      "rank": "35",
       "title": "《王者荣耀》在王者段位 50 颗星以上是什么样的感觉？",
       "link": "https://www.zhihu.com/question/1923681200083558833",
       "heat": "59 万热度"
     },
     {
-      "rank": "35",
-      "title": "书真的退出历史舞台了吗？你最近枕边看完的一本书是什么？",
-      "link": "https://www.zhihu.com/question/1923364787045274867",
+      "rank": "36",
+      "title": "总楼层 25 楼，现 13 楼业主把承重墙砸成这样，对房屋的安全性能影响大么？",
+      "link": "https://www.zhihu.com/question/661051865",
       "heat": "59 万热度"
     },
     {
-      "rank": "36",
+      "rank": "37",
+      "title": "在学历贬值的当下复读一年从末流 211 到 top5 值得吗？",
+      "link": "https://www.zhihu.com/question/1914007393995563168",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "38",
       "title": "当一个人「羡慕死亡」时，属于心理疾病吗？",
       "link": "https://www.zhihu.com/question/1923594236625944972",
       "heat": "59 万热度"
     },
     {
-      "rank": "37",
+      "rank": "39",
       "title": "电影《喜剧之王》里柳飘飘为什么拿走尹天仇《演员的自我修养》？",
       "link": "https://www.zhihu.com/question/30867171",
       "heat": "59 万热度"
     },
     {
-      "rank": "38",
+      "rank": "40",
+      "title": "书真的退出历史舞台了吗？你最近枕边看完的一本书是什么？",
+      "link": "https://www.zhihu.com/question/1923364787045274867",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "41",
       "title": "2025 年英雄联盟季中冠军赛淘汰赛 CFO VS T1，如何评价这一场比赛？",
       "link": "https://www.zhihu.com/question/1924140642675700969",
-      "heat": "58 万热度"
+      "heat": "59 万热度"
     },
     {
-      "rank": "39",
+      "rank": "42",
       "title": "如何评价电视剧《以法之名》21-22 集？",
       "link": "https://www.zhihu.com/question/1923816665323397584",
-      "heat": "58 万热度"
+      "heat": "59 万热度"
     },
     {
-      "rank": "40",
+      "rank": "43",
       "title": "500 元档白酒里，是否真的存在口感和品质都接近千元档的白酒？",
       "link": "https://www.zhihu.com/question/1921566090301010785",
       "heat": "58 万热度"
     },
     {
-      "rank": "41",
+      "rank": "44",
       "title": "为什么人的「社交电池」会耗尽？内向者可以建立怎样的能量管理系统？",
       "link": "https://www.zhihu.com/question/1922051375614910906",
       "heat": "58 万热度"
     },
     {
-      "rank": "42",
-      "title": "雷军表示「小米汽车大概 2027 年才会考虑出口」，你认为小米汽车出口的主要市场有哪些？竞争力怎么样？",
-      "link": "https://www.zhihu.com/question/1924050900802077405",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
+      "rank": "45",
       "title": "如何评价《是女儿是妈妈 2》里面的李嘉格母女关系？",
       "link": "https://www.zhihu.com/question/1905576498972307871",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
+      "rank": "46",
+      "title": "雷军表示「小米汽车大概 2027 年才会考虑出口」，你认为小米汽车出口的主要市场有哪些？竞争力怎么样？",
+      "link": "https://www.zhihu.com/question/1924050900802077405",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "47",
       "title": "为什么《战争雷霆》没有什么竞品游戏?",
       "link": "https://www.zhihu.com/question/1920193870899152703",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
-      "title": "「夕发朝至」的动卧列车，会成为远距离出行绝佳方式么？",
-      "link": "https://www.zhihu.com/question/1923125997311619203",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "48",
       "title": "荔枝，有没有什么神仙吃法？",
       "link": "https://www.zhihu.com/question/1921524620865049120",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "49",
       "title": "容声冰箱为什么能让《长安的荔枝》放弃其他冰箱大牌？",
       "link": "https://www.zhihu.com/question/1921887169842251082",
       "heat": "55 万热度"
     },
     {
-      "rank": "48",
+      "rank": "50",
       "title": "2025 年温网女子单打第二轮，王欣瑜 0-2 不敌森梅兹，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1924206940176754470",
       "heat": "55 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "对于《崩坏：星穹铁道》的剧情来说，没有涉及到主线就是不好的剧情吗?",
-      "link": "https://www.zhihu.com/question/1923940884308824232",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "网传已研发四年的网易单机游戏《万民长歌：三国》项目被解散，如何评价此事？",
-      "link": "https://www.zhihu.com/question/1924095181294100538",
-      "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-07-04 14:59:38"
+  "generated_at": "2025-07-04 15:30:25"
 }
