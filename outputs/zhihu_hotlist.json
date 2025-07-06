@@ -1,125 +1,125 @@
 {
-  "artifact_id": "b37ac882-7995-407c-992b-b16e0c879533",
+  "artifact_id": "3326b195-af91-400f-95dd-cf151360968b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "华为盘古大模型被指出抄袭阿里 Qwen 大模型，是怎么回事？",
       "link": "https://www.zhihu.com/question/1924490368923182407",
-      "heat": "2991 万热度"
+      "heat": "2828 万热度"
     },
     {
       "rank": "2",
       "title": "盐碱地种出的海水稻，口感难吃却越种越多，国家为何要大力发展？",
       "link": "https://www.zhihu.com/question/1925146806234358159",
-      "heat": "889 万热度"
+      "heat": "569 万热度"
     },
     {
       "rank": "3",
       "title": "7 月 5 日阿里、美团发大量外卖券，美团下单量破历史峰值 App 一度崩溃，如何看待这种促销方式？",
       "link": "https://www.zhihu.com/question/1925134473701319876",
-      "heat": "372 万热度"
+      "heat": "278 万热度"
     },
     {
       "rank": "4",
       "title": "上海男子扛着 140 斤垃圾焚烧后残留的硬币存银行，遭上海农商银行拒收，怎么评价银行的拒收行为？",
       "link": "https://www.zhihu.com/question/1924952975459217587",
-      "heat": "283 万热度"
+      "heat": "276 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待「苏超」比赛中南京一球员因「不文明行为」被停赛一场？打造「干净」足球的路究竟有多远？",
-      "link": "https://www.zhihu.com/question/1925302725505185161",
-      "heat": "135 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "马斯克宣布「美国党」成立，他们有哪些政治主张？未来美国会「三党鼎立」吗？",
-      "link": "https://www.zhihu.com/question/1925094267723972999",
-      "heat": "124 万热度"
-    },
-    {
-      "rank": "7",
       "title": "地铁上明明多走几步就能坐下，为什么还有很多人选择站着？",
       "link": "https://www.zhihu.com/question/1921268375247627856",
       "heat": "113 万热度"
     },
     {
-      "rank": "8",
-      "title": "苏超第六轮，淮安队 0:0 战平常州队，常州队收获 2025 苏超的第一个积分，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1925264788105160614",
-      "heat": "101 万热度"
+      "rank": "6",
+      "title": "马斯克宣布「美国党」成立，他们有哪些政治主张？未来美国会「三党鼎立」吗？",
+      "link": "https://www.zhihu.com/question/1925094267723972999",
+      "heat": "110 万热度"
     },
     {
-      "rank": "9",
+      "rank": "7",
+      "title": "如何看待「苏超」比赛中南京一球员因「不文明行为」被停赛一场？打造「干净」足球的路究竟有多远？",
+      "link": "https://www.zhihu.com/question/1925302725505185161",
+      "heat": "108 万热度"
+    },
+    {
+      "rank": "8",
       "title": "为什么凯随手一扒拉就破了我爱罗忍术?",
       "link": "https://www.zhihu.com/question/1924424793526076708",
       "heat": "87 万热度"
     },
     {
-      "rank": "10",
+      "rank": "9",
       "title": "美国是世界上农业最发达的国家，为什么社交媒体上的美国用户会羡慕中国的水果蔬菜?",
       "link": "https://www.zhihu.com/question/9854597837",
-      "heat": "85 万热度"
+      "heat": "84 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "大商场里高奢店几乎没有人去逛，人工水电费成本都赚不回来，为什么不倒闭？",
+      "link": "https://www.zhihu.com/question/665592558",
+      "heat": "72 万热度"
     },
     {
       "rank": "11",
-      "title": "空闲时间，你会做什么手工？",
-      "link": "https://www.zhihu.com/question/1896131638687138499",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "大商场里高奢店几乎没有人去逛，人工水电费成本都赚不回来，为什么不倒闭？",
-      "link": "https://www.zhihu.com/question/665592558",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "13",
       "title": "《魔女宅急便》里，琪琪到最后为何听不懂黑猫奇奇说话了？",
       "link": "https://www.zhihu.com/question/19731390",
       "heat": "70 万热度"
     },
     {
-      "rank": "14",
+      "rank": "12",
       "title": "一个人该怎样找到自己真正热爱和擅长的事，并以此规划自己的人生？",
       "link": "https://www.zhihu.com/question/399452902",
-      "heat": "69 万热度"
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "空闲时间，你会做什么手工？",
+      "link": "https://www.zhihu.com/question/1896131638687138499",
+      "heat": "68 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "目前比较好用的 Python 开发工具是哪一个？",
+      "link": "https://www.zhihu.com/question/317758961",
+      "heat": "68 万热度"
     },
     {
       "rank": "15",
-      "title": "目前比较好用的 Python 开发工具是哪一个？",
-      "link": "https://www.zhihu.com/question/317758961",
+      "title": "F12025 英国大奖赛，诺里斯夺冠、皮亚斯特里亚军、霍肯博格职业生涯首台，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1925340614616122179",
       "heat": "66 万热度"
     },
     {
       "rank": "16",
       "title": "罗马仕正式宣布将停工 6 个月，工资将依据最低标准 80% 发放，员工该怎么办？罗马仕还能撑下去吗？",
       "link": "https://www.zhihu.com/question/1925109472373732469",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "F12025 英国大奖赛，诺里斯夺冠、皮亚斯特里亚军、霍肯博格职业生涯首台，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1925340614616122179",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "18",
-      "title": "苏超第六轮，宿迁 2:0 领先优势被连云港连扳两球，最终 2:2 战平，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1925266742755685142",
       "heat": "59 万热度"
     },
     {
-      "rank": "19",
+      "rank": "17",
       "title": "电视剧《以法之名》中有哪些不易察觉的细节？",
       "link": "https://www.zhihu.com/question/1924151085511177669",
       "heat": "59 万热度"
     },
     {
-      "rank": "20",
+      "rank": "18",
       "title": "《还珠格格》紫薇那么「柔弱」，动不动就大病一场，为什么还能成为主角团的「主心骨」？",
       "link": "https://www.zhihu.com/question/1915763943227519713",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "苏超第六轮，宿迁 2:0 领先优势被连云港连扳两球，最终 2:2 战平，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1925266742755685142",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "苏超第六轮，淮安队 0:0 战平常州队，常州队收获 2025 苏超的第一个积分，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1925264788105160614",
       "heat": "59 万热度"
     },
     {
@@ -256,14 +256,14 @@
     },
     {
       "rank": "43",
-      "title": "羽毛球发球偷后场为什么让人上头？",
-      "link": "https://www.zhihu.com/question/1922940142450111771",
+      "title": "如何评价 TVB 版《西游记》？",
+      "link": "https://www.zhihu.com/question/28097890",
       "heat": "49 万热度"
     },
     {
       "rank": "44",
-      "title": "如何评价 TVB 版《西游记》？",
-      "link": "https://www.zhihu.com/question/28097890",
+      "title": "羽毛球发球偷后场为什么让人上头？",
+      "link": "https://www.zhihu.com/question/1922940142450111771",
       "heat": "49 万热度"
     },
     {
@@ -292,8 +292,8 @@
     },
     {
       "rank": "49",
-      "title": "在《合金装备》中，小岛秀夫始终将「反战」作为游戏叙事的母题，但面对现实世界，他的理想是不是失败了？",
-      "link": "https://www.zhihu.com/question/1921284299036029549",
+      "title": "现在意大利有比德国强的地方吗？",
+      "link": "https://www.zhihu.com/question/1918279745193346814",
       "heat": "49 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-07-07 04:56:58"
+  "generated_at": "2025-07-07 05:24:33"
 }
