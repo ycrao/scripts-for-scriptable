@@ -1,84 +1,84 @@
 {
-  "artifact_id": "f9c97a1b-3338-461d-8190-95004cfe3a3f",
+  "artifact_id": "d7941c57-1d52-4bb3-a4a1-f53a7e280e52",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "卖鱼老婆婆说，「鱼直接捞放塑料袋比放在有水的桶里拎过去放生更容易活」，她这是哪门子道理？",
       "link": "https://www.zhihu.com/question/1916445377298686179",
-      "heat": "285 万热度"
+      "heat": "329 万热度"
     },
     {
       "rank": "2",
-      "title": "男子带 2 万枚硬币兑换遭银行拒绝，警方证明硬币合法性银行仍拒收，该如何维权？",
-      "link": "https://www.zhihu.com/question/1925850369877046774",
-      "heat": "193 万热度"
+      "title": "《以法之名》剧中的台词「正义没有资格迟到，迟到的正义不叫正义，顶多叫真相」，你如何理解？",
+      "link": "https://www.zhihu.com/question/1925872905557860364",
+      "heat": "190 万热度"
     },
     {
       "rank": "3",
-      "title": "《以法之名》剧中的台词「正义没有资格迟到，迟到的正义不叫正义，顶多叫真相」，你如何理解？",
-      "link": "https://www.zhihu.com/question/1925872905557860364",
-      "heat": "168 万热度"
+      "title": "男子带 2 万枚硬币兑换遭银行拒绝，警方证明硬币合法性银行仍拒收，该如何维权？",
+      "link": "https://www.zhihu.com/question/1925850369877046774",
+      "heat": "178 万热度"
     },
     {
       "rank": "4",
-      "title": "2 万就能买套房的鹤岗要建机场了，出于哪些考量？机场能为这座收缩型城市带来什么？",
-      "link": "https://www.zhihu.com/question/1925897894793275117",
-      "heat": "158 万热度"
+      "title": "女财务挪用公司近 1700 万买奢侈品炫富，为什么 6 年没被发现？哪些环节存在问题？",
+      "link": "https://www.zhihu.com/question/1925875582664663784",
+      "heat": "168 万热度"
     },
     {
       "rank": "5",
-      "title": "女财务挪用公司近 1700 万买奢侈品炫富，为什么 6 年没被发现？哪些环节存在问题？",
-      "link": "https://www.zhihu.com/question/1925875582664663784",
-      "heat": "153 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "特斯拉在欧洲市场份额已跌到 1.2%，原因是什么？比亚迪们能取代特斯拉在欧洲纯电市场的地位吗？",
-      "link": "https://www.zhihu.com/question/1925601094941270730",
+      "title": "2 万就能买套房的鹤岗要建机场了，出于哪些考量？机场能为这座收缩型城市带来什么？",
+      "link": "https://www.zhihu.com/question/1925897894793275117",
       "heat": "142 万热度"
     },
     {
+      "rank": "6",
+      "title": "领导不声不响把你手里的任务拿走后，过了几个月，发现别人干不了，想还给你，你会怎么做呢？",
+      "link": "https://www.zhihu.com/question/1924918325315606504",
+      "heat": "139 万热度"
+    },
+    {
       "rank": "7",
-      "title": "长城汽车开启「35+ 计划」，面向全球 35 岁以上人才开启专场招聘，会带动其他企业对人才年龄不设限吗？",
-      "link": "https://www.zhihu.com/question/1925938872921055788",
-      "heat": "135 万热度"
+      "title": "特斯拉在欧洲市场份额已跌到 1.2%，原因是什么？比亚迪们能取代特斯拉在欧洲纯电市场的地位吗？",
+      "link": "https://www.zhihu.com/question/1925601094941270730",
+      "heat": "131 万热度"
     },
     {
       "rank": "8",
-      "title": "领导不声不响把你手里的任务拿走后，过了几个月，发现别人干不了，想还给你，你会怎么做呢？",
-      "link": "https://www.zhihu.com/question/1924918325315606504",
-      "heat": "132 万热度"
+      "title": "长城汽车开启「35+ 计划」，面向全球 35 岁以上人才开启专场招聘，会带动其他企业对人才年龄不设限吗？",
+      "link": "https://www.zhihu.com/question/1925938872921055788",
+      "heat": "123 万热度"
     },
     {
       "rank": "9",
       "title": "华为智界新车标本月落地取消字母设计，老车主可更换，如何看待这一调整？",
       "link": "https://www.zhihu.com/question/1925291207120105595",
-      "heat": "111 万热度"
+      "heat": "121 万热度"
     },
     {
       "rank": "10",
-      "title": "中国旅游团在意大利被洗劫一空，当地偷盗为什么如此猖獗？如何才能更好地保护个人财物？",
-      "link": "https://www.zhihu.com/question/1925595677834056265",
-      "heat": "107 万热度"
+      "title": "马斯克在社交媒体上宣布成立新政党后，特斯拉市值蒸发超 680 亿美元，特斯拉未来股价走势如何？",
+      "link": "https://www.zhihu.com/question/1925864544665830000",
+      "heat": "113 万热度"
     },
     {
       "rank": "11",
       "title": "特朗普宣布对韩国和日本征收 25% 的关税，并称如果日韩也提高关税，将面临更高关税，日韩或将如何应对？",
       "link": "https://www.zhihu.com/question/1925849668023215700",
-      "heat": "105 万热度"
+      "heat": "110 万热度"
     },
     {
       "rank": "12",
       "title": "WTT 美国大满贯，首轮中国男单 4 人出局，对此你怎么看？",
       "link": "https://www.zhihu.com/question/1925926808546669930",
-      "heat": "105 万热度"
+      "heat": "109 万热度"
     },
     {
       "rank": "13",
-      "title": "马斯克在社交媒体上宣布成立新政党后，特斯拉市值蒸发超 680 亿美元，特斯拉未来股价走势如何？",
-      "link": "https://www.zhihu.com/question/1925864544665830000",
-      "heat": "104 万热度"
+      "title": "中国旅游团在意大利被洗劫一空，当地偷盗为什么如此猖獗？如何才能更好地保护个人财物？",
+      "link": "https://www.zhihu.com/question/1925595677834056265",
+      "heat": "107 万热度"
     },
     {
       "rank": "14",
@@ -88,9 +88,9 @@
     },
     {
       "rank": "15",
-      "title": "武汉的夏天是全国最热的吗？全国四大火炉的排名是否重新洗牌？",
-      "link": "https://www.zhihu.com/question/1925013016203752376",
-      "heat": "90 万热度"
+      "title": "为什么现在的电脑 DIY 圈，机箱都要海景房了？",
+      "link": "https://www.zhihu.com/question/660385529",
+      "heat": "87 万热度"
     },
     {
       "rank": "16",
@@ -100,33 +100,33 @@
     },
     {
       "rank": "17",
-      "title": "为什么现在的电脑 DIY 圈，机箱都要海景房了？",
-      "link": "https://www.zhihu.com/question/660385529",
-      "heat": "84 万热度"
+      "title": "武汉的夏天是全国最热的吗？全国四大火炉的排名是否重新洗牌？",
+      "link": "https://www.zhihu.com/question/1925013016203752376",
+      "heat": "82 万热度"
     },
     {
       "rank": "18",
-      "title": "为什么 Deepseek R2 迟迟不推出？",
-      "link": "https://www.zhihu.com/question/1925565689030238401",
-      "heat": "81 万热度"
+      "title": "蔚来李斌称电池越大对马路破坏越大，除了换电有哪些既不增大电池又能解决续航问题的技术方案和运营策略？",
+      "link": "https://www.zhihu.com/question/1925881260221362367",
+      "heat": "79 万热度"
     },
     {
       "rank": "19",
-      "title": "蔚来李斌称电池越大对马路破坏越大，除了换电有哪些既不增大电池又能解决续航问题的技术方案和运营策略？",
-      "link": "https://www.zhihu.com/question/1925881260221362367",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "20",
       "title": "《侏罗纪世界：重生》全球首周拿下 3 亿多美元，斯嘉丽成全球票房最高演员，你看过寡姐的哪些电影？",
       "link": "https://www.zhihu.com/question/1925526736415748502",
       "heat": "77 万热度"
     },
     {
+      "rank": "20",
+      "title": "为什么 Deepseek R2 迟迟不推出？",
+      "link": "https://www.zhihu.com/question/1925565689030238401",
+      "heat": "72 万热度"
+    },
+    {
       "rank": "21",
       "title": "有哪些你到了德国才知道的事情？",
       "link": "https://www.zhihu.com/question/637309685",
-      "heat": "67 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "22",
@@ -136,74 +136,74 @@
     },
     {
       "rank": "23",
-      "title": "什么样的代码一看就知道是 ai 写的？",
-      "link": "https://www.zhihu.com/question/1950828034",
-      "heat": "58 万热度"
+      "title": "刘备好几个儿子，刘禅是个半傻，为什么非要传位给他？",
+      "link": "https://www.zhihu.com/question/658380279",
+      "heat": "56 万热度"
     },
     {
       "rank": "24",
-      "title": "如何评价《三角洲行动》S5 赛季新增的「赛伊德黑卡」？",
-      "link": "https://www.zhihu.com/question/1925925289709495537",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "力与能量哪一个更为本质？",
-      "link": "https://www.zhihu.com/question/1924897752338404734",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "为什么香菜全国到处都有，而荆芥基本出不了河南?",
-      "link": "https://www.zhihu.com/question/597835669",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "如何评价电视剧《以法之名》31-32 集？",
-      "link": "https://www.zhihu.com/question/1925978781690103033",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "刘备好几个儿子，刘禅是个半傻，为什么非要传位给他？",
-      "link": "https://www.zhihu.com/question/658380279",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "29",
       "title": "你有哪些成本极低，但长期坚持下来，对身体健康有巨大改善的小习惯？",
       "link": "https://www.zhihu.com/question/1918267667535627218",
       "heat": "56 万热度"
     },
     {
+      "rank": "25",
+      "title": "为什么香菜全国到处都有，而荆芥基本出不了河南?",
+      "link": "https://www.zhihu.com/question/597835669",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "如何看待年轻人买房不关注投资价值，反而爱上楼层低、采光差的「树景房」？花几百万买「树景房」值吗？",
+      "link": "https://www.zhihu.com/question/1924897493046518904",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "如果所有公司企业都像胖东来那样，社会会怎样？",
+      "link": "https://www.zhihu.com/question/1891444381791266126",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "大家都是怎么驯服狸花猫的?",
+      "link": "https://www.zhihu.com/question/1920967293153817408",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "艺人或者明星往往会承受哪些超出普通人的「职业伤害」？",
+      "link": "https://www.zhihu.com/question/350821970",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "30",
-      "title": "杨楷文表示 (战鹰 +AI)/2  ≥ 申真谞，你怎么看？",
-      "link": "https://www.zhihu.com/question/1925496373861638847",
+      "title": "如果可以禁掉水浒梁山 6 个人，选择哪 6 个对梁山伤害最大？",
+      "link": "https://www.zhihu.com/question/1905954140393276226",
       "heat": "56 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么还没有软件能替代微信？",
-      "link": "https://www.zhihu.com/question/658627035",
+      "title": "父母从小到大都没发自内心的支持过我，只想着让我顺从、付出，以至于养成了「讨好型人格」，我能如何改变？",
+      "link": "https://www.zhihu.com/question/1923732945258153281",
       "heat": "56 万热度"
     },
     {
       "rank": "32",
-      "title": "为何《艾尔登法环》内容那么多却只有 50 多 G？",
-      "link": "https://www.zhihu.com/question/779476379",
+      "title": "《大宅门》的百草厅有很多制药秘方，皇帝不能下旨命令白家把秘方全部交出来吗 ？",
+      "link": "https://www.zhihu.com/question/1922249384592123185",
       "heat": "56 万热度"
     },
     {
       "rank": "33",
-      "title": "为什么各类二次元商品都能卖那么贵？而且还受到大多数人欢迎？",
-      "link": "https://www.zhihu.com/question/1922093484153766784",
+      "title": "家里的蚊子，是每年新进来的还是在家里过冬了再出来的？",
+      "link": "https://www.zhihu.com/question/1908918941146931921",
       "heat": "56 万热度"
     },
     {
       "rank": "34",
-      "title": "《锦绣芳华》中县主为什么要那么卑微的挽留一个不爱自己，家世不好，腿有残疾的刘畅?",
-      "link": "https://www.zhihu.com/question/1924198119823897374",
+      "title": "由认知形成的不同群体之间的「壁」如何突破？",
+      "link": "https://www.zhihu.com/question/1924611797949875839",
       "heat": "56 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "一格电和一格油，为何你知道油剩多少能跑多长，但反而不知道电呢？",
-      "link": "https://www.zhihu.com/question/653161880",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "如何看待年轻人买房不关注投资价值，反而爱上楼层低、采光差的「树景房」？花几百万买「树景房」值吗？",
-      "link": "https://www.zhihu.com/question/1924897493046518904",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如果所有公司企业都像胖东来那样，社会会怎样？",
-      "link": "https://www.zhihu.com/question/1891444381791266126",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "艺人或者明星往往会承受哪些超出普通人的「职业伤害」？",
-      "link": "https://www.zhihu.com/question/350821970",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "大家都是怎么驯服狸花猫的?",
-      "link": "https://www.zhihu.com/question/1920967293153817408",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "如果可以禁掉水浒梁山 6 个人，选择哪 6 个对梁山伤害最大？",
-      "link": "https://www.zhihu.com/question/1905954140393276226",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "父母从小到大都没发自内心的支持过我，只想着让我顺从、付出，以至于养成了「讨好型人格」，我能如何改变？",
-      "link": "https://www.zhihu.com/question/1923732945258153281",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "家里的蚊子，是每年新进来的还是在家里过冬了再出来的？",
-      "link": "https://www.zhihu.com/question/1908918941146931921",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "由认知形成的不同群体之间的「壁」如何突破？",
-      "link": "https://www.zhihu.com/question/1924611797949875839",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "《大宅门》的百草厅有很多制药秘方，皇帝不能下旨命令白家把秘方全部交出来吗 ？",
-      "link": "https://www.zhihu.com/question/1922249384592123185",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "46",
       "title": "酵母成为年轻人的新宠，如何看待这种现象？怎么安全「饲养」这种微生物萌宠？",
       "link": "https://www.zhihu.com/question/1916222964820588259",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "37",
+      "title": "一格电和一格油，为何你知道油剩多少能跑多长，但反而不知道电呢？",
+      "link": "https://www.zhihu.com/question/653161880",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
       "title": "日本文学那么喜欢研究人的心理，但为什么他们出不了陀思妥耶夫斯基？",
       "link": "https://www.zhihu.com/question/623246322",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
+      "rank": "39",
       "title": "如何评价吴曦获评久事集团 2024 年度优秀员工？",
       "link": "https://www.zhihu.com/question/1925553618783797820",
       "heat": "56 万热度"
     },
     {
-      "rank": "49",
+      "rank": "40",
       "title": "一年级暑期有必要补课吗？",
       "link": "https://www.zhihu.com/question/1924896266929809135",
       "heat": "56 万热度"
     },
     {
-      "rank": "50",
+      "rank": "41",
       "title": "高考完被好朋友删了，应该感到惋惜吗？",
       "link": "https://www.zhihu.com/question/1923495052325397413",
       "heat": "56 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "特斯拉股价大跌、投资公司对 CEO 不满，马斯克建新党会对他的商业帝国带来多大冲击？",
+      "link": "https://www.zhihu.com/question/1925470338147398206",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "《锦绣芳华》中县主为什么要那么卑微的挽留一个不爱自己，家世不好，腿有残疾的刘畅?",
+      "link": "https://www.zhihu.com/question/1924198119823897374",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "为什么各类二次元商品都能卖那么贵？而且还受到大多数人欢迎？",
+      "link": "https://www.zhihu.com/question/1922093484153766784",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "为什么 FPS 玩家弹匣过半就忍不住换弹？",
+      "link": "https://www.zhihu.com/question/1924042206618026518",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "你在教材中看到过最长的证明是什么？",
+      "link": "https://www.zhihu.com/question/57050011",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何评价《斯卡布罗集市》(Scarborough Fair)?",
+      "link": "https://www.zhihu.com/question/290746861",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "你们是如何区分日本人和中国人的长相的？",
+      "link": "https://www.zhihu.com/question/49793169",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "为什么还没有软件能替代微信？",
+      "link": "https://www.zhihu.com/question/658627035",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "怎样判断不愿上学的孩子，是抑郁还是「借抑郁而不上学」？",
+      "link": "https://www.zhihu.com/question/1908124085642326315",
+      "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-07-09 06:46:27"
+  "generated_at": "2025-07-09 07:25:07"
 }
