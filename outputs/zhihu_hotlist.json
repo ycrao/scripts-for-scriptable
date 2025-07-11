@@ -1,36 +1,36 @@
 {
-  "artifact_id": "5c96fdbe-337c-4d82-8bcb-fdd19d444e2c",
+  "artifact_id": "d6502701-d69a-4f3a-b0fc-d9ccb7afa9aa",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "晋城围棋公开赛，杨鼎新对阵杨楷文，杨鼎新在胜率接近 90% 的情况下投子认负，如何评级本次对弈？",
       "link": "https://www.zhihu.com/question/1927000417180557497",
-      "heat": "171 万热度"
+      "heat": "178 万热度"
     },
     {
       "rank": "2",
       "title": "Kimi 发布首个万亿参数开源模型 K2 模型，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1927140506573435010",
-      "heat": "155 万热度"
+      "heat": "165 万热度"
     },
     {
       "rank": "3",
       "title": "电视剧《狂飙》中高启盛为什么不待见嫂子陈书婷？",
       "link": "https://www.zhihu.com/question/581253157",
-      "heat": "140 万热度"
+      "heat": "145 万热度"
     },
     {
       "rank": "4",
       "title": "秦始皇遣使「采药昆仑」石刻引学术争鸣，有牧民称 40 年前就见过，究竟是「秦代遗存」还是「今人伪刻」？",
       "link": "https://www.zhihu.com/question/1926730034338563156",
-      "heat": "119 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "5",
       "title": "缅北白家集团致我国公民 6 人死亡，首要分子白所成等 21 人被提起公诉，他们将面临怎样的法律惩罚？",
       "link": "https://www.zhihu.com/question/1926944966778811154",
-      "heat": "113 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "6",
@@ -48,37 +48,37 @@
       "rank": "8",
       "title": "如何看待网传广东高考成绩屏蔽考生放弃清北选择港大牙医？",
       "link": "https://www.zhihu.com/question/1926275551452201728",
-      "heat": "80 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "9",
-      "title": "男子连续工作超过 8 小时，闭眼休息 3 分钟遭开除，法院判公司违法赔偿，员工休息权应如何保障？",
-      "link": "https://www.zhihu.com/question/1926967500043715016",
-      "heat": "79 万热度"
-    },
-    {
-      "rank": "10",
       "title": "武汉网友称萝卜快跑开始强行加塞，是 AI 学坏了还是人工设定的？风险有多大？",
       "link": "https://www.zhihu.com/question/1926347569853851346",
       "heat": "77 万热度"
     },
     {
-      "rank": "11",
+      "rank": "10",
       "title": "如果在一万米深的海底，用特种钢瓶装满水，里边有一个海底生物密封好，然后拿上岸里边水压力多少？",
       "link": "https://www.zhihu.com/question/291028968",
-      "heat": "70 万热度"
+      "heat": "72 万热度"
+    },
+    {
+      "rank": "11",
+      "title": "现在有两个高中，A 比 B 要好，A 学校没有熟人，B 学校有很多熟悉的人，怎么选？",
+      "link": "https://www.zhihu.com/question/661910557",
+      "heat": "71 万热度"
     },
     {
       "rank": "12",
-      "title": "现在有两个高中，A 比 B 要好，A 学校没有熟人，B 学校有很多熟悉的人，怎么选？",
-      "link": "https://www.zhihu.com/question/661910557",
+      "title": "男子连续工作超过 8 小时，闭眼休息 3 分钟遭开除，法院判公司违法赔偿，员工休息权应如何保障？",
+      "link": "https://www.zhihu.com/question/1926967500043715016",
       "heat": "70 万热度"
     },
     {
       "rank": "13",
       "title": "如何看待「高分考生放弃 985 名校，卷向考编考公对口院校」这一现象？",
       "link": "https://www.zhihu.com/question/1926934462605791864",
-      "heat": "66 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "14",
@@ -136,56 +136,56 @@
     },
     {
       "rank": "23",
-      "title": "幼儿园老师会根据家长态度，区别对待孩子吗？",
-      "link": "https://www.zhihu.com/question/629160691",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "从 2025 年看，AcFun 是怎么把一手好牌打到如今这个地步的？",
-      "link": "https://www.zhihu.com/question/1923875890602943569",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何评价综艺节目《喜剧之王单口季》第二季？",
-      "link": "https://www.zhihu.com/question/1926945940520048032",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "如何评价《一人之下》第 724（767）话?",
-      "link": "https://www.zhihu.com/question/1926785989415777600",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "如何看待 AL vs T1 的比赛，你看好 AL 挺进 MSI 决赛吗？",
-      "link": "https://www.zhihu.com/question/1926960548970501907",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "如何理解「乡愁」（Nostalgia）？",
-      "link": "https://www.zhihu.com/question/345103621",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "eva 里一个 n2 炸弹就能瘫痪使徒，那为什么不多放几个，还要上 eva？",
-      "link": "https://www.zhihu.com/question/423824201",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "30",
       "title": "《长安的荔枝》为什么会同时上电影和电视剧呢？这样不会互相抢观众和剧透吗？",
       "link": "https://www.zhihu.com/question/1926271717761851789",
       "heat": "57 万热度"
     },
     {
-      "rank": "31",
+      "rank": "24",
       "title": "比亚迪回应「媲美 L4 级智能泊车」，称驾驶员可「脱手脱眼脱脑」，目前的技术真能做到吗？",
       "link": "https://www.zhihu.com/question/1926714628961952628",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "热播短剧疑碰瓷华为、小米，男主名为余程冬，他被骁米集团挖走专注无人驾驶领域，这样设计剧本算侵权吗？",
+      "link": "https://www.zhihu.com/question/1926379200769646780",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "派蒙到底是怎么掉到水里面去的?",
+      "link": "https://www.zhihu.com/question/4803073510",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "DC 新版《超人》电影拍得如何？在众多版本中能排第几？",
+      "link": "https://www.zhihu.com/question/1926957656318374033",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "为什么阿姆罗只是上尉？",
+      "link": "https://www.zhihu.com/question/364407214",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "如何理解「乡愁」（Nostalgia）？",
+      "link": "https://www.zhihu.com/question/345103621",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "为什么板甲时代没有发展出钢质子弹以试图增强破甲，以及为什么铅弹一直使用到了 19 世纪？",
+      "link": "https://www.zhihu.com/question/631612273",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "eva 里一个 n2 炸弹就能瘫痪使徒，那为什么不多放几个，还要上 eva？",
+      "link": "https://www.zhihu.com/question/423824201",
       "heat": "57 万热度"
     },
     {
@@ -196,112 +196,112 @@
     },
     {
       "rank": "33",
-      "title": "热播短剧疑碰瓷华为、小米，男主名为余程冬，他被骁米集团挖走专注无人驾驶领域，这样设计剧本算侵权吗？",
-      "link": "https://www.zhihu.com/question/1926379200769646780",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "派蒙到底是怎么掉到水里面去的?",
-      "link": "https://www.zhihu.com/question/4803073510",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "如何评价《崩坏：星穹铁道》3.4 版本开拓续闻「美梦与圣杯」？",
-      "link": "https://www.zhihu.com/question/1923353482666148894",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "DC 新版《超人》电影拍得如何？在众多版本中能排第几？",
-      "link": "https://www.zhihu.com/question/1926957656318374033",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "为什么板甲时代没有发展出钢质子弹以试图增强破甲，以及为什么铅弹一直使用到了 19 世纪？",
-      "link": "https://www.zhihu.com/question/631612273",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "为什么阿姆罗只是上尉？",
-      "link": "https://www.zhihu.com/question/364407214",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "翁法罗斯的结局有没有可能是 BE?",
-      "link": "https://www.zhihu.com/question/1926617952364528057",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "40",
       "title": "理性分析，大家觉得 AL 和 T1 对打几几开？",
       "link": "https://www.zhihu.com/question/1926979916622193681",
       "heat": "57 万热度"
     },
     {
-      "rank": "41",
+      "rank": "34",
       "title": "《天龙八部》里西夏招亲，假如不作弊，慕容复能赢吗？",
       "link": "https://www.zhihu.com/question/1923853321267033668",
       "heat": "57 万热度"
     },
     {
-      "rank": "42",
-      "title": "如何评价叶卡捷琳娜女皇？",
-      "link": "https://www.zhihu.com/question/433246430",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
+      "rank": "35",
       "title": "为什么现在的电脑 DIY 圈，机箱都要海景房了？",
       "link": "https://www.zhihu.com/question/660385529",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
+      "rank": "36",
       "title": "父母审视带来的「自我客体化」该怎么解决？",
       "link": "https://www.zhihu.com/question/1926231157286085494",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
+      "rank": "37",
       "title": "如何看待姜文导演电影《你行！你上！》官宣提档至 7 月 18 日上映？",
       "link": "https://www.zhihu.com/question/1926753131418616314",
       "heat": "57 万热度"
     },
     {
-      "rank": "46",
+      "rank": "38",
       "title": "国足 U16 虽败犹荣，为什么一进入成人队就立马平庸？",
       "link": "https://www.zhihu.com/question/1926078043111260645",
       "heat": "57 万热度"
     },
     {
-      "rank": "47",
+      "rank": "39",
       "title": "《大明王朝 1566》中，为什么海瑞不等妻子生下孩子后再去上疏？",
       "link": "https://www.zhihu.com/question/1923790073322791461",
       "heat": "57 万热度"
     },
     {
-      "rank": "48",
-      "title": "如何评价《星之低语 demo》7 月 10 日上架 Steam 美区？",
-      "link": "https://www.zhihu.com/question/1926694032639258654",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "49",
+      "rank": "40",
       "title": "心理学家卡尔·荣格说过人生从四十岁开始吗？为什么说人生从四十岁开始呢？",
       "link": "https://www.zhihu.com/question/14085839577",
       "heat": "57 万热度"
     },
     {
-      "rank": "50",
+      "rank": "41",
+      "title": "让你决定留在广州市的原因是什么？",
+      "link": "https://www.zhihu.com/question/54172041",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "42",
       "title": "实战中狙杀掉某个火力点的机枪手后，是否可以盯着这个点不停地射杀企图补充位置的敌军，来一个就杀一个？",
       "link": "https://www.zhihu.com/question/1925901607171785913",
       "heat": "57 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "如何评价 BLG 战队在 2025 季中冠军赛上的表现？他们队伍里有哪些问题急需解决？",
+      "link": "https://www.zhihu.com/question/1926956085199201597",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "如何看待 AL vs T1 的比赛，你看好 AL 挺进 MSI 决赛吗？",
+      "link": "https://www.zhihu.com/question/1926960548970501907",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "表皮有裂痕桃子摇身一变网红「爆炸桃」，商家称「比普通桃子甜五倍」，有科学依据吗？裂口与甜度有关联吗？",
+      "link": "https://www.zhihu.com/question/1926658863219840043",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "如何评价水谷隼?",
+      "link": "https://www.zhihu.com/question/476425790",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "你乘坐民航客机最短的距离是多少公里？",
+      "link": "https://www.zhihu.com/question/1923818651737387224",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "号称银河战舰的皇马，加上想在巴黎圣日耳曼面前证明自己的姆巴佩，为何他们最终在世俱杯一败涂地?",
+      "link": "https://www.zhihu.com/question/1926522484531922364",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "炎炎夏日，有什么下饭菜推荐吗？",
+      "link": "https://www.zhihu.com/question/1924004425585885754",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何看待 Bin 在 2025 MSI 出局后采访称「我一直觉得我是最强上路，只不过现在需要点时间」？",
+      "link": "https://www.zhihu.com/question/1927046861539209302",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-07-12 07:43:16"
+  "generated_at": "2025-07-12 07:56:13"
 }
