@@ -1,72 +1,72 @@
 {
-  "artifact_id": "b842b54c-cd31-4688-9d1b-3dc782b64710",
+  "artifact_id": "dba9d309-fcc2-4522-9367-fb5a1e72995e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "三千万辆中国汽车利润不及丰田一家，丰田财报显示其净利润为中国七大车企 3 倍，丰田吸金能力为何这么强？",
       "link": "https://www.zhihu.com/question/1927061416151582613",
-      "heat": "736 万热度"
+      "heat": "752 万热度"
     },
     {
       "rank": "2",
-      "title": "国足东亚杯 0-2 不敌日本，遭遇两连败，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1927437508490298064",
-      "heat": "269 万热度"
+      "title": "如何看待 2026 年起复旦大学物理系不再招收物理学硕？",
+      "link": "https://www.zhihu.com/question/1926680076143031410",
+      "heat": "235 万热度"
     },
     {
       "rank": "3",
-      "title": "如何看待 2026 年起复旦大学物理系不再招收物理学硕？",
-      "link": "https://www.zhihu.com/question/1926680076143031410",
+      "title": "国足东亚杯 0-2 不敌日本，遭遇两连败，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1927437508490298064",
       "heat": "234 万热度"
     },
     {
       "rank": "4",
       "title": "如何评价大鹏编剧执导的电影《长安的荔枝》？",
       "link": "https://www.zhihu.com/question/13912265642",
-      "heat": "211 万热度"
+      "heat": "215 万热度"
     },
     {
       "rank": "5",
       "title": "如何看待网传所谓 ai 图片称「鹿角天牛价值 58 万」，且大量短视频平台网友信以为真?",
       "link": "https://www.zhihu.com/question/1919745906594541869",
-      "heat": "119 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "6",
-      "title": "为什么这次外卖补贴不是饿了么主导，而是淘宝亲自下场？",
-      "link": "https://www.zhihu.com/question/1926699842878530193",
+      "title": "关于 7 月 12 日的美团商战你们怎么看？",
+      "link": "https://www.zhihu.com/question/1927300385745384592",
       "heat": "118 万热度"
     },
     {
       "rank": "7",
-      "title": "你预测《聊斋：兰若寺》能否破《长安三万里》的票房记录？",
-      "link": "https://www.zhihu.com/question/1926588564730278672",
-      "heat": "114 万热度"
+      "title": "为什么这次外卖补贴不是饿了么主导，而是淘宝亲自下场？",
+      "link": "https://www.zhihu.com/question/1926699842878530193",
+      "heat": "117 万热度"
     },
     {
       "rank": "8",
       "title": "领导是如何看待不争不抢的员工？",
       "link": "https://www.zhihu.com/question/920559238",
-      "heat": "112 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "9",
-      "title": "关于 7 月 12 日的美团商战你们怎么看？",
-      "link": "https://www.zhihu.com/question/1927300385745384592",
-      "heat": "109 万热度"
+      "title": "你预测《聊斋：兰若寺》能否破《长安三万里》的票房记录？",
+      "link": "https://www.zhihu.com/question/1926588564730278672",
+      "heat": "113 万热度"
     },
     {
       "rank": "10",
-      "title": "余承东发文为华为与上汽合作的「尚界」助威，这释放了哪些信号？",
-      "link": "https://www.zhihu.com/question/1927104335155815324",
-      "heat": "98 万热度"
+      "title": "为什么很多海盗都是一只眼睛?",
+      "link": "https://www.zhihu.com/question/20873384",
+      "heat": "97 万热度"
     },
     {
       "rank": "11",
       "title": "印航空难首份调查报告公布，坠机前一刻发动机燃料供应被切断，飞行员称没有这么做，那可能是怎么回事？",
       "link": "https://www.zhihu.com/question/1927277035119669503",
-      "heat": "98 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "12",
@@ -76,15 +76,15 @@
     },
     {
       "rank": "13",
-      "title": "为什么很多海盗都是一只眼睛?",
-      "link": "https://www.zhihu.com/question/20873384",
+      "title": "余承东发文为华为与上汽合作的「尚界」助威，这释放了哪些信号？",
+      "link": "https://www.zhihu.com/question/1927104335155815324",
       "heat": "96 万热度"
     },
     {
       "rank": "14",
       "title": "博士生如何看待自己近三十年都睡在 0.9*1.9m 的宿舍床上?",
       "link": "https://www.zhihu.com/question/447718108",
-      "heat": "89 万热度"
+      "heat": "88 万热度"
     },
     {
       "rank": "15",
@@ -96,67 +96,67 @@
       "rank": "16",
       "title": "郭焱解说比赛过程中要求孙颖莎对手「差不多得了，懂点事吧」，赛后公开道歉，怎样看待此事？",
       "link": "https://www.zhihu.com/question/1927333532952393108",
-      "heat": "80 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "17",
-      "title": "2013 年《超人：钢铁之躯》与 2025 年《超人》，哪个拍的更好？",
-      "link": "https://www.zhihu.com/question/1926946226588350453",
-      "heat": "75 万热度"
+      "title": "职业赛车手一定比民间老司机厉害吗？",
+      "link": "https://www.zhihu.com/question/1922727113083057929",
+      "heat": "83 万热度"
     },
     {
       "rank": "18",
       "title": "英伟达市值突破 4 万亿，超微软名列第一，DeepSeek 重创英伟达失效了吗？",
       "link": "https://www.zhihu.com/question/1926575277686920814",
-      "heat": "75 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "19",
       "title": "为什么符合人体工学的键盘抽屉现在不流行了?",
       "link": "https://www.zhihu.com/question/619670233",
-      "heat": "75 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "20",
       "title": "30 岁的少将是什么水平?",
       "link": "https://www.zhihu.com/question/1926741638698504417",
-      "heat": "74 万热度"
+      "heat": "75 万热度"
     },
     {
       "rank": "21",
       "title": "自由泳核心收紧是什么意思？新手该如何做到呢？",
       "link": "https://www.zhihu.com/question/2480668679",
-      "heat": "70 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "22",
-      "title": "从「白蛇」「新神榜」系列到《长安三万里》《聊斋：兰若寺》，追光动画的作品中，哪部让你最印象深刻？",
-      "link": "https://www.zhihu.com/question/1926630152516932211",
-      "heat": "69 万热度"
+      "title": "如何评价《以法之名》这部电视剧？",
+      "link": "https://www.zhihu.com/question/1922804132269520590",
+      "heat": "68 万热度"
     },
     {
       "rank": "23",
       "title": "除了人类，还有没有那种生物会发生大规模同类斗争?",
       "link": "https://www.zhihu.com/question/1916855772547118060",
-      "heat": "67 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "24",
-      "title": "如何评价《以法之名》这部电视剧？",
-      "link": "https://www.zhihu.com/question/1922804132269520590",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "25",
       "title": "滴滴打车遇到过最壕的车是什么？",
       "link": "https://www.zhihu.com/question/287879672",
       "heat": "63 万热度"
     },
     {
+      "rank": "25",
+      "title": "2013 年《超人：钢铁之躯》与 2025 年《超人》，哪个拍的更好？",
+      "link": "https://www.zhihu.com/question/1926946226588350453",
+      "heat": "60 万热度"
+    },
+    {
       "rank": "26",
       "title": "台积电会不会自己私自生产处理器?",
       "link": "https://www.zhihu.com/question/1911351654537725375",
-      "heat": "61 万热度"
+      "heat": "60 万热度"
     },
     {
       "rank": "27",
@@ -178,44 +178,44 @@
     },
     {
       "rank": "30",
+      "title": "从「白蛇」「新神榜」系列到《长安三万里》《聊斋：兰若寺》，追光动画的作品中，哪部让你最印象深刻？",
+      "link": "https://www.zhihu.com/question/1926630152516932211",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "31",
       "title": "电视剧《狂飙》中高启盛为什么不待见嫂子陈书婷？",
       "link": "https://www.zhihu.com/question/581253157",
       "heat": "57 万热度"
     },
     {
-      "rank": "31",
+      "rank": "32",
       "title": "如果在一万米深的海底，用特种钢瓶装满水，里边有一个海底生物密封好，然后拿上岸里边水压力多少？",
       "link": "https://www.zhihu.com/question/291028968",
       "heat": "57 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "在日本工作是怎样一种体验？",
       "link": "https://www.zhihu.com/question/25119917",
       "heat": "57 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "为什么献血 400ml 没事，失血 400ml 却很危险? 同样数量的血液流失，仅 1 字之差，为什么差别那么大？",
       "link": "https://www.zhihu.com/question/1922912708447143537",
       "heat": "57 万热度"
     },
     {
-      "rank": "34",
+      "rank": "35",
       "title": "理想 CEO 李想称「理想 i8 再次定义纯电 SUV」，新车有哪些特别之处？怎么重新定义？",
       "link": "https://www.zhihu.com/question/1926593196890223740",
       "heat": "57 万热度"
     },
     {
-      "rank": "35",
+      "rank": "36",
       "title": "如何评价陈楚生在《歌手 2025》第九期演唱的《小情歌》?",
       "link": "https://www.zhihu.com/question/1927042061661603706",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "不是太懂生物学，有没有人解释一下为什么自然会演化出近亲结婚生出来的孩子多半畸形不易存活？",
-      "link": "https://www.zhihu.com/question/1926794028894103377",
       "heat": "57 万热度"
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "rank": "38",
+      "title": "不是太懂生物学，有没有人解释一下为什么自然会演化出近亲结婚生出来的孩子多半畸形不易存活？",
+      "link": "https://www.zhihu.com/question/1926794028894103377",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "39",
       "title": "batch_size=256 走一步和以 batch_size=1 从同一个点出发 256 次再平均有什么区别？",
       "link": "https://www.zhihu.com/question/376908009",
       "heat": "57 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "《绝命毒师》为什么是神剧？",
       "link": "https://www.zhihu.com/question/591324710",
       "heat": "57 万热度"
     },
     {
-      "rank": "40",
-      "title": "马杜埃凯将加盟阿森纳，总价超 5000 万英镑，如何评价这笔交易？",
-      "link": "https://www.zhihu.com/question/1926939132229322571",
-      "heat": "57 万热度"
-    },
-    {
       "rank": "41",
-      "title": "特斯拉车顶维权女车主二审败诉，被判赔偿 17 万，报告称该事件致特斯拉损失 1.7 亿元订单，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1927127005809341127",
+      "title": "「抱着冬瓜睡觉」走红，为什么抱着冬瓜会清凉？哪些人适合冬瓜助眠？用冬瓜助眠需要注意什么？",
+      "link": "https://www.zhihu.com/question/1926579239349642827",
       "heat": "57 万热度"
     },
     {
       "rank": "42",
-      "title": "「抱着冬瓜睡觉」走红，为什么抱着冬瓜会清凉？哪些人适合冬瓜助眠？用冬瓜助眠需要注意什么？",
-      "link": "https://www.zhihu.com/question/1926579239349642827",
+      "title": "特斯拉车顶维权女车主二审败诉，被判赔偿 17 万，报告称该事件致特斯拉损失 1.7 亿元订单，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1927127005809341127",
       "heat": "57 万热度"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "rank": "45",
-      "title": "如何看待《崩坏：星穹铁道》7 月 10 日发布的与 FATE[UBW] 联动 PV：相见「很」晚？",
-      "link": "https://www.zhihu.com/question/1926625699353044268",
+      "title": "马杜埃凯将加盟阿森纳，总价超 5000 万英镑，如何评价这笔交易？",
+      "link": "https://www.zhihu.com/question/1926939132229322571",
       "heat": "57 万热度"
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "rank": "48",
-      "title": "怎么样能够快速提升打羽毛球的水平?",
-      "link": "https://www.zhihu.com/question/500849020",
+      "title": "如何看待《崩坏：星穹铁道》7 月 10 日发布的与 FATE[UBW] 联动 PV：相见「很」晚？",
+      "link": "https://www.zhihu.com/question/1926625699353044268",
       "heat": "57 万热度"
     },
     {
       "rank": "49",
-      "title": "如何看待宗申发布两款三蹦子，取名智界和问界？这涉及侵权吗？",
-      "link": "https://www.zhihu.com/question/1926022870871565382",
+      "title": "怎么样能够快速提升打羽毛球的水平?",
+      "link": "https://www.zhihu.com/question/500849020",
       "heat": "57 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-07-13 02:56:24"
+  "generated_at": "2025-07-13 03:20:48"
 }
