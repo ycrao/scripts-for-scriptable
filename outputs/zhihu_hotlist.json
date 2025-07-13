@@ -1,42 +1,42 @@
 {
-  "artifact_id": "e1d5cd76-46a2-4d51-8f44-2408f2a49700",
+  "artifact_id": "3b453b04-23f2-4c25-820b-f3289446e65d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "为什么很多人把「App」读成「A-P-P」？",
-      "link": "https://www.zhihu.com/question/19714808",
-      "heat": "205 万热度"
+      "title": "司机坦言开空调每月多花近千元，网约车空调费之争该如何解？",
+      "link": "https://www.zhihu.com/question/1926808614942806231",
+      "heat": "180 万热度"
     },
     {
       "rank": "2",
-      "title": "司机坦言开空调每月多花近千元，网约车空调费之争该如何解？",
-      "link": "https://www.zhihu.com/question/1926808614942806231",
-      "heat": "174 万热度"
+      "title": "为什么很多人把「App」读成「A-P-P」？",
+      "link": "https://www.zhihu.com/question/19714808",
+      "heat": "166 万热度"
     },
     {
       "rank": "3",
-      "title": "为了 985，家长们开始卷「聪明药」，什么是「聪明药」？真的能提高学习效率和成绩吗？滥用该药有何风险？",
-      "link": "https://www.zhihu.com/question/1926974775852500492",
-      "heat": "169 万热度"
+      "title": "香飘飘预计上半年净亏损超 9700 万元，原因可能是什么？新茶饮品牌竞争激烈，冲泡奶茶出路在哪？",
+      "link": "https://www.zhihu.com/question/1927067752453083705",
+      "heat": "149 万热度"
     },
     {
       "rank": "4",
-      "title": "香飘飘预计上半年净亏损超 9700 万元，原因可能是什么？新茶饮品牌竞争激烈，冲泡奶茶出路在哪？",
-      "link": "https://www.zhihu.com/question/1927067752453083705",
-      "heat": "148 万热度"
+      "title": "为了 985，家长们开始卷「聪明药」，什么是「聪明药」？真的能提高学习效率和成绩吗？滥用该药有何风险？",
+      "link": "https://www.zhihu.com/question/1926974775852500492",
+      "heat": "147 万热度"
     },
     {
       "rank": "5",
-      "title": "现在国内还能买到哪些没有后台监控的手机？",
-      "link": "https://www.zhihu.com/question/1923329400704832068",
-      "heat": "97 万热度"
+      "title": "世俱杯决赛，切尔西 vs 巴黎圣日耳曼，如何看待本场比赛？",
+      "link": "https://www.zhihu.com/question/1927862953140515878",
+      "heat": "122 万热度"
     },
     {
       "rank": "6",
-      "title": "世俱杯决赛，切尔西 vs 巴黎圣日耳曼，如何看待本场比赛？",
-      "link": "https://www.zhihu.com/question/1927862953140515878",
-      "heat": "88 万热度"
+      "title": "现在国内还能买到哪些没有后台监控的手机？",
+      "link": "https://www.zhihu.com/question/1923329400704832068",
+      "heat": "105 万热度"
     },
     {
       "rank": "7",
@@ -54,13 +54,13 @@
       "rank": "9",
       "title": "通信大约十年一换代，6G 也将被推广，为什么在网络上通信是夕阳产业会成为普遍论调？",
       "link": "https://www.zhihu.com/question/655372946",
-      "heat": "69 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "10",
       "title": "faker 现在都岁数不小了，就算真打败他了还有什么意义吗？",
       "link": "https://www.zhihu.com/question/1927228913190413858",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "11",
@@ -100,75 +100,75 @@
     },
     {
       "rank": "17",
-      "title": "现在读博是不是比以前容易很多？",
-      "link": "https://www.zhihu.com/question/1925912429046523053",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "18",
       "title": "如何评价段奕宏、秦昊、于文文主演的电视剧《扫毒风暴》？",
       "link": "https://www.zhihu.com/question/1926319421573521565",
       "heat": "59 万热度"
     },
     {
-      "rank": "19",
-      "title": "如果在公海船上被推到水里去，如何自救？",
-      "link": "https://www.zhihu.com/question/263745819",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "洛克斯是不是黑胡子的老爸啊？",
-      "link": "https://www.zhihu.com/question/348769036",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "甘肃省提级调查天水幼儿园幼儿血铅异常问题，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1927480317079412775",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "《死亡搁浅 2》是不是完全没有 1 代时期的那种全面热聊岛学的声量了，为什么会这样？",
-      "link": "https://www.zhihu.com/question/1923793277632635914",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "23",
+      "rank": "18",
       "title": "38 岁的梅西连续五场梅开二度，油箱里到底还有多少油？",
       "link": "https://www.zhihu.com/question/1927673253729661712",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "如何看待骑士引进詹姆斯的条件曝光：只对买断后的他感兴趣？",
-      "link": "https://www.zhihu.com/question/1927405422521882546",
       "heat": "58 万热度"
     },
     {
-      "rank": "25",
+      "rank": "19",
       "title": "《奔跑吧 13》最新一集引发争议，郭艾伦在蒙眼状态下无意拖拽周深，如何平衡娱乐节目的刺激性和嘉宾的安全？",
       "link": "https://www.zhihu.com/question/1927408245225521891",
       "heat": "58 万热度"
     },
     {
-      "rank": "26",
+      "rank": "20",
+      "title": "打算回顾一下老游戏，有哪些比较经典的值得玩一下？",
+      "link": "https://www.zhihu.com/question/661975002",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "甘肃省提级调查天水幼儿园幼儿血铅异常问题，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1927480317079412775",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "如何看待骑士引进詹姆斯的条件曝光：只对买断后的他感兴趣？",
+      "link": "https://www.zhihu.com/question/1927405422521882546",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "如何评价《绝区零》专业挑战室 | 战斗设计幕后 第一期？",
+      "link": "https://www.zhihu.com/question/1927796166730446819",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "现在读博是不是比以前容易很多？",
+      "link": "https://www.zhihu.com/question/1925912429046523053",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
       "title": "如何评价《灵笼》第二季第 9 集?",
       "link": "https://www.zhihu.com/question/1926982444185256437",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "《死亡搁浅 2》是不是完全没有 1 代时期的那种全面热聊岛学的声量了，为什么会这样？",
+      "link": "https://www.zhihu.com/question/1923793277632635914",
+      "heat": "57 万热度"
     },
     {
       "rank": "27",
-      "title": "打算回顾一下老游戏，有哪些比较经典的值得玩一下？",
-      "link": "https://www.zhihu.com/question/661975002",
-      "heat": "58 万热度"
+      "title": "如果在公海船上被推到水里去，如何自救？",
+      "link": "https://www.zhihu.com/question/263745819",
+      "heat": "57 万热度"
     },
     {
       "rank": "28",
-      "title": "如何评价《绝区零》专业挑战室 | 战斗设计幕后 第一期？",
-      "link": "https://www.zhihu.com/question/1927796166730446819",
-      "heat": "58 万热度"
+      "title": "洛克斯是不是黑胡子的老爸啊？",
+      "link": "https://www.zhihu.com/question/348769036",
+      "heat": "56 万热度"
     },
     {
       "rank": "29",
@@ -190,8 +190,8 @@
     },
     {
       "rank": "32",
-      "title": "多所高校论文被爆夹带隐藏提示词，能指示 AI「只给好评」，如何看待这一「赛博取巧」行为，真的能有效么？",
-      "link": "https://www.zhihu.com/question/1926993824359609203",
+      "title": "自由泳核心收紧是什么意思？新手该如何做到呢？",
+      "link": "https://www.zhihu.com/question/2480668679",
       "heat": "55 万热度"
     },
     {
@@ -202,8 +202,8 @@
     },
     {
       "rank": "34",
-      "title": "自由泳核心收紧是什么意思？新手该如何做到呢？",
-      "link": "https://www.zhihu.com/question/2480668679",
+      "title": "多所高校论文被爆夹带隐藏提示词，能指示 AI「只给好评」，如何看待这一「赛博取巧」行为，真的能有效么？",
+      "link": "https://www.zhihu.com/question/1926993824359609203",
       "heat": "55 万热度"
     },
     {
@@ -214,26 +214,26 @@
     },
     {
       "rank": "36",
-      "title": "《超人》中超人亲生父母的视频留言后半段会不会是伪造的？",
-      "link": "https://www.zhihu.com/question/1926975001736732888",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "电视剧我的前半生罗子君和陈俊生的婚姻问题出在哪?",
-      "link": "https://www.zhihu.com/question/62096973",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "38",
       "title": "《以法之名》结尾万海的结局是必然吗？",
       "link": "https://www.zhihu.com/question/1926734771540693991",
       "heat": "55 万热度"
     },
     {
-      "rank": "39",
+      "rank": "37",
       "title": "你给深索（deepseek） 提过什么问题让其思考的时间最长？最长思考了多久？",
       "link": "https://www.zhihu.com/question/12170385340",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "电视剧我的前半生罗子君和陈俊生的婚姻问题出在哪?",
+      "link": "https://www.zhihu.com/question/62096973",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "《超人》中超人亲生父母的视频留言后半段会不会是伪造的？",
+      "link": "https://www.zhihu.com/question/1926975001736732888",
       "heat": "55 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "你们养的猫猫都是什么性格？",
-      "link": "https://www.zhihu.com/question/5978011661",
+      "title": "在教育孩子的过程中，为何不可以打击孩子呢？",
+      "link": "https://www.zhihu.com/question/662694942",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-07-14 05:54:59"
+  "generated_at": "2025-07-14 06:25:00"
 }
