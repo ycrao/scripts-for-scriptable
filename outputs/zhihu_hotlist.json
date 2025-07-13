@@ -1,18 +1,18 @@
 {
-  "artifact_id": "d9c52ba0-3cfb-441f-a347-eb02b914423f",
+  "artifact_id": "2d34ad9f-1c63-4459-accb-b9378e8ae01d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "为什么很多人把「App」读成「A-P-P」？",
       "link": "https://www.zhihu.com/question/19714808",
-      "heat": "205 万热度"
+      "heat": "204 万热度"
     },
     {
       "rank": "2",
       "title": "为了 985，家长们开始卷「聪明药」，什么是「聪明药」？真的能提高学习效率和成绩吗？滥用该药有何风险？",
       "link": "https://www.zhihu.com/question/1926974775852500492",
-      "heat": "196 万热度"
+      "heat": "184 万热度"
     },
     {
       "rank": "3",
@@ -24,84 +24,84 @@
       "rank": "4",
       "title": "香飘飘预计上半年净亏损超 9700 万元，原因可能是什么？新茶饮品牌竞争激烈，冲泡奶茶出路在哪？",
       "link": "https://www.zhihu.com/question/1927067752453083705",
-      "heat": "151 万热度"
+      "heat": "149 万热度"
     },
     {
       "rank": "5",
-      "title": "《奔跑吧 13》最新一集引发争议，郭艾伦在蒙眼状态下无意拖拽周深，如何平衡娱乐节目的刺激性和嘉宾的安全？",
-      "link": "https://www.zhihu.com/question/1927408245225521891",
-      "heat": "112 万热度"
+      "title": "现在国内还能买到哪些没有后台监控的手机？",
+      "link": "https://www.zhihu.com/question/1923329400704832068",
+      "heat": "93 万热度"
     },
     {
       "rank": "6",
-      "title": "如果在公海船上被推到水里去，如何自救？",
-      "link": "https://www.zhihu.com/question/263745819",
-      "heat": "79 万热度"
-    },
-    {
-      "rank": "7",
       "title": "网友住酒店光脚洗澡感染 HPV 跖疣病毒，脚底长出硬疙瘩，这种病毒有多危险？怎样能避免感染？",
       "link": "https://www.zhihu.com/question/1926040886636147230",
       "heat": "79 万热度"
     },
     {
-      "rank": "8",
+      "rank": "7",
       "title": "《新吊带袜天使》现已开播并登上日推热门排行榜第一，观众和粉丝们对这部重启作品有哪些期待和看法？",
       "link": "https://www.zhihu.com/question/1926728658799796576",
       "heat": "76 万热度"
     },
     {
-      "rank": "9",
-      "title": "如何评价段奕宏、秦昊、于文文主演的电视剧《扫毒风暴》？",
-      "link": "https://www.zhihu.com/question/1926319421573521565",
+      "rank": "8",
+      "title": "通信大约十年一换代，6G 也将被推广，为什么在网络上通信是夕阳产业会成为普遍论调？",
+      "link": "https://www.zhihu.com/question/655372946",
       "heat": "69 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "faker 现在都岁数不小了，就算真打败他了还有什么意义吗？",
+      "link": "https://www.zhihu.com/question/1927228913190413858",
+      "heat": "68 万热度"
     },
     {
       "rank": "10",
-      "title": "faker 现在都岁数不小了，就算真打败他了还有什么意义吗？",
-      "link": "https://www.zhihu.com/question/1927228913190413858",
-      "heat": "69 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "被骗至缅甸失联高考生行程曝光，飞抵昆明后辗转到缅甸，曾称自己是自由且安全的能挣到钱，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1927496552114530074",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "通信大约十年一换代，6G 也将被推广，为什么在网络上通信是夕阳产业会成为普遍论调？",
-      "link": "https://www.zhihu.com/question/655372946",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "「侃爷」上海演唱会迟到四十多分钟，还提前退场，观众高声喊退票，他的做法算不算违约？谁该为观众体验买单？",
-      "link": "https://www.zhihu.com/question/1927508134496269632",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "14",
       "title": "中国有没有可能购买库兹涅佐夫号？",
       "link": "https://www.zhihu.com/question/1927113265680474664",
       "heat": "66 万热度"
     },
     {
-      "rank": "15",
-      "title": "大连工业大学鉴于李某莳不当行为造成恶劣负面影响，拟开除其学籍，如何评价这一事件？",
-      "link": "https://www.zhihu.com/question/1927417525324476998",
-      "heat": "66 万热度"
+      "rank": "11",
+      "title": "被骗至缅甸失联高考生行程曝光，飞抵昆明后辗转到缅甸，曾称自己是自由且安全的能挣到钱，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1927496552114530074",
+      "heat": "65 万热度"
     },
     {
-      "rank": "16",
+      "rank": "12",
       "title": "上海外滩为什么每天都有那么多人参观？它好的地方在哪里？",
       "link": "https://www.zhihu.com/question/1907682462437471108",
       "heat": "65 万热度"
     },
     {
-      "rank": "17",
+      "rank": "13",
+      "title": "「侃爷」上海演唱会迟到四十多分钟，还提前退场，观众高声喊退票，他的做法算不算违约？谁该为观众体验买单？",
+      "link": "https://www.zhihu.com/question/1927508134496269632",
+      "heat": "61 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "《奔跑吧 13》最新一集引发争议，郭艾伦在蒙眼状态下无意拖拽周深，如何平衡娱乐节目的刺激性和嘉宾的安全？",
+      "link": "https://www.zhihu.com/question/1927408245225521891",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "大连工业大学鉴于李某莳不当行为造成恶劣负面影响，拟开除其学籍，如何评价这一事件？",
+      "link": "https://www.zhihu.com/question/1927417525324476998",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "16",
       "title": "如何看待媒体报道「数名高中生快递站兼职卸货 4 小时只得 10 元，因流汗多、速度慢被辞」？事件真相如何？",
       "link": "https://www.zhihu.com/question/1927449653407888815",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "如何评价段奕宏、秦昊、于文文主演的电视剧《扫毒风暴》？",
+      "link": "https://www.zhihu.com/question/1926319421573521565",
       "heat": "59 万热度"
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "rank": "20",
-      "title": "38 岁的梅西连续五场梅开二度，油箱里到底还有多少油？",
-      "link": "https://www.zhihu.com/question/1927673253729661712",
+      "title": "如果在公海船上被推到水里去，如何自救？",
+      "link": "https://www.zhihu.com/question/263745819",
       "heat": "59 万热度"
     },
     {
@@ -130,26 +130,26 @@
     },
     {
       "rank": "22",
+      "title": "38 岁的梅西连续五场梅开二度，油箱里到底还有多少油？",
+      "link": "https://www.zhihu.com/question/1927673253729661712",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "23",
       "title": "《死亡搁浅 2》是不是完全没有 1 代时期的那种全面热聊岛学的声量了，为什么会这样？",
       "link": "https://www.zhihu.com/question/1923793277632635914",
       "heat": "59 万热度"
     },
     {
-      "rank": "23",
+      "rank": "24",
       "title": "如何看待骑士引进詹姆斯的条件曝光：只对买断后的他感兴趣？",
       "link": "https://www.zhihu.com/question/1927405422521882546",
       "heat": "59 万热度"
     },
     {
-      "rank": "24",
+      "rank": "25",
       "title": "如何评价《灵笼》第二季第 9 集?",
       "link": "https://www.zhihu.com/question/1926982444185256437",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何评价《绝区零》专业挑战室 | 战斗设计幕后 第一期？",
-      "link": "https://www.zhihu.com/question/1927796166730446819",
       "heat": "58 万热度"
     },
     {
@@ -160,27 +160,27 @@
     },
     {
       "rank": "27",
+      "title": "如何评价《绝区零》专业挑战室 | 战斗设计幕后 第一期？",
+      "link": "https://www.zhihu.com/question/1927796166730446819",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "28",
       "title": "小饭店老板随手拍视频被判为「违法广告」，45 万元罚款引争议，处罚依据是什么？",
       "link": "https://www.zhihu.com/question/1927012851274483532",
       "heat": "56 万热度"
     },
     {
-      "rank": "28",
+      "rank": "29",
       "title": "成都一高速路收费「悄悄延期」，申请公开延期缘由被回复「涉密」，涉及公众利益的文件是否能用涉密避免回应？",
       "link": "https://www.zhihu.com/question/1926584564475732289",
       "heat": "56 万热度"
     },
     {
-      "rank": "29",
+      "rank": "30",
       "title": "张本智和 4-3 战胜林诗栋，将与王楚钦争夺美国大满贯男单冠军，如何评价这场比赛?",
       "link": "https://www.zhihu.com/question/1927690600188195978",
       "heat": "56 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "多所高校论文被爆夹带隐藏提示词，能指示 AI「只给好评」，如何看待这一「赛博取巧」行为，真的能有效么？",
-      "link": "https://www.zhihu.com/question/1926993824359609203",
-      "heat": "55 万热度"
     },
     {
       "rank": "31",
@@ -190,8 +190,8 @@
     },
     {
       "rank": "32",
-      "title": "为什么当职场上的老实人开始懂得反抗的时候，领导和同事就开始远离他了？",
-      "link": "https://www.zhihu.com/question/1926648249307071018",
+      "title": "多所高校论文被爆夹带隐藏提示词，能指示 AI「只给好评」，如何看待这一「赛博取巧」行为，真的能有效么？",
+      "link": "https://www.zhihu.com/question/1926993824359609203",
       "heat": "55 万热度"
     },
     {
@@ -202,8 +202,8 @@
     },
     {
       "rank": "34",
-      "title": "电视剧我的前半生罗子君和陈俊生的婚姻问题出在哪?",
-      "link": "https://www.zhihu.com/question/62096973",
+      "title": "自由泳核心收紧是什么意思？新手该如何做到呢？",
+      "link": "https://www.zhihu.com/question/2480668679",
       "heat": "55 万热度"
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "rank": "36",
-      "title": "自由泳核心收紧是什么意思？新手该如何做到呢？",
-      "link": "https://www.zhihu.com/question/2480668679",
+      "title": "电视剧我的前半生罗子君和陈俊生的婚姻问题出在哪?",
+      "link": "https://www.zhihu.com/question/62096973",
       "heat": "55 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-07-14 04:57:11"
+  "generated_at": "2025-07-14 05:24:49"
 }
