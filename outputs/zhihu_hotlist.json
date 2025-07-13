@@ -1,42 +1,42 @@
 {
-  "artifact_id": "3b453b04-23f2-4c25-820b-f3289446e65d",
+  "artifact_id": "c06bb61b-0509-458d-94ad-f96424f16aa8",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "司机坦言开空调每月多花近千元，网约车空调费之争该如何解？",
       "link": "https://www.zhihu.com/question/1926808614942806231",
-      "heat": "180 万热度"
+      "heat": "191 万热度"
     },
     {
       "rank": "2",
       "title": "为什么很多人把「App」读成「A-P-P」？",
       "link": "https://www.zhihu.com/question/19714808",
-      "heat": "166 万热度"
+      "heat": "160 万热度"
     },
     {
       "rank": "3",
       "title": "香飘飘预计上半年净亏损超 9700 万元，原因可能是什么？新茶饮品牌竞争激烈，冲泡奶茶出路在哪？",
       "link": "https://www.zhihu.com/question/1927067752453083705",
-      "heat": "149 万热度"
+      "heat": "153 万热度"
     },
     {
       "rank": "4",
-      "title": "为了 985，家长们开始卷「聪明药」，什么是「聪明药」？真的能提高学习效率和成绩吗？滥用该药有何风险？",
-      "link": "https://www.zhihu.com/question/1926974775852500492",
-      "heat": "147 万热度"
+      "title": "世俱杯决赛，切尔西 vs 巴黎圣日耳曼，如何看待本场比赛？",
+      "link": "https://www.zhihu.com/question/1927862953140515878",
+      "heat": "139 万热度"
     },
     {
       "rank": "5",
-      "title": "世俱杯决赛，切尔西 vs 巴黎圣日耳曼，如何看待本场比赛？",
-      "link": "https://www.zhihu.com/question/1927862953140515878",
-      "heat": "122 万热度"
+      "title": "为了 985，家长们开始卷「聪明药」，什么是「聪明药」？真的能提高学习效率和成绩吗？滥用该药有何风险？",
+      "link": "https://www.zhihu.com/question/1926974775852500492",
+      "heat": "136 万热度"
     },
     {
       "rank": "6",
       "title": "现在国内还能买到哪些没有后台监控的手机？",
       "link": "https://www.zhihu.com/question/1923329400704832068",
-      "heat": "105 万热度"
+      "heat": "111 万热度"
     },
     {
       "rank": "7",
@@ -54,7 +54,7 @@
       "rank": "9",
       "title": "通信大约十年一换代，6G 也将被推广，为什么在网络上通信是夕阳产业会成为普遍论调？",
       "link": "https://www.zhihu.com/question/655372946",
-      "heat": "71 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "10",
@@ -102,24 +102,24 @@
       "rank": "17",
       "title": "如何评价段奕宏、秦昊、于文文主演的电视剧《扫毒风暴》？",
       "link": "https://www.zhihu.com/question/1926319421573521565",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "18",
-      "title": "38 岁的梅西连续五场梅开二度，油箱里到底还有多少油？",
-      "link": "https://www.zhihu.com/question/1927673253729661712",
-      "heat": "58 万热度"
+      "title": "《奔跑吧 13》最新一集引发争议，郭艾伦在蒙眼状态下无意拖拽周深，如何平衡娱乐节目的刺激性和嘉宾的安全？",
+      "link": "https://www.zhihu.com/question/1927408245225521891",
+      "heat": "57 万热度"
     },
     {
       "rank": "19",
-      "title": "《奔跑吧 13》最新一集引发争议，郭艾伦在蒙眼状态下无意拖拽周深，如何平衡娱乐节目的刺激性和嘉宾的安全？",
-      "link": "https://www.zhihu.com/question/1927408245225521891",
-      "heat": "58 万热度"
+      "title": "38 岁的梅西连续五场梅开二度，油箱里到底还有多少油？",
+      "link": "https://www.zhihu.com/question/1927673253729661712",
+      "heat": "57 万热度"
     },
     {
       "rank": "20",
-      "title": "打算回顾一下老游戏，有哪些比较经典的值得玩一下？",
-      "link": "https://www.zhihu.com/question/661975002",
+      "title": "如何看待骑士引进詹姆斯的条件曝光：只对买断后的他感兴趣？",
+      "link": "https://www.zhihu.com/question/1927405422521882546",
       "heat": "57 万热度"
     },
     {
@@ -130,63 +130,63 @@
     },
     {
       "rank": "22",
-      "title": "如何看待骑士引进詹姆斯的条件曝光：只对买断后的他感兴趣？",
-      "link": "https://www.zhihu.com/question/1927405422521882546",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "如何评价《绝区零》专业挑战室 | 战斗设计幕后 第一期？",
-      "link": "https://www.zhihu.com/question/1927796166730446819",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "现在读博是不是比以前容易很多？",
-      "link": "https://www.zhihu.com/question/1925912429046523053",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何评价《灵笼》第二季第 9 集?",
-      "link": "https://www.zhihu.com/question/1926982444185256437",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "《死亡搁浅 2》是不是完全没有 1 代时期的那种全面热聊岛学的声量了，为什么会这样？",
-      "link": "https://www.zhihu.com/question/1923793277632635914",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "如果在公海船上被推到水里去，如何自救？",
-      "link": "https://www.zhihu.com/question/263745819",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "洛克斯是不是黑胡子的老爸啊？",
-      "link": "https://www.zhihu.com/question/348769036",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "29",
       "title": "小饭店老板随手拍视频被判为「违法广告」，45 万元罚款引争议，处罚依据是什么？",
       "link": "https://www.zhihu.com/question/1927012851274483532",
       "heat": "56 万热度"
     },
     {
-      "rank": "30",
+      "rank": "23",
+      "title": "打算回顾一下老游戏，有哪些比较经典的值得玩一下？",
+      "link": "https://www.zhihu.com/question/661975002",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "现在读博是不是比以前容易很多？",
+      "link": "https://www.zhihu.com/question/1925912429046523053",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "如何评价《绝区零》专业挑战室 | 战斗设计幕后 第一期？",
+      "link": "https://www.zhihu.com/question/1927796166730446819",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "张本智和 4-3 战胜林诗栋，将与王楚钦争夺美国大满贯男单冠军，如何评价这场比赛?",
+      "link": "https://www.zhihu.com/question/1927690600188195978",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "如何评价《灵笼》第二季第 9 集?",
+      "link": "https://www.zhihu.com/question/1926982444185256437",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "28",
       "title": "成都一高速路收费「悄悄延期」，申请公开延期缘由被回复「涉密」，涉及公众利益的文件是否能用涉密避免回应？",
       "link": "https://www.zhihu.com/question/1926584564475732289",
       "heat": "56 万热度"
     },
     {
-      "rank": "31",
-      "title": "张本智和 4-3 战胜林诗栋，将与王楚钦争夺美国大满贯男单冠军，如何评价这场比赛?",
-      "link": "https://www.zhihu.com/question/1927690600188195978",
+      "rank": "29",
+      "title": "《死亡搁浅 2》是不是完全没有 1 代时期的那种全面热聊岛学的声量了，为什么会这样？",
+      "link": "https://www.zhihu.com/question/1923793277632635914",
       "heat": "56 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "如果在公海船上被推到水里去，如何自救？",
+      "link": "https://www.zhihu.com/question/263745819",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "洛克斯是不是黑胡子的老爸啊？",
+      "link": "https://www.zhihu.com/question/348769036",
+      "heat": "55 万热度"
     },
     {
       "rank": "32",
@@ -226,20 +226,20 @@
     },
     {
       "rank": "38",
+      "title": "我持有 67% 股份公司表决权，董事会席位 5 位，我只控制 2 位，董事会很多决议我都不同意，该咋办？",
+      "link": "https://www.zhihu.com/question/8578655943",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "39",
       "title": "电视剧我的前半生罗子君和陈俊生的婚姻问题出在哪?",
       "link": "https://www.zhihu.com/question/62096973",
       "heat": "55 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "《超人》中超人亲生父母的视频留言后半段会不会是伪造的？",
       "link": "https://www.zhihu.com/question/1926975001736732888",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "我持有 67% 股份公司表决权，董事会席位 5 位，我只控制 2 位，董事会很多决议我都不同意，该咋办？",
-      "link": "https://www.zhihu.com/question/8578655943",
       "heat": "55 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-07-14 06:25:00"
+  "generated_at": "2025-07-14 06:45:39"
 }
