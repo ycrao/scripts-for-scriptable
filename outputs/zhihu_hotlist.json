@@ -1,138 +1,138 @@
 {
-  "artifact_id": "a9fc8bd6-0fb0-434a-9f6d-b8e819cb0862",
+  "artifact_id": "d62fbfef-c380-4bd3-a3a0-c7ab9ab21b4f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "英伟达官方确认 H20 芯片对华销售解禁，意味着什么？将产生哪些影响？",
       "link": "https://www.zhihu.com/question/1928405081889404837",
-      "heat": "639 万热度"
+      "heat": "704 万热度"
     },
     {
       "rank": "2",
       "title": "视频显示一只翠鸟嘴插在芒果里「无法自拔」，这是怎么回事？翠鸟经常遇到这种嘴无法自拔的情况吗？",
       "link": "https://www.zhihu.com/question/1928198455169344389",
-      "heat": "278 万热度"
+      "heat": "283 万热度"
     },
     {
       "rank": "3",
-      "title": "部分 9.9 元包邮的手机壳铅含量超标 30 倍，廉价手机壳真的含铅吗？长期使用对人体会有哪些危害？",
-      "link": "https://www.zhihu.com/question/1927795729876889734",
-      "heat": "275 万热度"
+      "title": "一汽奥迪表明不会在汽车中使用消费级芯片，这背后的原因是什么？",
+      "link": "https://www.zhihu.com/question/1927727084047933690",
+      "heat": "207 万热度"
     },
     {
       "rank": "4",
-      "title": "一汽奥迪表明不会在汽车中使用消费级芯片，这背后的原因是什么？",
-      "link": "https://www.zhihu.com/question/1927727084047933690",
-      "heat": "212 万热度"
+      "title": "如何看待马伯庸原著改编的剧大都扑了？有何原因？",
+      "link": "https://www.zhihu.com/question/1925878917648060832",
+      "heat": "141 万热度"
     },
     {
       "rank": "5",
-      "title": "开轿车累还是 SUV 累？",
-      "link": "https://www.zhihu.com/question/662217738",
-      "heat": "168 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "特朗普为俄乌和谈设 50 天期限，威胁对俄征 100% 关税、对乌输送武器，有何意图？策略能奏效吗？",
-      "link": "https://www.zhihu.com/question/1928353576478012069",
-      "heat": "160 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "女子买泳衣走光后被告知泳衣仅适合拍照，商家隐瞒泳衣不能下水的事实算虚假宣传吗？消费者应如何有效维权？",
-      "link": "https://www.zhihu.com/question/1927854729775510979",
-      "heat": "151 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "如何看待马伯庸原著改编的剧大都扑了？有何原因？",
-      "link": "https://www.zhihu.com/question/1925878917648060832",
-      "heat": "135 万热度"
-    },
-    {
-      "rank": "9",
-      "title": "美国总统特朗普拟对俄罗斯征收 100% 二级关税，请问什么是二级关税，美国这么做对金融市场带来什么影响？",
-      "link": "https://www.zhihu.com/question/1928235225944678624",
-      "heat": "128 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "外卖小哥成为城市文学新主角的原因是什么？",
-      "link": "https://www.zhihu.com/question/1923706206733689266",
+      "title": "同样是一帮国足加几个外援，为什么广州恒大能横扫亚洲，而现在中国男足却被亚洲横扫呢？",
+      "link": "https://www.zhihu.com/question/666556863",
       "heat": "125 万热度"
     },
     {
-      "rank": "11",
+      "rank": "6",
+      "title": "女子买泳衣走光后被告知泳衣仅适合拍照，商家隐瞒泳衣不能下水的事实算虚假宣传吗？消费者应如何有效维权？",
+      "link": "https://www.zhihu.com/question/1927854729775510979",
+      "heat": "124 万热度"
+    },
+    {
+      "rank": "7",
       "title": "上海一求职者询问是否双休，遭 HR 辱骂「睡得像猪」、「一辈子都找不到工作」，如何看待此事？",
       "link": "https://www.zhihu.com/question/1928120490511270204",
-      "heat": "122 万热度"
+      "heat": "123 万热度"
     },
     {
-      "rank": "12",
-      "title": "同样是一帮国足加几个外援，为什么广州恒大能横扫亚洲，而现在中国男足却被亚洲横扫呢？",
-      "link": "https://www.zhihu.com/question/666556863",
-      "heat": "121 万热度"
-    },
-    {
-      "rank": "13",
+      "rank": "8",
       "title": "如何评价 QQ 音乐「限制会员每日播放设备数量为 1」这个调整？",
       "link": "https://www.zhihu.com/question/1922935478216262154",
       "heat": "121 万热度"
     },
     {
-      "rank": "14",
+      "rank": "9",
       "title": "网约车开空调要加钱，这合理吗？高温天气下网约车是否有义务为乘客开启空调？所需成本应由谁承担？",
       "link": "https://www.zhihu.com/question/1927393676780365765",
-      "heat": "118 万热度"
+      "heat": "120 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "外卖小哥成为城市文学新主角的原因是什么？",
+      "link": "https://www.zhihu.com/question/1923706206733689266",
+      "heat": "115 万热度"
+    },
+    {
+      "rank": "11",
+      "title": "特朗普为俄乌和谈设 50 天期限，威胁对俄征 100% 关税、对乌输送武器，有何意图？策略能奏效吗？",
+      "link": "https://www.zhihu.com/question/1928353576478012069",
+      "heat": "113 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "开轿车累还是 SUV 累？",
+      "link": "https://www.zhihu.com/question/662217738",
+      "heat": "111 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "杨瀚森接下来在开拓者会是什么战术地位？",
+      "link": "https://www.zhihu.com/question/1921880459840819586",
+      "heat": "106 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "西藏人口直到今天也没超过 500 万，为何却能在 7 世纪时建造如此庞大的布达拉宫？",
+      "link": "https://www.zhihu.com/question/1912946594074067754",
+      "heat": "103 万热度"
     },
     {
       "rank": "15",
-      "title": "杨瀚森接下来在开拓者会是什么战术地位？",
-      "link": "https://www.zhihu.com/question/1921880459840819586",
-      "heat": "105 万热度"
+      "title": "如何看待 Knight 季中赛后采访称「我的职业生涯有更糟糕的至暗时刻，我不认为现在是最差的时候」？",
+      "link": "https://www.zhihu.com/question/1928047084113716647",
+      "heat": "90 万热度"
     },
     {
       "rank": "16",
-      "title": "为何宗庆后设置了家族信托依然引发本次遗产争议，而宗馥莉靠什么才能赢得在这场娃哈哈资产之争？",
-      "link": "https://www.zhihu.com/question/1928218922357862994",
-      "heat": "100 万热度"
+      "title": "2025 年上半年国内生产总值 660536 亿元，同比增长 5.3%，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1928393352446969110",
+      "heat": "89 万热度"
     },
     {
       "rank": "17",
-      "title": "2025 年上半年国内生产总值 660536 亿元，同比增长 5.3%，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1928393352446969110",
-      "heat": "96 万热度"
+      "title": "2025 年赴泰旅游的外国游客下降 5.09%，中国游客锐减，中国人为什么不去泰国旅游了？",
+      "link": "https://www.zhihu.com/question/1927803252742791911",
+      "heat": "88 万热度"
     },
     {
       "rank": "18",
-      "title": "西藏人口直到今天也没超过 500 万，为何却能在 7 世纪时建造如此庞大的布达拉宫？",
-      "link": "https://www.zhihu.com/question/1912946594074067754",
-      "heat": "86 万热度"
+      "title": "如何评价综艺《喜剧之王单口季 2》？",
+      "link": "https://www.zhihu.com/question/1926666668991543073",
+      "heat": "87 万热度"
     },
     {
       "rank": "19",
-      "title": "如何评价综艺《喜剧之王单口季 2》？",
-      "link": "https://www.zhihu.com/question/1926666668991543073",
-      "heat": "86 万热度"
+      "title": "「大魔王」Faker 已经玩了 10 多年《英雄联盟》，他不会腻吗？",
+      "link": "https://www.zhihu.com/question/1927393060209295680",
+      "heat": "85 万热度"
     },
     {
       "rank": "20",
-      "title": "「大魔王」Faker 已经玩了 10 多年《英雄联盟》，他不会腻吗？",
-      "link": "https://www.zhihu.com/question/1927393060209295680",
-      "heat": "84 万热度"
+      "title": "尚界 H5 宣布搭载华为 ADS 4 高阶智驾系统，这将为车型带来哪些亮点？",
+      "link": "https://www.zhihu.com/question/1928050470838043068",
+      "heat": "83 万热度"
     },
     {
       "rank": "21",
       "title": "宗庆后此前设立的香港信托基金到底是怎么回事？信托设立是否合法有效？宗馥莉为何能转移其中部分资金？",
       "link": "https://www.zhihu.com/question/1928126389938254055",
-      "heat": "84 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "22",
       "title": "杭州钱塘回应「一小学多名学生流鼻血」，已成立工作专班，检测学校旁边工厂排放物，目前调查进展如何？",
       "link": "https://www.zhihu.com/question/1928145648764552250",
-      "heat": "83 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "23",
@@ -142,15 +142,15 @@
     },
     {
       "rank": "24",
-      "title": "如何评价 clearlove 明凯官宣加入 JDG 英雄联盟分部任主教练？",
-      "link": "https://www.zhihu.com/question/1928179005804220661",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "25",
       "title": "如何评价詹姆斯古恩执导的 DCU 重启之作《超人（2025）》？",
       "link": "https://www.zhihu.com/question/1925948642876973583",
       "heat": "77 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "疆电入渝投产，为何不从更近的四川调电？中国电力输送如何确定流向的?",
+      "link": "https://www.zhihu.com/question/1915974821679957059",
+      "heat": "75 万热度"
     },
     {
       "rank": "26",
@@ -160,80 +160,80 @@
     },
     {
       "rank": "27",
-      "title": "异步本质是不是就是多线程？",
-      "link": "https://www.zhihu.com/question/502623921",
-      "heat": "74 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "疆电入渝投产，为何不从更近的四川调电？中国电力输送如何确定流向的?",
-      "link": "https://www.zhihu.com/question/1915974821679957059",
-      "heat": "74 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "午睡能作为晚上睡眠不足的补偿吗？",
-      "link": "https://www.zhihu.com/question/60139737",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "30",
       "title": "在你出生成长的地方，发生过哪些你经历或听闻过的大案要案？",
       "link": "https://www.zhihu.com/question/1926307832166348761",
       "heat": "73 万热度"
     },
     {
-      "rank": "31",
-      "title": "有哪些十分惊艳的建筑？",
-      "link": "https://www.zhihu.com/question/616222089",
-      "heat": "70 万热度"
+      "rank": "28",
+      "title": "午睡能作为晚上睡眠不足的补偿吗？",
+      "link": "https://www.zhihu.com/question/60139737",
+      "heat": "73 万热度"
     },
     {
-      "rank": "32",
-      "title": "最值钱的小发明是什么？专利卖了多少？",
-      "link": "https://www.zhihu.com/question/22919246",
+      "rank": "29",
+      "title": "《天龙八部》中，慕容复真想复国，你觉得他要怎么做才有可能实现目的？",
+      "link": "https://www.zhihu.com/question/1913158849856254087",
       "heat": "69 万热度"
     },
     {
-      "rank": "33",
-      "title": "《天龙八部》中，慕容复真想复国，你觉得他要怎么做才有可能实现目的？",
-      "link": "https://www.zhihu.com/question/1913158849856254087",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "规划孩子的暑假，你更愿意「花钱」还是「花心思」？",
-      "link": "https://www.zhihu.com/question/1927005125081276968",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "35",
+      "rank": "30",
       "title": "一遍一遍地想到有一天自己会死，吓得不能正常生活，觉不敢睡，特别痛苦，我该怎么调适？",
       "link": "https://www.zhihu.com/question/1926943974087725944",
       "heat": "62 万热度"
     },
     {
-      "rank": "36",
+      "rank": "31",
+      "title": "《红楼梦》里王熙凤的精明劲儿用错了地方，还是贾府的败落从一开始就藏着她解不开的死结？",
+      "link": "https://www.zhihu.com/question/1924038489516782607",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "32",
       "title": "你手机里有近期拍的天空照片分享吗？",
       "link": "https://www.zhihu.com/question/1910233288532013168",
       "heat": "61 万热度"
     },
     {
-      "rank": "37",
+      "rank": "33",
       "title": "你会主动给自己的孩子道歉吗？",
       "link": "https://www.zhihu.com/question/1920549017974179589",
       "heat": "61 万热度"
     },
     {
-      "rank": "38",
+      "rank": "34",
+      "title": "哪部影视或文学作品记录了你生活的城市，并深深影响了你对这座城市的感情？",
+      "link": "https://www.zhihu.com/question/1926254667551188513",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "如何评价 clearlove 明凯官宣加入 JDG 英雄联盟分部任主教练？",
+      "link": "https://www.zhihu.com/question/1928179005804220661",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "36",
       "title": "夏天皮肤晒后， 使用冷藏后的面膜能「增强护肤效果」吗？低温会让有效成分失活吗？",
       "link": "https://www.zhihu.com/question/1923462538797999742",
       "heat": "60 万热度"
     },
     {
+      "rank": "37",
+      "title": "规划孩子的暑假，你更愿意「花钱」还是「花心思」？",
+      "link": "https://www.zhihu.com/question/1927005125081276968",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "最值钱的小发明是什么？专利卖了多少？",
+      "link": "https://www.zhihu.com/question/22919246",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "39",
-      "title": "匈奴到底是什么人?",
-      "link": "https://www.zhihu.com/question/619395156",
+      "title": "有哪些十分惊艳的建筑？",
+      "link": "https://www.zhihu.com/question/616222089",
       "heat": "59 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "2025 年赴泰旅游的外国游客下降 5.09%，中国游客锐减，中国人为什么不去泰国旅游了？",
-      "link": "https://www.zhihu.com/question/1927803252742791911",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "42",
       "title": "如何评价小说《玄鉴仙族》？",
       "link": "https://www.zhihu.com/question/605635124",
       "heat": "59 万热度"
     },
     {
-      "rank": "43",
+      "rank": "42",
       "title": "如何评价氢弹之父于敏？",
       "link": "https://www.zhihu.com/question/37022764",
       "heat": "59 万热度"
     },
     {
+      "rank": "43",
+      "title": "匈奴到底是什么人?",
+      "link": "https://www.zhihu.com/question/619395156",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "44",
+      "title": "异步本质是不是就是多线程？",
+      "link": "https://www.zhihu.com/question/502623921",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "45",
       "title": "2025 EWC 电竞世界杯（石油杯）《英雄联盟》项目的冠军将花落谁家？LPL 夺冠的概率有多大？",
       "link": "https://www.zhihu.com/question/1927828069638464398",
       "heat": "59 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "选购洗烘一体机或洗烘套装时，最需要优先考虑哪些核心因素？",
       "link": "https://www.zhihu.com/question/1916559806564635162",
       "heat": "59 万热度"
     },
     {
-      "rank": "46",
+      "rank": "47",
       "title": "在生活的这座城市里，你经历过最温暖的陌生人互动是什么？",
       "link": "https://www.zhihu.com/question/1924158600718312142",
       "heat": "59 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "职场最重要的能力是什么？",
       "link": "https://www.zhihu.com/question/508168208",
       "heat": "59 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "是在重高里当凤尾，还是在普高里当鸡头?",
       "link": "https://www.zhihu.com/question/1914467759191987644",
       "heat": "59 万热度"
     },
     {
-      "rank": "49",
-      "title": "我已经拿到驾驶证了，但是技术很差，有没有什么好办法？",
-      "link": "https://www.zhihu.com/question/1920741268859905171",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "50",
-      "title": "寒战系列新作电影《寒战 1994》曝光先导预告，江志强监制，你期待前作主演回归吗？",
-      "link": "https://www.zhihu.com/question/1917990442873615976",
+      "title": "频繁刷短视频会让人变浮躁吗？它对我们的专注力和深度思考能力有哪些潜移默化的影响？",
+      "link": "https://www.zhihu.com/question/1926568965938877727",
       "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-07-15 15:01:36"
+  "generated_at": "2025-07-15 15:36:15"
 }
