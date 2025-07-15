@@ -1,48 +1,48 @@
 {
-  "artifact_id": "4b126e25-2307-40f4-a522-7536cebbc685",
+  "artifact_id": "3d91c610-4897-4067-9c98-9c4b60940b14",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "英伟达官方确认 H20 芯片对华销售解禁，意味着什么？将产生哪些影响？",
       "link": "https://www.zhihu.com/question/1928405081889404837",
-      "heat": "949 万热度"
+      "heat": "960 万热度"
     },
     {
       "rank": "2",
       "title": "山姆上新好丽友派遭会员质疑，如何看待山姆的选品策略？是否会拉低山姆的高端调性导致会员流失？",
       "link": "https://www.zhihu.com/question/1928392996753240689",
-      "heat": "515 万热度"
+      "heat": "524 万热度"
     },
     {
       "rank": "3",
       "title": "同样是一帮国足加几个外援，为什么广州恒大能横扫亚洲，而现在中国男足却被亚洲横扫呢？",
       "link": "https://www.zhihu.com/question/666556863",
-      "heat": "197 万热度"
+      "heat": "195 万热度"
     },
     {
       "rank": "4",
       "title": "上海一求职者询问是否双休，遭 HR 辱骂「睡得像猪」、「一辈子都找不到工作」，如何看待此事？",
       "link": "https://www.zhihu.com/question/1928120490511270204",
-      "heat": "190 万热度"
+      "heat": "192 万热度"
     },
     {
       "rank": "5",
       "title": "气象部门发布的温度与实际体感温度存在较大差异，真如网传那样刻意不报 40 ℃吗？还是背后有其他原因？",
       "link": "https://www.zhihu.com/question/1928177329449985873",
-      "heat": "118 万热度"
+      "heat": "123 万热度"
     },
     {
       "rank": "6",
       "title": "西藏人口直到今天也没超过 500 万，为何却能在 7 世纪时建造如此庞大的布达拉宫？",
       "link": "https://www.zhihu.com/question/1912946594074067754",
-      "heat": "107 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "7",
       "title": "「大魔王」Faker 已经玩了 10 多年《英雄联盟》，他不会腻吗？",
       "link": "https://www.zhihu.com/question/1927393060209295680",
-      "heat": "95 万热度"
+      "heat": "93 万热度"
     },
     {
       "rank": "8",
@@ -54,73 +54,73 @@
       "rank": "9",
       "title": "视频显示一只翠鸟嘴插在芒果里「无法自拔」，这是怎么回事？翠鸟经常遇到这种嘴无法自拔的情况吗？",
       "link": "https://www.zhihu.com/question/1928198455169344389",
-      "heat": "89 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "10",
       "title": "如何看待马伯庸原著改编的剧大都扑了？有何原因？",
       "link": "https://www.zhihu.com/question/1925878917648060832",
-      "heat": "88 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "11",
       "title": "华纳兄弟新《超人》电影全球票房预计将达 2.17 亿美元，这一成绩对超级英雄电影意味着什么？",
       "link": "https://www.zhihu.com/question/1928017433211408763",
-      "heat": "87 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "12",
       "title": "东亚杯中国男足 1-0 香港男足，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1928497311731901851",
-      "heat": "84 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "13",
       "title": "为什么看国外的锻造视频淬火都是用油，而国内的都是用水淬火？",
       "link": "https://www.zhihu.com/question/1927879784882484089",
-      "heat": "73 万热度"
+      "heat": "72 万热度"
     },
     {
       "rank": "14",
-      "title": "电影《聊斋：兰若寺》「画皮」中陈氏应不应该救丈夫王大郎？",
-      "link": "https://www.zhihu.com/question/1928060839392417374",
-      "heat": "69 万热度"
+      "title": "网约车开空调要加钱，这合理吗？高温天气下网约车是否有义务为乘客开启空调？所需成本应由谁承担？",
+      "link": "https://www.zhihu.com/question/1927393676780365765",
+      "heat": "68 万热度"
     },
     {
       "rank": "15",
-      "title": "网约车开空调要加钱，这合理吗？高温天气下网约车是否有义务为乘客开启空调？所需成本应由谁承担？",
-      "link": "https://www.zhihu.com/question/1927393676780365765",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "特朗普为俄乌和谈设 50 天期限，威胁对俄征 100% 关税、对乌输送武器，有何意图？策略能奏效吗？",
-      "link": "https://www.zhihu.com/question/1928353576478012069",
-      "heat": "66 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "2025 年上半年国内生产总值 660536 亿元，同比增长 5.3%，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1928393352446969110",
-      "heat": "66 万热度"
-    },
-    {
-      "rank": "18",
       "title": "程序员们不会写代码的时候去哪里查资料找灵感啊？",
       "link": "https://www.zhihu.com/question/1898278904394912821",
       "heat": "65 万热度"
     },
     {
-      "rank": "19",
+      "rank": "16",
+      "title": "特朗普为俄乌和谈设 50 天期限，威胁对俄征 100% 关税、对乌输送武器，有何意图？策略能奏效吗？",
+      "link": "https://www.zhihu.com/question/1928353576478012069",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "2025 年上半年国内生产总值 660536 亿元，同比增长 5.3%，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1928393352446969110",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "18",
       "title": "如果《战锤》IP 系列要拍电影，你觉得哪一幕或者哪个故事最值得被搬上大荧幕？",
       "link": "https://www.zhihu.com/question/1927020982977130682",
       "heat": "64 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "夏日炎炎，你有哪些对抗闷热的「消暑装备」？",
       "link": "https://www.zhihu.com/question/1923058345041949603",
       "heat": "60 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "电影《聊斋：兰若寺》「画皮」中陈氏应不应该救丈夫王大郎？",
+      "link": "https://www.zhihu.com/question/1928060839392417374",
+      "heat": "59 万热度"
     },
     {
       "rank": "21",
@@ -148,8 +148,8 @@
     },
     {
       "rank": "25",
-      "title": "把现在最高端的相机带回 100 年前，给当时摄影师看，会发生什么？",
-      "link": "https://www.zhihu.com/question/1927783941689030530",
+      "title": "一汽奥迪表明不会在汽车中使用消费级芯片，这背后的原因是什么？",
+      "link": "https://www.zhihu.com/question/1927727084047933690",
       "heat": "57 万热度"
     },
     {
@@ -160,50 +160,50 @@
     },
     {
       "rank": "27",
-      "title": "只会 CAD 能就业吗?",
-      "link": "https://www.zhihu.com/question/664908429",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "孩子总是很大方，爱送别的小朋友玩具，不管是自己喜欢不喜欢的都送，该怎么纠正？",
-      "link": "https://www.zhihu.com/question/1924692046419047415",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "有哪些公交地铁线路或车站因为出现在文艺作品中而被人们熟知？",
-      "link": "https://www.zhihu.com/question/1926222517191811921",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "30",
       "title": "规划孩子的暑假，你更愿意「花钱」还是「花心思」？",
       "link": "https://www.zhihu.com/question/1927005125081276968",
       "heat": "57 万热度"
     },
     {
-      "rank": "31",
+      "rank": "28",
       "title": "《天龙八部》中，慕容复真想复国，你觉得他要怎么做才有可能实现目的？",
       "link": "https://www.zhihu.com/question/1913158849856254087",
       "heat": "57 万热度"
     },
     {
-      "rank": "32",
+      "rank": "29",
       "title": "如何评价综艺《喜剧之王单口季 2》？",
       "link": "https://www.zhihu.com/question/1926666668991543073",
       "heat": "57 万热度"
     },
     {
+      "rank": "30",
+      "title": "你手机里有近期拍的天空照片分享吗？",
+      "link": "https://www.zhihu.com/question/1910233288532013168",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "如果让你为职场这个「笼子」设计一把钥匙，它应该由什么构成？",
+      "link": "https://www.zhihu.com/question/1926600017537365016",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "如何评价小说《玄鉴仙族》？",
+      "link": "https://www.zhihu.com/question/605635124",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "33",
-      "title": "一汽奥迪表明不会在汽车中使用消费级芯片，这背后的原因是什么？",
-      "link": "https://www.zhihu.com/question/1927727084047933690",
+      "title": "夏天皮肤晒后， 使用冷藏后的面膜能「增强护肤效果」吗？低温会让有效成分失活吗？",
+      "link": "https://www.zhihu.com/question/1923462538797999742",
       "heat": "57 万热度"
     },
     {
       "rank": "34",
-      "title": "你手机里有近期拍的天空照片分享吗？",
-      "link": "https://www.zhihu.com/question/1910233288532013168",
+      "title": "匈奴到底是什么人?",
+      "link": "https://www.zhihu.com/question/619395156",
       "heat": "57 万热度"
     },
     {
@@ -214,26 +214,26 @@
     },
     {
       "rank": "36",
-      "title": "如果让你为职场这个「笼子」设计一把钥匙，它应该由什么构成？",
-      "link": "https://www.zhihu.com/question/1926600017537365016",
+      "title": "外卖小哥成为城市文学新主角的原因是什么？",
+      "link": "https://www.zhihu.com/question/1923706206733689266",
       "heat": "57 万热度"
     },
     {
       "rank": "37",
-      "title": "如何评价小说《玄鉴仙族》？",
-      "link": "https://www.zhihu.com/question/605635124",
+      "title": "古代人如果弟弟中了状元，姐姐原先做小妾的，会有什么影响吗？",
+      "link": "https://www.zhihu.com/question/1921539734938814240",
       "heat": "57 万热度"
     },
     {
       "rank": "38",
-      "title": "夏天皮肤晒后， 使用冷藏后的面膜能「增强护肤效果」吗？低温会让有效成分失活吗？",
-      "link": "https://www.zhihu.com/question/1923462538797999742",
+      "title": "在你出生成长的地方，发生过哪些你经历或听闻过的大案要案？",
+      "link": "https://www.zhihu.com/question/1926307832166348761",
       "heat": "57 万热度"
     },
     {
       "rank": "39",
-      "title": "外卖小哥成为城市文学新主角的原因是什么？",
-      "link": "https://www.zhihu.com/question/1923706206733689266",
+      "title": "如果用三个词向陌生人描述你生活的城市，你会选择哪三个？为什么？",
+      "link": "https://www.zhihu.com/question/1924167766992216683",
       "heat": "57 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "匈奴到底是什么人?",
-      "link": "https://www.zhihu.com/question/619395156",
+      "title": "只会 CAD 能就业吗?",
+      "link": "https://www.zhihu.com/question/664908429",
       "heat": "57 万热度"
     },
     {
       "rank": "42",
-      "title": "古代人如果弟弟中了状元，姐姐原先做小妾的，会有什么影响吗？",
-      "link": "https://www.zhihu.com/question/1921539734938814240",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "在你出生成长的地方，发生过哪些你经历或听闻过的大案要案？",
-      "link": "https://www.zhihu.com/question/1926307832166348761",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "如果用三个词向陌生人描述你生活的城市，你会选择哪三个？为什么？",
-      "link": "https://www.zhihu.com/question/1924167766992216683",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "《凡人歌》谢美蓝为何会对沈磊的婚姻绝望？",
-      "link": "https://www.zhihu.com/question/667247342",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "46",
       "title": "如何评价詹姆斯古恩执导的 DCU 重启之作《超人（2025）》？",
       "link": "https://www.zhihu.com/question/1925948642876973583",
       "heat": "57 万热度"
     },
     {
-      "rank": "47",
-      "title": "职场最重要的能力是什么？",
-      "link": "https://www.zhihu.com/question/508168208",
+      "rank": "43",
+      "title": "《凡人歌》谢美蓝为何会对沈磊的婚姻绝望？",
+      "link": "https://www.zhihu.com/question/667247342",
       "heat": "57 万热度"
     },
     {
-      "rank": "48",
-      "title": "在生活的这座城市里，你经历过最温暖的陌生人互动是什么？",
-      "link": "https://www.zhihu.com/question/1924158600718312142",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "49",
+      "rank": "44",
       "title": "如何让经济学变成科学？",
       "link": "https://www.zhihu.com/question/1913680533713561223",
       "heat": "57 万热度"
     },
     {
+      "rank": "45",
+      "title": "把现在最高端的相机带回 100 年前，给当时摄影师看，会发生什么？",
+      "link": "https://www.zhihu.com/question/1927783941689030530",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "有哪些十分惊艳的建筑？",
+      "link": "https://www.zhihu.com/question/616222089",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何评价 DDG(X) 驱逐舰?",
+      "link": "https://www.zhihu.com/question/612495476",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "如果你是 HR 或面试官，你会当场给不合适的候选人反馈面试结果吗？",
+      "link": "https://www.zhihu.com/question/1907206298069610762",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "寒战系列新作电影《寒战 1994》曝光先导预告，江志强监制，你期待前作主演回归吗？",
+      "link": "https://www.zhihu.com/question/1917990442873615976",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "50",
-      "title": "为什么西方的心理治疗理论和技术很多在中国行不通？这是否跟国内的文化心理有关？",
-      "link": "https://www.zhihu.com/question/1906456614648656115",
+      "title": "数学里有哪些精彩的伪证？",
+      "link": "https://www.zhihu.com/question/68322255",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-07-15 19:43:45"
+  "generated_at": "2025-07-15 19:56:15"
 }
