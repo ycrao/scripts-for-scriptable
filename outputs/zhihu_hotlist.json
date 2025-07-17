@@ -1,84 +1,84 @@
 {
-  "artifact_id": "8d334c6e-99ce-4c8f-b26f-0451c425079a",
+  "artifact_id": "af6842cf-46fa-46c9-8d35-1fb7b898561e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "北工大博士论文致谢讲述「12 岁挖煤 - 两次高考上专科 - 博士毕业」的逆袭经历，读完你有什么想说的？",
       "link": "https://www.zhihu.com/question/1929127460923991527",
-      "heat": "624 万热度"
+      "heat": "454 万热度"
     },
     {
       "rank": "2",
       "title": "女子在爱康国宾体检 10 年未被检出患癌风险，却确诊肾癌晚期，体检机构癌症筛查靠谱吗？需要承担责任吗？",
       "link": "https://www.zhihu.com/question/1928910708357194434",
-      "heat": "327 万热度"
+      "heat": "275 万热度"
     },
     {
       "rank": "3",
       "title": "如何评价姜文的电影《你行！你上！》？",
       "link": "https://www.zhihu.com/question/1928995794188501518",
-      "heat": "151 万热度"
+      "heat": "154 万热度"
     },
     {
       "rank": "4",
       "title": "河南一男子摸「知了猴」卖给饭店，一晚最高收入近万元，大规模捉捕会对生态有影响吗？哪些人不适合吃它？",
       "link": "https://www.zhihu.com/question/1929111759924453950",
-      "heat": "145 万热度"
+      "heat": "149 万热度"
     },
     {
       "rank": "5",
       "title": "超低温咖啡火向全国，有饮品温度低至 -86℃，超低温怎么做到的？喝了超低温咖啡会对身体健康有影响吗？",
       "link": "https://www.zhihu.com/question/1928052502017868267",
-      "heat": "139 万热度"
+      "heat": "145 万热度"
     },
     {
       "rank": "6",
+      "title": "如何评价大鹏、白客、庄达菲主演的电影版《长安的荔枝》？",
+      "link": "https://www.zhihu.com/question/1929191199287255331",
+      "heat": "96 万热度"
+    },
+    {
+      "rank": "7",
       "title": "记者返乡发现预制菜全面「攻占」 农村宴席，这种情况在农村普遍吗？现做的农村宴席未来会消失吗？",
       "link": "https://www.zhihu.com/question/1928882850222024264",
       "heat": "96 万热度"
     },
     {
-      "rank": "7",
-      "title": "如何评价大鹏、白客、庄达菲主演的电影版《长安的荔枝》？",
-      "link": "https://www.zhihu.com/question/1929191199287255331",
-      "heat": "94 万热度"
-    },
-    {
       "rank": "8",
-      "title": "老师说月亮的光其实就是太阳的光，那为什么我站在月亮下面一整晚感觉不到温暖？",
-      "link": "https://www.zhihu.com/question/1926577533010313590",
-      "heat": "83 万热度"
+      "title": "头文字 D 拓海送豆腐每天那么跑，轮胎岂不是很快就报销了？",
+      "link": "https://www.zhihu.com/question/44866049",
+      "heat": "88 万热度"
     },
     {
       "rank": "9",
-      "title": "小米 YU7 锁单后，开始各种焦虑怎么办？",
-      "link": "https://www.zhihu.com/question/1928852418952696114",
-      "heat": "81 万热度"
+      "title": "老师说月亮的光其实就是太阳的光，那为什么我站在月亮下面一整晚感觉不到温暖？",
+      "link": "https://www.zhihu.com/question/1926577533010313590",
+      "heat": "85 万热度"
     },
     {
       "rank": "10",
-      "title": "杨毅说杨瀚森进不去 08 年奥运会中国男篮，为何杨毅又说杨瀚森能在 NBA 立足，这是不是自相矛盾?",
-      "link": "https://www.zhihu.com/question/1928394769006073226",
-      "heat": "80 万热度"
+      "title": "小米 YU7 锁单后，开始各种焦虑怎么办？",
+      "link": "https://www.zhihu.com/question/1928852418952696114",
+      "heat": "85 万热度"
     },
     {
       "rank": "11",
+      "title": "杨毅说杨瀚森进不去 08 年奥运会中国男篮，为何杨毅又说杨瀚森能在 NBA 立足，这是不是自相矛盾?",
+      "link": "https://www.zhihu.com/question/1928394769006073226",
+      "heat": "81 万热度"
+    },
+    {
+      "rank": "12",
       "title": "如何用最少的钱打扮自己?",
       "link": "https://www.zhihu.com/question/443604419",
       "heat": "80 万热度"
     },
     {
-      "rank": "12",
+      "rank": "13",
       "title": "为什么做梦时，即使场景再荒谬，大脑也不会对其有丝毫怀疑？",
       "link": "https://www.zhihu.com/question/1928012154574987856",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "头文字 D 拓海送豆腐每天那么跑，轮胎岂不是很快就报销了？",
-      "link": "https://www.zhihu.com/question/44866049",
-      "heat": "75 万热度"
+      "heat": "79 万热度"
     },
     {
       "rank": "14",
@@ -88,15 +88,15 @@
     },
     {
       "rank": "15",
-      "title": "秦桧如果知道自己的后世风评，还会出卖岳飞吗?",
-      "link": "https://www.zhihu.com/question/656068824",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "16",
       "title": "为什么欧美国家不炒菜而只有中国炒？",
       "link": "https://www.zhihu.com/question/496019761",
       "heat": "68 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "你对工作有什么极简的建议？",
+      "link": "https://www.zhihu.com/question/1924020826115638121",
+      "heat": "67 万热度"
     },
     {
       "rank": "17",
@@ -106,21 +106,21 @@
     },
     {
       "rank": "18",
-      "title": "你对工作有什么极简的建议？",
-      "link": "https://www.zhihu.com/question/1924020826115638121",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "19",
       "title": "有没有什么凉拌菜，可以让人百吃不厌？",
       "link": "https://www.zhihu.com/question/534463001",
       "heat": "65 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "为什么伊埃斯就在绳匠房间，朱鸢还是没发现兄妹俩是法厄同？",
       "link": "https://www.zhihu.com/question/662825327",
       "heat": "63 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "秦桧如果知道自己的后世风评，还会出卖岳飞吗?",
+      "link": "https://www.zhihu.com/question/656068824",
+      "heat": "62 万热度"
     },
     {
       "rank": "21",
@@ -130,14 +130,14 @@
     },
     {
       "rank": "22",
-      "title": "印航客机黑匣子录音显示「机长关闭燃油开关或直接导致坠机」，可能是怎么回事？是机组操作失误吗？",
-      "link": "https://www.zhihu.com/question/1929087094468341944",
+      "title": "青甘大环线最佳路线是什么？",
+      "link": "https://www.zhihu.com/question/486487071",
       "heat": "59 万热度"
     },
     {
       "rank": "23",
-      "title": "青甘大环线最佳路线是什么？",
-      "link": "https://www.zhihu.com/question/486487071",
+      "title": "印航客机黑匣子录音显示「机长关闭燃油开关或直接导致坠机」，可能是怎么回事？是机组操作失误吗？",
+      "link": "https://www.zhihu.com/question/1929087094468341944",
       "heat": "59 万热度"
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "rank": "35",
-      "title": "人类在 31 世纪 (第四千纪) 前飞出太阳系，抵达其他恒星系的概率有多大？",
-      "link": "https://www.zhihu.com/question/1928771598384603664",
+      "title": "大模型会吃掉 90% 的 Agent，如何评价朱啸虎的这一观点？",
+      "link": "https://www.zhihu.com/question/1928746180315145366",
       "heat": "53 万热度"
     },
     {
@@ -220,50 +220,50 @@
     },
     {
       "rank": "37",
-      "title": "大模型会吃掉 90% 的 Agent，如何评价朱啸虎的这一观点？",
-      "link": "https://www.zhihu.com/question/1928746180315145366",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "标书为什么要写那么厚？",
-      "link": "https://www.zhihu.com/question/1898028604035695575",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "39",
       "title": "你能把猫宠到什么程度？",
       "link": "https://www.zhihu.com/question/60149576",
       "heat": "53 万热度"
     },
     {
-      "rank": "40",
-      "title": "90 年代 NBA 观赏性对抗性真的比现在强吗?",
-      "link": "https://www.zhihu.com/question/620847542",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "41",
+      "rank": "38",
       "title": "你镜头里的盛夏是什么颜色的？你拍过哪些可以传递出夏日「清凉感」的画面？",
       "link": "https://www.zhihu.com/question/1928095681895199363",
       "heat": "53 万热度"
     },
     {
-      "rank": "42",
+      "rank": "39",
       "title": "读书到底是为了获得什么？",
       "link": "https://www.zhihu.com/question/1912296971496043615",
       "heat": "53 万热度"
     },
     {
-      "rank": "43",
+      "rank": "40",
+      "title": "标书为什么要写那么厚？",
+      "link": "https://www.zhihu.com/question/1898028604035695575",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "在你的城市，哪里最适合拍摄青春文学影视作品？",
+      "link": "https://www.zhihu.com/question/1926270195065914171",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "42",
       "title": "夏天你会做什么简单开胃的美食？",
       "link": "https://www.zhihu.com/question/1923126340271440174",
       "heat": "53 万热度"
     },
     {
+      "rank": "43",
+      "title": "90 年代 NBA 观赏性对抗性真的比现在强吗?",
+      "link": "https://www.zhihu.com/question/620847542",
+      "heat": "53 万热度"
+    },
+    {
       "rank": "44",
-      "title": "在你的城市，哪里最适合拍摄青春文学影视作品？",
-      "link": "https://www.zhihu.com/question/1926270195065914171",
+      "title": "为什么很多人一到中年兴趣爱好就慢慢变淡了？中年人应该怎么平衡家庭和自我？",
+      "link": "https://www.zhihu.com/question/1929173682355404965",
       "heat": "53 万热度"
     },
     {
@@ -280,28 +280,28 @@
     },
     {
       "rank": "47",
+      "title": "人类在 31 世纪 (第四千纪) 前飞出太阳系，抵达其他恒星系的概率有多大？",
+      "link": "https://www.zhihu.com/question/1928771598384603664",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "48",
       "title": "乐道 L90 的 240L 前备箱是真创新实用还是营销噱头？",
       "link": "https://www.zhihu.com/question/1928483195806024765",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
-      "title": "为什么植物没有进化出「智慧」？",
-      "link": "https://www.zhihu.com/question/1928639177899106926",
-      "heat": "53 万热度"
-    },
-    {
       "rank": "49",
-      "title": "黄仁勋称轻视华为和中国制造的人都极其天真，华为芯片在 AI 训练中取代英伟达只是时间问题，如何看待该表态？",
-      "link": "https://www.zhihu.com/question/1928859892766204097",
+      "title": "钱真的可以省下来吗？",
+      "link": "https://www.zhihu.com/question/559021786",
       "heat": "53 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么很多人一到中年兴趣爱好就慢慢变淡了？中年人应该怎么平衡家庭和自我？",
-      "link": "https://www.zhihu.com/question/1929173682355404965",
+      "title": "黄仁勋称轻视华为和中国制造的人都极其天真，华为芯片在 AI 训练中取代英伟达只是时间问题，如何看待该表态？",
+      "link": "https://www.zhihu.com/question/1928859892766204097",
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-07-18 03:55:54"
+  "generated_at": "2025-07-18 04:30:51"
 }
