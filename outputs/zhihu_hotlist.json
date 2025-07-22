@@ -1,18 +1,18 @@
 {
-  "artifact_id": "8d7f872d-3a4d-42f1-a25a-11a3859cae7f",
+  "artifact_id": "e78154df-833d-41be-b368-44cf96965fb0",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "怎么看待理解 9 月 15 日正式实施的《租房租赁条例》？",
       "link": "https://www.zhihu.com/question/1930909714566345572",
-      "heat": "362 万热度"
+      "heat": "493 万热度"
     },
     {
       "rank": "2",
       "title": "快过期的「红色尖叫」被炒到 68 元一瓶，曾入选最难喝饮料排行榜，它为什么能被炒到这么高价？",
       "link": "https://www.zhihu.com/question/1930187301834684022",
-      "heat": "214 万热度"
+      "heat": "232 万热度"
     },
     {
       "rank": "3",
@@ -24,13 +24,13 @@
       "rank": "4",
       "title": "京东旗下「七鲜小厨」的外卖自营门店已正式开业，京东为何这么钟情自营模式？",
       "link": "https://www.zhihu.com/question/1930924340574123366",
-      "heat": "141 万热度"
+      "heat": "118 万热度"
     },
     {
       "rank": "5",
       "title": "美国称将退出联合国教科文组织，这意味着什么？背后有哪些原因？",
       "link": "https://www.zhihu.com/question/1931073826348819690",
-      "heat": "110 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "6",
@@ -42,7 +42,7 @@
       "rank": "7",
       "title": "考生晒未被云南大学录取备注「总分低」，学校称今年未录取全部备注退档原因，如何看待这一做法？值得推广吗？",
       "link": "https://www.zhihu.com/question/1930904868836566335",
-      "heat": "86 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "8",
@@ -58,8 +58,8 @@
     },
     {
       "rank": "10",
-      "title": "暑假让娃回老家割稻子干农活是不是没苦硬吃？",
-      "link": "https://www.zhihu.com/question/1922260406728131143",
+      "title": "暑假带孩子去海边，可以带他们观察哪些仅在海边才会看见的有趣现象？",
+      "link": "https://www.zhihu.com/question/1927005125123220252",
       "heat": "67 万热度"
     },
     {
@@ -70,50 +70,50 @@
     },
     {
       "rank": "12",
-      "title": "暑假带孩子去海边，可以带他们观察哪些仅在海边才会看见的有趣现象？",
-      "link": "https://www.zhihu.com/question/1927005125123220252",
-      "heat": "66 万热度"
+      "title": "暑假让娃回老家割稻子干农活是不是没苦硬吃？",
+      "link": "https://www.zhihu.com/question/1922260406728131143",
+      "heat": "67 万热度"
     },
     {
       "rank": "13",
+      "title": "为什么工作中，很多高层领导明知道某位中层领导缺乏管理能力，但还是提拔了他当中层？",
+      "link": "https://www.zhihu.com/question/15128661178",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "14",
       "title": "你是因为什么而喜欢画画？画画给你带来怎样的感受？",
       "link": "https://www.zhihu.com/question/3877420701",
       "heat": "65 万热度"
     },
     {
-      "rank": "14",
+      "rank": "15",
       "title": "你心目中的中国大陆综合实力前 15 的城市怎么排?",
       "link": "https://www.zhihu.com/question/7892269569",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "身材练好了真的会自信吗？",
-      "link": "https://www.zhihu.com/question/1923686035595990211",
-      "heat": "62 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "16",
       "title": "恐龙是否还存在于地球？",
       "link": "https://www.zhihu.com/question/7400964517",
-      "heat": "59 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "17",
+      "title": "身材练好了真的会自信吗？",
+      "link": "https://www.zhihu.com/question/1923686035595990211",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "18",
       "title": "目前的 AI 到底是背出了答案，还是推理出了答案？",
       "link": "https://www.zhihu.com/question/1143876179",
       "heat": "59 万热度"
     },
     {
-      "rank": "18",
+      "rank": "19",
       "title": "高压电线上是无菌的吗？",
       "link": "https://www.zhihu.com/question/1928540308913787188",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "如何看待媒体报道称极氪「0 公里二手车」炮制虚假繁荣，虚增销量？",
-      "link": "https://www.zhihu.com/question/1930072561246537519",
       "heat": "59 万热度"
     },
     {
@@ -136,32 +136,32 @@
     },
     {
       "rank": "23",
+      "title": "如何看待媒体报道称极氪「0 公里二手车」炮制虚假繁荣，虚增销量？",
+      "link": "https://www.zhihu.com/question/1930072561246537519",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "24",
       "title": "女子体内取出 20 厘米活蛔虫，因频繁吃生菜卷烤肉，怎样生吃蔬菜才健康？寄生虫感染有多危险？",
       "link": "https://www.zhihu.com/question/1930199605125017853",
       "heat": "57 万热度"
     },
     {
-      "rank": "24",
+      "rank": "25",
       "title": "苏超第七轮，扬州 1-5 南京，南京暂升第二，如何评价双方表现？",
       "link": "https://www.zhihu.com/question/1930340749079179416",
       "heat": "57 万热度"
     },
     {
-      "rank": "25",
+      "rank": "26",
       "title": "C 语言能百分百的代替汇编语言吗？",
       "link": "https://www.zhihu.com/question/1930605537789187839",
       "heat": "56 万热度"
     },
     {
-      "rank": "26",
+      "rank": "27",
       "title": "为什么小说里可以杀死敌人，却很少侮辱对方呢？",
       "link": "https://www.zhihu.com/question/1930158678562050827",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "苏超第七轮，苏州 4-0 镇江继续不败，镇江吞 6 连败，如何评价双方表现？",
-      "link": "https://www.zhihu.com/question/1930340490731025806",
       "heat": "56 万热度"
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "rank": "29",
-      "title": "大家去到一个新的城市会怎样快速的去了解它？",
-      "link": "https://www.zhihu.com/question/1928954323733287532",
+      "title": "苏超第七轮，苏州 4-0 镇江继续不败，镇江吞 6 连败，如何评价双方表现？",
+      "link": "https://www.zhihu.com/question/1930340490731025806",
       "heat": "56 万热度"
     },
     {
@@ -184,26 +184,26 @@
     },
     {
       "rank": "31",
+      "title": "大家去到一个新的城市会怎样快速的去了解它？",
+      "link": "https://www.zhihu.com/question/1928954323733287532",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
       "title": "教孩子数学题，怎么也教不会你会怎么办？",
       "link": "https://www.zhihu.com/question/1888032989180588902",
       "heat": "56 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "怎么向 5 岁孩子解释同样是世界古文明，同样有文字，为什么有的文明最终消失了，有的文明能传承至今？",
       "link": "https://www.zhihu.com/question/1928598845924815861",
       "heat": "56 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "假如你有一个永动机，但只能输出 5N 的力，你能用它来干什么？",
       "link": "https://www.zhihu.com/question/609228697",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "网友称在自己鞋中发现「泥块窝」，里面有不同种类的蜘蛛，这是蜘蛛窝吗？为什么里面会有多种不同的蜘蛛？",
-      "link": "https://www.zhihu.com/question/1929514039790233138",
       "heat": "56 万热度"
     },
     {
@@ -220,26 +220,26 @@
     },
     {
       "rank": "37",
+      "title": "网友称在自己鞋中发现「泥块窝」，里面有不同种类的蜘蛛，这是蜘蛛窝吗？为什么里面会有多种不同的蜘蛛？",
+      "link": "https://www.zhihu.com/question/1929514039790233138",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
       "title": "今年高考，佛山女生 622 分选择了广东工业大学自动化创新班，她的选择是对的吗？",
       "link": "https://www.zhihu.com/question/1929288788007454416",
       "heat": "56 万热度"
     },
     {
-      "rank": "38",
+      "rank": "39",
       "title": "美国富人阶层喜欢吃 burgers 吗？",
       "link": "https://www.zhihu.com/question/2736219332",
       "heat": "56 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "在一座陌生城市行走时，哪个瞬间的场景就让你感到了治愈与暖意？",
       "link": "https://www.zhihu.com/question/1926800649552635382",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "网红旺仔小乔开蒙面演唱会，最高票价 968 元，这个定价合理吗？没有视觉互动如何体现分区票价差别？",
-      "link": "https://www.zhihu.com/question/1930236739949139563",
       "heat": "56 万热度"
     },
     {
@@ -256,14 +256,14 @@
     },
     {
       "rank": "43",
-      "title": "四十岁以上的优雅大叔，求香水推荐?",
-      "link": "https://www.zhihu.com/question/569804900",
+      "title": "哈利与赫敏对待罗恩是否过于宽容了？",
+      "link": "https://www.zhihu.com/question/1893767255554240523",
       "heat": "56 万热度"
     },
     {
       "rank": "44",
-      "title": "哈利与赫敏对待罗恩是否过于宽容了？",
-      "link": "https://www.zhihu.com/question/1893767255554240523",
+      "title": "四十岁以上的优雅大叔，求香水推荐?",
+      "link": "https://www.zhihu.com/question/569804900",
       "heat": "56 万热度"
     },
     {
@@ -274,34 +274,34 @@
     },
     {
       "rank": "46",
+      "title": "网红旺仔小乔开蒙面演唱会，最高票价 968 元，这个定价合理吗？没有视觉互动如何体现分区票价差别？",
+      "link": "https://www.zhihu.com/question/1930236739949139563",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "47",
       "title": "为什么古代两军对阵，一方出将，另一方不乱箭射杀？",
       "link": "https://www.zhihu.com/question/1465890704",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "为什么粤菜很难在全国普及？",
       "link": "https://www.zhihu.com/question/568961805",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "新领导是外来的，从未接触过，怎么能尽快得到领导的认可？",
       "link": "https://www.zhihu.com/question/1929414831892567009",
       "heat": "56 万热度"
     },
     {
-      "rank": "49",
+      "rank": "50",
       "title": "特朗普政府发现 SpaceX 合同对国防部和 NASA 任务很重要，「无法取消」，美太空领域实力如何？",
       "link": "https://www.zhihu.com/question/1930269203895661052",
       "heat": "56 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "如今「海归」光环已不再是就业保障，为什么一些小镇青年依然选择出国留学？留学真的能「改变命运」吗？",
-      "link": "https://www.zhihu.com/question/1930592790905091947",
-      "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-07-23 05:26:19"
+  "generated_at": "2025-07-23 05:44:33"
 }
