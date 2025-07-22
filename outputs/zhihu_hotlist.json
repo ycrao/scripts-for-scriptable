@@ -1,95 +1,95 @@
 {
-  "artifact_id": "f0621723-f21f-4822-880f-b4ff0960d657",
+  "artifact_id": "60e16016-9b91-4b17-bb5f-7cef43d764f1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "怎么看待理解 9 月 15 日正式实施的《租房租赁条例》？",
       "link": "https://www.zhihu.com/question/1930909714566345572",
-      "heat": "345 万热度"
+      "heat": "363 万热度"
     },
     {
       "rank": "2",
       "title": "京东旗下「七鲜小厨」的外卖自营门店已正式开业，京东为何这么钟情自营模式？",
       "link": "https://www.zhihu.com/question/1930924340574123366",
-      "heat": "226 万热度"
+      "heat": "213 万热度"
     },
     {
       "rank": "3",
       "title": "快过期的「红色尖叫」被炒到 68 元一瓶，曾入选最难喝饮料排行榜，它为什么能被炒到这么高价？",
       "link": "https://www.zhihu.com/question/1930187301834684022",
-      "heat": "187 万热度"
+      "heat": "192 万热度"
     },
     {
       "rank": "4",
       "title": "高铁一次性座套火了，这种一次性座套能有效防止感染皮肤病吗？你出行会选择使用吗？",
       "link": "https://www.zhihu.com/question/1930636046535713211",
-      "heat": "123 万热度"
+      "heat": "122 万热度"
     },
     {
       "rank": "5",
       "title": "目前的 AI 到底是背出了答案，还是推理出了答案？",
       "link": "https://www.zhihu.com/question/1143876179",
-      "heat": "99 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "6",
-      "title": "苏超第七轮，扬州 1-5 南京，南京暂升第二，如何评价双方表现？",
-      "link": "https://www.zhihu.com/question/1930340749079179416",
-      "heat": "88 万热度"
+      "title": "美国称将退出联合国教科文组织，这意味着什么？背后有哪些原因？",
+      "link": "https://www.zhihu.com/question/1931073826348819690",
+      "heat": "89 万热度"
     },
     {
       "rank": "7",
       "title": "考生晒未被云南大学录取备注「总分低」，学校称今年未录取全部备注退档原因，如何看待这一做法？值得推广吗？",
       "link": "https://www.zhihu.com/question/1930904868836566335",
-      "heat": "87 万热度"
+      "heat": "88 万热度"
     },
     {
       "rank": "8",
-      "title": "美国称将退出联合国教科文组织，这意味着什么？背后有哪些原因？",
-      "link": "https://www.zhihu.com/question/1931073826348819690",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "9",
       "title": "身材练好了真的会自信吗？",
       "link": "https://www.zhihu.com/question/1923686035595990211",
       "heat": "80 万热度"
     },
     {
-      "rank": "10",
-      "title": "恐龙是否还存在于地球？",
-      "link": "https://www.zhihu.com/question/7400964517",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "老人为乘凉挤满一肯德基店，聊天打牌、躺座椅上睡觉，如何看待这种行为？商家有哪些好的处理办法？",
-      "link": "https://www.zhihu.com/question/1930590861005140566",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "12",
+      "rank": "9",
       "title": "三峡大坝蓄水超过 20 年，里面的鱼有多大？",
       "link": "https://www.zhihu.com/question/1910748572644770390",
       "heat": "71 万热度"
     },
     {
-      "rank": "13",
+      "rank": "10",
       "title": "如何开始低成本居家健身?",
       "link": "https://www.zhihu.com/question/1926454978140177062",
       "heat": "65 万热度"
     },
     {
+      "rank": "11",
+      "title": "老人为乘凉挤满一肯德基店，聊天打牌、躺座椅上睡觉，如何看待这种行为？商家有哪些好的处理办法？",
+      "link": "https://www.zhihu.com/question/1930590861005140566",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "恐龙是否还存在于地球？",
+      "link": "https://www.zhihu.com/question/7400964517",
+      "heat": "63 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "苏超第七轮，扬州 1-5 南京，南京暂升第二，如何评价双方表现？",
+      "link": "https://www.zhihu.com/question/1930340749079179416",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "14",
-      "title": "高压电线上是无菌的吗？",
-      "link": "https://www.zhihu.com/question/1928540308913787188",
+      "title": "如何看待媒体报道称极氪「0 公里二手车」炮制虚假繁荣，虚增销量？",
+      "link": "https://www.zhihu.com/question/1930072561246537519",
       "heat": "59 万热度"
     },
     {
       "rank": "15",
-      "title": "如何看待媒体报道称极氪「0 公里二手车」炮制虚假繁荣，虚增销量？",
-      "link": "https://www.zhihu.com/question/1930072561246537519",
+      "title": "高压电线上是无菌的吗？",
+      "link": "https://www.zhihu.com/question/1928540308913787188",
       "heat": "59 万热度"
     },
     {
@@ -100,44 +100,44 @@
     },
     {
       "rank": "17",
-      "title": "为什么小说里可以杀死敌人，却很少侮辱对方呢？",
-      "link": "https://www.zhihu.com/question/1930158678562050827",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "18",
-      "title": "C 语言能百分百的代替汇编语言吗？",
-      "link": "https://www.zhihu.com/question/1930605537789187839",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "还记得你第一次来到一个陌生城市时的感受吗？",
-      "link": "https://www.zhihu.com/question/1930649416869606859",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "苏超第七轮，苏州 4-0 镇江继续不败，镇江吞 6 连败，如何评价双方表现？",
-      "link": "https://www.zhihu.com/question/1930340490731025806",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "2025 年上半年免签入境外国人 1364 万人次，同比上升 53.9%，这一数据说明了什么？",
-      "link": "https://www.zhihu.com/question/1928763921843618949",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "22",
       "title": "女子体内取出 20 厘米活蛔虫，因频繁吃生菜卷烤肉，怎样生吃蔬菜才健康？寄生虫感染有多危险？",
       "link": "https://www.zhihu.com/question/1930199605125017853",
       "heat": "57 万热度"
     },
     {
-      "rank": "23",
+      "rank": "18",
+      "title": "C 语言能百分百的代替汇编语言吗？",
+      "link": "https://www.zhihu.com/question/1930605537789187839",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "还记得你第一次来到一个陌生城市时的感受吗？",
+      "link": "https://www.zhihu.com/question/1930649416869606859",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "苏超第七轮，苏州 4-0 镇江继续不败，镇江吞 6 连败，如何评价双方表现？",
+      "link": "https://www.zhihu.com/question/1930340490731025806",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "2025 年上半年免签入境外国人 1364 万人次，同比上升 53.9%，这一数据说明了什么？",
+      "link": "https://www.zhihu.com/question/1928763921843618949",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "22",
       "title": "美国众议院通过《天才法案》和《清晰法案》，前者已获特朗普正式签署，这两项新法案将如何影响加密货币市场？",
       "link": "https://www.zhihu.com/question/1930233578790290936",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "为什么小说里可以杀死敌人，却很少侮辱对方呢？",
+      "link": "https://www.zhihu.com/question/1930158678562050827",
       "heat": "57 万热度"
     },
     {
@@ -196,14 +196,14 @@
     },
     {
       "rank": "33",
-      "title": "哈利与赫敏对待罗恩是否过于宽容了？",
-      "link": "https://www.zhihu.com/question/1893767255554240523",
+      "title": "怎么向 5 岁孩子解释同样是世界古文明，同样有文字，为什么有的文明最终消失了，有的文明能传承至今？",
+      "link": "https://www.zhihu.com/question/1928598845924815861",
       "heat": "56 万热度"
     },
     {
       "rank": "34",
-      "title": "为什么古代两军对阵，一方出将，另一方不乱箭射杀？",
-      "link": "https://www.zhihu.com/question/1465890704",
+      "title": "所以你打算做什么事情让自己可以从悲观的事情中走出来？",
+      "link": "https://www.zhihu.com/question/1923779898616570645",
       "heat": "56 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
-      "title": "所以你打算做什么事情让自己可以从悲观的事情中走出来？",
-      "link": "https://www.zhihu.com/question/1923779898616570645",
+      "title": "哈利与赫敏对待罗恩是否过于宽容了？",
+      "link": "https://www.zhihu.com/question/1893767255554240523",
       "heat": "56 万热度"
     },
     {
       "rank": "38",
-      "title": "怎么向 5 岁孩子解释同样是世界古文明，同样有文字，为什么有的文明最终消失了，有的文明能传承至今？",
-      "link": "https://www.zhihu.com/question/1928598845924815861",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "为什么粤菜很难在全国普及？",
-      "link": "https://www.zhihu.com/question/568961805",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "40",
       "title": "今年高考，佛山女生 622 分选择了广东工业大学自动化创新班，她的选择是对的吗？",
       "link": "https://www.zhihu.com/question/1929288788007454416",
       "heat": "56 万热度"
     },
     {
+      "rank": "39",
+      "title": "为什么古代两军对阵，一方出将，另一方不乱箭射杀？",
+      "link": "https://www.zhihu.com/question/1465890704",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "为什么粤菜很难在全国普及？",
+      "link": "https://www.zhihu.com/question/568961805",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "41",
-      "title": "如今「海归」光环已不再是就业保障，为什么一些小镇青年依然选择出国留学？留学真的能「改变命运」吗？",
-      "link": "https://www.zhihu.com/question/1930592790905091947",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "电影《长安的荔枝》中提及的为官之道「和光同尘，好处均沾，花花轿子众人齐抬。」现在还适用吗？",
-      "link": "https://www.zhihu.com/question/1930587466672337496",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "你曾遇到过哪位平凡却让你印象深刻的市井人物？",
-      "link": "https://www.zhihu.com/question/1928856360465950711",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "44",
       "title": "郑钦文因伤退出 2025 美网，缺席大满贯赛事会对她的职业生涯带来哪些影响？",
       "link": "https://www.zhihu.com/question/1930949217624483373",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
-      "title": "多地公交车尝试在晚上或非高峰时段 「兼职」 送快递，这种「公交 + 物流」的模式发展前景如何？能够推广吗？",
-      "link": "https://www.zhihu.com/question/1930611019274760351",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "42",
       "title": "新领导是外来的，从未接触过，怎么能尽快得到领导的认可？",
       "link": "https://www.zhihu.com/question/1929414831892567009",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
-      "title": "《你行！你上！》在姜文的一众电影中能排第几？",
-      "link": "https://www.zhihu.com/question/1930675604082090503",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "48",
+      "rank": "43",
       "title": "为什么小时候的创伤，在小时候倒是没觉得什么，反而成年后感觉特别痛苦？",
       "link": "https://www.zhihu.com/question/1917878370252877932",
       "heat": "56 万热度"
     },
     {
-      "rank": "49",
+      "rank": "44",
+      "title": "如今「海归」光环已不再是就业保障，为什么一些小镇青年依然选择出国留学？留学真的能「改变命运」吗？",
+      "link": "https://www.zhihu.com/question/1930592790905091947",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "你曾遇到过哪位平凡却让你印象深刻的市井人物？",
+      "link": "https://www.zhihu.com/question/1928856360465950711",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "46",
       "title": "特朗普政府发现 SpaceX 合同对国防部和 NASA 任务很重要，「无法取消」，美太空领域实力如何？",
       "link": "https://www.zhihu.com/question/1930269203895661052",
       "heat": "56 万热度"
     },
     {
-      "rank": "50",
+      "rank": "47",
       "title": "老照片里的旧街道和小说里的回忆，哪个更让你相信？",
       "link": "https://www.zhihu.com/question/1923707046978613646",
       "heat": "56 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "老舍笔下北平的茶馆和现在的网红咖啡馆有什么本质区别？",
+      "link": "https://www.zhihu.com/question/1923706675015153524",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "一个曾经非常有效的量化策略开始持续亏损，一般是出现了哪些问题？",
+      "link": "https://www.zhihu.com/question/1928750968440317210",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "有时会「害怕别人对自己好」是怎么回事？怎么办？",
+      "link": "https://www.zhihu.com/question/1929505557879976320",
+      "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-07-23 02:39:13"
+  "generated_at": "2025-07-23 03:00:37"
 }
