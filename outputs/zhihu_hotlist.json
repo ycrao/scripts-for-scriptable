@@ -1,36 +1,36 @@
 {
-  "artifact_id": "99e969e9-6d6e-44b7-b4f2-4630becbe885",
+  "artifact_id": "9ed31891-3820-43c7-92df-e110309dce46",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "海南自贸港全岛封关 12 月 18 日启动，一线放开、二线管住、岛内自由，哪些行业首批受益？对消费者有何影响？",
       "link": "https://www.zhihu.com/question/1931295440294375686",
-      "heat": "699 万热度"
+      "heat": "877 万热度"
     },
     {
       "rank": "2",
       "title": "应届生拒绝 offer 被 HR 威胁「业内封杀」，遇到这种情况该怎么办？HR 的这种行为是违法的吗？",
       "link": "https://www.zhihu.com/question/1931049248838910587",
-      "heat": "308 万热度"
+      "heat": "312 万热度"
     },
     {
       "rank": "3",
       "title": "4 岁男童全麻拔乳牙身亡，涉事医院称正在处理，可能是哪些环节出现了问题？院方需承担哪些责任？",
       "link": "https://www.zhihu.com/question/1931123173107130842",
-      "heat": "232 万热度"
+      "heat": "261 万热度"
     },
     {
       "rank": "4",
       "title": "浙江高考录取分数线已出，今年浙大医学类专业爆冷，为什么会出现这种现象？学医「过气」了吗？",
       "link": "https://www.zhihu.com/question/1930754864671061689",
-      "heat": "212 万热度"
+      "heat": "203 万热度"
     },
     {
       "rank": "5",
-      "title": "华东理工大学 2025 录取通知书被指抄袭南昌大学录取通知书，你认为是否构成抄袭？",
-      "link": "https://www.zhihu.com/question/1930969183337799972",
-      "heat": "177 万热度"
+      "title": "杭州多家俄罗斯商品馆开业不到一年就闭店，为何在如此短时间内，俄货热潮就已经退去？闭店的主要原因是什么？",
+      "link": "https://www.zhihu.com/question/1930940756496974726",
+      "heat": "181 万热度"
     },
     {
       "rank": "6",
@@ -40,33 +40,33 @@
     },
     {
       "rank": "7",
-      "title": "杭州多家俄罗斯商品馆开业不到一年就闭店，为何在如此短时间内，俄货热潮就已经退去？闭店的主要原因是什么？",
-      "link": "https://www.zhihu.com/question/1930940756496974726",
-      "heat": "170 万热度"
+      "title": "华东理工大学 2025 录取通知书被指抄袭南昌大学录取通知书，你认为是否构成抄袭？",
+      "link": "https://www.zhihu.com/question/1930969183337799972",
+      "heat": "166 万热度"
     },
     {
       "rank": "8",
       "title": "余杭水务称自来水异味区域水质已恢复，排放出「存水」就安全了吗？居民如何清理家中水管？",
       "link": "https://www.zhihu.com/question/1930315952760780555",
-      "heat": "153 万热度"
+      "heat": "158 万热度"
     },
     {
       "rank": "9",
       "title": "如何看待堂主 lee 成功挑战埼玉训练法 1000 天？",
       "link": "https://www.zhihu.com/question/1930042200022024372",
-      "heat": "137 万热度"
+      "heat": "149 万热度"
     },
     {
       "rank": "10",
       "title": "特朗普称美日达成贸易协议，关税税率为 15%，有哪些信息值得关注？会产生哪些影响？",
       "link": "https://www.zhihu.com/question/1931264691251930952",
-      "heat": "130 万热度"
+      "heat": "137 万热度"
     },
     {
       "rank": "11",
       "title": "《英雄联盟》拳头公司要怎么改动才能让 LPL 赛区有很大的夺冠几率？",
       "link": "https://www.zhihu.com/question/1930571814163153259",
-      "heat": "123 万热度"
+      "heat": "125 万热度"
     },
     {
       "rank": "12",
@@ -76,39 +76,39 @@
     },
     {
       "rank": "13",
-      "title": "阿里开源编程模型 Qwen3-Coder，性能比肩全球顶级编程模型 Claude4，技术亮点和体验如何？",
-      "link": "https://www.zhihu.com/question/1931239650753769546",
-      "heat": "105 万热度"
+      "title": "你心目中的中国大陆综合实力前 15 的城市怎么排?",
+      "link": "https://www.zhihu.com/question/7892269569",
+      "heat": "94 万热度"
     },
     {
       "rank": "14",
-      "title": "你心目中的中国大陆综合实力前 15 的城市怎么排?",
-      "link": "https://www.zhihu.com/question/7892269569",
-      "heat": "97 万热度"
+      "title": "鬣狗作为最「无耻」的动物，为什么没有被大规模扑杀?",
+      "link": "https://www.zhihu.com/question/366987194",
+      "heat": "93 万热度"
     },
     {
       "rank": "15",
-      "title": "鬣狗作为最「无耻」的动物，为什么没有被大规模扑杀?",
-      "link": "https://www.zhihu.com/question/366987194",
-      "heat": "90 万热度"
+      "title": "如何评价杨幂在《长安的荔枝》里的演技？",
+      "link": "https://www.zhihu.com/question/1929882068982142479",
+      "heat": "88 万热度"
     },
     {
       "rank": "16",
-      "title": "如何评价杨幂在《长安的荔枝》里的演技？",
-      "link": "https://www.zhihu.com/question/1929882068982142479",
-      "heat": "86 万热度"
+      "title": "比亚迪成为国际米兰足球俱乐部全球汽车合作伙伴，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1931009049664676475",
+      "heat": "84 万热度"
     },
     {
       "rank": "17",
-      "title": "比亚迪成为国际米兰足球俱乐部全球汽车合作伙伴，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1931009049664676475",
-      "heat": "82 万热度"
+      "title": "阿里开源编程模型 Qwen3-Coder，性能比肩全球顶级编程模型 Claude4，技术亮点和体验如何？",
+      "link": "https://www.zhihu.com/question/1931239650753769546",
+      "heat": "80 万热度"
     },
     {
       "rank": "18",
       "title": "绝对力量挺大，但是弯腰拿个东西都心跳加速 + 喘气，又壮又虚，是什么原因？肌肉发达但心肺功能弱？",
       "link": "https://www.zhihu.com/question/8106294735",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "19",
@@ -118,27 +118,27 @@
     },
     {
       "rank": "20",
-      "title": "「英语」是汉语还是英语？Chinese 是英语还是汉语？",
-      "link": "https://www.zhihu.com/question/1929214972010923781",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "21",
       "title": "于渤在《喜剧之王单口季 2》中谈「自己在大城市省吃俭用，同学们在小城市买车买房」，如果是你你会怎么选？",
       "link": "https://www.zhihu.com/question/1930045570971596196",
       "heat": "62 万热度"
     },
     {
-      "rank": "22",
+      "rank": "21",
       "title": "除了限制孩子玩手机和平板之外，家长还能做什么来帮助孩子防控近视？",
       "link": "https://www.zhihu.com/question/1930569298872624021",
       "heat": "62 万热度"
     },
     {
-      "rank": "23",
+      "rank": "22",
       "title": "心情会影响人对「噪音」的容忍度吗？比如同样的声音在不同情绪下，人会感受不同？",
       "link": "https://www.zhihu.com/question/1930195473232293889",
       "heat": "61 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "「英语」是汉语还是英语？Chinese 是英语还是汉语？",
+      "link": "https://www.zhihu.com/question/1929214972010923781",
+      "heat": "59 万热度"
     },
     {
       "rank": "24",
@@ -148,160 +148,160 @@
     },
     {
       "rank": "25",
-      "title": "美国称将退出联合国教科文组织，这意味着什么？背后有哪些原因？",
-      "link": "https://www.zhihu.com/question/1931073826348819690",
-      "heat": "59 万热度"
+      "title": "媒体报道「越来越多大一新生刚开学就申请实习」，为什么会这样？大一就开始实习真的是好选择吗？",
+      "link": "https://www.zhihu.com/question/1931100333293135578",
+      "heat": "58 万热度"
     },
     {
       "rank": "26",
-      "title": "媒体报道「越来越多大一新生刚开学就申请实习」，为什么会这样？大一就开始实习真的是好选择吗？",
-      "link": "https://www.zhihu.com/question/1931100333293135578",
-      "heat": "59 万热度"
+      "title": "领导的能力和风格对工作氛围真的很重要吗？能决定你工作开不开心?",
+      "link": "https://www.zhihu.com/question/1930395887680615174",
+      "heat": "58 万热度"
     },
     {
       "rank": "27",
-      "title": "领导的能力和风格对工作氛围真的很重要吗？能决定你工作开不开心?",
-      "link": "https://www.zhihu.com/question/1930395887680615174",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "你觉得哪款「神仙下酒菜」跟啤酒是绝配、很适合作为夏日微醺佐餐？",
-      "link": "https://www.zhihu.com/question/1927013937624364201",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "一员工因拿走公司两瓶洗手液被开除，这是否合理？",
-      "link": "https://www.zhihu.com/question/1930243361593340677",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "高强度工作带来的压力，真的能让人快速成长吗？怎样判断所处的职场环境是否「健康」？",
-      "link": "https://www.zhihu.com/question/1930673631756804133",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "局域网内的服务有必要使用 HTTPS 吗？",
-      "link": "https://www.zhihu.com/question/1914811211721191541",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "那些消失的老地名都存在哪些背后的故事？",
-      "link": "https://www.zhihu.com/question/1928829307901437248",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "如果每周工作 4 天成真，多出的一天你会怎么用？",
-      "link": "https://www.zhihu.com/question/1931006074678371070",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "方言写作会让城市文学更真实还是更小众？",
-      "link": "https://www.zhihu.com/question/1924068931049584188",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "日常注重保养，体检却发现身体亮红灯，哪些因素潜移默化地增加慢性疾病的风险？",
-      "link": "https://www.zhihu.com/question/1928857145354491857",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "为什么鲸是肉做的，可以下潜万米深度，而潜艇全身钢铁就不行？",
-      "link": "https://www.zhihu.com/question/306240635",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "诗歌能写好城市生活吗？有哪些成功例子？",
-      "link": "https://www.zhihu.com/question/1924068783972120507",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "38",
       "title": "英语这门课学了用处不大，是否该取消其主科必考地位？",
       "link": "https://www.zhihu.com/question/1930922564831650345",
       "heat": "58 万热度"
     },
     {
-      "rank": "39",
-      "title": "如何看待天津大学推出「3+1+N」模式，多个专业本科生最短 6 年可拿博士学位？打破固定学制是好事吗？",
-      "link": "https://www.zhihu.com/question/1930989794860729914",
+      "rank": "28",
+      "title": "局域网内的服务有必要使用 HTTPS 吗？",
+      "link": "https://www.zhihu.com/question/1914811211721191541",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "方言写作会让城市文学更真实还是更小众？",
+      "link": "https://www.zhihu.com/question/1924068931049584188",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "诗歌能写好城市生活吗？有哪些成功例子？",
+      "link": "https://www.zhihu.com/question/1924068783972120507",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "如果每周工作 4 天成真，多出的一天你会怎么用？",
+      "link": "https://www.zhihu.com/question/1931006074678371070",
       "heat": "57 万热度"
     },
     {
-      "rank": "40",
-      "title": "为什么越是大城市，地铁反而越旧？",
-      "link": "https://www.zhihu.com/question/1923125996955103261",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "41",
+      "rank": "32",
       "title": "《原神》空月之歌的 PV 中艾莉丝看上去大概率进卡池，那可莉的父亲还可能存在吗？",
       "link": "https://www.zhihu.com/question/1930991697359250456",
       "heat": "57 万热度"
     },
     {
-      "rank": "42",
+      "rank": "33",
+      "title": "如何看待天津大学推出「3+1+N」模式，多个专业本科生最短 6 年可拿博士学位？打破固定学制是好事吗？",
+      "link": "https://www.zhihu.com/question/1930989794860729914",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "34",
       "title": "《你行！你上！》中郎爸身上的瘤子和郎朗同岁，这个是指什么？",
       "link": "https://www.zhihu.com/question/1930592104549152439",
       "heat": "57 万热度"
     },
     {
-      "rank": "43",
+      "rank": "35",
+      "title": "日常注重保养，体检却发现身体亮红灯，哪些因素潜移默化地增加慢性疾病的风险？",
+      "link": "https://www.zhihu.com/question/1928857145354491857",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "为什么鲸是肉做的，可以下潜万米深度，而潜艇全身钢铁就不行？",
+      "link": "https://www.zhihu.com/question/306240635",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "37",
       "title": "高中的数学体系究竟是怎么样的？",
       "link": "https://www.zhihu.com/question/14436142653",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
-      "title": "广东部分星巴克门店推出自习室，免费入座无需预约，有哪些商业考量？会有更多门店跟进吗？",
-      "link": "https://www.zhihu.com/question/1930936632594363448",
+      "rank": "38",
+      "title": "高强度工作带来的压力，真的能让人快速成长吗？怎样判断所处的职场环境是否「健康」？",
+      "link": "https://www.zhihu.com/question/1930673631756804133",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
-      "title": "考生晒未被云南大学录取备注「总分低」，学校称今年未录取全部备注退档原因，如何看待这一做法？值得推广吗？",
-      "link": "https://www.zhihu.com/question/1930904868836566335",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "39",
       "title": "《魔兽世界》开团分配方式的演变：G 团真的是最优的分配方式吗？",
       "link": "https://www.zhihu.com/question/584530854",
       "heat": "57 万热度"
     },
     {
-      "rank": "47",
-      "title": "你的城市里有什么安心读书的好地方吗？",
-      "link": "https://www.zhihu.com/question/1928502299547898560",
+      "rank": "40",
+      "title": "考生晒未被云南大学录取备注「总分低」，学校称今年未录取全部备注退档原因，如何看待这一做法？值得推广吗？",
+      "link": "https://www.zhihu.com/question/1930904868836566335",
       "heat": "57 万热度"
     },
     {
-      "rank": "48",
+      "rank": "41",
       "title": "领导配分了一项工作，让我担任组长，同时指派了几个同事当我的组员，但是组员都不干活怎么办？",
       "link": "https://www.zhihu.com/question/1930588714872054125",
       "heat": "57 万热度"
     },
     {
-      "rank": "49",
+      "rank": "42",
+      "title": "广东部分星巴克门店推出自习室，免费入座无需预约，有哪些商业考量？会有更多门店跟进吗？",
+      "link": "https://www.zhihu.com/question/1930936632594363448",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "你觉得哪款「神仙下酒菜」跟啤酒是绝配、很适合作为夏日微醺佐餐？",
+      "link": "https://www.zhihu.com/question/1927013937624364201",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "你的城市里有什么安心读书的好地方吗？",
+      "link": "https://www.zhihu.com/question/1928502299547898560",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "一员工因拿走公司两瓶洗手液被开除，这是否合理？",
+      "link": "https://www.zhihu.com/question/1930243361593340677",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "为什么越是大城市，地铁反而越旧？",
+      "link": "https://www.zhihu.com/question/1923125996955103261",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "47",
       "title": "初三再开始努力能不能行？",
       "link": "https://www.zhihu.com/question/1925986091195929091",
       "heat": "57 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "电影《长安的荔枝》中，李善德为什么不尝试用四川荔枝蒙混过关？",
       "link": "https://www.zhihu.com/question/1930648878203540424",
       "heat": "57 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "京东旗下「七鲜小厨」的外卖自营门店已正式开业，京东为何这么钟情自营模式？",
+      "link": "https://www.zhihu.com/question/1930924340574123366",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "薛宝钗为何不教香菱学诗？林黛玉为什么爽快答应了？",
+      "link": "https://www.zhihu.com/question/1916190002985022516",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-07-23 15:39:59"
+  "generated_at": "2025-07-23 15:54:45"
 }
