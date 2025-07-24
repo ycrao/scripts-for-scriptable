@@ -1,84 +1,84 @@
 {
-  "artifact_id": "9faf5506-4a8b-4e03-acfb-13c19cdfc434",
+  "artifact_id": "2cd5e025-03e9-49f1-a89e-22ab28642faa",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "「每天将近 100 名无看护儿童待在图书馆，家长点外卖放娃一整天」，对孩子成长和图书馆秩序有何影响？",
       "link": "https://www.zhihu.com/question/1931397672276850176",
-      "heat": "238 万热度"
+      "heat": "284 万热度"
     },
     {
       "rank": "2",
       "title": "电影《长安的荔枝》中导演大鹏原本考虑让李雪琴饰演杨贵妃，后放弃这一想法，贵妃不露脸有什么考量？",
       "link": "https://www.zhihu.com/question/1931395631072666274",
-      "heat": "201 万热度"
+      "heat": "219 万热度"
     },
     {
       "rank": "3",
       "title": "封关后，普通人去海南与去香港购物会有什么区别？",
       "link": "https://www.zhihu.com/question/1931612500023015213",
-      "heat": "160 万热度"
+      "heat": "177 万热度"
     },
     {
       "rank": "4",
       "title": "公安部王强称「目前我国市场上销售的汽车搭载的智驾系统都不具备自动驾驶功能」，怎样正确看待当下智驾功能？",
       "link": "https://www.zhihu.com/question/1931676400038934196",
-      "heat": "152 万热度"
+      "heat": "176 万热度"
     },
     {
       "rank": "5",
       "title": "《明末：渊虚之羽》当前的处境，会给后续的国产游戏怎样的经验教训呢？",
       "link": "https://www.zhihu.com/question/1931751046901920035",
-      "heat": "146 万热度"
+      "heat": "158 万热度"
     },
     {
       "rank": "6",
-      "title": "网传新疆网红疆域阿力木塌房，被投资人指控股权侵占，具体是怎么回事？",
-      "link": "https://www.zhihu.com/question/1931382274231854151",
-      "heat": "141 万热度"
+      "title": "陈佩斯十年磨一剑的新片《戏台》值得大家去捧场吗？",
+      "link": "https://www.zhihu.com/question/1930917785095079752",
+      "heat": "139 万热度"
     },
     {
       "rank": "7",
-      "title": "陈佩斯十年磨一剑的新片《戏台》值得大家去捧场吗？",
-      "link": "https://www.zhihu.com/question/1930917785095079752",
-      "heat": "124 万热度"
+      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 JDG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1931746130703660821",
+      "heat": "109 万热度"
     },
     {
       "rank": "8",
-      "title": "泰国与柬埔寨在两国边境地区发生交火，背后有哪些原因？目前情况如何？",
-      "link": "https://www.zhihu.com/question/1931659408993150707",
-      "heat": "116 万热度"
-    },
-    {
-      "rank": "9",
-      "title": "白宫称日本将立即增加 75% 美国大米进口量，其对日本经济影响有多大，会如何改变日本「大米体系」？",
-      "link": "https://www.zhihu.com/question/1931709122329437247",
-      "heat": "107 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 JDG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1931746130703660821",
+      "title": "每天睡前都觉得「今天又浪费了」，第二天却还是重复刷手机、拖延做事，这种「清醒的堕落」该怎么破？",
+      "link": "https://www.zhihu.com/question/1931154971786715739",
       "heat": "106 万热度"
     },
     {
-      "rank": "11",
+      "rank": "9",
+      "title": "泰国与柬埔寨在两国边境地区发生交火，背后有哪些原因？目前情况如何？",
+      "link": "https://www.zhihu.com/question/1931659408993150707",
+      "heat": "100 万热度"
+    },
+    {
+      "rank": "10",
       "title": "广东顺德基孔肯雅热病例接近三千，已外溢至省外，为什么传播这么快？有哪些症状？如何预防？",
       "link": "https://www.zhihu.com/question/1931474753606082969",
-      "heat": "98 万热度"
+      "heat": "99 万热度"
+    },
+    {
+      "rank": "11",
+      "title": "如何看待男艺人张艺洋杀害 16 岁女友被枪决，成娱乐圈首位被执行死刑的艺人?",
+      "link": "https://www.zhihu.com/question/1931410017564758145",
+      "heat": "89 万热度"
     },
     {
       "rank": "12",
-      "title": "每天睡前都觉得「今天又浪费了」，第二天却还是重复刷手机、拖延做事，这种「清醒的堕落」该怎么破？",
-      "link": "https://www.zhihu.com/question/1931154971786715739",
-      "heat": "97 万热度"
+      "title": "白宫称日本将立即增加 75% 美国大米进口量，其对日本经济影响有多大，会如何改变日本「大米体系」？",
+      "link": "https://www.zhihu.com/question/1931709122329437247",
+      "heat": "88 万热度"
     },
     {
       "rank": "13",
-      "title": "如何看待男艺人张艺洋杀害 16 岁女友被枪决，成娱乐圈首位被执行死刑的艺人?",
-      "link": "https://www.zhihu.com/question/1931410017564758145",
-      "heat": "90 万热度"
+      "title": "网传新疆网红疆域阿力木塌房，被投资人指控股权侵占，具体是怎么回事？",
+      "link": "https://www.zhihu.com/question/1931382274231854151",
+      "heat": "87 万热度"
     },
     {
       "rank": "14",
@@ -90,13 +90,13 @@
       "rank": "15",
       "title": "如何看待悲情球王姆巴佩的职业生涯？",
       "link": "https://www.zhihu.com/question/1914404134246913111",
-      "heat": "86 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "16",
       "title": "成都天府机场附近停车场内一比亚迪汽车绕圈不止疑失控，警方称已处理，可能是什么原因？",
       "link": "https://www.zhihu.com/question/1931759522592022819",
-      "heat": "85 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "17",
@@ -108,19 +108,19 @@
       "rank": "18",
       "title": "为何当年俄国完全可以靠几千维和部队来阻止阿塞拜疆吞并纳卡、却选择不抵抗，现在却调几万部队去防备阿国？",
       "link": "https://www.zhihu.com/question/1931292781327923073",
-      "heat": "78 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "19",
       "title": "《大宅门》里老太太为什么到死都不让杨九红戴孝，这是一种什么心理？",
       "link": "https://www.zhihu.com/question/293831493",
-      "heat": "73 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "20",
       "title": "黑龙江考生 389 分捡漏双一流郑州大学，这是怎么做到的？对考生和家长有哪些启示？",
       "link": "https://www.zhihu.com/question/1931469255213279129",
-      "heat": "70 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "21",
@@ -132,7 +132,7 @@
       "rank": "22",
       "title": "金钱和健康你觉得哪个更重要？",
       "link": "https://www.zhihu.com/question/1924964869100254547",
-      "heat": "62 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "23",
@@ -148,26 +148,26 @@
     },
     {
       "rank": "25",
+      "title": "为什么你的建议明明是「对」的，但是老板就是不听？",
+      "link": "https://www.zhihu.com/question/4876218380",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "为什么传武剑术那么专注于刺击以外的套路招式？",
+      "link": "https://www.zhihu.com/question/573398924",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "27",
       "title": "你看过觉得最让你印象深刻的反派角色是谁？",
       "link": "https://www.zhihu.com/question/383995776",
       "heat": "59 万热度"
     },
     {
-      "rank": "26",
-      "title": "《明末：渊虚之羽》现已正式发售，如何评价这款游戏？",
-      "link": "https://www.zhihu.com/question/1931654609933416323",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "看完申奥执导的《南京照相馆》你有何感受？",
-      "link": "https://www.zhihu.com/question/1931684760859664716",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "28",
-      "title": "「重庆姐弟坠亡案」涉事房产以 60 万元起拍价拍卖，目前无人报名，如果流拍，该房产会被怎样处理？",
-      "link": "https://www.zhihu.com/question/1931353715190756761",
+      "title": "期望月薪 3 万，面试后 HR 要工资流水，但流水工资比期望值低 1 万，你给吗？",
+      "link": "https://www.zhihu.com/question/1926704996977705365",
       "heat": "59 万热度"
     },
     {
@@ -178,14 +178,14 @@
     },
     {
       "rank": "30",
-      "title": "期望月薪 3 万，面试后 HR 要工资流水，但流水工资比期望值低 1 万，你给吗？",
-      "link": "https://www.zhihu.com/question/1926704996977705365",
+      "title": "为什么年轻人开始「全职儿女」？",
+      "link": "https://www.zhihu.com/question/1931012590550607197",
       "heat": "59 万热度"
     },
     {
       "rank": "31",
-      "title": "Chovy 在 EWC 决赛中选用卡牌大师取得胜利，之前的石油杯比赛中卡牌大师八战全败，这说明了什么？",
-      "link": "https://www.zhihu.com/question/1930671170102986322",
+      "title": "如何评价孔德罡的「《红楼梦》『癸酉本’：大众 』红学’ 盛开出的 ‘恶之花’ 」？",
+      "link": "https://www.zhihu.com/question/1930694965958276230",
       "heat": "59 万热度"
     },
     {
@@ -196,14 +196,14 @@
     },
     {
       "rank": "33",
-      "title": "如何评价《一人之下》第 726（769）话？",
-      "link": "https://www.zhihu.com/question/1931864521535918085",
+      "title": "作为国家队锋线新星，刘诚宇连续射失关键点球，如何评价他近期的表现？",
+      "link": "https://www.zhihu.com/question/1931657816118091842",
       "heat": "59 万热度"
     },
     {
       "rank": "34",
-      "title": "如何看待全国多地图书馆因「无陪护儿童」问题发公开信呼吁家长负责？还有哪些方式能解决孩子暑假看护问题？",
-      "link": "https://www.zhihu.com/question/1931658632338076045",
+      "title": "李善德接了个「技术上不可能但必须办」的项目，如果你是他，第一步怎么向上管理，避免成为唯一的「背锅侠」？",
+      "link": "https://www.zhihu.com/question/1930588527810274249",
       "heat": "59 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
-      "title": "为什么年轻人开始「全职儿女」？",
-      "link": "https://www.zhihu.com/question/1931012590550607197",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "为什么传武剑术那么专注于刺击以外的套路招式？",
-      "link": "https://www.zhihu.com/question/573398924",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "为什么你的建议明明是「对」的，但是老板就是不听？",
-      "link": "https://www.zhihu.com/question/4876218380",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "公安部表示目前市售汽车「智驾」系统，都还不具备「自动驾驶」功能，驾驶人才是最终责任主体，如何解读？",
-      "link": "https://www.zhihu.com/question/1931633101907432690",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "初二 15 岁的男孩不愿意上学了，不是在家玩手机就是想出去混社会，谁的话都不听，怎么办好？",
-      "link": "https://www.zhihu.com/question/1930648586137371077",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "作为国家队锋线新星，刘诚宇连续射失关键点球，如何评价他近期的表现？",
-      "link": "https://www.zhihu.com/question/1931657816118091842",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "如何评价孔德罡的「《红楼梦》『癸酉本’：大众 』红学’ 盛开出的 ‘恶之花’ 」？",
-      "link": "https://www.zhihu.com/question/1930694965958276230",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "李善德接了个「技术上不可能但必须办」的项目，如果你是他，第一步怎么向上管理，避免成为唯一的「背锅侠」？",
-      "link": "https://www.zhihu.com/question/1930588527810274249",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "为什么人在被赞美时，总是容易「感到不自在或怀疑」？",
-      "link": "https://www.zhihu.com/question/13999476703",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "46",
       "title": "为什么大家都讨厌开会？",
       "link": "https://www.zhihu.com/question/624661837",
       "heat": "59 万热度"
     },
     {
-      "rank": "47",
+      "rank": "38",
+      "title": "初二 15 岁的男孩不愿意上学了，不是在家玩手机就是想出去混社会，谁的话都不听，怎么办好？",
+      "link": "https://www.zhihu.com/question/1930648586137371077",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "39",
       "title": "如何给一个从未经历过战争的世界叙述战争的残酷？",
       "link": "https://www.zhihu.com/question/1923797024123393409",
       "heat": "59 万热度"
     },
     {
-      "rank": "48",
+      "rank": "40",
+      "title": "Chovy 在 EWC 决赛中选用卡牌大师取得胜利，之前的石油杯比赛中卡牌大师八战全败，这说明了什么？",
+      "link": "https://www.zhihu.com/question/1930671170102986322",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "41",
       "title": "领导让我一个人做两个人的事情，给我加一千元工资，我觉得钱少了，要么再招个人进来，我应该怎么跟领导说？",
       "link": "https://www.zhihu.com/question/1930767660519491506",
       "heat": "59 万热度"
     },
     {
-      "rank": "49",
+      "rank": "42",
       "title": "陶谦为什么选择将徐州送给刘备而不是其他人？",
       "link": "https://www.zhihu.com/question/641152468",
       "heat": "59 万热度"
     },
     {
-      "rank": "50",
+      "rank": "43",
+      "title": "为什么人在被赞美时，总是容易「感到不自在或怀疑」？",
+      "link": "https://www.zhihu.com/question/13999476703",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "44",
       "title": "家长绑绷带纠正婴儿吃手，致其手指肿胀、部分坏死，婴儿为什么会吃手？有必要纠正吗？",
       "link": "https://www.zhihu.com/question/1930908830012764740",
       "heat": "59 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "最流行的设计我家都安排上了，钱没少花但为什么家里看起来十分廉价？",
+      "link": "https://www.zhihu.com/question/1928417656580564113",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "《哈利波特》中，父辈的朋友四人掠夺小组中有背叛，而子辈铁三角却坚不可摧，说明什么问题？",
+      "link": "https://www.zhihu.com/question/12517715023",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "韩国电影为什么那么敢拍？",
+      "link": "https://www.zhihu.com/question/1914804831404693225",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "工作中不敢和领导请示汇报怎么办?",
+      "link": "https://www.zhihu.com/question/1929973847412683918",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "纯音乐小白，不懂为什么一提起作曲技术关注点都在和弦的连接和应用上，难道作为基本要素的节奏只是靠灵感?",
+      "link": "https://www.zhihu.com/question/784273602",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何评价 2025 年 7 月 22 日的《宝可梦直面会》?",
+      "link": "https://www.zhihu.com/question/1931141658210198031",
+      "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-07-25 07:44:54"
+  "generated_at": "2025-07-25 07:57:35"
 }
