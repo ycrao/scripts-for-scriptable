@@ -1,66 +1,66 @@
 {
-  "artifact_id": "5830712f-ff08-40d8-ba4a-0b96c219620a",
+  "artifact_id": "a08ec7a9-df21-4031-acca-7e2e26ab7efd",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "国务院部署逐步推行免费学前教育，有哪些信息值得关注？将带来哪些影响？",
       "link": "https://www.zhihu.com/question/1932158502983397756",
-      "heat": "530 万热度"
+      "heat": "514 万热度"
     },
     {
       "rank": "2",
       "title": "为何《红楼梦》把「宝玉初试云雨」与「刘姥姥一进荣国府」两件不相干的事放在同一章回？",
       "link": "https://www.zhihu.com/question/661329898",
-      "heat": "416 万热度"
+      "heat": "429 万热度"
     },
     {
       "rank": "3",
       "title": "贵州 609 分考生称被厦大马来分校误录取，称省招院志愿填报系统存在疏忽，怎样看此事？省招院有责任吗？",
       "link": "https://www.zhihu.com/question/1932072326620472852",
-      "heat": "389 万热度"
+      "heat": "392 万热度"
     },
     {
       "rank": "4",
       "title": "山姆的核心优势在此次危机中受到了多大程度的影响？山姆应如何重塑消费者信任？",
       "link": "https://www.zhihu.com/question/1932139113357730063",
-      "heat": "273 万热度"
+      "heat": "279 万热度"
     },
     {
       "rank": "5",
+      "title": "如何评价阿里一周内推出的第三款开源模型 Qwen3-235B-A22B-Thinking-2507？",
+      "link": "https://www.zhihu.com/question/1932198038518063621",
+      "heat": "138 万热度"
+    },
+    {
+      "rank": "6",
       "title": "张碧晨方称享有《年轮》永久演唱权利，依据是什么？",
       "link": "https://www.zhihu.com/question/1932164138550915270",
       "heat": "136 万热度"
     },
     {
-      "rank": "6",
-      "title": "如何评价阿里一周内推出的第三款开源模型 Qwen3-235B-A22B-Thinking-2507？",
-      "link": "https://www.zhihu.com/question/1932198038518063621",
-      "heat": "134 万热度"
-    },
-    {
       "rank": "7",
-      "title": "东北大学参加实习的同学称「浮选槽里是矿浆，类似于泥石流，人掉进去动不了」，矿浆是什么？为什么这么危险？",
-      "link": "https://www.zhihu.com/question/1931681253976944684",
-      "heat": "132 万热度"
+      "title": "如何评价游戏《我在地府打麻将》？",
+      "link": "https://www.zhihu.com/question/1930046620638118743",
+      "heat": "133 万热度"
     },
     {
       "rank": "8",
       "title": "《年轮》原唱争议闹到现在，对张碧晨和汪苏泷来讲，是不是双输的局面？",
       "link": "https://www.zhihu.com/question/1932176874190104211",
-      "heat": "131 万热度"
+      "heat": "132 万热度"
     },
     {
       "rank": "9",
       "title": "如何看待东北大学 6 名学生在中国黄金集团内蒙古矿业有限公司选矿厂参观时，坠入浮选槽身亡?",
       "link": "https://www.zhihu.com/question/1931487345355518159",
-      "heat": "130 万热度"
+      "heat": "131 万热度"
     },
     {
       "rank": "10",
-      "title": "如何评价游戏《我在地府打麻将》？",
-      "link": "https://www.zhihu.com/question/1930046620638118743",
-      "heat": "130 万热度"
+      "title": "东北大学参加实习的同学称「浮选槽里是矿浆，类似于泥石流，人掉进去动不了」，矿浆是什么？为什么这么危险？",
+      "link": "https://www.zhihu.com/question/1931681253976944684",
+      "heat": "131 万热度"
     },
     {
       "rank": "11",
@@ -72,37 +72,37 @@
       "rank": "12",
       "title": "如何看待鸿蒙智行、 AITO 汽车、智界汽车发文疑回应懂车帝测试「已看到某平台所谓『测试』，不予置评」？",
       "link": "https://www.zhihu.com/question/1932099011357181221",
-      "heat": "125 万热度"
+      "heat": "128 万热度"
     },
     {
       "rank": "13",
-      "title": "张碧晨的《年轮》原唱身份被取消，背后的原因是什么？对职业生涯有何影响？",
+      "title": "张碧晨的《年轮》原唱身份被取消，原因是什么？对职业生涯有何影响？",
       "link": "https://www.zhihu.com/question/1931436150138052843",
-      "heat": "121 万热度"
+      "heat": "127 万热度"
     },
     {
       "rank": "14",
       "title": "网友预定一餐厅要排队 13 年才能吃上，餐厅称每周只接待一桌食客，如何看待这种商业模式？合理吗？",
       "link": "https://www.zhihu.com/question/1931382228014822591",
-      "heat": "113 万热度"
+      "heat": "125 万热度"
     },
     {
       "rank": "15",
-      "title": "如今你还期待接下来的国产单机游戏吗？",
-      "link": "https://www.zhihu.com/question/1932102652742833332",
-      "heat": "98 万热度"
+      "title": "如果把二桃杀三士之计用在刘关张身上会怎么样？",
+      "link": "https://www.zhihu.com/question/7808575646",
+      "heat": "93 万热度"
     },
     {
       "rank": "16",
-      "title": "如果把二桃杀三士之计用在刘关张身上会怎么样？",
-      "link": "https://www.zhihu.com/question/7808575646",
-      "heat": "88 万热度"
+      "title": "如今你还期待接下来的国产单机游戏吗？",
+      "link": "https://www.zhihu.com/question/1932102652742833332",
+      "heat": "89 万热度"
     },
     {
       "rank": "17",
       "title": "有哪些战争游戏能够比较贴近真实战争？",
       "link": "https://www.zhihu.com/question/361123488",
-      "heat": "74 万热度"
+      "heat": "75 万热度"
     },
     {
       "rank": "18",
@@ -112,33 +112,33 @@
     },
     {
       "rank": "19",
-      "title": "全国 2800 座古镇里近一半成空城，游客为什么不爱逛古镇了？除了旅游，古镇还有哪些「振兴」的机会？",
-      "link": "https://www.zhihu.com/question/1931321805093693224",
-      "heat": "69 万热度"
+      "title": "如何评价秦昊在《扫毒风暴》中的表现？",
+      "link": "https://www.zhihu.com/question/1928382924283163546",
+      "heat": "71 万热度"
     },
     {
       "rank": "20",
-      "title": "如何评价秦昊在《扫毒风暴》中的表现？",
-      "link": "https://www.zhihu.com/question/1928382924283163546",
-      "heat": "69 万热度"
+      "title": "全国 2800 座古镇里近一半成空城，游客为什么不爱逛古镇了？除了旅游，古镇还有哪些「振兴」的机会？",
+      "link": "https://www.zhihu.com/question/1931321805093693224",
+      "heat": "70 万热度"
     },
     {
       "rank": "21",
-      "title": "教孩子会什么才是最重要？",
-      "link": "https://www.zhihu.com/question/1931632529321993806",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "22",
       "title": "谢霆锋为什么突然在 2014 年开始做菜？他的厨艺真的很好吗？",
       "link": "https://www.zhihu.com/question/1928968346826696336",
       "heat": "65 万热度"
     },
     {
-      "rank": "23",
+      "rank": "22",
       "title": "《巴别塔圣歌》测评，你对该游戏有哪些评价？",
       "link": "https://www.zhihu.com/question/621723997",
       "heat": "64 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "教孩子会什么才是最重要？",
+      "link": "https://www.zhihu.com/question/1931632529321993806",
+      "heat": "59 万热度"
     },
     {
       "rank": "24",
@@ -156,42 +156,42 @@
       "rank": "26",
       "title": "你记忆中没有网络的童年是什么样子的？",
       "link": "https://www.zhihu.com/question/9888112460",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "27",
       "title": "你最想念小时候吃过的什么食物？",
       "link": "https://www.zhihu.com/question/648871074",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "28",
       "title": "黄月英、孙尚香、关银屏、张星彩等三国女角色，姓名都是怎么「考证」出来的？",
       "link": "https://www.zhihu.com/question/656617155",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "你所在的城市，哪个老地名的来历最有趣？",
-      "link": "https://www.zhihu.com/question/1923708038688235676",
       "heat": "56 万热度"
     },
     {
-      "rank": "30",
+      "rank": "29",
       "title": "这几年我感觉 Windows 系统没有之前 XP 版本好用，这是为什么？",
       "link": "https://www.zhihu.com/question/4473754326",
       "heat": "56 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "领导让我共享资源可以拒绝吗?",
       "link": "https://www.zhihu.com/question/1926072341282156738",
       "heat": "56 万热度"
     },
     {
-      "rank": "32",
+      "rank": "31",
       "title": "《阿凡达 3：火与烬》首支预告片流出，通过预告你能发现哪些细节？",
       "link": "https://www.zhihu.com/question/1929484295275263964",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "《三角洲行动》跑刀选普坝还是机密大坝还是普通长弓？",
+      "link": "https://www.zhihu.com/question/1893239880307425533",
       "heat": "56 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
-      "title": "《三角洲行动》跑刀选普坝还是机密大坝还是普通长弓？",
-      "link": "https://www.zhihu.com/question/1893239880307425533",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "38",
       "title": "战场上真的有拼刺刀这种行为吗？",
       "link": "https://www.zhihu.com/question/37668111",
       "heat": "56 万热度"
     },
     {
-      "rank": "39",
-      "title": "初二 15 岁的男孩不愿意上学了，不是在家玩手机就是想出去混社会，谁的话都不听，怎么办好？",
-      "link": "https://www.zhihu.com/question/1930648586137371077",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "38",
       "title": "为什么《红楼梦》癸酉本在民间影响力越来越大？",
       "link": "https://www.zhihu.com/question/542737823",
       "heat": "56 万热度"
     },
     {
-      "rank": "41",
+      "rank": "39",
       "title": "怎么提亮肤色，让气色变好？",
       "link": "https://www.zhihu.com/question/27195251",
       "heat": "56 万热度"
     },
     {
-      "rank": "42",
-      "title": "假如你穿越到《崩坏：星穹铁道》的世界，但只是一个普通人，却无意间碰上了列车组，那你会选择登上列车吗？",
-      "link": "https://www.zhihu.com/question/1929251752168895336",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
+      "rank": "40",
       "title": "暑期因肥胖问题就诊儿童增加，专家提醒警惕「暑期肥」，该怎么预防孩子体重失控，避免悄悄变成「发福」儿童？",
       "link": "https://www.zhihu.com/question/1931411587194926445",
       "heat": "56 万热度"
     },
     {
-      "rank": "44",
+      "rank": "41",
+      "title": "假如你穿越到《崩坏：星穹铁道》的世界，但只是一个普通人，却无意间碰上了列车组，那你会选择登上列车吗？",
+      "link": "https://www.zhihu.com/question/1929251752168895336",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "42",
       "title": "天津的煎饼果子到底该夹什么才正宗？",
       "link": "https://www.zhihu.com/question/1930330008334857109",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
+      "rank": "43",
       "title": "你会建议为了 211 读土木专业吗？",
       "link": "https://www.zhihu.com/question/1928963609226084974",
       "heat": "56 万热度"
     },
     {
-      "rank": "46",
+      "rank": "44",
       "title": "工作中不敢和领导请示汇报怎么办?",
       "link": "https://www.zhihu.com/question/1929973847412683918",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "如何评价小说《钢铁火药与施法者》?",
+      "link": "https://www.zhihu.com/question/445891992",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "怎么才能破了减肥瘦了又胖的死循环啊？",
+      "link": "https://www.zhihu.com/question/1919916005376889732",
       "heat": "56 万热度"
     },
     {
       "rank": "47",
       "title": "如何评价新游戏《伐定天下》?",
       "link": "https://www.zhihu.com/question/1929541335569925152",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "48",
-      "title": "如何评价小说《钢铁火药与施法者》?",
-      "link": "https://www.zhihu.com/question/445891992",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "怎么才能破了减肥瘦了又胖的死循环啊？",
-      "link": "https://www.zhihu.com/question/1919916005376889732",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "50",
       "title": "「多筒分洗」成为趋势，多筒洗衣机对比单筒有哪些创新技术与核心优势 ？",
       "link": "https://www.zhihu.com/question/1930644544254354389",
       "heat": "55 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "封关后，普通人去海南与去香港购物会有什么区别？",
+      "link": "https://www.zhihu.com/question/1931612500023015213",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "2025 LCK 第三赛段焦点战 GEN vs T1，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1932141984954413440",
+      "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-07-26 13:41:07"
+  "generated_at": "2025-07-26 13:55:24"
 }
