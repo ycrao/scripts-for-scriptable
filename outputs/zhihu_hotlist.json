@@ -1,102 +1,102 @@
 {
-  "artifact_id": "fa252aa8-47ad-4c8f-8b98-d7d6f74a3e33",
+  "artifact_id": "0de77b32-7e40-4e5e-a09a-a51bea6d4824",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "女子面试后想删个人信息遭老板殴打骨折，涉事面试官被刑拘，面试后未入职是否有权要求删除个人信息？",
       "link": "https://www.zhihu.com/question/1932017406181630895",
-      "heat": "495 万热度"
+      "heat": "529 万热度"
     },
     {
       "rank": "2",
-      "title": "山姆的核心优势在此次危机中受到了多大程度的影响？山姆应如何重塑消费者信任？",
-      "link": "https://www.zhihu.com/question/1932139113357730063",
-      "heat": "362 万热度"
+      "title": "如何看待 7 月 26 日《名人面对面》节目对樊振东的专访？",
+      "link": "https://www.zhihu.com/question/1932484093238580866",
+      "heat": "403 万热度"
     },
     {
       "rank": "3",
-      "title": "如何看待 7 月 26 日《名人面对面》节目对樊振东的专访？",
-      "link": "https://www.zhihu.com/question/1932484093238580866",
-      "heat": "339 万热度"
+      "title": "山姆的核心优势在此次危机中受到了多大程度的影响？山姆应如何重塑消费者信任？",
+      "link": "https://www.zhihu.com/question/1932139113357730063",
+      "heat": "356 万热度"
     },
     {
       "rank": "4",
       "title": "父母报了江浙沪出发 699 元六天五晚的越南芽庄旅行团，靠谱吗？可能会踩哪些坑？",
       "link": "https://www.zhihu.com/question/1924055615451436185",
-      "heat": "280 万热度"
+      "heat": "305 万热度"
     },
     {
       "rank": "5",
-      "title": "网友预定一餐厅要排队 13 年才能吃上，餐厅称每周只接待一桌食客，如何看待这种商业模式？合理吗？",
-      "link": "https://www.zhihu.com/question/1931382228014822591",
-      "heat": "200 万热度"
+      "title": "北京大学自 2025 级学生起，含有学业评价的工作中不再使用绩点，如何看待这一变化？",
+      "link": "https://www.zhihu.com/question/1932467148153911274",
+      "heat": "243 万热度"
     },
     {
       "rank": "6",
-      "title": "2025 年 7 月 26 日凤凰卫视名人面对面樊振东专访，看完后有什么新感受，预测未来可能有哪些方向？",
-      "link": "https://www.zhihu.com/question/1932487953717921295",
-      "heat": "181 万热度"
+      "title": "网友预定一餐厅要排队 13 年才能吃上，餐厅称每周只接待一桌食客，如何看待这种商业模式？合理吗？",
+      "link": "https://www.zhihu.com/question/1931382228014822591",
+      "heat": "204 万热度"
     },
     {
       "rank": "7",
-      "title": "为何《红楼梦》把「宝玉初试云雨」与「刘姥姥一进荣国府」两件不相干的事放在同一章回？",
-      "link": "https://www.zhihu.com/question/661329898",
-      "heat": "147 万热度"
-    },
-    {
-      "rank": "8",
       "title": "张碧晨方争唯一原唱有何好处?",
       "link": "https://www.zhihu.com/question/1931991361801925903",
       "heat": "141 万热度"
     },
     {
-      "rank": "9",
+      "rank": "8",
       "title": "女子一家一年半内 4 人确诊癌症，且家里都有癌症病史，遗传到底起多大作用？日常该注意哪些问题进行预防？",
       "link": "https://www.zhihu.com/question/1932132691421128481",
-      "heat": "131 万热度"
+      "heat": "135 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "宇树发布双足机器人新品 Unitree R1，售价 3.99 万元起，如何评价这款机器人？竞争力怎样？",
+      "link": "https://www.zhihu.com/question/1932128790533900163",
+      "heat": "133 万热度"
     },
     {
       "rank": "10",
-      "title": "宇树发布双足机器人新品 Unitree R1，售价 3.99 万元起，如何评价这款机器人？竞争力怎样？",
-      "link": "https://www.zhihu.com/question/1932128790533900163",
-      "heat": "130 万热度"
+      "title": "继 389 分上郑州大学后，黑龙江一考生 367 分被华北水利水电大学录取，如何看待低分「捡漏」名校？",
+      "link": "https://www.zhihu.com/question/1932013040053760917",
+      "heat": "126 万热度"
     },
     {
       "rank": "11",
-      "title": "继 389 分上郑州大学后，黑龙江一考生 367 分被华北水利水电大学录取，如何看待低分「捡漏」名校？",
-      "link": "https://www.zhihu.com/question/1932013040053760917",
-      "heat": "123 万热度"
+      "title": "河南的极端高温天气导致蚊子被热死，这是否意味着其他生物也会受到类似的影响？",
+      "link": "https://www.zhihu.com/question/1929268139738235088",
+      "heat": "105 万热度"
     },
     {
       "rank": "12",
-      "title": "如何评价单依纯在《歌手 2025》第十一期演唱的《君》？",
-      "link": "https://www.zhihu.com/question/1932153673812803747",
-      "heat": "104 万热度"
+      "title": "有没有从中国传出去的农作物？",
+      "link": "https://www.zhihu.com/question/1931756879010330311",
+      "heat": "96 万热度"
     },
     {
       "rank": "13",
-      "title": "河南的极端高温天气导致蚊子被热死，这是否意味着其他生物也会受到类似的影响？",
-      "link": "https://www.zhihu.com/question/1929268139738235088",
-      "heat": "102 万热度"
+      "title": "为何《红楼梦》把「宝玉初试云雨」与「刘姥姥一进荣国府」两件不相干的事放在同一章回？",
+      "link": "https://www.zhihu.com/question/661329898",
+      "heat": "79 万热度"
     },
     {
       "rank": "14",
-      "title": "有没有从中国传出去的农作物？",
-      "link": "https://www.zhihu.com/question/1931756879010330311",
-      "heat": "87 万热度"
+      "title": "小米邀请张震岳拍摄 YU7 广告片，如何评价其中 4+2 的设定，和骑友真实出行场景有哪些差异？",
+      "link": "https://www.zhihu.com/question/1931710684787381435",
+      "heat": "79 万热度"
     },
     {
       "rank": "15",
-      "title": "小米邀请张震岳拍摄 YU7 广告片，如何评价其中 4+2 的设定，和骑友真实出行场景有哪些差异？",
-      "link": "https://www.zhihu.com/question/1931710684787381435",
-      "heat": "78 万热度"
+      "title": "如何评价单依纯在《歌手 2025》第十一期演唱的《君》？",
+      "link": "https://www.zhihu.com/question/1932153673812803747",
+      "heat": "76 万热度"
     },
     {
       "rank": "16",
-      "title": "「人活着就是为了开心」如何有力地论证或反驳这种观点?",
-      "link": "https://www.zhihu.com/question/1932129405947327009",
-      "heat": "67 万热度"
+      "title": "电影《长安的荔枝》中有哪些细节和隐喻？",
+      "link": "https://www.zhihu.com/question/1930229835285893150",
+      "heat": "73 万热度"
     },
     {
       "rank": "17",
@@ -106,92 +106,92 @@
     },
     {
       "rank": "18",
-      "title": "你所在的城市，30 年前最热闹的商业街现在变成什么样了？",
-      "link": "https://www.zhihu.com/question/1923707598101770722",
-      "heat": "60 万热度"
+      "title": "「人活着就是为了开心」如何有力地论证或反驳这种观点?",
+      "link": "https://www.zhihu.com/question/1932129405947327009",
+      "heat": "59 万热度"
     },
     {
       "rank": "19",
-      "title": "上海「十里洋场」曾是怎样的繁华景象？",
-      "link": "https://www.zhihu.com/question/1924069684157838434",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "你的城市历史上是否存在「消失的行业」？最后一代从业者还在吗？",
-      "link": "https://www.zhihu.com/question/1923709070898062549",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "21",
       "title": "买辆车的费用打车一辈子都用不完，那么买车的意义何在?",
       "link": "https://www.zhihu.com/question/1931279126758692647",
       "heat": "59 万热度"
     },
     {
+      "rank": "20",
+      "title": "你所在的城市，30 年前最热闹的商业街现在变成什么样了？",
+      "link": "https://www.zhihu.com/question/1923707598101770722",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "上海「十里洋场」曾是怎样的繁华景象？",
+      "link": "https://www.zhihu.com/question/1924069684157838434",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "22",
-      "title": "北京大学自 2025 级学生起，含有学业评价的工作中不再使用绩点，如何看待这一变化？",
-      "link": "https://www.zhihu.com/question/1932467148153911274",
-      "heat": "59 万热度"
+      "title": "你的城市历史上是否存在「消失的行业」？最后一代从业者还在吗？",
+      "link": "https://www.zhihu.com/question/1923709070898062549",
+      "heat": "58 万热度"
     },
     {
       "rank": "23",
-      "title": "如何长期保持高能量状态？",
-      "link": "https://www.zhihu.com/question/1932074315668502266",
-      "heat": "58 万热度"
+      "title": "哪一个窍门永久地改变了你的写作能力?",
+      "link": "https://www.zhihu.com/question/588215383",
+      "heat": "57 万热度"
     },
     {
       "rank": "24",
       "title": "天气越来越热，冰杯、解暑饮品等「清凉经济」盛行，冰淇淋市场却持续遇冷，如何看待这一现象？",
       "link": "https://www.zhihu.com/question/1930956053421458915",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "哪一个窍门永久地改变了你的写作能力?",
-      "link": "https://www.zhihu.com/question/588215383",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "河北暴雨冲毁养殖场，内有 500 万只蝎子，若蝎子被冲走，会带来哪些潜在风险？",
-      "link": "https://www.zhihu.com/question/1932148496246464600",
       "heat": "57 万热度"
     },
     {
-      "rank": "27",
+      "rank": "25",
+      "title": "如何长期保持高能量状态？",
+      "link": "https://www.zhihu.com/question/1932074315668502266",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
       "title": "故事背景设定最悲伤的游戏是哪个？",
       "link": "https://www.zhihu.com/question/25536315",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "如何评价南昌这个城市?",
+      "link": "https://www.zhihu.com/question/1888745617599226595",
+      "heat": "55 万热度"
     },
     {
       "rank": "28",
-      "title": "为什么明明恐高，但站在高处就有「纵身跳下去」的冲动？",
-      "link": "https://www.zhihu.com/question/34036279",
+      "title": "逆向养娃，你认同吗？允许孩子犯错误，允许孩子不听话，允许孩子发脾气，允许孩子不分享，允许孩子乱花钱？",
+      "link": "https://www.zhihu.com/question/1931393960615613116",
       "heat": "55 万热度"
     },
     {
       "rank": "29",
-      "title": "这几年我感觉 Windows 系统没有之前 XP 版本好用，这是为什么？",
-      "link": "https://www.zhihu.com/question/4473754326",
+      "title": "如何看待悲情球王姆巴佩的职业生涯？",
+      "link": "https://www.zhihu.com/question/1914404134246913111",
       "heat": "55 万热度"
     },
     {
       "rank": "30",
-      "title": "韩国电影为什么那么敢拍？",
-      "link": "https://www.zhihu.com/question/1914804831404693225",
+      "title": "教孩子会什么才是最重要？",
+      "link": "https://www.zhihu.com/question/1931632529321993806",
       "heat": "55 万热度"
     },
     {
       "rank": "31",
-      "title": "你会建议为了 211 读土木专业吗？",
-      "link": "https://www.zhihu.com/question/1928963609226084974",
+      "title": "假如你穿越到《崩坏：星穹铁道》的世界，但只是一个普通人，却无意间碰上了列车组，那你会选择登上列车吗？",
+      "link": "https://www.zhihu.com/question/1929251752168895336",
       "heat": "55 万热度"
     },
     {
       "rank": "32",
-      "title": "如何评价小说《钢铁火药与施法者》?",
-      "link": "https://www.zhihu.com/question/445891992",
+      "title": "如今你还期待接下来的国产单机游戏吗？",
+      "link": "https://www.zhihu.com/question/1932102652742833332",
       "heat": "55 万热度"
     },
     {
@@ -220,20 +220,20 @@
     },
     {
       "rank": "37",
+      "title": "《南京照相馆》应该是部好片子，但我不忍去看，你会去看吗？",
+      "link": "https://www.zhihu.com/question/1930263581565386867",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "38",
       "title": "《南京照相馆》为什么好评如潮？",
       "link": "https://www.zhihu.com/question/1930658871032128672",
       "heat": "55 万热度"
     },
     {
-      "rank": "38",
-      "title": "逆向养娃，你认同吗？允许孩子犯错误，允许孩子不听话，允许孩子发脾气，允许孩子不分享，允许孩子乱花钱？",
-      "link": "https://www.zhihu.com/question/1931393960615613116",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "39",
-      "title": "如何看待悲情球王姆巴佩的职业生涯？",
-      "link": "https://www.zhihu.com/question/1914404134246913111",
+      "title": "有没有快灭绝，最后被人类救活的动物？",
+      "link": "https://www.zhihu.com/question/6520587893",
       "heat": "55 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "教孩子会什么才是最重要？",
-      "link": "https://www.zhihu.com/question/1931632529321993806",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "如何评价南昌这个城市?",
-      "link": "https://www.zhihu.com/question/1888745617599226595",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "假如你穿越到《崩坏：星穹铁道》的世界，但只是一个普通人，却无意间碰上了列车组，那你会选择登上列车吗？",
-      "link": "https://www.zhihu.com/question/1929251752168895336",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "有没有快灭绝，最后被人类救活的动物？",
-      "link": "https://www.zhihu.com/question/6520587893",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "你所在的城市，哪个历史事件最能代表它的性格？",
-      "link": "https://www.zhihu.com/question/1923707866663057152",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "46",
       "title": "《大宅门》里老太太为什么到死都不让杨九红戴孝，这是一种什么心理？",
       "link": "https://www.zhihu.com/question/293831493",
       "heat": "55 万热度"
     },
     {
-      "rank": "47",
-      "title": "《南京照相馆》应该是部好片子，但我不忍去看，你会去看吗？",
-      "link": "https://www.zhihu.com/question/1930263581565386867",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "48",
+      "rank": "42",
       "title": "从影视作品中「出圈」的方言有哪些？",
       "link": "https://www.zhihu.com/question/1930334961199703673",
       "heat": "55 万热度"
     },
     {
-      "rank": "49",
-      "title": "WNBA 全明星球员身穿「欠钱还钱」T 恤抗议，呼吁提高薪酬，这反映了哪些问题？",
-      "link": "https://www.zhihu.com/question/1930652845138502837",
+      "rank": "43",
+      "title": "有哪些战争游戏能够比较贴近真实战争？",
+      "link": "https://www.zhihu.com/question/361123488",
       "heat": "55 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "如何评价游戏《明末：渊虚之羽》？目前你的实际游玩体验是怎样的？",
+      "link": "https://www.zhihu.com/question/1931679751623369225",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "你所在的城市，哪个历史事件最能代表它的性格？",
+      "link": "https://www.zhihu.com/question/1923707866663057152",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "2025 LCK 第三赛段焦点战 GEN vs T1，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1932141984954413440",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如果诸葛亮跟了孙权，是不是最后也会是陆逊那种下场？",
+      "link": "https://www.zhihu.com/question/1899973643993326156",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "7 月 25 日山西临汾市襄汾县发生 4.2 级地震，目前情况如何？哪些地方有震感？",
+      "link": "https://www.zhihu.com/question/1932022737385252040",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如何评价《一人之下》漫画第 726（769）话？",
+      "link": "https://www.zhihu.com/question/1931871910091785025",
+      "heat": "54 万热度"
     },
     {
       "rank": "50",
       "title": "「多筒分洗」成为趋势，多筒洗衣机对比单筒有哪些创新技术与核心优势 ？",
       "link": "https://www.zhihu.com/question/1930644544254354389",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-07-26 19:42:03"
+  "generated_at": "2025-07-26 19:54:49"
 }
