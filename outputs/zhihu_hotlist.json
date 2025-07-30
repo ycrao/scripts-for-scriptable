@@ -1,239 +1,239 @@
 {
-  "artifact_id": "025a9743-9260-44f6-9111-b8073665ead6",
+  "artifact_id": "83c681e5-4471-4880-8978-eb895e11264b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "7 月 30 日堪察加东岸发生 8.8 级地震，我国沿海、日本、美国都将受到海啸影响，具体情况如何？",
       "link": "https://www.zhihu.com/question/1933799561345855869",
-      "heat": "2249 万热度"
+      "heat": "1929 万热度"
     },
     {
       "rank": "2",
-      "title": "上海市民称扔个东西要花几百元，扔旧的比买新的还难，为什么会这样？有哪些好的解决办法？",
-      "link": "https://www.zhihu.com/question/1933096540207014478",
-      "heat": "243 万热度"
+      "title": "比亚迪上市以来最大分红，豪掷 120 亿元回报股东，这样的分红方案对股东和公司未来的发展意味着什么？",
+      "link": "https://www.zhihu.com/question/1932546558806713116",
+      "heat": "258 万热度"
     },
     {
       "rank": "3",
-      "title": "比亚迪上市以来最大分红，豪掷 120 亿元回报股东，这样的分红方案对股东和公司未来的发展意味着什么？",
-      "link": "https://www.zhihu.com/question/1932546558806713116",
-      "heat": "238 万热度"
+      "title": "易拉罐拉环打开时总有一部分要泡到饮料里，感觉很容易导致细菌病毒进入，会有健康风险吗？为什么要这么设计？",
+      "link": "https://www.zhihu.com/question/1933446862981040126",
+      "heat": "156 万热度"
     },
     {
       "rank": "4",
-      "title": "易拉罐拉环打开时总有一部分要泡到饮料里，感觉很容易导致细菌病毒进入，会有健康风险吗？为什么要这么设计？",
-      "link": "https://www.zhihu.com/question/1933446862981040126",
-      "heat": "151 万热度"
+      "title": "上海市民称扔个东西要花几百元，扔旧的比买新的还难，为什么会这样？有哪些好的解决办法？",
+      "link": "https://www.zhihu.com/question/1933096540207014478",
+      "heat": "121 万热度"
     },
     {
       "rank": "5",
-      "title": "有人说宋太祖赵匡胤不是家中大哥，为什么大家都把他称呼为赵大呢？",
-      "link": "https://www.zhihu.com/question/1933213089513322058",
-      "heat": "89 万热度"
+      "title": "为什么越来越多年轻人放弃「王者荣耀」，开始沉迷「抓大鹅」「拆螺丝」等小游戏？这和他们的生活状态有关吗？",
+      "link": "https://www.zhihu.com/question/1933143704744460394",
+      "heat": "104 万热度"
     },
     {
       "rank": "6",
-      "title": "六安的拼音读音争议再次成为焦点，背后的原因是什么？如何平衡传统读音与现代规范？",
-      "link": "https://www.zhihu.com/question/1931723602354475736",
-      "heat": "89 万热度"
+      "title": "有人说宋太祖赵匡胤不是家中大哥，为什么大家都把他称呼为赵大呢？",
+      "link": "https://www.zhihu.com/question/1933213089513322058",
+      "heat": "90 万热度"
     },
     {
       "rank": "7",
-      "title": "法院认为不能认定武汉大学图书馆男生实施性骚扰，学校应不应该撤销处分？撤销处分难点在哪？",
-      "link": "https://www.zhihu.com/question/1933630708687005686",
+      "title": "酷玩乐队主唱称梅西为「体育界历史第一人」，这一称号是否合理？如何定义体育界的历史第一人？",
+      "link": "https://www.zhihu.com/question/1933492925037256793",
       "heat": "87 万热度"
     },
     {
       "rank": "8",
-      "title": "酷玩乐队主唱称梅西为「体育界历史第一人」，这一称号是否合理？如何定义体育界的历史第一人？",
-      "link": "https://www.zhihu.com/question/1933492925037256793",
-      "heat": "85 万热度"
+      "title": "如何看待原生鸿蒙微信安装量超 1000 万？",
+      "link": "https://www.zhihu.com/question/1933089981712273745",
+      "heat": "86 万热度"
     },
     {
       "rank": "9",
-      "title": "如何看待原生鸿蒙微信安装量超 1000 万？",
-      "link": "https://www.zhihu.com/question/1933089981712273745",
-      "heat": "80 万热度"
+      "title": "六安的拼音读音争议再次成为焦点，背后的原因是什么？如何平衡传统读音与现代规范？",
+      "link": "https://www.zhihu.com/question/1931723602354475736",
+      "heat": "85 万热度"
     },
     {
       "rank": "10",
-      "title": "为什么越来越多年轻人放弃「王者荣耀」，开始沉迷「抓大鹅」「拆螺丝」等小游戏？这和他们的生活状态有关吗？",
-      "link": "https://www.zhihu.com/question/1933143704744460394",
-      "heat": "78 万热度"
+      "title": "特斯拉餐厅 6 小时狂赚 4.7 万美元，明年或将在上海开业，这种模式在上海有多大吸引力？",
+      "link": "https://www.zhihu.com/question/1931659120500536762",
+      "heat": "84 万热度"
     },
     {
       "rank": "11",
-      "title": "特斯拉餐厅 6 小时狂赚 4.7 万美元，明年或将在上海开业，这种模式在上海有多大吸引力？",
-      "link": "https://www.zhihu.com/question/1931659120500536762",
-      "heat": "77 万热度"
+      "title": "美国各州各自独立并有各自的法律，那美国联邦政府如何使这个国家做到团结统一？",
+      "link": "https://www.zhihu.com/question/20208241",
+      "heat": "74 万热度"
     },
     {
       "rank": "12",
-      "title": "电影《南京照相馆》中有哪些细思极恐的细节？",
-      "link": "https://www.zhihu.com/question/1933547402083656464",
-      "heat": "73 万热度"
+      "title": "孩子生日分蛋糕把第一块蛋糕给了你，说妈妈是他最爱的人，爷爷奶奶都在场，这时你会怎么办？",
+      "link": "https://www.zhihu.com/question/1930902270091964795",
+      "heat": "72 万热度"
     },
     {
       "rank": "13",
-      "title": "百万网红小英被曝要离婚，其老公称「她一天花 10 万，自己和孩子只是她赚钱的流量」，具体是怎么回事？",
-      "link": "https://www.zhihu.com/question/1933559617612375448",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "14",
-      "title": "美国各州各自独立并有各自的法律，那美国联邦政府如何使这个国家做到团结统一？",
-      "link": "https://www.zhihu.com/question/20208241",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "假如贾珠没死，李纨可以当家吗？",
-      "link": "https://www.zhihu.com/question/1917710177924278096",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "李阳疯狂英语为什么没落了？",
-      "link": "https://www.zhihu.com/question/19656357",
+      "title": "暑期辅导老大作业时老二总哭闹，分身乏术让老大自学，结果被说「妈妈偏心」，该怎么平衡对两个孩子的关注？",
+      "link": "https://www.zhihu.com/question/1932569251954291255",
       "heat": "66 万热度"
     },
     {
-      "rank": "17",
-      "title": "孩子生日分蛋糕把第一块蛋糕给了你，说妈妈是他最爱的人。爷爷奶奶都在场这时你会怎么办？",
-      "link": "https://www.zhihu.com/question/1930902270091964795",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "18",
+      "rank": "14",
       "title": "如何评价《明末：渊虚之羽》的篝火怪设计，会让你感到不适或愤怒吗？",
       "link": "https://www.zhihu.com/question/1931405170882904885",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "大二上开始搞 ACM 有意义吗?",
+      "link": "https://www.zhihu.com/question/729502431",
       "heat": "63 万热度"
     },
     {
-      "rank": "19",
-      "title": "计划暑假读 5 本名著，翻开书总觉得「太枯燥读不进去」，读了也记不住，家长该怎么培养孩子读名著的兴趣？",
-      "link": "https://www.zhihu.com/question/1930952609172268899",
-      "heat": "62 万热度"
+      "rank": "16",
+      "title": "南京为什么会满大街种满梧桐树？",
+      "link": "https://www.zhihu.com/question/1929848100958245396",
+      "heat": "63 万热度"
     },
     {
-      "rank": "20",
+      "rank": "17",
+      "title": "计划暑假读 5 本名著，翻开书总觉得「太枯燥读不进去」，读了也记不住，家长该怎么培养孩子读名著的兴趣？",
+      "link": "https://www.zhihu.com/question/1930952609172268899",
+      "heat": "63 万热度"
+    },
+    {
+      "rank": "18",
       "title": "什么是惯性参考系？",
       "link": "https://www.zhihu.com/question/412173406",
       "heat": "62 万热度"
     },
     {
+      "rank": "19",
+      "title": "假如贾珠没死，李纨可以当家吗？",
+      "link": "https://www.zhihu.com/question/1917710177924278096",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "心情不好时，你一般用什么方法去化解?",
+      "link": "https://www.zhihu.com/question/1923462416718595919",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "21",
-      "title": "南京为什么会满大街种满梧桐树？",
-      "link": "https://www.zhihu.com/question/1929848100958245396",
-      "heat": "61 万热度"
+      "title": "电影《南京照相馆》中有哪些细思极恐的细节？",
+      "link": "https://www.zhihu.com/question/1933547402083656464",
+      "heat": "57 万热度"
     },
     {
       "rank": "22",
-      "title": "心情不好时，你一般用什么方法去化解?",
-      "link": "https://www.zhihu.com/question/1923462416718595919",
-      "heat": "60 万热度"
+      "title": "李阳疯狂英语为什么没落了？",
+      "link": "https://www.zhihu.com/question/19656357",
+      "heat": "56 万热度"
     },
     {
       "rank": "23",
       "title": "城市的哪些元素，可以被称作这座城市的「活化石」？",
       "link": "https://www.zhihu.com/question/1929476107029160456",
-      "heat": "60 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "24",
       "title": "你当地城市的周末市场和集市上，有注意到哪些细节最能反映当地人的生活方式？",
       "link": "https://www.zhihu.com/question/1928497367553934871",
-      "heat": "60 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "25",
-      "title": "哪一刻你突然觉得自己「不属于这里」？",
-      "link": "https://www.zhihu.com/question/1924073717694165327",
-      "heat": "59 万热度"
+      "title": "游泳世锦赛，潘展乐 100 米自由泳无缘决赛，如何评价他的比赛表现？",
+      "link": "https://www.zhihu.com/question/1933977633068119325",
+      "heat": "56 万热度"
     },
     {
       "rank": "26",
-      "title": "为什么早期 TVB 里面的高知女性很有魅力？",
-      "link": "https://www.zhihu.com/question/1922269410556638378",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "领导说年轻人不要太看重工资，格局大一点，要看成长机会，这到底是为我好，还是在洗脑？",
-      "link": "https://www.zhihu.com/question/1933811617239368649",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "《南京照相馆》票房破 7 亿领跑暑期档，如何评价这一成绩？题材对于票房的加成大吗？",
-      "link": "https://www.zhihu.com/question/1933915921820378620",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "刘备那么擅于识人，为何在荆州期间却没发现邓艾这个奇才？以至于因错过邓艾，最后埋下魏灭蜀的隐患？",
-      "link": "https://www.zhihu.com/question/1933445716346397591",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "凯迪拉克这个品牌有什么吸引人的地方？",
-      "link": "https://www.zhihu.com/question/317553892",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "如何评价《原神》5.8 夏活？",
-      "link": "https://www.zhihu.com/question/1933828630674388150",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "英特尔首次承认可能取消 14A 制程节点及后续开发，这背后的原因是什么？",
-      "link": "https://www.zhihu.com/question/1932047553169433700",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "常州队在「苏超」比赛中一球未进，为什么却未遭到嘲笑和指责？",
-      "link": "https://www.zhihu.com/question/1929597056575604270",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "有哪些让你眼前一亮的游戏机制？",
-      "link": "https://www.zhihu.com/question/68572645",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "单位年会，领导让你采购水果，并暗示你去他指定的一家去采购，但那家水果店水果经常积压不新鲜，你怎么办？",
-      "link": "https://www.zhihu.com/question/1933034512343861131",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "印度 1 岁男童误将眼镜蛇当玩具撕裂咬死后幸存，这个行为有多危险？哪些警示意义？",
-      "link": "https://www.zhihu.com/question/1932866068239606102",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "37",
       "title": "为什么进入青春期后，情绪总是像「过山车」一样容易波动，明明没发生大事却突然烦躁或难过？",
       "link": "https://www.zhihu.com/question/1931206565781800364",
       "heat": "56 万热度"
     },
     {
+      "rank": "27",
+      "title": "以《原神》目前游戏内剧情而言，艾莉丝的「丈夫」会是什么人，ta 的战力位格、外表形态最可能是什么样子？",
+      "link": "https://www.zhihu.com/question/1933485377995383786",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "一线城市家长追捧「凯迪克奖绘本」，三四线沉迷 9.9 元盗版书，儿童阅读是否存在阶层分化？",
+      "link": "https://www.zhihu.com/question/1932083473998378878",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "常州队在「苏超」比赛中一球未进，为什么却未遭到嘲笑和指责？",
+      "link": "https://www.zhihu.com/question/1929597056575604270",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "为什么中学课本正在逐渐删除 cot 、 sec 、 csc？",
+      "link": "https://www.zhihu.com/question/333434009",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "如何评价电视剧《凡人修仙传》7-8 集？",
+      "link": "https://www.zhihu.com/question/1933602585018867767",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "领导说年轻人不要太看重工资，格局大一点，要看成长机会，这到底是为我好，还是在洗脑？",
+      "link": "https://www.zhihu.com/question/1933811617239368649",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "倾听别人的倾诉（倒苦水抱怨等），并且迎合回应表示理解同情，这是不是对人的一种善意尊重？",
+      "link": "https://www.zhihu.com/question/659792549",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "刘备那么擅于识人，为何在荆州期间却没发现邓艾这个奇才？以至于因错过邓艾，最后埋下魏灭蜀的隐患？",
+      "link": "https://www.zhihu.com/question/1933445716346397591",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "单位年会，领导让你采购水果，并暗示你去他指定的一家去采购，但那家水果店水果经常积压不新鲜，你怎么办？",
+      "link": "https://www.zhihu.com/question/1933034512343861131",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "哪一刻你突然觉得自己「不属于这里」？",
+      "link": "https://www.zhihu.com/question/1924073717694165327",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "如果格斗场大小缩小到电话亭、电梯间大小，咏春会不会成为最强武艺?",
+      "link": "https://www.zhihu.com/question/1931674816043282849",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "38",
-      "title": "中美经贸会谈最新进展公布，继续推动美方暂停的对等关税 24% 如期展期，还有哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1933787184659403917",
+      "title": "为什么欧洲有很多绵延多年的家族，而中国却有「富不过三代」的说法？",
+      "link": "https://www.zhihu.com/question/626301843",
       "heat": "56 万热度"
     },
     {
       "rank": "39",
-      "title": "一线城市家长追捧「凯迪克奖绘本」，三四线沉迷 9.9 元盗版书，儿童阅读是否存在阶层分化？",
-      "link": "https://www.zhihu.com/question/1932083473998378878",
+      "title": "你给孩子最大的托底是什么？",
+      "link": "https://www.zhihu.com/question/1932932490282144372",
       "heat": "56 万热度"
     },
     {
@@ -244,38 +244,38 @@
     },
     {
       "rank": "41",
-      "title": "为什么中学课本正在逐渐删除 cot 、 sec 、 csc？",
-      "link": "https://www.zhihu.com/question/333434009",
+      "title": "凯迪拉克这个品牌有什么吸引人的地方？",
+      "link": "https://www.zhihu.com/question/317553892",
       "heat": "56 万热度"
     },
     {
       "rank": "42",
-      "title": "如何评价电视剧《凡人修仙传》7-8 集？",
-      "link": "https://www.zhihu.com/question/1933602585018867767",
+      "title": "河南一家女儿患暴发性心肌炎去世后，儿子又患同种病进 ICU，什么是暴发性心肌炎？孩子接连患病有关联吗？",
+      "link": "https://www.zhihu.com/question/1933438883330220380",
       "heat": "56 万热度"
     },
     {
       "rank": "43",
-      "title": "倾听别人的倾诉（倒苦水抱怨等），并且迎合回应表示理解同情，这是不是对人的一种善意尊重？",
-      "link": "https://www.zhihu.com/question/659792549",
+      "title": "上班尽快完成了任务，被领导说工作不饱和，怎么办？",
+      "link": "https://www.zhihu.com/question/1918443713824290801",
       "heat": "56 万热度"
     },
     {
       "rank": "44",
-      "title": "如果格斗场大小缩小到电话亭、电梯间大小，咏春会不会成为最强武艺?",
-      "link": "https://www.zhihu.com/question/1931674816043282849",
+      "title": "暑期档电影票房突破 50 亿元，长安的荔枝、南京照相馆、东极岛，你最想去看哪个？哪部适合带孩子去看？",
+      "link": "https://www.zhihu.com/question/1933178430549104197",
       "heat": "56 万热度"
     },
     {
       "rank": "45",
-      "title": "老妈有哪些惊艳到你的收纳智慧？",
-      "link": "https://www.zhihu.com/question/651485684",
+      "title": "孩子在假期里闹着要养小宠物，有什么好养又没有较大气味的小可爱？",
+      "link": "https://www.zhihu.com/question/1931700289381049237",
       "heat": "56 万热度"
     },
     {
       "rank": "46",
-      "title": "为什么欧洲有很多绵延多年的家族，而中国却有「富不过三代」的说法？",
-      "link": "https://www.zhihu.com/question/626301843",
+      "title": "如何看待《三国杀》即将推出新武将凯撒和第七种势力「西势力」？",
+      "link": "https://www.zhihu.com/question/1932735316579550801",
       "heat": "56 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "河南一家女儿患暴发性心肌炎去世后，儿子又患同种病进 ICU，什么是暴发性心肌炎？孩子接连患病有关联吗？",
-      "link": "https://www.zhihu.com/question/1933438883330220380",
+      "title": "在你所在的城市，有哪些动人的传说？",
+      "link": "https://www.zhihu.com/question/1928422859790872768",
       "heat": "56 万热度"
     },
     {
       "rank": "49",
-      "title": "上班尽快完成了任务，被领导说工作不饱和，怎么办？",
-      "link": "https://www.zhihu.com/question/1918443713824290801",
+      "title": "老妈有哪些惊艳到你的收纳智慧？",
+      "link": "https://www.zhihu.com/question/651485684",
       "heat": "56 万热度"
     },
     {
       "rank": "50",
-      "title": "暑期档电影票房突破 50 亿元，长安的荔枝、南京照相馆、东极岛，你最想去看哪个？哪部适合带孩子去看？",
-      "link": "https://www.zhihu.com/question/1933178430549104197",
+      "title": "《南京照相馆》票房破 7 亿领跑暑期档，如何评价这一成绩？题材对于票房的加成大吗？",
+      "link": "https://www.zhihu.com/question/1933915921820378620",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-07-30 21:02:39"
+  "generated_at": "2025-07-30 21:52:21"
 }
