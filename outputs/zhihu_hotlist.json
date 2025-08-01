@@ -1,66 +1,66 @@
 {
-  "artifact_id": "ed5e7ca7-842c-43bf-be51-a25fbb4edd52",
+  "artifact_id": "3e96f5f7-f6fb-4d18-9c35-00b36c5a1175",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "武汉大学通报，对肖某某纪律处分、杨某某学位论文等进行全面调查复核，此次事件暴露了哪些问题？",
       "link": "https://www.zhihu.com/question/1934664649212683483",
-      "heat": "1663 万热度"
+      "heat": "1909 万热度"
     },
     {
       "rank": "2",
       "title": "宗馥莉败诉，香港高院下令「宗馥莉暂不得挪用香港汇丰户口 18 亿美元资产」，这意味着什么？",
       "link": "https://www.zhihu.com/question/1934652287306920668",
-      "heat": "802 万热度"
+      "heat": "894 万热度"
     },
     {
       "rank": "3",
       "title": "东风柳汽回应理想对撞卡车测试，称严重误导、侵权，这类测试的合规流程是怎样的？测试背后是否存在误导嫌疑？",
       "link": "https://www.zhihu.com/question/1934360299407898467",
-      "heat": "593 万热度"
+      "heat": "744 万热度"
     },
     {
       "rank": "4",
       "title": "杨迪自曝在高铁上干吃蒙脱石散差点窒息，为什么会这样？还有哪些食品也存在类似风险？",
       "link": "https://www.zhihu.com/question/1934268446025147964",
-      "heat": "393 万热度"
+      "heat": "360 万热度"
     },
     {
       "rank": "5",
       "title": "男子捡野生菌给狗吃「没事」，一家三口吃完后中毒进医院，为什么会出现狗没事人中毒的情况？如何辨别毒蘑菇？",
       "link": "https://www.zhihu.com/question/1934266224772081158",
-      "heat": "251 万热度"
+      "heat": "225 万热度"
     },
     {
       "rank": "6",
       "title": "特朗普签署行政令，中国台湾地区被征收 20% 关税，这将对当地带来哪些影响？会影响两岸贸易往来吗？",
       "link": "https://www.zhihu.com/question/1934535187850589339",
-      "heat": "182 万热度"
+      "heat": "185 万热度"
     },
     {
       "rank": "7",
       "title": "如何看待理想高管邀约乘龙卡车复测？",
       "link": "https://www.zhihu.com/question/1934538852812427831",
-      "heat": "180 万热度"
+      "heat": "179 万热度"
     },
     {
       "rank": "8",
       "title": "14 岁女孩逛公园发现商机，摆摊 25 天赚 2000 元，家长称本意是锻炼孩子，怎样看这种教育方式？",
       "link": "https://www.zhihu.com/question/1934537116009850760",
-      "heat": "178 万热度"
+      "heat": "174 万热度"
     },
     {
       "rank": "9",
       "title": "人民海军第 4 艘 075 型两栖攻击舰湖北舰亮相，有哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1934588939794100337",
-      "heat": "149 万热度"
+      "heat": "152 万热度"
     },
     {
       "rank": "10",
       "title": "最高法明确，任何「不缴社保」协议均无效，有哪些信息值得关注？将带来哪些影响？",
       "link": "https://www.zhihu.com/question/1934605365196059415",
-      "heat": "141 万热度"
+      "heat": "148 万热度"
     },
     {
       "rank": "11",
@@ -72,19 +72,19 @@
       "rank": "12",
       "title": "小米为什么不建一个类似于特斯拉超级工厂年产 200 万量的生产基地，难度在哪里？",
       "link": "https://www.zhihu.com/question/1923709941329425575",
-      "heat": "112 万热度"
+      "heat": "113 万热度"
     },
     {
       "rank": "13",
       "title": "《罗小黑战记 2》画风治愈且口碑好，为什么票房这么惨淡？",
       "link": "https://www.zhihu.com/question/1933919507031777379",
-      "heat": "106 万热度"
+      "heat": "109 万热度"
     },
     {
       "rank": "14",
-      "title": "伊朗正制定关键系统、设备定位服务迁移计划，逐步将定位系统从 GPS 迁移至中国北斗导航系统。你有何感想？",
+      "title": "伊朗正制定关键系统、设备定位服务迁移计划，逐步将定位系统从 GPS 迁移至中国北斗导航系统，你有何感想？",
       "link": "https://www.zhihu.com/question/1934182628841464366",
-      "heat": "104 万热度"
+      "heat": "103 万热度"
     },
     {
       "rank": "15",
@@ -94,21 +94,21 @@
     },
     {
       "rank": "16",
-      "title": "中国篮协对辽鲁 U21 男篮冲突处罚出炉，四名打架球员被停赛三年，如何评价这一决定？",
-      "link": "https://www.zhihu.com/question/1934581888011449061",
-      "heat": "87 万热度"
-    },
-    {
-      "rank": "17",
       "title": "为啥小米造车不再打性价比了，传统车企反而自称比小米有性价比？",
       "link": "https://www.zhihu.com/question/1920876267340826485",
       "heat": "82 万热度"
     },
     {
+      "rank": "17",
+      "title": "米哈游诉拼多多不正当竞争获赔 100 万元，「1 元抢 1 万原石」系借虚假宣传引流，有何警示作用？",
+      "link": "https://www.zhihu.com/question/1934600667512668555",
+      "heat": "80 万热度"
+    },
+    {
       "rank": "18",
       "title": "《一人之下》中，背叛了三十六贼的人会是谁？",
       "link": "https://www.zhihu.com/question/1934442993038886647",
-      "heat": "76 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "19",
@@ -126,19 +126,19 @@
       "rank": "21",
       "title": "同卵双胞胎看到和自己长得一模一样的兄弟姐妹是什么感觉？",
       "link": "https://www.zhihu.com/question/20383884",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么我在玩《明末：渊虚之羽》的时候感觉推图很疲惫，而玩只狼或老头环的时候则不存在这个问题？",
-      "link": "https://www.zhihu.com/question/1933648294531277737",
-      "heat": "64 万热度"
+      "title": "如何看待 7 月 31 日《南京照相馆》的预测总票房再次大幅上涨至 42.19 亿？",
+      "link": "https://www.zhihu.com/question/1934412779814642612",
+      "heat": "67 万热度"
     },
     {
       "rank": "23",
-      "title": "夏金桂为什么恨香菱，是嫉妒她的才貌，还是有深刻含义？",
-      "link": "https://www.zhihu.com/question/1920541543737062968",
-      "heat": "63 万热度"
+      "title": "为什么我在玩《明末：渊虚之羽》的时候感觉推图很疲惫，而玩只狼或老头环的时候则不存在这个问题？",
+      "link": "https://www.zhihu.com/question/1933648294531277737",
+      "heat": "65 万热度"
     },
     {
       "rank": "24",
@@ -154,128 +154,128 @@
     },
     {
       "rank": "26",
-      "title": "如何看待 7 月 31 日《南京照相馆》的预测总票房再次大幅上涨至 42.19 亿？",
-      "link": "https://www.zhihu.com/question/1934412779814642612",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "27",
       "title": "在你坐过的地铁里，哪些播报，你觉得是独属于这个城市的特色？",
       "link": "https://www.zhihu.com/question/1931479252471121329",
       "heat": "62 万热度"
     },
     {
-      "rank": "28",
+      "rank": "27",
       "title": "为什么在美国是橄榄球发展壮大而不是足球呢？",
       "link": "https://www.zhihu.com/question/24230602",
       "heat": "62 万热度"
     },
     {
-      "rank": "29",
+      "rank": "28",
       "title": "大学生在学校里面兼职赚钱丢人吗？",
       "link": "https://www.zhihu.com/question/1916966505045811758",
-      "heat": "60 万热度"
+      "heat": "61 万热度"
     },
     {
-      "rank": "30",
-      "title": "「教育内卷」是不是经济学中的「囚徒困境」在现实中的体现？",
-      "link": "https://www.zhihu.com/question/1928136178965640015",
+      "rank": "29",
+      "title": "中国篮协对辽鲁 U21 男篮冲突处罚出炉，四名打架球员被停赛三年，如何评价这一决定？",
+      "link": "https://www.zhihu.com/question/1934581888011449061",
       "heat": "59 万热度"
     },
     {
+      "rank": "30",
+      "title": "夏金桂为什么恨香菱，是嫉妒她的才貌，还是有深刻含义？",
+      "link": "https://www.zhihu.com/question/1920541543737062968",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "31",
+      "title": "「教育内卷」是不是经济学中的「囚徒困境」在现实中的体现？",
+      "link": "https://www.zhihu.com/question/1928136178965640015",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "32",
       "title": "如何评价《灵笼 2》第 12 集？",
       "link": "https://www.zhihu.com/question/1934216396184741626",
       "heat": "58 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "历史上有哪些百折不挠的经典人物？",
       "link": "https://www.zhihu.com/question/25497909",
       "heat": "58 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "时隔一年，重温樊振东「八一之战」能分享一下你的独家记忆 / 感动 / 独特见解吗?",
       "link": "https://www.zhihu.com/question/1934554681130096156",
       "heat": "58 万热度"
     },
     {
-      "rank": "34",
+      "rank": "35",
       "title": "成渝中线高铁开通后将成为中国最快高铁，时速可达 400 公里，为何是这条线路「抢鲜」？可能全面推广吗？",
       "link": "https://www.zhihu.com/question/1933206185181438057",
       "heat": "58 万热度"
     },
     {
-      "rank": "35",
+      "rank": "36",
       "title": "《天道》中第一次请吃饭，芮小丹和欧阳雪为什么刁难丁元英？",
       "link": "https://www.zhihu.com/question/401270580",
       "heat": "58 万热度"
     },
     {
-      "rank": "36",
+      "rank": "37",
       "title": "当我们用「成长」定义那些被迫割舍的天真与纯粹时，所谓的成熟，究竟是对世界的妥协，还是对自我的背叛？",
       "link": "https://www.zhihu.com/question/1934063407008555164",
-      "heat": "57 万热度"
+      "heat": "58 万热度"
     },
     {
-      "rank": "37",
+      "rank": "38",
       "title": "在家电领域，有哪些需求看似简单合理，但解决起来却是「地狱难度」？",
       "link": "https://www.zhihu.com/question/1933584986298083306",
       "heat": "57 万热度"
     },
     {
-      "rank": "38",
+      "rank": "39",
       "title": "来访者如何带着心理咨询室里的态度进入生活里获益？",
       "link": "https://www.zhihu.com/question/1933431733551895680",
       "heat": "57 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "都是走 5000 步，为什么逛街比单纯走路更累？逛街对体能的消耗大吗？这算不算一种好的锻炼方式？",
       "link": "https://www.zhihu.com/question/1931745013634667691",
       "heat": "57 万热度"
     },
     {
-      "rank": "40",
+      "rank": "41",
       "title": "如何评价动画《灵能百分百》？",
       "link": "https://www.zhihu.com/question/48417913",
       "heat": "57 万热度"
     },
     {
-      "rank": "41",
+      "rank": "42",
       "title": "穿上汉服旅游是怎样的体验？",
       "link": "https://www.zhihu.com/question/38238148",
       "heat": "57 万热度"
     },
     {
-      "rank": "42",
+      "rank": "43",
       "title": "如果火影之位一直在千手和宇智波中来回传会怎么样？",
       "link": "https://www.zhihu.com/question/8523265162",
       "heat": "57 万热度"
     },
     {
-      "rank": "43",
+      "rank": "44",
       "title": "孩子开学五年级了，总是自我消耗怎么办？",
       "link": "https://www.zhihu.com/question/1933494923954485114",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
+      "rank": "45",
       "title": "从「怕做不好工作」到「领导敢交给我，就得承担风险」，职场「羞耻感」是否正在发生变化？",
       "link": "https://www.zhihu.com/question/1933124714080985328",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "下雨天最适合干嘛呢？",
       "link": "https://www.zhihu.com/question/1922659529637724364",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "如果给你一张来回的车票，你最想去什么地方？最想去看什么？",
-      "link": "https://www.zhihu.com/question/1931791704714880668",
       "heat": "57 万热度"
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "rank": "48",
-      "title": "陈芋汐摘得女子 10 米跳台金牌，获世锦赛四冠，如何评价她的表现？",
-      "link": "https://www.zhihu.com/question/1934338962278806623",
+      "title": "如果给你一张来回的车票，你最想去什么地方？最想去看什么？",
+      "link": "https://www.zhihu.com/question/1931791704714880668",
       "heat": "57 万热度"
     },
     {
       "rank": "49",
-      "title": "比亚迪的 DMI 系统馈电能上高速吗？现在电量剩下 20％，油箱是满的，有急事需要走高速有没有什么风险?",
-      "link": "https://www.zhihu.com/question/1932737520942186754",
+      "title": "陈芋汐摘得女子 10 米跳台金牌，获世锦赛四冠，如何评价她的表现？",
+      "link": "https://www.zhihu.com/question/1934338962278806623",
       "heat": "57 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-08-01 19:26:25"
+  "generated_at": "2025-08-01 19:44:35"
 }
