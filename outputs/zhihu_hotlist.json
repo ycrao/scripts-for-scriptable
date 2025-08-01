@@ -1,132 +1,132 @@
 {
-  "artifact_id": "5b4d4317-6ddd-4627-8dc3-d01cb06d5bfc",
+  "artifact_id": "c566e509-1f2a-4834-b66d-6aad2eb451b4",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "武汉大学通报，对肖某某纪律处分、杨某某学位论文等进行全面调查复核，此次事件暴露了哪些问题？",
       "link": "https://www.zhihu.com/question/1934664649212683483",
-      "heat": "3119 万热度"
+      "heat": "3352 万热度"
     },
     {
       "rank": "2",
       "title": "中国的地图像雄鸡，世界上有没有其他国家的地图像任何东西？",
       "link": "https://www.zhihu.com/question/1933593125139506116",
-      "heat": "255 万热度"
+      "heat": "265 万热度"
     },
     {
       "rank": "3",
-      "title": "特朗普签署行政令，中国台湾地区被征收 20% 关税，这将对当地带来哪些影响？会影响两岸贸易往来吗？",
-      "link": "https://www.zhihu.com/question/1934535187850589339",
-      "heat": "239 万热度"
+      "title": "最高法明确，任何「不缴社保」协议均无效，有哪些信息值得关注？将带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1934605365196059415",
+      "heat": "219 万热度"
     },
     {
       "rank": "4",
-      "title": "最高法明确，任何「不缴社保」协议均无效，有哪些信息值得关注？将带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1934605365196059415",
-      "heat": "207 万热度"
+      "title": "14 岁女孩逛公园发现商机，摆摊 25 天赚 2000 元，家长称本意是锻炼孩子，怎样看这种教育方式？",
+      "link": "https://www.zhihu.com/question/1934537116009850760",
+      "heat": "194 万热度"
     },
     {
       "rank": "5",
-      "title": "14 岁女孩逛公园发现商机，摆摊 25 天赚 2000 元，家长称本意是锻炼孩子，怎样看这种教育方式？",
-      "link": "https://www.zhihu.com/question/1934537116009850760",
-      "heat": "192 万热度"
+      "title": "小米为什么不建一个类似于特斯拉超级工厂年产 200 万量的生产基地，难度在哪里？",
+      "link": "https://www.zhihu.com/question/1923709941329425575",
+      "heat": "135 万热度"
     },
     {
       "rank": "6",
       "title": "武大图书馆事件判决及后续对杨景媛论文的质疑，会对武大学子升学求职造成实质上的影响吗？",
       "link": "https://www.zhihu.com/question/1934555652010762820",
-      "heat": "161 万热度"
+      "heat": "133 万热度"
     },
     {
       "rank": "7",
-      "title": "米哈游诉拼多多不正当竞争获赔 100 万元，「1 元抢 1 万原石」系借虚假宣传引流，有何警示作用？",
-      "link": "https://www.zhihu.com/question/1934600667512668555",
-      "heat": "131 万热度"
+      "title": "特朗普签署行政令，中国台湾地区被征收 20% 关税，这将对当地带来哪些影响？会影响两岸贸易往来吗？",
+      "link": "https://www.zhihu.com/question/1934535187850589339",
+      "heat": "132 万热度"
     },
     {
       "rank": "8",
-      "title": "如何看待西安一民办大学在广西招生现「零投档」现象，或因知名度低、学费高，民办高校招生面临哪些困境？",
-      "link": "https://www.zhihu.com/question/1934350411902444808",
-      "heat": "120 万热度"
+      "title": "人民海军第 4 艘 075 型两栖攻击舰湖北舰亮相，有哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1934588939794100337",
+      "heat": "131 万热度"
     },
     {
       "rank": "9",
-      "title": "小米为什么不建一个类似于特斯拉超级工厂年产 200 万量的生产基地，难度在哪里？",
-      "link": "https://www.zhihu.com/question/1923709941329425575",
-      "heat": "118 万热度"
+      "title": "如何看待西安一民办大学在广西招生现「零投档」现象，或因知名度低、学费高，民办高校招生面临哪些困境？",
+      "link": "https://www.zhihu.com/question/1934350411902444808",
+      "heat": "123 万热度"
     },
     {
       "rank": "10",
+      "title": "国家医保局已全面将辅助生殖技术纳入报销，这将对我国生育率及辅助生殖行业带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1934551443181889211",
+      "heat": "120 万热度"
+    },
+    {
+      "rank": "11",
       "title": "《罗小黑战记 2》画风治愈且口碑好，为什么票房这么惨淡？",
       "link": "https://www.zhihu.com/question/1933919507031777379",
       "heat": "116 万热度"
     },
     {
-      "rank": "11",
-      "title": "人民海军第 4 艘 075 型两栖攻击舰湖北舰亮相，有哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1934588939794100337",
-      "heat": "111 万热度"
-    },
-    {
       "rank": "12",
-      "title": "国家医保局已全面将辅助生殖技术纳入报销，这将对我国生育率及辅助生殖行业带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1934551443181889211",
-      "heat": "106 万热度"
+      "title": "《黑太阳 731》在港重映满座售罄，官方紧急加映，怎样评价这部电影？你看过吗？",
+      "link": "https://www.zhihu.com/question/1934539964579799954",
+      "heat": "115 万热度"
     },
     {
       "rank": "13",
-      "title": "伊朗正制定关键系统、设备定位服务迁移计划，逐步将定位系统从 GPS 迁移至中国北斗导航系统，你有何感想？",
-      "link": "https://www.zhihu.com/question/1934182628841464366",
-      "heat": "100 万热度"
+      "title": "米哈游诉拼多多不正当竞争获赔 100 万元，「1 元抢 1 万原石」系借虚假宣传引流，有何警示作用？",
+      "link": "https://www.zhihu.com/question/1934600667512668555",
+      "heat": "106 万热度"
     },
     {
       "rank": "14",
-      "title": "《黑太阳 731》在港重映满座售罄，官方紧急加映，怎样评价这部电影？你看过吗？",
-      "link": "https://www.zhihu.com/question/1934539964579799954",
-      "heat": "97 万热度"
+      "title": "伊朗正制定关键系统、设备定位服务迁移计划，逐步将定位系统从 GPS 迁移至中国北斗导航系统，你有何感想？",
+      "link": "https://www.zhihu.com/question/1934182628841464366",
+      "heat": "99 万热度"
     },
     {
       "rank": "15",
-      "title": "理想汽车回应撞击测试「基于真实交通会车场景模拟，全权委托第三方检测机构测试认证」，如何看待这一回应？",
-      "link": "https://www.zhihu.com/question/1934354397686633185",
-      "heat": "90 万热度"
+      "title": "为啥小米造车不再打性价比了，传统车企反而自称比小米有性价比？",
+      "link": "https://www.zhihu.com/question/1920876267340826485",
+      "heat": "91 万热度"
     },
     {
       "rank": "16",
       "title": "北京化工大学录取通知书能用火烧能切西瓜，如果上一世被撕毁通知书的小说女主报考了北化，反派该怎么毁掉它？",
       "link": "https://www.zhihu.com/question/1931755929310815539",
-      "heat": "89 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "17",
-      "title": "如何看待《战地 6》预告片?",
-      "link": "https://www.zhihu.com/question/1931853980981522866",
-      "heat": "89 万热度"
+      "title": "如何评价《灵笼 2》第十二集？",
+      "link": "https://www.zhihu.com/question/1934325026770909059",
+      "heat": "90 万热度"
     },
     {
       "rank": "18",
-      "title": "为啥小米造车不再打性价比了，传统车企反而自称比小米有性价比？",
-      "link": "https://www.zhihu.com/question/1920876267340826485",
-      "heat": "88 万热度"
+      "title": "Nintendo Switch 2 首月销量为 582 万台，如何评价这一市场表现？",
+      "link": "https://www.zhihu.com/question/1934626634301961602",
+      "heat": "83 万热度"
     },
     {
       "rank": "19",
-      "title": "Nintendo Switch 2 首月销量为 582 万台，如何评价这一市场表现？",
-      "link": "https://www.zhihu.com/question/1934626634301961602",
+      "title": "如何评价《歌手 2025》第十二期突围赛所有歌手的演唱？",
+      "link": "https://www.zhihu.com/question/1934679549746083533",
       "heat": "80 万热度"
     },
     {
       "rank": "20",
-      "title": "你听过的最完美的一张专辑是什么？",
-      "link": "https://www.zhihu.com/question/662376752",
-      "heat": "80 万热度"
+      "title": "如何看待《南京照相馆》上映第 8 天累计票房突破 10 亿，成为春节档后首部破 10 亿影片？",
+      "link": "https://www.zhihu.com/question/1934658998386258157",
+      "heat": "77 万热度"
     },
     {
       "rank": "21",
-      "title": "如何评价《歌手 2025》第十二期突围赛所有歌手的演唱？",
-      "link": "https://www.zhihu.com/question/1934679549746083533",
-      "heat": "77 万热度"
+      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 WBG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1934690754166522909",
+      "heat": "76 万热度"
     },
     {
       "rank": "22",
@@ -136,57 +136,57 @@
     },
     {
       "rank": "23",
-      "title": "如何看待《南京照相馆》上映第 8 天累计票房突破 10 亿，成为春节档后首部破 10 亿影片？",
-      "link": "https://www.zhihu.com/question/1934658998386258157",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "判断一个物种进化得是否成功，到底应该看它的个体复杂程度还是种群分布？",
-      "link": "https://www.zhihu.com/question/1926416423401553950",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "岳云鹏演唱会被指票价过高，跨界演出究竟是创新还是圈钱？",
-      "link": "https://www.zhihu.com/question/1932764668428002661",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "26",
       "title": "为什么在《星际争霸 1 》中，神族的侦察机（Scout）兵种被设计得毫无实战用途？",
       "link": "https://www.zhihu.com/question/22656066",
       "heat": "69 万热度"
     },
     {
-      "rank": "27",
+      "rank": "24",
       "title": "为什么李白和杜甫没有列入唐宋八大家?",
       "link": "https://www.zhihu.com/question/1932002104450475111",
+      "heat": "67 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "当本科生开始大面积使用 DID 进行研究时, 对经济学研究这到底意味着什么？",
+      "link": "https://www.zhihu.com/question/1933102379605128738",
       "heat": "66 万热度"
     },
     {
-      "rank": "28",
+      "rank": "26",
+      "title": "理想汽车回应撞击测试「基于真实交通会车场景模拟，全权委托第三方检测机构测试认证」，如何看待这一回应？",
+      "link": "https://www.zhihu.com/question/1934354397686633185",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "27",
       "title": "为什么我的大脑像「永动机」一样？如何跳出反复沉思的循环？",
       "link": "https://www.zhihu.com/question/1934070306567349983",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "入职新公司，公司每个人都不说话，领导阴阳怪气，这种情况能怎么办？",
+      "link": "https://www.zhihu.com/question/1933833601125951474",
       "heat": "64 万热度"
     },
     {
       "rank": "29",
-      "title": "入职新公司，公司每个人都不说话，领导阴阳怪气，这种情况能怎么办？",
-      "link": "https://www.zhihu.com/question/1933833601125951474",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "30",
       "title": "只有一对哑铃，如何在家做力量训练？",
       "link": "https://www.zhihu.com/question/616395433",
       "heat": "63 万热度"
     },
     {
+      "rank": "30",
+      "title": "如何看待《战地 6》预告片?",
+      "link": "https://www.zhihu.com/question/1931853980981522866",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "31",
-      "title": "在你玩过的游戏中，哪一款的 Boss 战设计最让你印象深刻？",
-      "link": "https://www.zhihu.com/question/1914539414631196620",
-      "heat": "58 万热度"
+      "title": "你听过的最完美的一张专辑是什么？",
+      "link": "https://www.zhihu.com/question/662376752",
+      "heat": "59 万热度"
     },
     {
       "rank": "32",
@@ -202,44 +202,44 @@
     },
     {
       "rank": "34",
-      "title": "孩子开学五年级了，总是自我消耗怎么办？",
-      "link": "https://www.zhihu.com/question/1933494923954485114",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "35",
       "title": "都是走 5000 步，为什么逛街比单纯走路更累？逛街对体能的消耗大吗？这算不算一种好的锻炼方式？",
       "link": "https://www.zhihu.com/question/1931745013634667691",
       "heat": "57 万热度"
     },
     {
-      "rank": "36",
-      "title": "如何评价动画《灵能百分百》？",
-      "link": "https://www.zhihu.com/question/48417913",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "《南京照相馆》为什么阿泰找相纸被日本人发现的时候王广海不站出来解释？",
-      "link": "https://www.zhihu.com/question/1933546953410574166",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "38",
+      "rank": "35",
       "title": "如果火影之位一直在千手和宇智波中来回传会怎么样？",
       "link": "https://www.zhihu.com/question/8523265162",
       "heat": "57 万热度"
     },
     {
-      "rank": "39",
+      "rank": "36",
+      "title": "孩子开学五年级了，总是自我消耗怎么办？",
+      "link": "https://www.zhihu.com/question/1933494923954485114",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "如何评价动画《灵能百分百》？",
+      "link": "https://www.zhihu.com/question/48417913",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "38",
       "title": "从「怕做不好工作」到「领导敢交给我，就得承担风险」，职场「羞耻感」是否正在发生变化？",
       "link": "https://www.zhihu.com/question/1933124714080985328",
       "heat": "57 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "发现比我晚入职的同事工资比我高怎么办?",
       "link": "https://www.zhihu.com/question/1933791249824986017",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "下雨天最适合干嘛呢？",
+      "link": "https://www.zhihu.com/question/1922659529637724364",
       "heat": "57 万热度"
     },
     {
@@ -250,32 +250,32 @@
     },
     {
       "rank": "42",
-      "title": "下雨天最适合干嘛呢？",
-      "link": "https://www.zhihu.com/question/1922659529637724364",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
       "title": "如果给你一张来回的车票，你最想去什么地方？最想去看什么？",
       "link": "https://www.zhihu.com/question/1931791704714880668",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
+      "rank": "43",
       "title": "「教育内卷」是不是经济学中的「囚徒困境」在现实中的体现？",
       "link": "https://www.zhihu.com/question/1928136178965640015",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
+      "rank": "44",
       "title": "在你坐过的地铁里，哪些播报，你觉得是独属于这个城市的特色？",
       "link": "https://www.zhihu.com/question/1931479252471121329",
       "heat": "57 万热度"
     },
     {
-      "rank": "46",
+      "rank": "45",
       "title": "2025 年 7 月票房破 40 亿，暑期档破 60 亿，《南京照相馆》领跑，你去影院看了哪部电影？",
       "link": "https://www.zhihu.com/question/1934316084456023366",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "7 月跑量多少公里？你是如何规划你的月跑量的？",
+      "link": "https://www.zhihu.com/question/1934279364205326593",
       "heat": "57 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "7 月跑量多少公里？你是如何规划你的月跑量的？",
-      "link": "https://www.zhihu.com/question/1934279364205326593",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "49",
       "title": "中国篮协对辽鲁 U21 男篮冲突处罚出炉，四名打架球员被停赛三年，如何评价这一决定？",
       "link": "https://www.zhihu.com/question/1934581888011449061",
       "heat": "57 万热度"
     },
     {
+      "rank": "49",
+      "title": "三岁半小女孩挑战卖冰棍，东北人均捧场王，怎么评价家长的这种锻炼方式？东北人对孩子能有多宠？",
+      "link": "https://www.zhihu.com/question/1933190828022523004",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "50",
-      "title": "成渝中线高铁开通后将成为中国最快高铁，时速可达 400 公里，为何是这条线路「抢鲜」？可能全面推广吗？",
-      "link": "https://www.zhihu.com/question/1933206185181438057",
+      "title": "穿上汉服旅游是怎样的体验？",
+      "link": "https://www.zhihu.com/question/38238148",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-08-01 22:28:11"
+  "generated_at": "2025-08-01 22:51:30"
 }
