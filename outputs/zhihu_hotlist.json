@@ -1,89 +1,89 @@
 {
-  "artifact_id": "e9a63686-7445-4d39-a23b-afe17a8d3000",
+  "artifact_id": "3d1b6a53-9a93-4495-b059-5fcdbcd8fa1e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "媒体称儿童票「量身高」不如「看年龄」，你怎么看这一观点？你觉得哪种标准更合理？",
       "link": "https://www.zhihu.com/question/1934556284218208773",
-      "heat": "252 万热度"
+      "heat": "280 万热度"
     },
     {
       "rank": "2",
       "title": "领导发邮件给安排了个活，过了两个月我翻邮件看到了，心态有点崩了，领导也没说啥，现在应该怎么做？",
       "link": "https://www.zhihu.com/question/1934068400512042616",
-      "heat": "155 万热度"
+      "heat": "167 万热度"
     },
     {
       "rank": "3",
       "title": "《你行！你上》最新票房预测不破亿，这会对姜文产生什么影响？",
       "link": "https://www.zhihu.com/question/1932246693421756863",
-      "heat": "130 万热度"
+      "heat": "139 万热度"
     },
     {
       "rank": "4",
       "title": "覃海洋世锦赛男子 200 米蛙泳夺冠，上演「边道奇迹」，如何评价他的表现？",
       "link": "https://www.zhihu.com/question/1934705630825904023",
-      "heat": "123 万热度"
+      "heat": "125 万热度"
     },
     {
       "rank": "5",
       "title": "河南一中学 8 月 1 日开学报到，要求学生剪标准发型，出于哪些考量？这要求合理吗？",
       "link": "https://www.zhihu.com/question/1934734055871575694",
-      "heat": "109 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "6",
-      "title": "如何看待世界田联新规，所有女性运动员须接受基因检测，若无 Y 染色体可参赛女子组，东京世锦赛成首个试点？",
-      "link": "https://www.zhihu.com/question/1934548123511923116",
-      "heat": "97 万热度"
+      "title": "男孩错付 1010 元车费后轻生，司机否认不还钱控诉，称是乘客下车前和他换现金，怎样看待这一说法？",
+      "link": "https://www.zhihu.com/question/1934915503488459066",
+      "heat": "106 万热度"
     },
     {
       "rank": "7",
-      "title": "《黑太阳 731》在港重映满座售罄，官方紧急加映，怎样评价这部电影？你看过吗？",
-      "link": "https://www.zhihu.com/question/1934539964579799954",
-      "heat": "86 万热度"
+      "title": "广西亮证逼迫让路事件，涉事司机称民警要求删除视频并向「亮证者」道歉，是真的吗？怎样从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1934908999498691511",
+      "heat": "97 万热度"
     },
     {
       "rank": "8",
+      "title": "《黑太阳 731》在港重映满座售罄，官方紧急加映，怎样评价这部电影？你看过吗？",
+      "link": "https://www.zhihu.com/question/1934539964579799954",
+      "heat": "88 万热度"
+    },
+    {
+      "rank": "9",
       "title": "你遇到过哪些因为不规范使用密码学而产生的搞笑案例？",
       "link": "https://www.zhihu.com/question/1895411555476165169",
       "heat": "84 万热度"
     },
     {
-      "rank": "9",
-      "title": "为什么说苦难是文学的温床？",
-      "link": "https://www.zhihu.com/question/14014473943",
-      "heat": "83 万热度"
-    },
-    {
       "rank": "10",
-      "title": "男孩错付 1010 元车费后轻生，司机否认不还钱控诉，称是乘客下车前和他换现金，怎样看待这一说法？",
-      "link": "https://www.zhihu.com/question/1934915503488459066",
-      "heat": "80 万热度"
+      "title": "刘渊一个匈奴人为什么要将自己的国号定为汉？",
+      "link": "https://www.zhihu.com/question/1906501242391332293",
+      "heat": "76 万热度"
     },
     {
       "rank": "11",
-      "title": "脱口秀演员王小利是怎么做到松弛又幽默的？",
-      "link": "https://www.zhihu.com/question/1923296611204834930",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "刘渊一个匈奴人为什么要将自己的国号定为汉？",
-      "link": "https://www.zhihu.com/question/1906501242391332293",
+      "title": "如何看待世界田联新规，所有女性运动员须接受基因检测，若无 Y 染色体可参赛女子组，东京世锦赛成首个试点？",
+      "link": "https://www.zhihu.com/question/1934548123511923116",
       "heat": "75 万热度"
     },
     {
+      "rank": "12",
+      "title": "你见过最巧妙的物理推导是什么？",
+      "link": "https://www.zhihu.com/question/60578918",
+      "heat": "74 万热度"
+    },
+    {
       "rank": "13",
-      "title": "只能选一种武术，你选练哪种？",
-      "link": "https://www.zhihu.com/question/662969822",
+      "title": "为什么《明末：渊虚之羽》不舍得在 BOSS 战前放一个复活点，玩家每次死亡后都要跑一大段路再战？",
+      "link": "https://www.zhihu.com/question/1933852945008518115",
       "heat": "72 万热度"
     },
     {
       "rank": "14",
-      "title": "为什么《明末：渊虚之羽》不舍得在 BOSS 战前放一个复活点，玩家每次死亡后都要跑一大段路再战？",
-      "link": "https://www.zhihu.com/question/1933852945008518115",
+      "title": "大家平常都是做什么运动的？怎么坚持一直做的？",
+      "link": "https://www.zhihu.com/question/13554765807",
       "heat": "69 万热度"
     },
     {
@@ -100,98 +100,98 @@
     },
     {
       "rank": "17",
-      "title": "大家平常都是做什么运动的？怎么坚持一直做的？",
-      "link": "https://www.zhihu.com/question/13554765807",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "18",
       "title": "孩子放暑假想睡到自然醒，你会同意孩子的做法并陪着他一起睡懒觉吗？",
       "link": "https://www.zhihu.com/question/1932223582831907379",
       "heat": "67 万热度"
     },
     {
-      "rank": "19",
+      "rank": "18",
       "title": "工作太忙想辞职，但是又怕走了同事忙不过来，怎么办？",
       "link": "https://www.zhihu.com/question/1933676632591284033",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "你觉得一人创业，一人公司起步最难的是什么？",
+      "link": "https://www.zhihu.com/question/1929952636016268030",
       "heat": "64 万热度"
     },
     {
       "rank": "20",
-      "title": "2025 年到现在，有资格竞争 TGA2025 年年度最佳游戏的有哪些？",
-      "link": "https://www.zhihu.com/question/1899493464091125115",
-      "heat": "59 万热度"
+      "title": "自己带的团队里面的核心成员起冲突了怎么办?",
+      "link": "https://www.zhihu.com/question/1919551834101646324",
+      "heat": "62 万热度"
     },
     {
       "rank": "21",
-      "title": "《罗小黑战记 2》画风治愈且口碑好，为什么票房这么惨淡？",
-      "link": "https://www.zhihu.com/question/1933919507031777379",
-      "heat": "55 万热度"
+      "title": "脱口秀演员王小利是怎么做到松弛又幽默的？",
+      "link": "https://www.zhihu.com/question/1923296611204834930",
+      "heat": "59 万热度"
     },
     {
       "rank": "22",
-      "title": "桥水基金创始人达利欧出售其在桥水的全部股份并将退出董事会，如何评价达利欧的投资生涯和其金融影响？",
-      "link": "https://www.zhihu.com/question/1934547389131219561",
-      "heat": "54 万热度"
+      "title": "只能选一种武术，你选练哪种？",
+      "link": "https://www.zhihu.com/question/662969822",
+      "heat": "59 万热度"
     },
     {
       "rank": "23",
-      "title": "刘邦对于吕雉是什么态度？",
-      "link": "https://www.zhihu.com/question/1920749290516636327",
-      "heat": "54 万热度"
+      "title": "为什么说苦难是文学的温床？",
+      "link": "https://www.zhihu.com/question/14014473943",
+      "heat": "59 万热度"
     },
     {
       "rank": "24",
-      "title": "为何《我爱发明》中的发明最后基本都没普及？",
-      "link": "https://www.zhihu.com/question/1932724592344036219",
-      "heat": "54 万热度"
+      "title": "2025 年到现在，有资格竞争 TGA2025 年年度最佳游戏的有哪些？",
+      "link": "https://www.zhihu.com/question/1899493464091125115",
+      "heat": "57 万热度"
     },
     {
       "rank": "25",
-      "title": "为啥小米造车不再打性价比了，传统车企反而自称比小米有性价比？",
-      "link": "https://www.zhihu.com/question/1920876267340826485",
+      "title": "《罗小黑战记 2》画风治愈且口碑好，为什么票房这么惨淡？",
+      "link": "https://www.zhihu.com/question/1933919507031777379",
       "heat": "54 万热度"
     },
     {
       "rank": "26",
-      "title": "如何评价小岛秀夫公开拒绝体验《合金装备 3 重制版》？这是情怀纠葛、无声抗议，还是单纯「不感兴趣」？",
-      "link": "https://www.zhihu.com/question/1934268024011101575",
+      "title": "如何评价《一人之下》第 727（770）话？",
+      "link": "https://www.zhihu.com/question/1934408239472156836",
       "heat": "54 万热度"
     },
     {
       "rank": "27",
-      "title": "如何评价《原神》2025 年 8 月 1 日更新的幻想真境剧诗（雷冰风）?",
-      "link": "https://www.zhihu.com/question/1934527566322041875",
+      "title": "你听过的最完美的一张专辑是什么？",
+      "link": "https://www.zhihu.com/question/662376752",
       "heat": "54 万热度"
     },
     {
       "rank": "28",
-      "title": "比亚迪的 DMI 系统馈电能上高速吗？现在电量剩下 20％，油箱是满的，有急事需要走高速有没有什么风险?",
-      "link": "https://www.zhihu.com/question/1932737520942186754",
+      "title": "如何看待《战地 6》预告片?",
+      "link": "https://www.zhihu.com/question/1931853980981522866",
       "heat": "54 万热度"
     },
     {
       "rank": "29",
-      "title": "你见过哪些稀有姓氏？",
-      "link": "https://www.zhihu.com/question/1912880462877131772",
+      "title": "如果地球上有一个大小为 1 毫米的黑洞，会发生什么？",
+      "link": "https://www.zhihu.com/question/443122649",
       "heat": "54 万热度"
     },
     {
       "rank": "30",
-      "title": "面对强大反派 Boss，为什么火影鸣人的心里会有一丝发怵，而海贼路飞却迷之自信，满不在乎？",
-      "link": "https://www.zhihu.com/question/1911937723142505299",
+      "title": "为什么我的大脑像「永动机」一样？如何跳出反复沉思的循环？",
+      "link": "https://www.zhihu.com/question/1934070306567349983",
       "heat": "54 万热度"
     },
     {
       "rank": "31",
-      "title": "武汉与长沙未来能否发展成「京津」「沪宁」「广深」「成渝」这样的双子城？",
-      "link": "https://www.zhihu.com/question/1904463622786224773",
+      "title": "上海斯诺克大师赛，赵心童 6-1 战胜丁俊晖晋级四强，如何评价这次两人的对决？",
+      "link": "https://www.zhihu.com/question/1934291975512749558",
       "heat": "54 万热度"
     },
     {
       "rank": "32",
-      "title": "7 月跑量多少公里？你是如何规划你的月跑量的？",
-      "link": "https://www.zhihu.com/question/1934279364205326593",
+      "title": "穿上汉服旅游是怎样的体验？",
+      "link": "https://www.zhihu.com/question/38238148",
       "heat": "54 万热度"
     },
     {
@@ -202,106 +202,106 @@
     },
     {
       "rank": "34",
-      "title": "大学生在学校里面兼职赚钱丢人吗？",
-      "link": "https://www.zhihu.com/question/1916966505045811758",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "如果给你一张来回的车票，你最想去什么地方？最想去看什么？",
-      "link": "https://www.zhihu.com/question/1931791704714880668",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "时隔一年，重温樊振东「八一之战」能分享一下你的独家记忆 / 感动 / 独特见解吗?",
-      "link": "https://www.zhihu.com/question/1934554681130096156",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "中国篮协对辽鲁 U21 男篮冲突处罚出炉，四名打架球员被停赛三年，如何评价这一决定？",
-      "link": "https://www.zhihu.com/question/1934581888011449061",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "三岁半小女孩挑战卖冰棍，东北人均捧场王，怎么评价家长的这种锻炼方式？东北人对孩子能有多宠？",
-      "link": "https://www.zhihu.com/question/1933190828022523004",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "如何评价美国的「快沉」QUICKSINK 低成本反舰武器?",
-      "link": "https://www.zhihu.com/question/616203597",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "有哪些刚开始「下不去嘴」，吃了以后被惊艳的美食？",
-      "link": "https://www.zhihu.com/question/520238229",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "如何评价动画《灵能百分百》？",
-      "link": "https://www.zhihu.com/question/48417913",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "成渝中线高铁开通后将成为中国最快高铁，时速可达 400 公里，为何是这条线路「抢鲜」？可能全面推广吗？",
-      "link": "https://www.zhihu.com/question/1933206185181438057",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "刘昊然主演电影票房超 230 亿元，进入中国影史前五，他在演艺圈的影响力如何？",
-      "link": "https://www.zhihu.com/question/1933573397113208883",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "44",
       "title": "从「怕做不好工作」到「领导敢交给我，就得承担风险」，职场「羞耻感」是否正在发生变化？",
       "link": "https://www.zhihu.com/question/1933124714080985328",
       "heat": "54 万热度"
     },
     {
+      "rank": "35",
+      "title": "库明加希望离开勇士队，这将对球队和个人职业生涯产生怎样的影响？",
+      "link": "https://www.zhihu.com/question/1933182356623167491",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "同卵双胞胎看到和自己长得一模一样的兄弟姐妹是什么感觉？",
+      "link": "https://www.zhihu.com/question/20383884",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "为什么李白和杜甫没有列入唐宋八大家?",
+      "link": "https://www.zhihu.com/question/1932002104450475111",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "《一人之下》中，背叛了三十六贼的人会是谁？",
+      "link": "https://www.zhihu.com/question/1934442993038886647",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "为什么微软要把「目录」改名为「文件夹」?",
+      "link": "https://www.zhihu.com/question/1932456073895352013",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "夏金桂为什么恨香菱，是嫉妒她的才貌，还是有深刻含义？",
+      "link": "https://www.zhihu.com/question/1920541543737062968",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "当本科生开始大面积使用 DID 进行研究时, 对经济学研究这到底意味着什么？",
+      "link": "https://www.zhihu.com/question/1933102379605128738",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 WBG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1934690754166522909",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "米哈游诉拼多多不正当竞争获赔 100 万元，「1 元抢 1 万原石」系借虚假宣传引流，有何警示作用？",
+      "link": "https://www.zhihu.com/question/1934600667512668555",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "离婚或离婚后是种怎样感觉？",
+      "link": "https://www.zhihu.com/question/326048939",
+      "heat": "53 万热度"
+    },
+    {
       "rank": "45",
-      "title": "为何日本海军可以仿制英国的无畏舰金刚系列一直用到二战，而北洋海军购买的军舰到甲午就落后了？",
-      "link": "https://www.zhihu.com/question/659661914",
-      "heat": "54 万热度"
+      "title": "2025 年 7 月票房破 40 亿，暑期档破 60 亿，《南京照相馆》领跑，你去影院看了哪部电影？",
+      "link": "https://www.zhihu.com/question/1934316084456023366",
+      "heat": "53 万热度"
     },
     {
       "rank": "46",
-      "title": "如何评价《一人之下》第 727（770）话？",
-      "link": "https://www.zhihu.com/question/1934408239472156836",
-      "heat": "54 万热度"
+      "title": "有人说「同事永远不能成为朋友，但初代同事除外」，你和你的「职场发小」之间有哪些至今难忘的故事？",
+      "link": "https://www.zhihu.com/question/1932081026252895094",
+      "heat": "53 万热度"
     },
     {
       "rank": "47",
-      "title": "你听过的最完美的一张专辑是什么？",
-      "link": "https://www.zhihu.com/question/662376752",
-      "heat": "54 万热度"
+      "title": "《魔兽争霸》什么光环最好?",
+      "link": "https://www.zhihu.com/question/380725028",
+      "heat": "53 万热度"
     },
     {
       "rank": "48",
-      "title": "如何看待《战地 6》预告片?",
-      "link": "https://www.zhihu.com/question/1931853980981522866",
-      "heat": "54 万热度"
+      "title": "成渝中线高铁开通后将成为中国最快高铁，时速可达 400 公里，为何是这条线路「抢鲜」？可能全面推广吗？",
+      "link": "https://www.zhihu.com/question/1933206185181438057",
+      "heat": "53 万热度"
     },
     {
       "rank": "49",
-      "title": "《天道》中第一次请吃饭，芮小丹和欧阳雪为什么刁难丁元英？",
-      "link": "https://www.zhihu.com/question/401270580",
-      "heat": "54 万热度"
+      "title": "刘昊然主演电影票房超 230 亿元，进入中国影史前五，他在演艺圈的影响力如何？",
+      "link": "https://www.zhihu.com/question/1933573397113208883",
+      "heat": "53 万热度"
     },
     {
       "rank": "50",
-      "title": "如果地球上有一个大小为 1 毫米的黑洞，会发生什么？",
-      "link": "https://www.zhihu.com/question/443122649",
-      "heat": "54 万热度"
+      "title": "为什么在美国是橄榄球发展壮大而不是足球呢？",
+      "link": "https://www.zhihu.com/question/24230602",
+      "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-08-02 12:23:19"
+  "generated_at": "2025-08-02 12:58:40"
 }
