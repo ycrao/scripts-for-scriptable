@@ -1,96 +1,96 @@
 {
-  "artifact_id": "71ad999a-b956-4f1c-9df9-3e83cd23d609",
+  "artifact_id": "a05e6ba1-8cf0-479c-a17e-a2058ead60f9",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "为何中国几乎所有的大中小学都要放寒暑假？",
       "link": "https://www.zhihu.com/question/1934515230307770738",
-      "heat": "237 万热度"
+      "heat": "269 万热度"
     },
     {
       "rank": "2",
       "title": "《浪浪山小妖怪》上映 2 天电影票房破亿，这一成绩表现如何？",
       "link": "https://www.zhihu.com/question/1935359927779570819",
-      "heat": "236 万热度"
+      "heat": "235 万热度"
     },
     {
       "rank": "3",
-      "title": "罗技已成功将生产线从中国转移，计划年底前将中国制造产品在美国进口中的占比降至 10%，如何看待此布局？",
-      "link": "https://www.zhihu.com/question/1934283699836416211",
-      "heat": "91 万热度"
+      "title": "如何看待一线城市二手房价连续两个月环比下跌，广州跌幅最大？",
+      "link": "https://www.zhihu.com/question/1928757438926029605",
+      "heat": "83 万热度"
     },
     {
       "rank": "4",
-      "title": "如何看待一线城市二手房价连续两个月环比下跌，广州跌幅最大？",
-      "link": "https://www.zhihu.com/question/1928757438926029605",
-      "heat": "91 万热度"
+      "title": "现在满大街都是人均 70 以下的自助烤肉，用的都是什么肉?",
+      "link": "https://www.zhihu.com/question/15064736981",
+      "heat": "82 万热度"
     },
     {
       "rank": "5",
-      "title": "现在满大街都是人均 70 以下的自助烤肉，用的都是什么肉?",
-      "link": "https://www.zhihu.com/question/15064736981",
-      "heat": "81 万热度"
+      "title": "工作调动岗位竞聘，输给了领导的嫡系人，心情非常郁闷，怎么办？",
+      "link": "https://www.zhihu.com/question/1929924203546641305",
+      "heat": "71 万热度"
     },
     {
       "rank": "6",
-      "title": "8 月 3 日苏超盐城 5:0 常州，常州队 8 战 0 胜仍未进球，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1935438272202499672",
-      "heat": "69 万热度"
+      "title": "少林寺新任住持释印乐法师上任后取消了收费项目，这是否意味着少林寺将回归传统？",
+      "link": "https://www.zhihu.com/question/1935081289335150294",
+      "heat": "64 万热度"
     },
     {
       "rank": "7",
-      "title": "工作调动岗位竞聘，输给了领导的嫡系人，心情非常郁闷，怎么办？",
-      "link": "https://www.zhihu.com/question/1929924203546641305",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "少林寺新任住持释印乐法师上任后取消了收费项目，这是否意味着少林寺将回归传统？",
-      "link": "https://www.zhihu.com/question/1935081289335150294",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "9",
-      "title": "亮证女司机为何知道男子信息，公安局长称女司机是男子亲戚的亲戚，「恰好认得他的车」，如何看待这一回应？",
-      "link": "https://www.zhihu.com/question/1935084791776114520",
-      "heat": "62 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "为什么 MMORPG 这一游戏品类不火了?",
-      "link": "https://www.zhihu.com/question/654222755",
-      "heat": "62 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "电影《731》将于 9 月 18 日上映，你有哪些期待？",
-      "link": "https://www.zhihu.com/question/1935359716596344787",
+      "title": "罗技已成功将生产线从中国转移，计划年底前将中国制造产品在美国进口中的占比降至 10%，如何看待此布局？",
+      "link": "https://www.zhihu.com/question/1934283699836416211",
       "heat": "59 万热度"
     },
     {
-      "rank": "12",
+      "rank": "8",
       "title": "明明所有人知道抽烟有害健康，为什么还有那么多人抽烟?",
       "link": "https://www.zhihu.com/question/387231597",
       "heat": "59 万热度"
     },
     {
-      "rank": "13",
+      "rank": "9",
+      "title": "亮证女司机为何知道男子信息，公安局长称女司机是男子亲戚的亲戚，「恰好认得他的车」，如何看待这一回应？",
+      "link": "https://www.zhihu.com/question/1935084791776114520",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "8 月 3 日苏超盐城 5:0 常州，常州队 8 战 0 胜仍未进球，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1935438272202499672",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "11",
       "title": "货车司机等红灯无聊向路人射钢珠，致 4 名女性受伤，获刑 9 个月，如何从法律角度解读？",
       "link": "https://www.zhihu.com/question/1933197693909439850",
       "heat": "59 万热度"
     },
     {
-      "rank": "14",
+      "rank": "12",
+      "title": "为什么 MMORPG 这一游戏品类不火了?",
+      "link": "https://www.zhihu.com/question/654222755",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "13",
       "title": "医生为什么都愿意返聘回去，继续上班，他们就不想旅游过退休生活吗？",
       "link": "https://www.zhihu.com/question/1924126362848965910",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "电影《731》将于 9 月 18 日上映，你有哪些期待？",
+      "link": "https://www.zhihu.com/question/1935359716596344787",
       "heat": "58 万热度"
     },
     {
       "rank": "15",
       "title": "江苏一外卖店铺疑用空调水泡粉丝香菇，监管部门介入，空调水到底有多脏？会带来哪些健康风险？",
       "link": "https://www.zhihu.com/question/1934676480908027344",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "16",
@@ -102,206 +102,206 @@
       "rank": "17",
       "title": "你认为哪部大片将会夺得 2025 暑期档票房冠军？",
       "link": "https://www.zhihu.com/question/1923088352686634821",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "18",
-      "title": "为什么很多人，做到经理或总监，就再也上不去了？",
-      "link": "https://www.zhihu.com/question/1934396480858363211",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "凡人修仙传中，韩立更爱南宫婉还是更爱紫灵？",
-      "link": "https://www.zhihu.com/question/435844370",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "如何评价本届雪如意超维视界 Tidebound(德国战车) 获得冠军？",
-      "link": "https://www.zhihu.com/question/1935476842338422972",
       "heat": "54 万热度"
     },
     {
-      "rank": "21",
+      "rank": "18",
       "title": "江西物理老师自制「等离子炮」，在课上展示击倒易拉罐的实验，其原理是什么？冲击力能有多大？",
       "link": "https://www.zhihu.com/question/1934661057059726845",
       "heat": "54 万热度"
     },
     {
+      "rank": "19",
+      "title": "为什么很多人，做到经理或总监，就再也上不去了？",
+      "link": "https://www.zhihu.com/question/1934396480858363211",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "凡人修仙传中，韩立更爱南宫婉还是更爱紫灵？",
+      "link": "https://www.zhihu.com/question/435844370",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "如何评价本届雪如意超维视界 Tidebound(德国战车) 获得冠军？",
+      "link": "https://www.zhihu.com/question/1935476842338422972",
+      "heat": "53 万热度"
+    },
+    {
       "rank": "22",
       "title": "同为中国古代三大天才诗人之一，李白和苏轼，哪一个更出色？",
       "link": "https://www.zhihu.com/question/617949684",
-      "heat": "54 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "23",
       "title": "作为《崩坏：星穹铁道》的玩家，你希望游戏继续出崩坏同位体作为主推角色吗？",
       "link": "https://www.zhihu.com/question/1931205853337329773",
-      "heat": "54 万热度"
+      "heat": "52 万热度"
     },
     {
       "rank": "24",
       "title": "如何评价《原神》5.8 世界任务 [最后的特诺奇兹托克人]？",
       "link": "https://www.zhihu.com/question/1935348461806552195",
-      "heat": "53 万热度"
+      "heat": "52 万热度"
     },
     {
       "rank": "25",
       "title": "怎么让注意力集中起来啊？",
       "link": "https://www.zhihu.com/question/1917268208311833949",
-      "heat": "53 万热度"
+      "heat": "52 万热度"
     },
     {
       "rank": "26",
       "title": "从一个人的声音可以判断这个人的哪些特质？",
       "link": "https://www.zhihu.com/question/19914633",
-      "heat": "53 万热度"
+      "heat": "52 万热度"
     },
     {
       "rank": "27",
-      "title": "如何评价 2025 年世锦赛男子 4 乘 100 米混合泳接力奥运冠军中国队无缘决赛？",
-      "link": "https://www.zhihu.com/question/1935324060109243897",
-      "heat": "52 万热度"
+      "title": "如何评价周一围、高伟光、陈都灵主演的电视剧《华山论剑之东邪西毒》？",
+      "link": "https://www.zhihu.com/question/1934343063074992847",
+      "heat": "51 万热度"
     },
     {
       "rank": "28",
-      "title": "如何评价周一围、高伟光、陈都灵主演的电视剧《华山论剑之东邪西毒》？",
-      "link": "https://www.zhihu.com/question/1934343063074992847",
-      "heat": "52 万热度"
+      "title": "如何评价 2025 年世锦赛男子 4 乘 100 米混合泳接力奥运冠军中国队无缘决赛？",
+      "link": "https://www.zhihu.com/question/1935324060109243897",
+      "heat": "51 万热度"
     },
     {
       "rank": "29",
-      "title": "如何评价动画《灵能百分百》？",
-      "link": "https://www.zhihu.com/question/48417913",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "我有很严重的启动困难，很难专注，但是一旦专注又可以持续很久，可以排除 adhd 吗?",
-      "link": "https://www.zhihu.com/question/1897797387432498254",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "只有一对哑铃，如何在家做力量训练？",
-      "link": "https://www.zhihu.com/question/616395433",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "前往一个陌生的城市时，你最想从本地人那里得到什么样的知识？",
-      "link": "https://www.zhihu.com/question/1930768808777355916",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "7 月美国「ISM 制造业 PMI」再创新低至 48，为何在「制造业回流」目标下，美国经济繁荣指标反而不景气？",
-      "link": "https://www.zhihu.com/question/1934962147097554955",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "34",
       "title": "刘邦对于吕雉是什么态度？",
       "link": "https://www.zhihu.com/question/1920749290516636327",
       "heat": "49 万热度"
     },
     {
-      "rank": "35",
+      "rank": "30",
       "title": "怎么努力工作都得不到升职加薪，怎么办？",
       "link": "https://www.zhihu.com/question/1909196803590563829",
       "heat": "49 万热度"
     },
     {
-      "rank": "36",
+      "rank": "31",
       "title": "为什么在美国是橄榄球发展壮大而不是足球呢？",
       "link": "https://www.zhihu.com/question/24230602",
       "heat": "49 万热度"
     },
     {
-      "rank": "37",
+      "rank": "32",
       "title": "领导发邮件给安排了个活，过了两个月我翻邮件看到了，心态有点崩了，领导也没说啥，现在应该怎么做？",
       "link": "https://www.zhihu.com/question/1934068400512042616",
       "heat": "49 万热度"
     },
     {
-      "rank": "38",
+      "rank": "33",
       "title": "东契奇休赛季瘦身成功，新赛季能带领湖人走多远？",
       "link": "https://www.zhihu.com/question/1933447800454124748",
       "heat": "49 万热度"
     },
     {
-      "rank": "39",
+      "rank": "34",
       "title": "为啥没有一款像《全职高手》里面的一款叫《荣耀》的游戏呢?",
       "link": "https://www.zhihu.com/question/1927889188973421596",
       "heat": "49 万热度"
     },
     {
-      "rank": "40",
+      "rank": "35",
+      "title": "前往一个陌生的城市时，你最想从本地人那里得到什么样的知识？",
+      "link": "https://www.zhihu.com/question/1930768808777355916",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "7 月美国「ISM 制造业 PMI」再创新低至 48，为何在「制造业回流」目标下，美国经济繁荣指标反而不景气？",
+      "link": "https://www.zhihu.com/question/1934962147097554955",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "37",
       "title": "陈佩斯斥资 1.01 亿拍《戏台》，是情怀还是冒险？",
       "link": "https://www.zhihu.com/question/1931689150161073246",
       "heat": "49 万热度"
     },
     {
-      "rank": "41",
+      "rank": "38",
       "title": "为啥小米造车不再打性价比了，传统车企反而自称比小米有性价比？",
       "link": "https://www.zhihu.com/question/1920876267340826485",
       "heat": "49 万热度"
     },
     {
-      "rank": "42",
+      "rank": "39",
       "title": "面对南京大屠杀血淋淋的历史，你更想说什么？",
       "link": "https://www.zhihu.com/question/1934335733071590313",
       "heat": "49 万热度"
     },
     {
-      "rank": "43",
+      "rank": "40",
       "title": "《罗小黑战记 2》画风治愈且口碑好，为什么票房这么惨淡？",
       "link": "https://www.zhihu.com/question/1933919507031777379",
       "heat": "49 万热度"
     },
     {
-      "rank": "44",
+      "rank": "41",
       "title": "如何评价美国的「快沉」QUICKSINK 低成本反舰武器?",
       "link": "https://www.zhihu.com/question/616203597",
       "heat": "49 万热度"
     },
     {
-      "rank": "45",
+      "rank": "42",
       "title": "为什么我的大脑像「永动机」一样？如何跳出反复沉思的循环？",
       "link": "https://www.zhihu.com/question/1934070306567349983",
       "heat": "49 万热度"
     },
     {
-      "rank": "46",
-      "title": "8 月 2 日苏超联赛，徐州 2-1 战胜扬州，如何评价双方比赛中的表现？",
-      "link": "https://www.zhihu.com/question/1935115449135247921",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "47",
+      "rank": "43",
       "title": "最近《凡人修仙传》大热，大家对于金晨饰演的南宫婉好像吐槽颇多，这是为什么?",
       "link": "https://www.zhihu.com/question/1934055696334295097",
       "heat": "49 万热度"
     },
     {
-      "rank": "48",
+      "rank": "44",
       "title": "如何评价《一人之下》最新 770 话老天师说只要再见到无根生就要他死，哪里来的这么大仇恨啊？",
       "link": "https://www.zhihu.com/question/1934442778416374316",
       "heat": "49 万热度"
     },
     {
-      "rank": "49",
+      "rank": "45",
       "title": "旅行后，你对哪个城市祛魅了？",
       "link": "https://www.zhihu.com/question/1914255984081232548",
       "heat": "49 万热度"
     },
     {
-      "rank": "50",
+      "rank": "46",
       "title": "历史上有没有那种光叫名字容易叫错，但叫外号一下子就能认出来的人？",
       "link": "https://www.zhihu.com/question/1933714634134757546",
       "heat": "49 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "小米为什么不建一个类似于特斯拉超级工厂年产 200 万量的生产基地，难度在哪里？",
+      "link": "https://www.zhihu.com/question/1923709941329425575",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "Nintendo Switch 2 首月销量为 582 万台，如何评价这一市场表现？",
+      "link": "https://www.zhihu.com/question/1934626634301961602",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "工作太忙想辞职，但是又怕走了同事忙不过来，怎么办？",
+      "link": "https://www.zhihu.com/question/1933676632591284033",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "关于渤海国有哪些有趣的冷知识？",
+      "link": "https://www.zhihu.com/question/53158049",
+      "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-08-04 07:26:34"
+  "generated_at": "2025-08-04 07:45:56"
 }
