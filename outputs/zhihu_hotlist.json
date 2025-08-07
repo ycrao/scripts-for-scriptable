@@ -1,108 +1,108 @@
 {
-  "artifact_id": "2750b675-41f6-45f8-8137-6002c0f1965e",
+  "artifact_id": "3d9d619d-99a3-4384-a387-ee2c6d3e8866",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "社保新规 9 月 1 日实施，对普通人有什么影响？",
       "link": "https://www.zhihu.com/question/1936165649241076667",
-      "heat": "155 万热度"
+      "heat": "157 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价 OpenAI 凌晨发布的 GPT-5？",
       "link": "https://www.zhihu.com/question/1936601885311239615",
-      "heat": "127 万热度"
+      "heat": "140 万热度"
     },
     {
       "rank": "3",
       "title": "日本人口降幅创纪录，总人口即将跌破 1.2 亿，16 年间减少总数超过 2 个大阪城，会给社会经济带来哪些影响？",
       "link": "https://www.zhihu.com/question/1936733819257488621",
-      "heat": "126 万热度"
+      "heat": "123 万热度"
     },
     {
       "rank": "4",
       "title": "星座博主陶白白官宣离婚，妻子称男方将婚姻视为责任，无法提供情绪价值而离婚，如何看待婚姻中的这类问题？",
       "link": "https://www.zhihu.com/question/1936538083601379369",
-      "heat": "121 万热度"
+      "heat": "122 万热度"
     },
     {
       "rank": "5",
-      "title": "中国汽车第一省易主，上半年安徽汽车产量超广东居全国第一，为何是合肥？如何看待这一变化？",
-      "link": "https://www.zhihu.com/question/1936476783932303339",
-      "heat": "93 万热度"
+      "title": "OpenAI 官宣 GPT-5 8 月 8 日凌晨一点发布，有什么信息值得关注？",
+      "link": "https://www.zhihu.com/question/1936723434760568978",
+      "heat": "96 万热度"
     },
     {
       "rank": "6",
-      "title": "OpenAI 官宣 GPT-5 8 月 8 日凌晨一点发布，有什么信息值得关注？",
-      "link": "https://www.zhihu.com/question/1936723434760568978",
-      "heat": "92 万热度"
+      "title": "中国汽车第一省易主，上半年安徽汽车产量超广东居全国第一，为何是合肥？如何看待这一变化？",
+      "link": "https://www.zhihu.com/question/1936476783932303339",
+      "heat": "94 万热度"
     },
     {
       "rank": "7",
       "title": "为什么美国农民敢竭泽而渔地下水和黑土地，不怕未来几十年后粮食产量不断下降吗？",
       "link": "https://www.zhihu.com/question/1932517257763886813",
-      "heat": "92 万热度"
+      "heat": "93 万热度"
     },
     {
       "rank": "8",
       "title": "俄罗斯宣布「普京与特朗普计划下周会晤」，俄罗斯股市大涨，国际金价、油价走低，释放了什么信号？",
       "link": "https://www.zhihu.com/question/1936830035978876363",
-      "heat": "88 万热度"
+      "heat": "86 万热度"
     },
     {
       "rank": "9",
-      "title": "如果每天晚上喝一罐啤酒，时间久了会对身体造成不良影响吗？",
-      "link": "https://www.zhihu.com/question/1927013937645347666",
-      "heat": "84 万热度"
+      "title": "你经历过的最无语的事是什么？",
+      "link": "https://www.zhihu.com/question/442180642",
+      "heat": "78 万热度"
     },
     {
       "rank": "10",
-      "title": "你经历过的最无语的事是什么？",
-      "link": "https://www.zhihu.com/question/442180642",
-      "heat": "76 万热度"
+      "title": "2025 年 9 月 1 号后新国标电动自行车会设计成啥样子？",
+      "link": "https://www.zhihu.com/question/1932715497935316299",
+      "heat": "68 万热度"
     },
     {
       "rank": "11",
       "title": "郑州 8 月 7 日遭遇强降雨，全市停产停业停课停运，目前情况怎么样？出行还顺利吗？",
       "link": "https://www.zhihu.com/question/1936791380497232560",
-      "heat": "73 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "12",
-      "title": "2025 年 9 月 1 号后新国标电动自行车会设计成啥样子？",
-      "link": "https://www.zhihu.com/question/1932715497935316299",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "如何评价《南京照相馆》高叶饰演的林毓秀？",
-      "link": "https://www.zhihu.com/question/1933937383583250214",
-      "heat": "66 万热度"
-    },
-    {
-      "rank": "14",
       "title": "GPT-5 或将于今年夏天推出，阿尔特曼称「坐立不安，感到恐惧」，发生了什么？你有哪些期待？",
       "link": "https://www.zhihu.com/question/1935330552552096016",
       "heat": "66 万热度"
     },
     {
-      "rank": "15",
-      "title": "职场上同事看见你升职了，心生记恨，有事没事说些阴阳怪气的话，这个时候你怎么面对？",
-      "link": "https://www.zhihu.com/question/1904183733118034872",
-      "heat": "64 万热度"
+      "rank": "13",
+      "title": "如何评价《南京照相馆》高叶饰演的林毓秀？",
+      "link": "https://www.zhihu.com/question/1933937383583250214",
+      "heat": "65 万热度"
     },
     {
-      "rank": "16",
+      "rank": "14",
       "title": "如何评价《战地 6》?",
       "link": "https://www.zhihu.com/question/379785334",
       "heat": "62 万热度"
     },
     {
+      "rank": "15",
+      "title": "如果每天晚上喝一罐啤酒，时间久了会对身体造成不良影响吗？",
+      "link": "https://www.zhihu.com/question/1927013937645347666",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "职场上同事看见你升职了，心生记恨，有事没事说些阴阳怪气的话，这个时候你怎么面对？",
+      "link": "https://www.zhihu.com/question/1904183733118034872",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "17",
       "title": "为什么很多人年年体检，最后还是发现癌症晚期？",
       "link": "https://www.zhihu.com/question/663064671",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "18",
@@ -168,7 +168,7 @@
       "rank": "28",
       "title": "「蜀汉四相」除了诸葛亮，而蒋琬、董允、费祎三人各自的能力如何？",
       "link": "https://www.zhihu.com/question/2414924331",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "29",
@@ -196,26 +196,26 @@
     },
     {
       "rank": "33",
-      "title": "为什么有的人完全不懂技术，却可以做到管理层？",
-      "link": "https://www.zhihu.com/question/8128102555",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "该选择 985 普导还是 211 杰青直系弟子？",
-      "link": "https://www.zhihu.com/question/1934443777122079490",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "35",
       "title": "按神圣罗马帝国的样子，架空一个神圣中华帝国会是怎样的？",
       "link": "https://www.zhihu.com/question/1932226971351389883",
       "heat": "56 万热度"
     },
     {
-      "rank": "36",
+      "rank": "34",
       "title": "16 袋泡面，120 个锅贴，6 斤大卷饼，18 个汉堡和 37 根油条，哪个吃起来难度更大？",
       "link": "https://www.zhihu.com/question/1933354452695363833",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "为什么有的人完全不懂技术，却可以做到管理层？",
+      "link": "https://www.zhihu.com/question/8128102555",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "该选择 985 普导还是 211 杰青直系弟子？",
+      "link": "https://www.zhihu.com/question/1934443777122079490",
       "heat": "56 万热度"
     },
     {
@@ -246,7 +246,7 @@
       "rank": "41",
       "title": "央行等七部门联合印发《关于金融支持新型工业化的指导意见》，哪些信息值得关注？将带来什么改变？",
       "link": "https://www.zhihu.com/question/1936100640439927075",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "42",
@@ -274,34 +274,34 @@
     },
     {
       "rank": "46",
-      "title": "Python 有哪些好用的库？",
-      "link": "https://www.zhihu.com/question/41680319",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "如何评价原神的《写在筑梦之前——UGC 玩法开发者手札》？",
-      "link": "https://www.zhihu.com/question/1936852338892575756",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "48",
       "title": "如何评价《影之刃零》的剧情大改？沿用《雨血》的剧情会有什么问题？",
       "link": "https://www.zhihu.com/question/1936548944701268304",
       "heat": "55 万热度"
     },
     {
+      "rank": "47",
+      "title": "Python 有哪些好用的库？",
+      "link": "https://www.zhihu.com/question/41680319",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "如何评价原神的《写在筑梦之前——UGC 玩法开发者手札》？",
+      "link": "https://www.zhihu.com/question/1936852338892575756",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "49",
-      "title": "我马上上高一，除英语外想多学一门外语，学什么较好？",
-      "link": "https://www.zhihu.com/question/1935713482617128871",
+      "title": "历史上的哪个人物最让你意难平？",
+      "link": "https://www.zhihu.com/question/1927794089451033565",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "IG 零封 AL，后者问题出在哪了？",
-      "link": "https://www.zhihu.com/question/1936579919233647256",
+      "title": "我马上上高一，除英语外想多学一门外语，学什么较好？",
+      "link": "https://www.zhihu.com/question/1935713482617128871",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-08-08 03:53:02"
+  "generated_at": "2025-08-08 04:30:48"
 }
