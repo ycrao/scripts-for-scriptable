@@ -1,30 +1,30 @@
 {
-  "artifact_id": "c7d3c9e1-2a77-4b45-a7db-a8bba0fd4aae",
+  "artifact_id": "82232a8f-3fb4-4a51-b40b-9542b14fd7d8",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "社保新规 9 月 1 日实施，对普通人有什么影响？",
       "link": "https://www.zhihu.com/question/1936165649241076667",
-      "heat": "157 万热度"
+      "heat": "159 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价 OpenAI 凌晨发布的 GPT-5？",
       "link": "https://www.zhihu.com/question/1936601885311239615",
-      "heat": "140 万热度"
+      "heat": "147 万热度"
     },
     {
       "rank": "3",
       "title": "日本人口降幅创纪录，总人口即将跌破 1.2 亿，16 年间减少总数超过 2 个大阪城，会给社会经济带来哪些影响？",
       "link": "https://www.zhihu.com/question/1936733819257488621",
-      "heat": "123 万热度"
+      "heat": "121 万热度"
     },
     {
       "rank": "4",
       "title": "星座博主陶白白官宣离婚，妻子称男方将婚姻视为责任，无法提供情绪价值而离婚，如何看待婚姻中的这类问题？",
       "link": "https://www.zhihu.com/question/1936538083601379369",
-      "heat": "122 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "5",
@@ -34,62 +34,62 @@
     },
     {
       "rank": "6",
+      "title": "为什么美国农民敢竭泽而渔地下水和黑土地，不怕未来几十年后粮食产量不断下降吗？",
+      "link": "https://www.zhihu.com/question/1932517257763886813",
+      "heat": "94 万热度"
+    },
+    {
+      "rank": "7",
       "title": "中国汽车第一省易主，上半年安徽汽车产量超广东居全国第一，为何是合肥？如何看待这一变化？",
       "link": "https://www.zhihu.com/question/1936476783932303339",
       "heat": "94 万热度"
     },
     {
-      "rank": "7",
-      "title": "为什么美国农民敢竭泽而渔地下水和黑土地，不怕未来几十年后粮食产量不断下降吗？",
-      "link": "https://www.zhihu.com/question/1932517257763886813",
-      "heat": "93 万热度"
-    },
-    {
       "rank": "8",
       "title": "俄罗斯宣布「普京与特朗普计划下周会晤」，俄罗斯股市大涨，国际金价、油价走低，释放了什么信号？",
       "link": "https://www.zhihu.com/question/1936830035978876363",
-      "heat": "86 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "9",
-      "title": "你经历过的最无语的事是什么？",
-      "link": "https://www.zhihu.com/question/442180642",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "10",
       "title": "2025 年 9 月 1 号后新国标电动自行车会设计成啥样子？",
       "link": "https://www.zhihu.com/question/1932715497935316299",
       "heat": "68 万热度"
     },
     {
-      "rank": "11",
-      "title": "郑州 8 月 7 日遭遇强降雨，全市停产停业停课停运，目前情况怎么样？出行还顺利吗？",
-      "link": "https://www.zhihu.com/question/1936791380497232560",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "12",
+      "rank": "10",
       "title": "GPT-5 或将于今年夏天推出，阿尔特曼称「坐立不安，感到恐惧」，发生了什么？你有哪些期待？",
       "link": "https://www.zhihu.com/question/1935330552552096016",
       "heat": "66 万热度"
     },
     {
-      "rank": "13",
+      "rank": "11",
+      "title": "郑州 8 月 7 日遭遇强降雨，全市停产停业停课停运，目前情况怎么样？出行还顺利吗？",
+      "link": "https://www.zhihu.com/question/1936791380497232560",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "12",
       "title": "如何评价《南京照相馆》高叶饰演的林毓秀？",
       "link": "https://www.zhihu.com/question/1933937383583250214",
       "heat": "65 万热度"
     },
     {
-      "rank": "14",
+      "rank": "13",
       "title": "如何评价《战地 6》?",
       "link": "https://www.zhihu.com/question/379785334",
       "heat": "62 万热度"
     },
     {
-      "rank": "15",
+      "rank": "14",
       "title": "如果每天晚上喝一罐啤酒，时间久了会对身体造成不良影响吗？",
       "link": "https://www.zhihu.com/question/1927013937645347666",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "你经历过的最无语的事是什么？",
+      "link": "https://www.zhihu.com/question/442180642",
       "heat": "59 万热度"
     },
     {
@@ -178,14 +178,14 @@
     },
     {
       "rank": "30",
-      "title": "心理学上怎么解释「捧杀」？",
-      "link": "https://www.zhihu.com/question/1935576930528235964",
+      "title": "按神圣罗马帝国的样子，架空一个神圣中华帝国会是怎样的？",
+      "link": "https://www.zhihu.com/question/1932226971351389883",
       "heat": "56 万热度"
     },
     {
       "rank": "31",
-      "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
-      "link": "https://www.zhihu.com/question/15292572202",
+      "title": "心理学上怎么解释「捧杀」？",
+      "link": "https://www.zhihu.com/question/1935576930528235964",
       "heat": "56 万热度"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "rank": "33",
-      "title": "按神圣罗马帝国的样子，架空一个神圣中华帝国会是怎样的？",
-      "link": "https://www.zhihu.com/question/1932226971351389883",
+      "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
+      "link": "https://www.zhihu.com/question/15292572202",
       "heat": "56 万热度"
     },
     {
@@ -214,14 +214,14 @@
     },
     {
       "rank": "36",
-      "title": "该选择 985 普导还是 211 杰青直系弟子？",
-      "link": "https://www.zhihu.com/question/1934443777122079490",
+      "title": "你会选择离家近但工资低还是离家很远工资高一点的工作？",
+      "link": "https://www.zhihu.com/question/1923313206190932301",
       "heat": "56 万热度"
     },
     {
       "rank": "37",
-      "title": "你会选择离家近但工资低还是离家很远工资高一点的工作？",
-      "link": "https://www.zhihu.com/question/1923313206190932301",
+      "title": "该选择 985 普导还是 211 杰青直系弟子？",
+      "link": "https://www.zhihu.com/question/1934443777122079490",
       "heat": "56 万热度"
     },
     {
@@ -274,8 +274,8 @@
     },
     {
       "rank": "46",
-      "title": "如何评价《影之刃零》的剧情大改？沿用《雨血》的剧情会有什么问题？",
-      "link": "https://www.zhihu.com/question/1936548944701268304",
+      "title": "如何评价原神的《写在筑梦之前——UGC 玩法开发者手札》？",
+      "link": "https://www.zhihu.com/question/1936852338892575756",
       "heat": "55 万热度"
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "rank": "48",
-      "title": "如何评价原神的《写在筑梦之前——UGC 玩法开发者手札》？",
-      "link": "https://www.zhihu.com/question/1936852338892575756",
+      "title": "如何评价《影之刃零》的剧情大改？沿用《雨血》的剧情会有什么问题？",
+      "link": "https://www.zhihu.com/question/1936548944701268304",
       "heat": "55 万热度"
     },
     {
       "rank": "49",
-      "title": "历史上的哪个人物最让你意难平？",
-      "link": "https://www.zhihu.com/question/1927794089451033565",
+      "title": "IG 零封 AL，后者问题出在哪了？",
+      "link": "https://www.zhihu.com/question/1936579919233647256",
       "heat": "55 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-08-08 04:56:43"
+  "generated_at": "2025-08-08 05:26:58"
 }
