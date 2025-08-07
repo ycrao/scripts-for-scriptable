@@ -1,102 +1,102 @@
 {
-  "artifact_id": "1492e938-78f4-4c82-aba9-9acad6c6f2dd",
+  "artifact_id": "76caaae0-811e-4b48-83a3-4eed967a9aeb",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待多所学校以「招生不足」为由单方面毁约新聘教师？被解约者该如何维权？",
       "link": "https://www.zhihu.com/question/1936518114176103800",
-      "heat": "458 万热度"
+      "heat": "473 万热度"
     },
     {
       "rank": "2",
       "title": "蔚来沈斐怒挂聊天记录，理想 i8 销售截胡乐道 L90，如何看待一线销售这种竞争行为？",
       "link": "https://www.zhihu.com/question/1936492024195933052",
-      "heat": "180 万热度"
+      "heat": "191 万热度"
     },
     {
       "rank": "3",
-      "title": "面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？",
-      "link": "https://www.zhihu.com/question/12099889316",
-      "heat": "143 万热度"
+      "title": "社保新规 9 月 1 日实施，对普通人有什么影响？",
+      "link": "https://www.zhihu.com/question/1936165649241076667",
+      "heat": "151 万热度"
     },
     {
       "rank": "4",
-      "title": "男子因出售 14 万金条银行卡被冻结，因转账人为被电诈的受害人，这笔钱会如何处理？如何识别这类骗局？",
-      "link": "https://www.zhihu.com/question/1936174459787633245",
-      "heat": "131 万热度"
+      "title": "面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？",
+      "link": "https://www.zhihu.com/question/12099889316",
+      "heat": "147 万热度"
     },
     {
       "rank": "5",
-      "title": "社保新规 9 月 1 日实施，对普通人有什么影响？",
-      "link": "https://www.zhihu.com/question/1936165649241076667",
-      "heat": "124 万热度"
+      "title": "国新办介绍逐步推行免费学前教育，明确免保教费覆盖幼儿园大班儿童，还有哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1936732823852642838",
+      "heat": "138 万热度"
     },
     {
       "rank": "6",
-      "title": "国新办介绍逐步推行免费学前教育，明确免保教费覆盖幼儿园大班儿童，还有哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1936732823852642838",
-      "heat": "121 万热度"
+      "title": "特朗普称美将对芯片和半导体征收约 100% 的关税，有哪些意图？将带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1936688473336668485",
+      "heat": "128 万热度"
     },
     {
       "rank": "7",
-      "title": "特朗普称美将对芯片和半导体征收约 100% 的关税，有哪些意图？将带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1936688473336668485",
-      "heat": "120 万热度"
+      "title": "男子因出售 14 万金条银行卡被冻结，因转账人为被电诈的受害人，这笔钱会如何处理？如何识别这类骗局？",
+      "link": "https://www.zhihu.com/question/1936174459787633245",
+      "heat": "125 万热度"
     },
     {
       "rank": "8",
       "title": "特斯拉新专利「用风扇形成车底真空效果，1 秒内破百有望成真」，该技术可提升车辆哪些能力？实现性有多高？",
       "link": "https://www.zhihu.com/question/1936400316095492718",
-      "heat": "97 万热度"
+      "heat": "99 万热度"
     },
     {
       "rank": "9",
-      "title": "特朗普拟对非美制芯片征收 100% 关税，苹果承诺在美投资增至六千亿美元，这将对全球经济产生多大影响？",
-      "link": "https://www.zhihu.com/question/1936691965442888328",
-      "heat": "78 万热度"
+      "title": "日本称美关税公告与协议不一致，从「总税率 15%」 变成「现有税率加 15%」，要求纠正，具体情况如何？",
+      "link": "https://www.zhihu.com/question/1936721101964157535",
+      "heat": "90 万热度"
     },
     {
       "rank": "10",
       "title": "星座博主陶白白官宣离婚，妻子称男方将婚姻视为责任，无法提供情绪价值而离婚，如何看待婚姻中的这类问题？",
       "link": "https://www.zhihu.com/question/1936538083601379369",
-      "heat": "76 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "11",
-      "title": "装 Linux 虚拟机还是买个 Linux 电脑？有没有推荐的？",
-      "link": "https://www.zhihu.com/question/1936424560883892433",
-      "heat": "74 万热度"
+      "title": "特朗普拟对非美制芯片征收 100% 关税，苹果承诺在美投资增至六千亿美元，这将对全球经济产生多大影响？",
+      "link": "https://www.zhihu.com/question/1936691965442888328",
+      "heat": "79 万热度"
     },
     {
       "rank": "12",
-      "title": "都说《功夫》好，可是好在哪儿了？",
-      "link": "https://www.zhihu.com/question/1933296271726220429",
-      "heat": "70 万热度"
+      "title": "全新小鹏 P7 定于 8 月 6 日首秀，作为五年磨一剑的重磅车型，外观变化这么大为什么还叫 P7？",
+      "link": "https://www.zhihu.com/question/1933990314412054019",
+      "heat": "77 万热度"
     },
     {
       "rank": "13",
+      "title": "装 Linux 虚拟机还是买个 Linux 电脑？有没有推荐的？",
+      "link": "https://www.zhihu.com/question/1936424560883892433",
+      "heat": "75 万热度"
+    },
+    {
+      "rank": "14",
       "title": "微信上问「在吗」真的讨厌吗？",
       "link": "https://www.zhihu.com/question/267769419",
       "heat": "70 万热度"
     },
     {
-      "rank": "14",
-      "title": "为什么梯子不用时要横放？",
-      "link": "https://www.zhihu.com/question/20288913",
-      "heat": "65 万热度"
-    },
-    {
       "rank": "15",
-      "title": "到目前为止，人生最大的感悟是什么？",
-      "link": "https://www.zhihu.com/question/1910290822122944308",
-      "heat": "64 万热度"
+      "title": "贝斯特的科幻小说放在现在还能称为「神作」吗？《群星，我的归宿》中有哪些戳中你的设定？",
+      "link": "https://www.zhihu.com/question/1934551998121874800",
+      "heat": "66 万热度"
     },
     {
       "rank": "16",
       "title": "职场里，是「事事汇报，寻求指导」显得更稳妥，还是「独立思考，直接给出方案」更能体现价值？",
       "link": "https://www.zhihu.com/question/1931979378146932567",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "17",
@@ -106,92 +106,92 @@
     },
     {
       "rank": "18",
+      "title": "到目前为止，人生最大的感悟是什么？",
+      "link": "https://www.zhihu.com/question/1910290822122944308",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "19",
       "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
       "link": "https://www.zhihu.com/question/15292572202",
       "heat": "62 万热度"
     },
     {
-      "rank": "19",
-      "title": "为什么喜剧演员瘦了之后就被认为「不适合喜剧赛道了」？",
-      "link": "https://www.zhihu.com/question/1936177941848483360",
-      "heat": "61 万热度"
-    },
-    {
       "rank": "20",
       "title": "台积电 2 纳米制程技术遭外泄，涉案技术或流向日企，这起事件对台积电影响有多大？",
       "link": "https://www.zhihu.com/question/1936096916367729465",
-      "heat": "61 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "21",
       "title": "特朗普称万斯最可能成其接班人，原因可能是什么？谁会成为万斯潜在竞争者？",
       "link": "https://www.zhihu.com/question/1936387770789618449",
-      "heat": "61 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "22",
+      "title": "都说《功夫》好，可是好在哪儿了？",
+      "link": "https://www.zhihu.com/question/1933296271726220429",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "为什么梯子不用时要横放？",
+      "link": "https://www.zhihu.com/question/20288913",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "24",
       "title": "车很少等红灯时候，停在直行 + 右转车道算是没有道德么？",
       "link": "https://www.zhihu.com/question/1930736691225813372",
       "heat": "61 万热度"
     },
     {
-      "rank": "23",
-      "title": "为什么晁盖留的遗言，没有指定江湖威望很高的宋江为接班人，他内心想到了什么?",
-      "link": "https://www.zhihu.com/question/1932139828121699420",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "如果人类能短暂体验猫咪的视觉、听觉和嗅觉，最震撼的会是什么？",
-      "link": "https://www.zhihu.com/question/1933883883893560965",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "25",
-      "title": "《西游记》里如来为什么公然纵容弟子向唐僧师徒索贿？",
-      "link": "https://www.zhihu.com/question/1934940507110372311",
+      "title": "为什么喜剧演员瘦了之后就被认为「不适合喜剧赛道了」？",
+      "link": "https://www.zhihu.com/question/1936177941848483360",
       "heat": "59 万热度"
     },
     {
       "rank": "26",
-      "title": "为什么程序员上网搜代码怎么写是允许的，医生上网搜处方怎么开是不允许的?",
-      "link": "https://www.zhihu.com/question/1934962344175334619",
-      "heat": "57 万热度"
+      "title": "为什么晁盖留的遗言，没有指定江湖威望很高的宋江为接班人，他内心想到了什么?",
+      "link": "https://www.zhihu.com/question/1932139828121699420",
+      "heat": "58 万热度"
     },
     {
       "rank": "27",
-      "title": "为什么 VGA 和 DVI 口有螺丝，HDMI 和 DP 口没有螺丝？",
-      "link": "https://www.zhihu.com/question/1935815348197790004",
+      "title": "如果人类能短暂体验猫咪的视觉、听觉和嗅觉，最震撼的会是什么？",
+      "link": "https://www.zhihu.com/question/1933883883893560965",
       "heat": "57 万热度"
     },
     {
       "rank": "28",
-      "title": "为什么电影里黑社会那么愿意吃火锅？",
-      "link": "https://www.zhihu.com/question/1924169782795671267",
-      "heat": "55 万热度"
+      "title": "《西游记》里如来为什么公然纵容弟子向唐僧师徒索贿？",
+      "link": "https://www.zhihu.com/question/1934940507110372311",
+      "heat": "57 万热度"
     },
     {
       "rank": "29",
-      "title": "大猫生的小猫过段时间要送走，大猫是什么心情？",
-      "link": "https://www.zhihu.com/question/412869550",
-      "heat": "55 万热度"
+      "title": "为什么程序员上网搜代码怎么写是允许的，医生上网搜处方怎么开是不允许的?",
+      "link": "https://www.zhihu.com/question/1934962344175334619",
+      "heat": "56 万热度"
     },
     {
       "rank": "30",
+      "title": "为什么 VGA 和 DVI 口有螺丝，HDMI 和 DP 口没有螺丝？",
+      "link": "https://www.zhihu.com/question/1935815348197790004",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "31",
       "title": "LPL 2025 赛季第三赛段组内赛 BLG 2:1 JDG，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1936457465517540738",
       "heat": "55 万热度"
     },
     {
-      "rank": "31",
+      "rank": "32",
       "title": "一个出生在贫穷家庭的人，会产生哪些心理影响？",
       "link": "https://www.zhihu.com/question/1924114241809548085",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "人际关系总是处理不好怎么办？",
-      "link": "https://www.zhihu.com/question/465623944",
       "heat": "55 万热度"
     },
     {
@@ -202,62 +202,62 @@
     },
     {
       "rank": "34",
+      "title": "人际关系总是处理不好怎么办？",
+      "link": "https://www.zhihu.com/question/465623944",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "35",
       "title": "《我的团长我的团》，为什么迷龙起初埋汰李连胜，后来又背着他不愿放下？",
       "link": "https://www.zhihu.com/question/1918082030886970391",
       "heat": "55 万热度"
     },
     {
-      "rank": "35",
+      "rank": "36",
       "title": "《原神》现如今究竟是攒强力角色命座，还是全图鉴收集 0 命即停？",
       "link": "https://www.zhihu.com/question/1936212221085610012",
       "heat": "55 万热度"
     },
     {
-      "rank": "36",
+      "rank": "37",
       "title": "曹云金坦言与郭德纲没深仇大恨，不做朋友但别当敌人，离职后和老板真能一笑泯恩仇么？在职场里这套玩的转么？",
       "link": "https://www.zhihu.com/question/1936348180489929901",
       "heat": "55 万热度"
     },
     {
-      "rank": "37",
+      "rank": "38",
       "title": "ChatGPT 周活跃用户将达 7 亿，较去年增长 4 倍，为何没有其他大模型能撼动其地位？",
       "link": "https://www.zhihu.com/question/1935985098865469364",
       "heat": "55 万热度"
     },
     {
-      "rank": "38",
+      "rank": "39",
       "title": "旅行中你偶然发现过哪些看似普通却带给你惊喜的城市？",
       "link": "https://www.zhihu.com/question/1935496787583533728",
       "heat": "55 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "作为六朝古都的南京，有哪些让你印象深刻的历史故事？",
       "link": "https://www.zhihu.com/question/1935446585908659069",
       "heat": "55 万热度"
     },
     {
-      "rank": "40",
+      "rank": "41",
       "title": "公司辞退不愿意给 n+1 怎么办？",
       "link": "https://www.zhihu.com/question/1913231271770953641",
       "heat": "55 万热度"
     },
     {
-      "rank": "41",
+      "rank": "42",
       "title": "如何应对别人「就是看你不顺眼」的恶意？",
       "link": "https://www.zhihu.com/question/1892479704918896754",
       "heat": "55 万热度"
     },
     {
-      "rank": "42",
+      "rank": "43",
       "title": "为什么净水器的滤芯寿命与时间有关，却跟净水量和水质无关？",
       "link": "https://www.zhihu.com/question/1934336539514636181",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "华为又开源三个模型，并更改所有盘古仓为 openPangu，这意味着什么？",
-      "link": "https://www.zhihu.com/question/1935999555821876457",
       "heat": "55 万热度"
     },
     {
@@ -268,40 +268,40 @@
     },
     {
       "rank": "45",
-      "title": "奇瑞董事长尹同跃反思致歉称加班非常不人性化，如何落实反加班倡议？「缩减会议先抓领导」的深层逻辑是什么？",
-      "link": "https://www.zhihu.com/question/1936367083089802281",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "46",
       "title": "为什么有人喜欢坐公交车？在公交车上，你有过哪独特难忘的瞬间？",
       "link": "https://www.zhihu.com/question/1929177555086303923",
       "heat": "55 万热度"
     },
     {
-      "rank": "47",
+      "rank": "46",
       "title": "为什么英语课本不直接把语法、要背的东西摆上去，都是大段大段的英文？",
       "link": "https://www.zhihu.com/question/563493455",
       "heat": "55 万热度"
     },
     {
-      "rank": "48",
+      "rank": "47",
       "title": "为什么中文不需要用空格，而英文却大量需要？",
       "link": "https://www.zhihu.com/question/1931258046555874883",
       "heat": "55 万热度"
     },
     {
-      "rank": "49",
+      "rank": "48",
       "title": "为了达成跑步目标，你做过最疯狂的事情是什么？",
       "link": "https://www.zhihu.com/question/1929469161060435346",
       "heat": "55 万热度"
     },
     {
-      "rank": "50",
+      "rank": "49",
       "title": "关晓彤带火的减肥「蔬菜三明治」「低卡彩椒碗」是智商税吗？只在「吃」上节制真能减肥吗？",
       "link": "https://www.zhihu.com/question/1934313341775470739",
       "heat": "55 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "《三角洲行动》是选择自己喜欢的枪，还是选主播排名的枪？",
+      "link": "https://www.zhihu.com/question/1935650450222356026",
+      "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-08-07 13:34:23"
+  "generated_at": "2025-08-07 13:58:34"
 }
