@@ -1,307 +1,307 @@
 {
-  "artifact_id": "42d5d348-7827-42d5-a0e6-73d515f24af3",
+  "artifact_id": "0cdd3217-d5df-4d9c-a930-7de7c0e657e1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何评价 OpenAI 凌晨发布的 GPT-5？",
       "link": "https://www.zhihu.com/question/1936601885311239615",
-      "heat": "269 万热度"
+      "heat": "1078 万热度"
     },
     {
       "rank": "2",
-      "title": "日本人口降幅创纪录，总人口即将跌破 1.2 亿，16 年间减少总数超过 2 个大阪城，会给社会经济带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1936733819257488621",
-      "heat": "146 万热度"
+      "title": "「10 年体检患癌」女子被爱康国宾索赔 1000 万，女子已提出管辖权异议，如何看待这场诉讼？",
+      "link": "https://www.zhihu.com/question/1936897458648085005",
+      "heat": "260 万热度"
     },
     {
       "rank": "3",
       "title": "中国汽车第一省易主，上半年安徽汽车产量超广东居全国第一，为何是合肥？如何看待这一变化？",
       "link": "https://www.zhihu.com/question/1936476783932303339",
-      "heat": "109 万热度"
+      "heat": "185 万热度"
     },
     {
       "rank": "4",
-      "title": "为什么美国农民敢竭泽而渔地下水和黑土地，不怕未来几十年后粮食产量不断下降吗？",
-      "link": "https://www.zhihu.com/question/1932517257763886813",
-      "heat": "103 万热度"
+      "title": "日本人口降幅创纪录，总人口即将跌破 1.2 亿，16 年间减少总数超过 2 个大阪城，会给社会经济带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1936733819257488621",
+      "heat": "167 万热度"
     },
     {
       "rank": "5",
-      "title": "怎么评价《章鱼噼的原罪》这部动漫？",
-      "link": "https://www.zhihu.com/question/1925973610339755863",
-      "heat": "69 万热度"
+      "title": "郑州 8 月 7 日遭遇强降雨，全市停产停业停课停运，目前情况怎么样？出行还顺利吗？",
+      "link": "https://www.zhihu.com/question/1936791380497232560",
+      "heat": "119 万热度"
     },
     {
       "rank": "6",
-      "title": "如何评价《南京照相馆》高叶饰演的林毓秀？",
-      "link": "https://www.zhihu.com/question/1933937383583250214",
-      "heat": "61 万热度"
+      "title": "中国海大录取通知书附赠装有南极海水的吊坠标价 5000 元现身二手平台，这一吊坠的含金量有多高？",
+      "link": "https://www.zhihu.com/question/1936913454830154957",
+      "heat": "104 万热度"
     },
     {
       "rank": "7",
-      "title": "2025 年 9 月 1 号后新国标电动自行车会设计成啥样子？",
-      "link": "https://www.zhihu.com/question/1932715497935316299",
-      "heat": "59 万热度"
+      "title": "为什么美国农民敢竭泽而渔地下水和黑土地，不怕未来几十年后粮食产量不断下降吗？",
+      "link": "https://www.zhihu.com/question/1932517257763886813",
+      "heat": "102 万热度"
     },
     {
       "rank": "8",
-      "title": "俄罗斯宣布「普京与特朗普计划下周会晤」，俄罗斯股市大涨，国际金价、油价走低，释放了什么信号？",
-      "link": "https://www.zhihu.com/question/1936830035978876363",
-      "heat": "59 万热度"
+      "title": "广西国资拟入主南方黑芝麻集团​，李氏家族掌舵 19 年后或退出，集团经历了什么？若易主将有何影响？",
+      "link": "https://www.zhihu.com/question/1935785289961435788",
+      "heat": "98 万热度"
     },
     {
       "rank": "9",
-      "title": "如果每天晚上喝一罐啤酒，时间久了会对身体造成不良影响吗？",
-      "link": "https://www.zhihu.com/question/1927013937645347666",
-      "heat": "59 万热度"
+      "title": "哪些演员演反派你们觉得怪怪的，哪怕他们演技不差？",
+      "link": "https://www.zhihu.com/question/1899967372577711339",
+      "heat": "93 万热度"
     },
     {
       "rank": "10",
-      "title": "社保新规 9 月 1 日实施，对普通人有什么影响？",
-      "link": "https://www.zhihu.com/question/1936165649241076667",
-      "heat": "58 万热度"
+      "title": "是否存在一个原神队伍从未被任何一个玩家使用过？",
+      "link": "https://www.zhihu.com/question/1936743401161757329",
+      "heat": "87 万热度"
     },
     {
       "rank": "11",
-      "title": "郑州 8 月 7 日遭遇强降雨，全市停产停业停课停运，目前情况怎么样？出行还顺利吗？",
-      "link": "https://www.zhihu.com/question/1936791380497232560",
-      "heat": "58 万热度"
+      "title": "俄罗斯宣布「普京与特朗普计划下周会晤」，俄罗斯股市大涨，国际金价、油价走低，释放了什么信号？",
+      "link": "https://www.zhihu.com/question/1936830035978876363",
+      "heat": "86 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么很多人年年体检，最后还是发现癌症晚期？",
-      "link": "https://www.zhihu.com/question/663064671",
-      "heat": "57 万热度"
+      "title": "「红烧」到底是什么口味？",
+      "link": "https://www.zhihu.com/question/1933128585721418489",
+      "heat": "84 万热度"
     },
     {
       "rank": "13",
-      "title": "为什么有个错觉，领导不「瞎指挥」，事情就成一半了？",
-      "link": "https://www.zhihu.com/question/1936717469663356897",
-      "heat": "56 万热度"
+      "title": "为啥广东北京不学黑龙江，大量装灭蚊路灯，对付基孔肯雅热？",
+      "link": "https://www.zhihu.com/question/1935392078700995331",
+      "heat": "78 万热度"
     },
     {
       "rank": "14",
-      "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
-      "link": "https://www.zhihu.com/question/15292572202",
-      "heat": "56 万热度"
+      "title": "雷雨天气车是适合的避雷场所吗？为什么？",
+      "link": "https://www.zhihu.com/question/1936861637316415828",
+      "heat": "73 万热度"
     },
     {
       "rank": "15",
-      "title": "「蜀汉四相」除了诸葛亮，而蒋琬、董允、费祎三人各自的能力如何？",
-      "link": "https://www.zhihu.com/question/2414924331",
-      "heat": "55 万热度"
+      "title": "既然有绝对零度，那么是否存在绝对最高温度？",
+      "link": "https://www.zhihu.com/question/10076782452",
+      "heat": "70 万热度"
     },
     {
       "rank": "16",
-      "title": "刚开始玩手冲，买了几包豆子，完全喝不出「花香韵」「柑橘味」，是选豆的问题吗？求推荐适合新手的口粮豆?",
-      "link": "https://www.zhihu.com/question/1933476015012815703",
-      "heat": "55 万热度"
+      "title": "上海曾经的租界当中 (英美法三个)，为什么感觉法租界的名气最大？",
+      "link": "https://www.zhihu.com/question/1934950935555180133",
+      "heat": "65 万热度"
     },
     {
       "rank": "17",
-      "title": "职场上同事看见你升职了，心生记恨，有事没事说些阴阳怪气的话，这个时候你怎么面对？",
-      "link": "https://www.zhihu.com/question/1904183733118034872",
-      "heat": "55 万热度"
+      "title": "请问 RISC-V 架构适合用来开发 AI 处理器吗？",
+      "link": "https://www.zhihu.com/question/334303605",
+      "heat": "64 万热度"
     },
     {
       "rank": "18",
-      "title": "澳洲 14 岁中国交换生遇刺身亡，逮捕一名 13 岁交换生，具体情况如何？该如何追责？",
-      "link": "https://www.zhihu.com/question/1936323940634063875",
-      "heat": "55 万热度"
+      "title": "如果每天晚上喝一罐啤酒，时间久了会对身体造成不良影响吗？",
+      "link": "https://www.zhihu.com/question/1927013937645347666",
+      "heat": "58 万热度"
     },
     {
       "rank": "19",
-      "title": "面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？",
-      "link": "https://www.zhihu.com/question/12099889316",
-      "heat": "55 万热度"
+      "title": "如何评价《南京照相馆》高叶饰演的林毓秀？",
+      "link": "https://www.zhihu.com/question/1933937383583250214",
+      "heat": "58 万热度"
     },
     {
       "rank": "20",
-      "title": "2025.8.7 LCK 第三赛段第二轮焦点战 GEN 2 比 1 战胜 T1，如何评价这场比赛 ？",
-      "link": "https://www.zhihu.com/question/1936876243132867965",
-      "heat": "55 万热度"
+      "title": "2025 年 9 月 1 号后新国标电动自行车会设计成啥样子？",
+      "link": "https://www.zhihu.com/question/1932715497935316299",
+      "heat": "58 万热度"
     },
     {
       "rank": "21",
-      "title": "你经历过的最无语的事是什么？",
-      "link": "https://www.zhihu.com/question/442180642",
-      "heat": "55 万热度"
+      "title": "怎么评价《章鱼噼的原罪》这部动漫？",
+      "link": "https://www.zhihu.com/question/1925973610339755863",
+      "heat": "57 万热度"
     },
     {
       "rank": "22",
-      "title": "养猫之后你有哪些舍与得？",
-      "link": "https://www.zhihu.com/question/1934678791453664436",
+      "title": "为什么有个错觉，领导不「瞎指挥」，事情就成一半了？",
+      "link": "https://www.zhihu.com/question/1936717469663356897",
       "heat": "55 万热度"
     },
     {
       "rank": "23",
-      "title": "时间和温度具有相似性吗？",
-      "link": "https://www.zhihu.com/question/12035444230",
-      "heat": "54 万热度"
+      "title": "为什么英语课本不直接把语法、要背的东西摆上去，都是大段大段的英文？",
+      "link": "https://www.zhihu.com/question/563493455",
+      "heat": "53 万热度"
     },
     {
       "rank": "24",
-      "title": "《浪浪山小妖怪》中为什么后来让黄鼠狼精说话他也不说了？",
-      "link": "https://www.zhihu.com/question/1936185824363415408",
-      "heat": "54 万热度"
+      "title": "有没有平时看起来很温顺，但打起架来战斗力非常强悍的动物？",
+      "link": "https://www.zhihu.com/question/1935160185241960801",
+      "heat": "53 万热度"
     },
     {
       "rank": "25",
-      "title": "怎么煮茶叶蛋才能入味？",
-      "link": "https://www.zhihu.com/question/20606157",
-      "heat": "54 万热度"
+      "title": "画功进步比较快的漫画家有哪些？",
+      "link": "https://www.zhihu.com/question/667969082",
+      "heat": "53 万热度"
     },
     {
       "rank": "26",
-      "title": "如何评价《苏丹的游戏》里的梅姬?",
-      "link": "https://www.zhihu.com/question/1933438345180082672",
-      "heat": "54 万热度"
+      "title": "为什么晁盖留的遗言，没有指定江湖威望很高的宋江为接班人，他内心想到了什么?",
+      "link": "https://www.zhihu.com/question/1932139828121699420",
+      "heat": "53 万热度"
     },
     {
       "rank": "27",
-      "title": "如何欣赏、理解以及评价毕加索的牛？",
-      "link": "https://www.zhihu.com/question/26454925",
-      "heat": "54 万热度"
+      "title": "如何评价福克斯以 4 年 2.29 亿美元顶薪续约马刺？",
+      "link": "https://www.zhihu.com/question/1935985907908994868",
+      "heat": "53 万热度"
     },
     {
       "rank": "28",
-      "title": "你会选择离家近但工资低还是离家很远工资高一点的工作？",
-      "link": "https://www.zhihu.com/question/1923313206190932301",
-      "heat": "54 万热度"
+      "title": "装 Linux 虚拟机还是买个 Linux 电脑？有没有推荐的？",
+      "link": "https://www.zhihu.com/question/1936424560883892433",
+      "heat": "53 万热度"
     },
     {
       "rank": "29",
-      "title": "16 袋泡面，120 个锅贴，6 斤大卷饼，18 个汉堡和 37 根油条，哪个吃起来难度更大？",
-      "link": "https://www.zhihu.com/question/1933354452695363833",
-      "heat": "54 万热度"
+      "title": "三个月能精通深度学习吗？",
+      "link": "https://www.zhihu.com/question/272188981",
+      "heat": "53 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么有的人完全不懂技术，却可以做到管理层？",
-      "link": "https://www.zhihu.com/question/8128102555",
-      "heat": "54 万热度"
+      "title": "如果 F14 存活至今，可以优于阵风吗？",
+      "link": "https://www.zhihu.com/question/1930942608298976592",
+      "heat": "53 万热度"
     },
     {
       "rank": "31",
-      "title": "AI 节能功能真的能让空调更省电吗？格力 AI 节能王子 Pro 怎么样？",
-      "link": "https://www.zhihu.com/question/1936485940626429230",
-      "heat": "54 万热度"
+      "title": "假如猫咪能发朋友圈，它会发什么？",
+      "link": "https://www.zhihu.com/question/1929562359879402739",
+      "heat": "53 万热度"
     },
     {
       "rank": "32",
-      "title": "按神圣罗马帝国的样子，架空一个神圣中华帝国会是怎样的？",
-      "link": "https://www.zhihu.com/question/1932226971351389883",
-      "heat": "54 万热度"
+      "title": "如何评价《战地 6》?",
+      "link": "https://www.zhihu.com/question/379785334",
+      "heat": "53 万热度"
     },
     {
       "rank": "33",
-      "title": "怎么看待李达康这个人物？",
-      "link": "https://www.zhihu.com/question/1922998845819839694",
-      "heat": "54 万热度"
+      "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
+      "link": "https://www.zhihu.com/question/15292572202",
+      "heat": "53 万热度"
     },
     {
       "rank": "34",
-      "title": "精心布置的书房，真的能提升阅读效率吗？还是只提供了假装阅读的背景墙？",
-      "link": "https://www.zhihu.com/question/1932089203807712941",
-      "heat": "54 万热度"
+      "title": "AI 节能功能真的能让空调更省电吗？格力 AI 节能王子 Pro 怎么样？",
+      "link": "https://www.zhihu.com/question/1936485940626429230",
+      "heat": "53 万热度"
     },
     {
       "rank": "35",
-      "title": "关于文物中的「猪」，你印象最深刻的是哪一个？",
-      "link": "https://www.zhihu.com/question/1933682977960883374",
-      "heat": "54 万热度"
+      "title": "八旬老人不开空调热得体温飙升 41 度，为什么老年人都不喜欢开空调？",
+      "link": "https://www.zhihu.com/question/1930636678613173224",
+      "heat": "53 万热度"
     },
     {
       "rank": "36",
-      "title": "如何评价《一人之下》第 728（771）话？",
-      "link": "https://www.zhihu.com/question/1936931356249678862",
-      "heat": "54 万热度"
+      "title": "培训机构推出「高大衔接班」，为大一新生补习大学知识，暑假补课真能「赢在大学起跑线」吗？",
+      "link": "https://www.zhihu.com/question/1936453936228853172",
+      "heat": "53 万热度"
     },
     {
       "rank": "37",
-      "title": "如何评价原神的《写在筑梦之前——UGC 玩法开发者手札》？",
-      "link": "https://www.zhihu.com/question/1936852338892575756",
-      "heat": "54 万热度"
+      "title": "如果你来设计《三角洲行动》的 3*3 赛季任务，你会有什么想法？",
+      "link": "https://www.zhihu.com/question/1935660644369147561",
+      "heat": "53 万热度"
     },
     {
       "rank": "38",
-      "title": "电影《浪浪山小妖怪》你和哪个角色狠狠共情了？",
-      "link": "https://www.zhihu.com/question/1935073093799352249",
-      "heat": "54 万热度"
+      "title": "相较于传统啤酒风味，无醇啤酒是否会稍有逊色，无法替代传统啤酒呢？",
+      "link": "https://www.zhihu.com/question/1927013937838261240",
+      "heat": "53 万热度"
     },
     {
       "rank": "39",
-      "title": "《蜗居》里海藻选择错了吗？",
-      "link": "https://www.zhihu.com/question/24445144",
-      "heat": "54 万热度"
+      "title": "如果人类能短暂体验猫咪的视觉、听觉和嗅觉，最震撼的会是什么？",
+      "link": "https://www.zhihu.com/question/1933883883893560965",
+      "heat": "53 万热度"
     },
     {
       "rank": "40",
-      "title": "为什么那么多人都不建议复读？",
-      "link": "https://www.zhihu.com/question/322602017",
-      "heat": "54 万热度"
+      "title": "面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？",
+      "link": "https://www.zhihu.com/question/12099889316",
+      "heat": "53 万热度"
     },
     {
       "rank": "41",
-      "title": "对于樊振东以首个战略投资者的身份加入 MLTT？你有什么看法？这源于什么初衷?",
-      "link": "https://www.zhihu.com/question/1936737183512896396",
-      "heat": "54 万热度"
+      "title": "出行遇到过哪些奇葩意外？",
+      "link": "https://www.zhihu.com/question/1936070692920595749",
+      "heat": "53 万热度"
     },
     {
       "rank": "42",
-      "title": "除了学科知识，孩子在暑假里最应该学习的一项「软技能」是什么？",
-      "link": "https://www.zhihu.com/question/1936356972191540221",
-      "heat": "54 万热度"
+      "title": "如何评价曾经的 QQ 音乐三巨头许嵩、汪苏泷、徐良他们的才华和现在的发展？",
+      "link": "https://www.zhihu.com/question/348973693",
+      "heat": "53 万热度"
     },
     {
       "rank": "43",
-      "title": "该选择 985 普导还是 211 杰青直系弟子？",
-      "link": "https://www.zhihu.com/question/1934443777122079490",
-      "heat": "54 万热度"
+      "title": "如何应对别人「就是看你不顺眼」的恶意？",
+      "link": "https://www.zhihu.com/question/1892479704918896754",
+      "heat": "53 万热度"
     },
     {
       "rank": "44",
-      "title": "HiFi 产品为什么那么贵？成本真的很高吗？",
-      "link": "https://www.zhihu.com/question/1931754850741363853",
-      "heat": "54 万热度"
+      "title": "怎么看待李达康这个人物？",
+      "link": "https://www.zhihu.com/question/1922998845819839694",
+      "heat": "53 万热度"
     },
     {
       "rank": "45",
-      "title": "车很少等红灯时候，停在直行 + 右转车道算是没有道德么？",
-      "link": "https://www.zhihu.com/question/1930736691225813372",
-      "heat": "54 万热度"
+      "title": "网友称蜜雪冰城冰淇淋融化速度快，真的是这样吗？冰淇淋融化速度除了温度还和哪些因素有关？",
+      "link": "https://www.zhihu.com/question/1932850718445888850",
+      "heat": "53 万热度"
     },
     {
       "rank": "46",
-      "title": "如何评价《战地 6》?",
-      "link": "https://www.zhihu.com/question/379785334",
-      "heat": "54 万热度"
+      "title": "Python 有哪些好用的库？",
+      "link": "https://www.zhihu.com/question/41680319",
+      "heat": "53 万热度"
     },
     {
       "rank": "47",
-      "title": "相较于传统啤酒风味，无醇啤酒是否会稍有逊色，无法替代传统啤酒呢？",
-      "link": "https://www.zhihu.com/question/1927013937838261240",
-      "heat": "54 万热度"
+      "title": "你心目中最硬核的早茶城市是哪里？是什么造就了它硬核的早茶文化？",
+      "link": "https://www.zhihu.com/question/1933529048534987347",
+      "heat": "53 万热度"
     },
     {
       "rank": "48",
-      "title": "OpenAI 官宣 GPT-5 8 月 8 日凌晨一点发布，有什么信息值得关注？",
-      "link": "https://www.zhihu.com/question/1936723434760568978",
-      "heat": "54 万热度"
+      "title": "鸣人与佐助各时期的实力对比是怎样的？",
+      "link": "https://www.zhihu.com/question/318843831",
+      "heat": "53 万热度"
     },
     {
       "rank": "49",
-      "title": "你心目中最硬核的早茶城市是哪里？是什么造就了它硬核的早茶文化？",
-      "link": "https://www.zhihu.com/question/1933529048534987347",
-      "heat": "54 万热度"
+      "title": "研究称每天 1 杯无糖饮料患糖尿病风险增 38%，有哪些科学依据？无糖饮料还会带来哪些健康风险？",
+      "link": "https://www.zhihu.com/question/1935741625562261426",
+      "heat": "53 万热度"
     },
     {
       "rank": "50",
-      "title": "感觉自己读书毫无意义，还很难受怎么办?",
-      "link": "https://www.zhihu.com/question/1926428755464808229",
-      "heat": "54 万热度"
+      "title": "刚开始玩手冲，买了几包豆子，完全喝不出「花香韵」「柑橘味」，是选豆的问题吗？求推荐适合新手的口粮豆?",
+      "link": "https://www.zhihu.com/question/1933476015012815703",
+      "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-08-08 07:46:28"
+  "generated_at": "2025-08-08 10:22:54"
 }
