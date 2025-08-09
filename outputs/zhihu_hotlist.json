@@ -1,24 +1,24 @@
 {
-  "artifact_id": "88c4e67c-b3fb-49a9-9d21-49a638d60c00",
+  "artifact_id": "ee5d819f-a514-4909-9c50-f30044904599",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待美乘客疑拍到超清晰 UFO，喷气后消失？这可能是真的吗？",
       "link": "https://www.zhihu.com/question/1937199822378612502",
-      "heat": "148 万热度"
+      "heat": "144 万热度"
     },
     {
       "rank": "2",
       "title": "中公教育承诺考不过退款，考生称 1.7 万退款需 17 年退完，退款难背后暴露出哪些问题？该如何维权？",
       "link": "https://www.zhihu.com/question/1937570302285538810",
-      "heat": "113 万热度"
+      "heat": "116 万热度"
     },
     {
       "rank": "3",
       "title": "网友称小学语文教材部分内容出现「颠覆性修改」，后羿射日改为羿射九日，为什么要修改？这样做有必要吗？",
       "link": "https://www.zhihu.com/question/1937444374188351995",
-      "heat": "92 万热度"
+      "heat": "93 万热度"
     },
     {
       "rank": "4",
@@ -36,30 +36,30 @@
       "rank": "6",
       "title": "如何看待北京网友拍到「黑影御剑飞行穿越雷暴」，专家解读系「天气现象」？",
       "link": "https://www.zhihu.com/question/1937281251674419409",
-      "heat": "79 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "7",
+      "title": "《浪浪山小妖怪》的大结局是什么意思啊？弥勒佛为啥又注入体力给妖怪？",
+      "link": "https://www.zhihu.com/question/1937139451819160563",
+      "heat": "79 万热度"
+    },
+    {
+      "rank": "8",
       "title": "山东青岛海螺大爆发，潜水员称十年难遇，3 小时赚 3500 元，海螺爆发主要受哪些因素影响？",
       "link": "https://www.zhihu.com/question/1936131571280212711",
       "heat": "78 万热度"
     },
     {
-      "rank": "8",
-      "title": "《浪浪山小妖怪》的大结局是什么意思啊？弥勒佛为啥又注入体力给妖怪？",
-      "link": "https://www.zhihu.com/question/1937139451819160563",
-      "heat": "76 万热度"
-    },
-    {
       "rank": "9",
-      "title": "女子吃桃咬开发现里面一堆树叶，网友称是切叶蜂筑的巢，真的是这样吗？为什么在桃子里筑巢呢？",
-      "link": "https://www.zhihu.com/question/1935982847832847593",
+      "title": "如何评价《闻香识女人》中的价值观？",
+      "link": "https://www.zhihu.com/question/33280634",
       "heat": "75 万热度"
     },
     {
       "rank": "10",
-      "title": "如何评价《闻香识女人》中的价值观？",
-      "link": "https://www.zhihu.com/question/33280634",
+      "title": "女子吃桃咬开发现里面一堆树叶，网友称是切叶蜂筑的巢，真的是这样吗？为什么在桃子里筑巢呢？",
+      "link": "https://www.zhihu.com/question/1935982847832847593",
       "heat": "75 万热度"
     },
     {
@@ -72,7 +72,7 @@
       "rank": "12",
       "title": "大模型的 Embedding 层和独立的 Embedding 模型有什么区别？",
       "link": "https://www.zhihu.com/question/663835334",
-      "heat": "69 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "13",
@@ -90,7 +90,7 @@
       "rank": "15",
       "title": "去过几次漫展，为什么觉得根本没意思？cos 到底有什么好玩的？",
       "link": "https://www.zhihu.com/question/311643237",
-      "heat": "62 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "16",
@@ -118,87 +118,87 @@
     },
     {
       "rank": "20",
-      "title": "如何看待原神 6.0 版本由于性能限制将在 PS4 下架？",
-      "link": "https://www.zhihu.com/question/1936468049457832902",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "如何看待《三角洲行动》S5 赛季摸金模式遍地露娜的情况？",
-      "link": "https://www.zhihu.com/question/1936020307413529550",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "22",
       "title": "《红楼梦》里富贵人家的小姐为什么还需要做针线活，而且好像活还不轻?",
       "link": "https://www.zhihu.com/question/6367436242",
       "heat": "58 万热度"
     },
     {
-      "rank": "23",
-      "title": "为什么大部分人觉得梁山可以推翻宋朝？",
-      "link": "https://www.zhihu.com/question/1922224292956967993",
-      "heat": "58 万热度"
+      "rank": "21",
+      "title": "如何看待原神 6.0 版本由于性能限制将在 PS4 下架？",
+      "link": "https://www.zhihu.com/question/1936468049457832902",
+      "heat": "57 万热度"
     },
     {
-      "rank": "24",
+      "rank": "22",
       "title": "为什么越来越多的中年职场人不再想找一份工作了？",
       "link": "https://www.zhihu.com/question/1936566145642636016",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
-      "rank": "25",
-      "title": "你的城市有什么特殊的街道吗？叫什么名字？是怎么来的？",
-      "link": "https://www.zhihu.com/question/1934055091809281833",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "《浪浪山小妖怪》中猩猩怪为什么后来会成为四人组中最坚定的那个？",
-      "link": "https://www.zhihu.com/question/1937200064578680201",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
+      "rank": "23",
       "title": "为什么泰国基本上接近热带，一些泰国人看上去还是白白嫩嫩的呢？",
       "link": "https://www.zhihu.com/question/507933351",
       "heat": "57 万热度"
     },
     {
-      "rank": "28",
+      "rank": "24",
+      "title": "如何看待《三角洲行动》S5 赛季摸金模式遍地露娜的情况？",
+      "link": "https://www.zhihu.com/question/1936020307413529550",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "为什么大部分人觉得梁山可以推翻宋朝？",
+      "link": "https://www.zhihu.com/question/1922224292956967993",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
       "title": "我们的第四艘航母叫什么名字？",
       "link": "https://www.zhihu.com/question/1927769617654354904",
       "heat": "57 万热度"
     },
     {
-      "rank": "29",
-      "title": "花生为什么是最好的下酒菜？",
-      "link": "https://www.zhihu.com/question/47338871",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "《南京照相馆》票房破 20 亿，暑期档总票房破 80 亿，这一成绩如何？",
-      "link": "https://www.zhihu.com/question/1937468367649875235",
+      "rank": "27",
+      "title": "你的城市有什么特殊的街道吗？叫什么名字？是怎么来的？",
+      "link": "https://www.zhihu.com/question/1934055091809281833",
       "heat": "56 万热度"
     },
     {
-      "rank": "31",
+      "rank": "28",
+      "title": "《浪浪山小妖怪》中猩猩怪为什么后来会成为四人组中最坚定的那个？",
+      "link": "https://www.zhihu.com/question/1937200064578680201",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "花生为什么是最好的下酒菜？",
+      "link": "https://www.zhihu.com/question/47338871",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "30",
       "title": "2025WTT 横滨冠军赛 1/8 决赛，孙颖莎 3-1 胜桥本帆乃香，如何评价本场比赛?",
       "link": "https://www.zhihu.com/question/1937597361737175172",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "《南京照相馆》票房破 20 亿，暑期档总票房破 80 亿，这一成绩如何？",
+      "link": "https://www.zhihu.com/question/1937468367649875235",
       "heat": "55 万热度"
     },
     {
       "rank": "32",
       "title": "超薄平嵌冰箱对比传统冰箱真实的使用体验怎么样？值得入手么？",
       "link": "https://www.zhihu.com/question/1936833576697075034",
-      "heat": "54 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "33",
       "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
       "link": "https://www.zhihu.com/question/15292572202",
-      "heat": "54 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "34",
@@ -274,34 +274,34 @@
     },
     {
       "rank": "46",
+      "title": "2025 年男篮亚洲杯中国男篮 90 对 68 大胜约旦，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1937590592809996606",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "47",
       "title": "LPL 2025 赛季第三赛段组内赛 TES VS WBG，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1937569941831255534",
       "heat": "53 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "有哪一张照片或者图片让你感动为之流泪？",
       "link": "https://www.zhihu.com/question/21967231",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "《凡人修仙传》韩立修仙后为什么不和家人相认，也再不回去了？",
       "link": "https://www.zhihu.com/question/1935287924750001740",
       "heat": "53 万热度"
     },
     {
-      "rank": "49",
+      "rank": "50",
       "title": "南宫婉凭什么打败墨彩环、紫菱、元瑶等人而成为韩立的正妻？",
       "link": "https://www.zhihu.com/question/1934566810478417712",
       "heat": "53 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "白米饭的最佳搭档是哪道菜？",
-      "link": "https://www.zhihu.com/question/475273439",
-      "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-08-10 06:24:59"
+  "generated_at": "2025-08-10 06:45:24"
 }
