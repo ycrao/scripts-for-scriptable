@@ -1,18 +1,18 @@
 {
-  "artifact_id": "bf2edf48-f0f8-4ae0-a2f3-d80854fc4a5d",
+  "artifact_id": "71155b1d-b380-434d-b9f8-ba70a339f4bd",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "网友称小学语文教材部分内容出现「颠覆性修改」，后羿射日改为羿射九日，为什么要修改？这样做有必要吗？",
       "link": "https://www.zhihu.com/question/1937444374188351995",
-      "heat": "298 万热度"
+      "heat": "308 万热度"
     },
     {
       "rank": "2",
       "title": "山东青岛海螺大爆发，潜水员称十年难遇，3 小时赚 3500 元，海螺爆发主要受哪些因素影响？",
       "link": "https://www.zhihu.com/question/1936131571280212711",
-      "heat": "255 万热度"
+      "heat": "256 万热度"
     },
     {
       "rank": "3",
@@ -24,7 +24,7 @@
       "rank": "4",
       "title": "如何看待美乘客疑拍到超清晰 UFO，喷气后消失？这可能是真的吗？",
       "link": "https://www.zhihu.com/question/1937199822378612502",
-      "heat": "154 万热度"
+      "heat": "158 万热度"
     },
     {
       "rank": "5",
@@ -36,67 +36,67 @@
       "rank": "6",
       "title": "如何看待北京网友拍到「黑影御剑飞行穿越雷暴」，专家解读系「天气现象」？",
       "link": "https://www.zhihu.com/question/1937281251674419409",
-      "heat": "109 万热度"
+      "heat": "110 万热度"
     },
     {
       "rank": "7",
       "title": "花生为什么是最好的下酒菜？",
       "link": "https://www.zhihu.com/question/47338871",
-      "heat": "106 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "8",
-      "title": "《南京照相馆》票房破 20 亿，暑期档总票房破 80 亿，这一成绩如何？",
-      "link": "https://www.zhihu.com/question/1937468367649875235",
-      "heat": "100 万热度"
+      "title": "女子吃桃咬开发现里面一堆树叶，网友称是切叶蜂筑的巢，真的是这样吗？为什么在桃子里筑巢呢？",
+      "link": "https://www.zhihu.com/question/1935982847832847593",
+      "heat": "104 万热度"
     },
     {
       "rank": "9",
-      "title": "女子吃桃咬开发现里面一堆树叶，网友称是切叶蜂筑的巢，真的是这样吗？为什么在桃子里筑巢呢？",
-      "link": "https://www.zhihu.com/question/1935982847832847593",
-      "heat": "97 万热度"
+      "title": "《南京照相馆》票房破 20 亿，暑期档总票房破 80 亿，这一成绩如何？",
+      "link": "https://www.zhihu.com/question/1937468367649875235",
+      "heat": "103 万热度"
     },
     {
       "rank": "10",
-      "title": "2025WTT 横滨冠军赛 1/8 决赛，孙颖莎 3-1 胜桥本帆乃香，如何评价本场比赛?",
-      "link": "https://www.zhihu.com/question/1937597361737175172",
+      "title": "去过几次漫展，为什么觉得根本没意思？cos 到底有什么好玩的？",
+      "link": "https://www.zhihu.com/question/311643237",
       "heat": "87 万热度"
     },
     {
       "rank": "11",
       "title": "深圳一市民称非婚生暂无法领育儿补贴，当地回应实际执行待地方方案出炉，育儿补贴该不该与结婚证挂钩？",
       "link": "https://www.zhihu.com/question/1937161243367547624",
-      "heat": "86 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "12",
-      "title": "去过几次漫展，为什么觉得根本没意思？cos 到底有什么好玩的？",
-      "link": "https://www.zhihu.com/question/311643237",
-      "heat": "86 万热度"
+      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 JDG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1937597690834846274",
+      "heat": "79 万热度"
     },
     {
       "rank": "13",
-      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 JDG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1937597690834846274",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "14",
       "title": "如何评价《闻香识女人》中的价值观？",
       "link": "https://www.zhihu.com/question/33280634",
       "heat": "70 万热度"
     },
     {
+      "rank": "14",
+      "title": "2025WTT 横滨冠军赛 1/8 决赛，孙颖莎 3-1 胜桥本帆乃香，如何评价本场比赛?",
+      "link": "https://www.zhihu.com/question/1937597361737175172",
+      "heat": "69 万热度"
+    },
+    {
       "rank": "15",
-      "title": "基孔肯雅热，为什么要翻译成一个这么拗口的名字？",
-      "link": "https://www.zhihu.com/question/1932418570379301077",
+      "title": "2025 年男篮亚洲杯中国男篮 90 对 68 大胜约旦，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1937590592809996606",
       "heat": "67 万热度"
     },
     {
       "rank": "16",
       "title": "如何看待男子因妻子娘家侄儿多吃鸡蛋数落妻子 17 分钟，致妻子崩溃掀桌？暴露出哪些问题？",
       "link": "https://www.zhihu.com/question/1937068493120968124",
-      "heat": "67 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "17",
@@ -106,86 +106,86 @@
     },
     {
       "rank": "18",
-      "title": "2025 年男篮亚洲杯中国男篮 90 对 68 大胜约旦，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1937590592809996606",
+      "title": "计算机学生怎么样找到项目做？",
+      "link": "https://www.zhihu.com/question/660894375",
       "heat": "66 万热度"
     },
     {
       "rank": "19",
-      "title": "计算机学生怎么样找到项目做？",
-      "link": "https://www.zhihu.com/question/660894375",
-      "heat": "65 万热度"
+      "title": "如何评价马多执导，贾冰、王皓主演的喜剧电影《奇遇》？",
+      "link": "https://www.zhihu.com/question/1936495292909352479",
+      "heat": "66 万热度"
     },
     {
       "rank": "20",
       "title": "小沈阳一家全力支持女儿追梦，曾被恶意评论依然自信满满，家人无条件的爱是她强大内核的来源吗？",
       "link": "https://www.zhihu.com/question/1937077874164195655",
-      "heat": "63 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "21",
+      "title": "基孔肯雅热，为什么要翻译成一个这么拗口的名字？",
+      "link": "https://www.zhihu.com/question/1932418570379301077",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "有哪些恐怖或者诡异风格的 RPG 游戏？",
+      "link": "https://www.zhihu.com/question/27247534",
+      "heat": "61 万热度"
+    },
+    {
+      "rank": "23",
       "title": "你还记得第一份工作的工资吗？",
       "link": "https://www.zhihu.com/question/656391355",
       "heat": "60 万热度"
     },
     {
-      "rank": "22",
+      "rank": "24",
       "title": "为什么泰国基本上接近热带，一些泰国人看上去还是白白嫩嫩的呢？",
       "link": "https://www.zhihu.com/question/507933351",
       "heat": "58 万热度"
     },
     {
-      "rank": "23",
+      "rank": "25",
       "title": "我们的第四艘航母叫什么名字？",
       "link": "https://www.zhihu.com/question/1927769617654354904",
       "heat": "57 万热度"
     },
     {
-      "rank": "24",
+      "rank": "26",
       "title": "你知道哪些相距很近但方言完全不同的城市？",
       "link": "https://www.zhihu.com/question/1930974429048993363",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何评价《歌手 2025》总决赛单依纯、王力宏演唱的《落叶归根》？",
-      "link": "https://www.zhihu.com/question/1937215355681474312",
       "heat": "54 万热度"
     },
     {
-      "rank": "26",
+      "rank": "27",
       "title": "如何评价陈楚生夺得歌手 2025 的歌王？",
       "link": "https://www.zhihu.com/question/1937287462566233643",
       "heat": "54 万热度"
     },
     {
-      "rank": "27",
-      "title": "城市最早的边界在哪里？现在还能找到痕迹吗？",
-      "link": "https://www.zhihu.com/question/1923707422574339195",
-      "heat": "54 万热度"
-    },
-    {
       "rank": "28",
-      "title": "如何看待《三角洲行动》的指挥官模式？",
-      "link": "https://www.zhihu.com/question/1893094628447728859",
+      "title": "白米饭的最佳搭档是哪道菜？",
+      "link": "https://www.zhihu.com/question/475273439",
       "heat": "54 万热度"
     },
     {
       "rank": "29",
-      "title": "7000 元一瓶的茅台酒上线，定价如此之高的非标茅台酒，对于茅台产品体系来说意味着什么？",
-      "link": "https://www.zhihu.com/question/1937085956256654199",
+      "title": "高中生如何专心学习？(逆袭)?",
+      "link": "https://www.zhihu.com/question/30762324",
       "heat": "54 万热度"
     },
     {
       "rank": "30",
-      "title": "南宫婉凭什么打败墨彩环、紫菱、元瑶等人而成为韩立的正妻？",
-      "link": "https://www.zhihu.com/question/1934566810478417712",
+      "title": "陈楚生夺得歌王桂冠，单依纯获季军，如何评价综艺《歌手 2025》总决赛歌王之战？",
+      "link": "https://www.zhihu.com/question/1937215355706648139",
       "heat": "54 万热度"
     },
     {
       "rank": "31",
-      "title": "白米饭的最佳搭档是哪道菜？",
-      "link": "https://www.zhihu.com/question/475273439",
+      "title": "如何评价《战地 6》在 Beta 测试的表现？",
+      "link": "https://www.zhihu.com/question/1936891532083954967",
       "heat": "54 万热度"
     },
     {
@@ -202,14 +202,14 @@
     },
     {
       "rank": "34",
-      "title": "高中生如何专心学习？(逆袭)?",
-      "link": "https://www.zhihu.com/question/30762324",
+      "title": "幼猫一直冲着主人哈气是什么意思？",
+      "link": "https://www.zhihu.com/question/630236851",
       "heat": "54 万热度"
     },
     {
       "rank": "35",
-      "title": "为什么现代职场越来越注重情商，而不单单看专业能力？",
-      "link": "https://www.zhihu.com/question/4786354832",
+      "title": "如果人类发现第八个基本单位，世界会变成什么样？",
+      "link": "https://www.zhihu.com/question/461880135",
       "heat": "54 万热度"
     },
     {
@@ -220,20 +220,20 @@
     },
     {
       "rank": "37",
-      "title": "陈楚生夺得歌王桂冠，单依纯获季军，如何评价综艺《歌手 2025》总决赛歌王之战？",
-      "link": "https://www.zhihu.com/question/1937215355706648139",
+      "title": "《红楼梦》中和尚赠薛宝钗，金锁上錾的八个字「不离不弃，芳龄永继」何解？",
+      "link": "https://www.zhihu.com/question/1932221890262458518",
       "heat": "54 万热度"
     },
     {
       "rank": "38",
-      "title": "如何评价《战地 6》在 Beta 测试的表现？",
-      "link": "https://www.zhihu.com/question/1936891532083954967",
+      "title": "姜维对复兴大汉至死不渝，是什么样的信念支撑他这样做？",
+      "link": "https://www.zhihu.com/question/1930209402033534489",
       "heat": "54 万热度"
     },
     {
       "rank": "39",
-      "title": "如果人类发现第八个基本单位，世界会变成什么样？",
-      "link": "https://www.zhihu.com/question/461880135",
+      "title": "有什么办法可以在不插 HDMI 的前提下让电脑向局域网内的电视输出视频呢？",
+      "link": "https://www.zhihu.com/question/1932457973134893615",
       "heat": "54 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "幼猫一直冲着主人哈气是什么意思？",
-      "link": "https://www.zhihu.com/question/630236851",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "姜维对复兴大汉至死不渝，是什么样的信念支撑他这样做？",
-      "link": "https://www.zhihu.com/question/1930209402033534489",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "《红楼梦》中和尚赠薛宝钗，金锁上錾的八个字「不离不弃，芳龄永继」何解？",
-      "link": "https://www.zhihu.com/question/1932221890262458518",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "有什么办法可以在不插 HDMI 的前提下让电脑向局域网内的电视输出视频呢？",
-      "link": "https://www.zhihu.com/question/1932457973134893615",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "45",
       "title": "为啥广东北京不学黑龙江，大量装灭蚊路灯，对付基孔肯雅热？",
       "link": "https://www.zhihu.com/question/1935392078700995331",
       "heat": "54 万热度"
     },
     {
-      "rank": "46",
+      "rank": "42",
       "title": "今天为什么没人沿着黑格尔的道路走下去了？",
       "link": "https://www.zhihu.com/question/372004718",
       "heat": "54 万热度"
     },
     {
-      "rank": "47",
+      "rank": "43",
+      "title": "2025 年 wtt 横滨冠军赛男单八分之一决赛，林诗栋 2:3 不敌邱党，怎么评价林诗栋近期外战的低迷表现？",
+      "link": "https://www.zhihu.com/question/1937468411228698284",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "44",
       "title": "你愿意花时间去做饭吗？",
       "link": "https://www.zhihu.com/question/1936421962579710926",
       "heat": "54 万热度"
     },
     {
-      "rank": "48",
+      "rank": "45",
       "title": "两千的手机和五六千的有啥区别吗?",
       "link": "https://www.zhihu.com/question/1921228367191086514",
       "heat": "54 万热度"
     },
     {
+      "rank": "46",
+      "title": "你们觉得花几万去月子中心有必要吗？",
+      "link": "https://www.zhihu.com/question/532086239",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "从大厂去小公司的人，后来怎么样了？",
+      "link": "https://www.zhihu.com/question/1896331030002135306",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "家里收拾得整齐干净是一种怎样的体验？",
+      "link": "https://www.zhihu.com/question/661972199",
+      "heat": "54 万热度"
+    },
+    {
       "rank": "49",
-      "title": "你是如何进入咨询行业的？",
-      "link": "https://www.zhihu.com/question/24543485",
+      "title": "应届生天天在公司干没技术含量的活，要辞职吗？",
+      "link": "https://www.zhihu.com/question/1934342275690903124",
       "heat": "54 万热度"
     },
     {
       "rank": "50",
-      "title": "你们觉得花几万去月子中心有必要吗？",
-      "link": "https://www.zhihu.com/question/532086239",
+      "title": "《甄嬛传》大结局时，如果甄嬛可以复活一个人，她最有可能复活谁？",
+      "link": "https://www.zhihu.com/question/633197360",
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-08-09 22:44:36"
+  "generated_at": "2025-08-09 22:57:14"
 }
