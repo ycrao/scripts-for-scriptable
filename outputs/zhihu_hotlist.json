@@ -1,96 +1,96 @@
 {
-  "artifact_id": "ee5d819f-a514-4909-9c50-f30044904599",
+  "artifact_id": "b23eef68-7999-4745-a66c-602c9402e7cb",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待美乘客疑拍到超清晰 UFO，喷气后消失？这可能是真的吗？",
       "link": "https://www.zhihu.com/question/1937199822378612502",
-      "heat": "144 万热度"
+      "heat": "130 万热度"
     },
     {
       "rank": "2",
       "title": "中公教育承诺考不过退款，考生称 1.7 万退款需 17 年退完，退款难背后暴露出哪些问题？该如何维权？",
       "link": "https://www.zhihu.com/question/1937570302285538810",
-      "heat": "116 万热度"
+      "heat": "121 万热度"
     },
     {
       "rank": "3",
       "title": "网友称小学语文教材部分内容出现「颠覆性修改」，后羿射日改为羿射九日，为什么要修改？这样做有必要吗？",
       "link": "https://www.zhihu.com/question/1937444374188351995",
-      "heat": "93 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "4",
-      "title": "《一人之下》漫画 728 话更新，端木瑛是不是太弱了，这么容易就被抓住了？",
-      "link": "https://www.zhihu.com/question/1937078604027625972",
-      "heat": "85 万热度"
+      "title": "《浪浪山小妖怪》的大结局是什么意思啊？弥勒佛为啥又注入体力给妖怪？",
+      "link": "https://www.zhihu.com/question/1937139451819160563",
+      "heat": "89 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待飞机上熊孩子顶座引发乘客打架，家长称「他还是孩子，你就不能体谅他吗」？遇到这情况怎么办比较好？",
-      "link": "https://www.zhihu.com/question/1937240444833593101",
-      "heat": "80 万热度"
+      "title": "《一人之下》漫画 728 话更新，端木瑛是不是太弱了，这么容易就被抓住了？",
+      "link": "https://www.zhihu.com/question/1937078604027625972",
+      "heat": "86 万热度"
     },
     {
       "rank": "6",
       "title": "如何看待北京网友拍到「黑影御剑飞行穿越雷暴」，专家解读系「天气现象」？",
       "link": "https://www.zhihu.com/question/1937281251674419409",
-      "heat": "80 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "7",
-      "title": "《浪浪山小妖怪》的大结局是什么意思啊？弥勒佛为啥又注入体力给妖怪？",
-      "link": "https://www.zhihu.com/question/1937139451819160563",
-      "heat": "79 万热度"
+      "title": "如何看待飞机上熊孩子顶座引发乘客打架，家长称「他还是孩子，你就不能体谅他吗」？遇到这情况怎么办比较好？",
+      "link": "https://www.zhihu.com/question/1937240444833593101",
+      "heat": "81 万热度"
     },
     {
       "rank": "8",
+      "title": "女子吃桃咬开发现里面一堆树叶，网友称是切叶蜂筑的巢，真的是这样吗？为什么在桃子里筑巢呢？",
+      "link": "https://www.zhihu.com/question/1935982847832847593",
+      "heat": "79 万热度"
+    },
+    {
+      "rank": "9",
       "title": "山东青岛海螺大爆发，潜水员称十年难遇，3 小时赚 3500 元，海螺爆发主要受哪些因素影响？",
       "link": "https://www.zhihu.com/question/1936131571280212711",
       "heat": "78 万热度"
     },
     {
-      "rank": "9",
+      "rank": "10",
       "title": "如何评价《闻香识女人》中的价值观？",
       "link": "https://www.zhihu.com/question/33280634",
-      "heat": "75 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "女子吃桃咬开发现里面一堆树叶，网友称是切叶蜂筑的巢，真的是这样吗？为什么在桃子里筑巢呢？",
-      "link": "https://www.zhihu.com/question/1935982847832847593",
-      "heat": "75 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "11",
       "title": "深圳一市民称非婚生暂无法领育儿补贴，当地回应实际执行待地方方案出炉，育儿补贴该不该与结婚证挂钩？",
       "link": "https://www.zhihu.com/question/1937161243367547624",
-      "heat": "72 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "12",
-      "title": "大模型的 Embedding 层和独立的 Embedding 模型有什么区别？",
-      "link": "https://www.zhihu.com/question/663835334",
+      "title": "为什么我朋友抑郁症痊愈后，反而比一般人更乐观、开朗、内心更强大？",
+      "link": "https://www.zhihu.com/question/1937241308969271587",
       "heat": "70 万热度"
     },
     {
       "rank": "13",
-      "title": "为什么我朋友抑郁症痊愈后，反而比一般人更乐观、开朗、内心更强大？",
-      "link": "https://www.zhihu.com/question/1937241308969271587",
-      "heat": "68 万热度"
+      "title": "为何我总能感受到他人的恶意？",
+      "link": "https://www.zhihu.com/question/500638213",
+      "heat": "67 万热度"
     },
     {
       "rank": "14",
-      "title": "为何我总能感受到他人的恶意？",
-      "link": "https://www.zhihu.com/question/500638213",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "15",
       "title": "去过几次漫展，为什么觉得根本没意思？cos 到底有什么好玩的？",
       "link": "https://www.zhihu.com/question/311643237",
       "heat": "63 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "俄美首脑会晤 15 日在阿拉斯加举行，会谈重点是乌克兰长期和平方案，下次会晤将在俄境内举行，如何解读？",
+      "link": "https://www.zhihu.com/question/1937453278888714737",
+      "heat": "59 万热度"
     },
     {
       "rank": "16",
@@ -100,116 +100,116 @@
     },
     {
       "rank": "17",
-      "title": "俄美首脑会晤 15 日在阿拉斯加举行，会谈重点是乌克兰长期和平方案，下次会晤将在俄境内举行，如何解读？",
-      "link": "https://www.zhihu.com/question/1937453278888714737",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "18",
       "title": "为什么现在很多店铺或品牌的老板都喜欢自称「主理人」？这个称呼能带来什么附加价值吗？",
       "link": "https://www.zhihu.com/question/1933916401963332650",
       "heat": "59 万热度"
     },
     {
-      "rank": "19",
+      "rank": "18",
       "title": "基孔肯雅热，为什么要翻译成一个这么拗口的名字？",
       "link": "https://www.zhihu.com/question/1932418570379301077",
       "heat": "59 万热度"
     },
     {
-      "rank": "20",
-      "title": "《红楼梦》里富贵人家的小姐为什么还需要做针线活，而且好像活还不轻?",
-      "link": "https://www.zhihu.com/question/6367436242",
+      "rank": "19",
+      "title": "大模型的 Embedding 层和独立的 Embedding 模型有什么区别？",
+      "link": "https://www.zhihu.com/question/663835334",
       "heat": "58 万热度"
     },
     {
-      "rank": "21",
-      "title": "如何看待原神 6.0 版本由于性能限制将在 PS4 下架？",
-      "link": "https://www.zhihu.com/question/1936468049457832902",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "为什么越来越多的中年职场人不再想找一份工作了？",
-      "link": "https://www.zhihu.com/question/1936566145642636016",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "23",
+      "rank": "20",
       "title": "为什么泰国基本上接近热带，一些泰国人看上去还是白白嫩嫩的呢？",
       "link": "https://www.zhihu.com/question/507933351",
       "heat": "57 万热度"
     },
     {
-      "rank": "24",
-      "title": "如何看待《三角洲行动》S5 赛季摸金模式遍地露娜的情况？",
-      "link": "https://www.zhihu.com/question/1936020307413529550",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "为什么大部分人觉得梁山可以推翻宋朝？",
-      "link": "https://www.zhihu.com/question/1922224292956967993",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
+      "rank": "21",
       "title": "我们的第四艘航母叫什么名字？",
       "link": "https://www.zhihu.com/question/1927769617654354904",
       "heat": "57 万热度"
     },
     {
+      "rank": "22",
+      "title": "《红楼梦》里富贵人家的小姐为什么还需要做针线活，而且好像活还不轻?",
+      "link": "https://www.zhihu.com/question/6367436242",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "如何看待原神 6.0 版本由于性能限制将在 PS4 下架？",
+      "link": "https://www.zhihu.com/question/1936468049457832902",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "为什么越来越多的中年职场人不再想找一份工作了？",
+      "link": "https://www.zhihu.com/question/1936566145642636016",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "如何看待《三角洲行动》S5 赛季摸金模式遍地露娜的情况？",
+      "link": "https://www.zhihu.com/question/1936020307413529550",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "2025 年男篮亚洲杯中国男篮 90 对 68 大胜约旦，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1937590592809996606",
+      "heat": "54 万热度"
+    },
+    {
       "rank": "27",
-      "title": "你的城市有什么特殊的街道吗？叫什么名字？是怎么来的？",
-      "link": "https://www.zhihu.com/question/1934055091809281833",
-      "heat": "56 万热度"
+      "title": "为什么大部分人觉得梁山可以推翻宋朝？",
+      "link": "https://www.zhihu.com/question/1922224292956967993",
+      "heat": "54 万热度"
     },
     {
       "rank": "28",
       "title": "《浪浪山小妖怪》中猩猩怪为什么后来会成为四人组中最坚定的那个？",
       "link": "https://www.zhihu.com/question/1937200064578680201",
-      "heat": "56 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "29",
-      "title": "花生为什么是最好的下酒菜？",
-      "link": "https://www.zhihu.com/question/47338871",
-      "heat": "55 万热度"
+      "title": "《南京照相馆》票房破 20 亿，暑期档总票房破 80 亿，这一成绩如何？",
+      "link": "https://www.zhihu.com/question/1937468367649875235",
+      "heat": "54 万热度"
     },
     {
       "rank": "30",
-      "title": "2025WTT 横滨冠军赛 1/8 决赛，孙颖莎 3-1 胜桥本帆乃香，如何评价本场比赛?",
-      "link": "https://www.zhihu.com/question/1937597361737175172",
-      "heat": "55 万热度"
+      "title": "你的城市有什么特殊的街道吗？叫什么名字？是怎么来的？",
+      "link": "https://www.zhihu.com/question/1934055091809281833",
+      "heat": "54 万热度"
     },
     {
       "rank": "31",
-      "title": "《南京照相馆》票房破 20 亿，暑期档总票房破 80 亿，这一成绩如何？",
-      "link": "https://www.zhihu.com/question/1937468367649875235",
-      "heat": "55 万热度"
+      "title": "LPL 2025 赛季第三赛段组内赛 iG 2:0 JDG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1937597690834846274",
+      "heat": "54 万热度"
     },
     {
       "rank": "32",
       "title": "超薄平嵌冰箱对比传统冰箱真实的使用体验怎么样？值得入手么？",
       "link": "https://www.zhihu.com/question/1936833576697075034",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "33",
       "title": "很好奇，为什么很多人坐完飞机后不把行李托运标签撕下来？",
       "link": "https://www.zhihu.com/question/15292572202",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "34",
-      "title": "在你居住的城市，有哪些值得体验 / 品尝的「月份限定」？",
-      "link": "https://www.zhihu.com/question/1931018300596388493",
+      "title": "7000 元一瓶的茅台酒上线，定价如此之高的非标茅台酒，对于茅台产品体系来说意味着什么？",
+      "link": "https://www.zhihu.com/question/1937085956256654199",
       "heat": "54 万热度"
     },
     {
       "rank": "35",
-      "title": "7000 元一瓶的茅台酒上线，定价如此之高的非标茅台酒，对于茅台产品体系来说意味着什么？",
-      "link": "https://www.zhihu.com/question/1937085956256654199",
+      "title": "最高法发文贯彻落实民营经济促进法，有哪些信息值得关注？将带来什么影响？",
+      "link": "https://www.zhihu.com/question/1937097061947368834",
       "heat": "54 万热度"
     },
     {
@@ -220,21 +220,21 @@
     },
     {
       "rank": "37",
-      "title": "最高法发文贯彻落实民营经济促进法，有哪些信息值得关注？将带来什么影响？",
-      "link": "https://www.zhihu.com/question/1937097061947368834",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "38",
       "title": "如何评价《绝区零》第十七期的危局强袭战？",
       "link": "https://www.zhihu.com/question/1937016694750024423",
       "heat": "54 万热度"
     },
     {
-      "rank": "39",
+      "rank": "38",
       "title": "刘备放过黄权，就不怕越来越多的军官效法吗？",
       "link": "https://www.zhihu.com/question/1936421490942799937",
       "heat": "54 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "为什么山东人喜欢吃知了猴？",
+      "link": "https://www.zhihu.com/question/285950491",
+      "heat": "53 万热度"
     },
     {
       "rank": "40",
@@ -244,8 +244,8 @@
     },
     {
       "rank": "41",
-      "title": "为什么山东人喜欢吃知了猴？",
-      "link": "https://www.zhihu.com/question/285950491",
+      "title": "2025WTT 横滨冠军赛 1/8 决赛，孙颖莎 3-1 胜桥本帆乃香，如何评价本场比赛?",
+      "link": "https://www.zhihu.com/question/1937597361737175172",
       "heat": "53 万热度"
     },
     {
@@ -274,14 +274,14 @@
     },
     {
       "rank": "46",
-      "title": "2025 年男篮亚洲杯中国男篮 90 对 68 大胜约旦，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1937590592809996606",
+      "title": "LPL 2025 赛季第三赛段组内赛 TES VS WBG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1937569941831255534",
       "heat": "53 万热度"
     },
     {
       "rank": "47",
-      "title": "LPL 2025 赛季第三赛段组内赛 TES VS WBG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1937569941831255534",
+      "title": "在你居住的城市，有哪些值得体验 / 品尝的「月份限定」？",
+      "link": "https://www.zhihu.com/question/1931018300596388493",
       "heat": "53 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-08-10 06:45:24"
+  "generated_at": "2025-08-10 07:24:28"
 }
