@@ -1,35 +1,35 @@
 {
-  "artifact_id": "345caf87-c72c-40b6-a818-1b3af4c5008b",
+  "artifact_id": "7cd7a6b2-80e4-42cf-ba7c-a83640d039c1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "8 月 14 日沪指盘中突破 3700 点，续创近四年新高，如何看待这一行情？后续市场走势如何？",
       "link": "https://www.zhihu.com/question/1939264243598853646",
-      "heat": "201 万热度"
+      "heat": "188 万热度"
     },
     {
       "rank": "2",
       "title": "网红万千惠作为 CEO 对公司的千万亏空一无所知，这种管理方式有哪些潜在风险？",
       "link": "https://www.zhihu.com/question/1937883245237768591",
-      "heat": "110 万热度"
+      "heat": "113 万热度"
     },
     {
       "rank": "3",
       "title": "《三角洲行动》宣布 25 年 7 月平均日活跃用户达 2000 万，如何看待这一成绩？",
       "link": "https://www.zhihu.com/question/1939017634952733360",
-      "heat": "109 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "4",
-      "title": "美国多地发现诡异兔子头上长满「黑色触角」，专家称是感染了病毒，这是一种怎样的病毒？影响有多大？",
-      "link": "https://www.zhihu.com/question/1939067991196135429",
-      "heat": "94 万热度"
+      "title": "美国财长最新预言，9 月可能降息 50 个基点，释放了什么信号？",
+      "link": "https://www.zhihu.com/question/1939292054858503979",
+      "heat": "95 万热度"
     },
     {
       "rank": "5",
-      "title": "美国财长最新预言，9 月可能降息 50 个基点，释放了什么信号？",
-      "link": "https://www.zhihu.com/question/1939292054858503979",
+      "title": "美国多地发现诡异兔子头上长满「黑色触角」，专家称是感染了病毒，这是一种怎样的病毒？影响有多大？",
+      "link": "https://www.zhihu.com/question/1939067991196135429",
       "heat": "93 万热度"
     },
     {
@@ -40,27 +40,27 @@
     },
     {
       "rank": "7",
-      "title": "特斯拉宣布续航 830 公里的 Model 3 车型开卖，定价 26.95 万元起同级竞争力如何？",
-      "link": "https://www.zhihu.com/question/1938536766106730957",
-      "heat": "77 万热度"
-    },
-    {
-      "rank": "8",
       "title": "四川一高校宿舍收空调租赁费，单个宿舍四年交 1680 元，这合理吗？学校应该承担这笔费用吗？",
       "link": "https://www.zhihu.com/question/1939237173850235999",
       "heat": "76 万热度"
     },
     {
-      "rank": "9",
+      "rank": "8",
       "title": "广州一民营透析中心开设服装厂，收留尿毒症患者做工赚钱付透析费，如何看待这种「以工养医」的模式？",
       "link": "https://www.zhihu.com/question/1938996958015498212",
       "heat": "76 万热度"
     },
     {
-      "rank": "10",
+      "rank": "9",
       "title": "MCN 流水线打造网红医生，医生只负责出镜其余交给运营，其背后存在怎样的利益链？这种医疗科普能相信吗？",
       "link": "https://www.zhihu.com/question/1938537422544701424",
       "heat": "76 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "如何评价印度 3A 游戏《释放阿凡达》把完美闪避动作做成「帅哥撩头」，这对游戏策划有什么启发？",
+      "link": "https://www.zhihu.com/question/1938660142808786623",
+      "heat": "75 万热度"
     },
     {
       "rank": "11",
@@ -76,21 +76,21 @@
     },
     {
       "rank": "13",
-      "title": "如何评价印度 3A 游戏《释放阿凡达》把完美闪避动作做成「帅哥撩头」，这对游戏策划有什么启发？",
-      "link": "https://www.zhihu.com/question/1938660142808786623",
-      "heat": "75 万热度"
-    },
-    {
-      "rank": "14",
       "title": "一企业以抓阄决定员工去留，抽中「离开」的员工被裁员，如何看待这种辞退方式？公司这一行为是否合法？",
       "link": "https://www.zhihu.com/question/1939285445629440964",
       "heat": "74 万热度"
     },
     {
-      "rank": "15",
+      "rank": "14",
       "title": "看《天道》这部电视剧，你明白了哪些真正能用于实践的道理？",
       "link": "https://www.zhihu.com/question/318579908",
       "heat": "73 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "特斯拉宣布续航 830 公里的 Model 3 车型开卖，定价 26.95 万元起同级竞争力如何？",
+      "link": "https://www.zhihu.com/question/1938536766106730957",
+      "heat": "72 万热度"
     },
     {
       "rank": "16",
@@ -102,13 +102,13 @@
       "rank": "17",
       "title": "代码明明是用手敲的，为什么叫脚本？",
       "link": "https://www.zhihu.com/question/1937149331833586888",
-      "heat": "70 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "18",
       "title": "大家到底为什么学习？我真的很迷茫?",
       "link": "https://www.zhihu.com/question/1914532792718557193",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "19",
@@ -120,18 +120,18 @@
       "rank": "20",
       "title": "走 5 公里和跑 5 公里，哪个对身体益处更大？如何选择适合自己的运动方式？",
       "link": "https://www.zhihu.com/question/1937153670836879409",
-      "heat": "67 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "21",
-      "title": "有什么建议给正在备考考研的大学生?",
-      "link": "https://www.zhihu.com/question/1913326440558102111",
+      "title": "人到中年，读书还有必要吗？",
+      "link": "https://www.zhihu.com/question/665554984",
       "heat": "65 万热度"
     },
     {
       "rank": "22",
-      "title": "人到中年，读书还有必要吗？",
-      "link": "https://www.zhihu.com/question/665554984",
+      "title": "有什么建议给正在备考考研的大学生?",
+      "link": "https://www.zhihu.com/question/1913326440558102111",
       "heat": "65 万热度"
     },
     {
@@ -142,14 +142,14 @@
     },
     {
       "rank": "24",
-      "title": "《三角洲行动》中的「护航行为」是否应该被作为违规行为举报？",
-      "link": "https://www.zhihu.com/question/1938676005058347181",
+      "title": "有没有数学系本科已经毕业的大佬能推荐一下本科数学课程一整套的自学教材?",
+      "link": "https://www.zhihu.com/question/631562078",
       "heat": "63 万热度"
     },
     {
       "rank": "25",
-      "title": "有没有数学系本科已经毕业的大佬能推荐一下本科数学课程一整套的自学教材?",
-      "link": "https://www.zhihu.com/question/631562078",
+      "title": "《三角洲行动》中的「护航行为」是否应该被作为违规行为举报？",
+      "link": "https://www.zhihu.com/question/1938676005058347181",
       "heat": "63 万热度"
     },
     {
@@ -172,26 +172,26 @@
     },
     {
       "rank": "29",
-      "title": "在四川山里买一个像李子柒的院子多少钱？",
-      "link": "https://www.zhihu.com/question/325512122",
-      "heat": "61 万热度"
+      "title": "为什么在古代，几千个忠诚可靠，全副武装的常备军就已经是一股不容小视的力量了？",
+      "link": "https://www.zhihu.com/question/1923391612840542699",
+      "heat": "59 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么在古代，几千个忠诚可靠，全副武装的常备军就已经是一股不容小视的力量了？",
-      "link": "https://www.zhihu.com/question/1923391612840542699",
-      "heat": "60 万热度"
+      "title": "在四川山里买一个像李子柒的院子多少钱？",
+      "link": "https://www.zhihu.com/question/325512122",
+      "heat": "59 万热度"
     },
     {
       "rank": "31",
-      "title": "南大碎尸案有望告破吗？",
-      "link": "https://www.zhihu.com/question/39695867",
+      "title": "如何看待纽约时报对加沙饥荒的恶意摆拍? 当地存在饥荒这一传闻是否可信？",
+      "link": "https://www.zhihu.com/question/1934505528299614627",
       "heat": "59 万热度"
     },
     {
       "rank": "32",
-      "title": "如何看待纽约时报对加沙饥荒的恶意摆拍? 当地存在饥荒这一传闻是否可信？",
-      "link": "https://www.zhihu.com/question/1934505528299614627",
+      "title": "南大碎尸案有望告破吗？",
+      "link": "https://www.zhihu.com/question/39695867",
       "heat": "59 万热度"
     },
     {
@@ -214,14 +214,14 @@
     },
     {
       "rank": "36",
-      "title": "「碰一碰」支付比「扫一扫」还方便，可为啥这么久都没火？",
-      "link": "https://www.zhihu.com/question/365759166",
+      "title": "如何看待《崩坏星球铁道》3.5 中，来古士运用的洞穴隐喻？",
+      "link": "https://www.zhihu.com/question/1939117690250851718",
       "heat": "59 万热度"
     },
     {
       "rank": "37",
-      "title": "如何看待《崩坏星球铁道》3.5 中，来古士运用的洞穴隐喻？",
-      "link": "https://www.zhihu.com/question/1939117690250851718",
+      "title": "「碰一碰」支付比「扫一扫」还方便，可为啥这么久都没火？",
+      "link": "https://www.zhihu.com/question/365759166",
       "heat": "59 万热度"
     },
     {
@@ -274,8 +274,8 @@
     },
     {
       "rank": "46",
-      "title": "在自由泳比赛中，运动员在最后 50 米改用蛙泳，在游到终点时单手触壁，犯规吗？",
-      "link": "https://www.zhihu.com/question/1914837618677511950",
+      "title": "坚持跑步 21 天，就能养成习惯吗？",
+      "link": "https://www.zhihu.com/question/1936689336587382975",
       "heat": "58 万热度"
     },
     {
@@ -286,8 +286,8 @@
     },
     {
       "rank": "48",
-      "title": "坚持跑步 21 天，就能养成习惯吗？",
-      "link": "https://www.zhihu.com/question/1936689336587382975",
+      "title": "在自由泳比赛中，运动员在最后 50 米改用蛙泳，在游到终点时单手触壁，犯规吗？",
+      "link": "https://www.zhihu.com/question/1914837618677511950",
       "heat": "58 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-08-15 05:24:04"
+  "generated_at": "2025-08-15 05:42:43"
 }
