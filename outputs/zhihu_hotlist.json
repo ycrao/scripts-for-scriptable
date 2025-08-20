@@ -1,48 +1,48 @@
 {
-  "artifact_id": "7cac07bb-e5ea-4562-b679-7aabdd750708",
+  "artifact_id": "6241661b-19f9-4c88-ad52-750ad7eb712e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待大爷下棋输了在雨中反思 4 个小时?",
       "link": "https://www.zhihu.com/question/1940939317821301581",
-      "heat": "533 万热度"
+      "heat": "540 万热度"
     },
     {
       "rank": "2",
       "title": "如何看待人民日报专访胖东来董事长于东来？",
       "link": "https://www.zhihu.com/question/1941164219530716148",
-      "heat": "368 万热度"
+      "heat": "369 万热度"
     },
     {
       "rank": "3",
       "title": "韩国公园惊现「3D 全息投影警察」，警方称周边犯罪率骤降 22%，怎样看待这种方法？值得借鉴吗？",
       "link": "https://www.zhihu.com/question/1940868128184688948",
-      "heat": "253 万热度"
+      "heat": "265 万热度"
     },
     {
       "rank": "4",
       "title": "2025 年两院院士增选有效候选人名单发布，有哪些你了解的候选人？",
       "link": "https://www.zhihu.com/question/1941610302333478161",
-      "heat": "189 万热度"
+      "heat": "205 万热度"
     },
     {
       "rank": "5",
+      "title": "如何评价瑞典大满贯温瑞博 1:3 雨果这场球?",
+      "link": "https://www.zhihu.com/question/1941683183541281357",
+      "heat": "138 万热度"
+    },
+    {
+      "rank": "6",
       "title": "耗时 31 天日行 25 公里，爸爸带两娃从深圳徒步回长沙，如何看待这种带娃方式？",
       "link": "https://www.zhihu.com/question/1940728212662518660",
       "heat": "127 万热度"
     },
     {
-      "rank": "6",
+      "rank": "7",
       "title": "于东来谈消费降级，「有人不花钱有没有可能是因为产品和服务质量低，使用或体验不舒服」，怎样看待这一观点？",
       "link": "https://www.zhihu.com/question/1941097650159059642",
-      "heat": "109 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "孩子脱鞋 138cm 穿鞋超标被要求补票，乐园主管反问「难道要脱鞋玩？」，如何看待乐园的购票规定？",
-      "link": "https://www.zhihu.com/question/1941077370531481119",
-      "heat": "98 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "8",
@@ -52,33 +52,33 @@
     },
     {
       "rank": "9",
+      "title": "孩子脱鞋 138cm 穿鞋超标被要求补票，乐园主管反问「难道要脱鞋玩？」，如何看待乐园的购票规定？",
+      "link": "https://www.zhihu.com/question/1941077370531481119",
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "10",
       "title": "《两只蝴蝶》下载两亿多次，作者牛朝阳称只挣了 5000 元，为什么会这样？音乐行业中的利益分配合理吗？",
       "link": "https://www.zhihu.com/question/1939347946522018494",
       "heat": "78 万热度"
     },
     {
-      "rank": "10",
-      "title": "广东「100% 的蚊子都出现了抗药性」，这一情况是如何造成的？对后续基孔肯雅热防控有哪些影响？",
-      "link": "https://www.zhihu.com/question/1938958574647735157",
-      "heat": "76 万热度"
-    },
-    {
       "rank": "11",
       "title": "为什么同为共创文学后室的热度远不如克苏鲁与 SCP?",
       "link": "https://www.zhihu.com/question/1940227323224884453",
-      "heat": "75 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "12",
       "title": "日本冲绳海港出现凶猛鱼类，有人称「比鲨鱼还可怕」，系褐拟鳞鲀，这是一种怎样的鱼？遇到后该怎么办？",
       "link": "https://www.zhihu.com/question/1941203046995555551",
-      "heat": "73 万热度"
+      "heat": "72 万热度"
     },
     {
       "rank": "13",
-      "title": "理想汽车 CEO 李想宴请卡车司机并表示对撞测试有冒失但无意冒犯，这种做法能否有效缓解争议？",
-      "link": "https://www.zhihu.com/question/1940843312476067731",
-      "heat": "73 万热度"
+      "title": "广东「100% 的蚊子都出现了抗药性」，这一情况是如何造成的？对后续基孔肯雅热防控有哪些影响？",
+      "link": "https://www.zhihu.com/question/1938958574647735157",
+      "heat": "69 万热度"
     },
     {
       "rank": "14",
@@ -94,33 +94,33 @@
     },
     {
       "rank": "16",
-      "title": "戚薇承认医美过度，眉毛因打肉毒过量完全动不了，医美过度有哪些健康风险？像她这种情况，能恢复吗？",
-      "link": "https://www.zhihu.com/question/1940730342374859331",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "中印外长会谈达成 10 项成果，双方同意采取具体措施为两国经贸投资流动提供便利，如何看待这些成果？",
-      "link": "https://www.zhihu.com/question/1941289415000449675",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "18",
       "title": "现在的中国人离开味精，还会做饭吗？",
       "link": "https://www.zhihu.com/question/1918583130568257982",
       "heat": "59 万热度"
     },
     {
-      "rank": "19",
+      "rank": "17",
       "title": "网友吐槽「电视是请回家的广告屏」，开机率越来越低的电视还有可能重回客厅 C 位吗？",
       "link": "https://www.zhihu.com/question/1934336539678208918",
       "heat": "59 万热度"
     },
     {
+      "rank": "18",
+      "title": "你觉得游戏科学第二部「黑神话」作品《黑神话：钟馗》销量能达到多少份？销量能否超过《黑神话：悟空》呢？",
+      "link": "https://www.zhihu.com/question/1941368236709999372",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "因为工作上的小失误，纪委要追我的责，现在我对工作感到很迷茫，提不起干劲，不知道以后怎么来面对工作了?",
+      "link": "https://www.zhihu.com/question/1925597794426684902",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "20",
       "title": "家长热衷给孩子报补习班，真的能提高成绩还是只是图个心安？",
       "link": "https://www.zhihu.com/question/1939757393077572901",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "21",
@@ -130,68 +130,68 @@
     },
     {
       "rank": "22",
-      "title": "西安将全面暂停网约车「一口价」「特惠单」，背后有哪些原因？对网约车司机和打车人有怎样的影响？",
-      "link": "https://www.zhihu.com/question/1941221911326627353",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "23",
       "title": "网传地方院校取消博士安家费，戏称「2025，没有安家费的元年」，真实情况如何？如何看待这个趋势？",
       "link": "https://www.zhihu.com/question/1939999904685590160",
       "heat": "58 万热度"
     },
     {
+      "rank": "23",
+      "title": "为什么吸血鬼的原型是蝙蝠，不是蚊子这种?",
+      "link": "https://www.zhihu.com/question/1908081714221277263",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "24",
-      "title": "你觉得游戏科学第二部「黑神话」作品《黑神话：钟馗》销量能达到多少份？销量能否超过《黑神话：悟空》呢？",
-      "link": "https://www.zhihu.com/question/1941368236709999372",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "因为工作上的小失误，纪委要追我的责，现在我对工作感到很迷茫，提不起干劲，不知道以后怎么来面对工作了?",
-      "link": "https://www.zhihu.com/question/1925597794426684902",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "《合金弹头》里主角为什么会吃成胖子，这样设计的意义何在？",
-      "link": "https://www.zhihu.com/question/1936881285650945693",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "领导对下属职业成长负有怎样的责任？",
-      "link": "https://www.zhihu.com/question/1941455697691784597",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "遮天里的无敌心到底是什么？",
-      "link": "https://www.zhihu.com/question/656394458",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "如何看待蚂蚁集团开源基于 LLVM 的 JVM JIT 编译器 Jeandle？",
-      "link": "https://www.zhihu.com/question/1939053427192733835",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "有哪些简单又美味，适合懒人的做饭方法？",
-      "link": "https://www.zhihu.com/question/38715241",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
       "title": "如何评价 2025 年 8 月 19 日 DeepSeek 新发布的 V3.1 模型？性能上有哪些优化和提升？",
       "link": "https://www.zhihu.com/question/1941220591475626436",
       "heat": "58 万热度"
     },
     {
+      "rank": "25",
+      "title": "我以后想造可控核聚变，我应该朝哪方面努力？",
+      "link": "https://www.zhihu.com/question/1940942731020051857",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "从心理学分析，为什么很多人看动画《凡人修仙传》156 集，韩立结婴成功会情绪激动到哭？",
+      "link": "https://www.zhihu.com/question/1940034064858977644",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "每天晚上跑步 1 公里会瘦吗？",
+      "link": "https://www.zhihu.com/question/1941071491828544254",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "盘点《凡人修仙传》让你印象深刻的法宝或功法，如果格力家电能穿越进去，你觉得哪款产品最能成为韩立的外挂？",
+      "link": "https://www.zhihu.com/question/1940709359911933656",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "在修仙小说里，如果把储物袋放进另一个储物袋会发生什么？",
+      "link": "https://www.zhihu.com/question/1938530178339939688",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "蚊子咬出的凸包怎么快速止痒？",
+      "link": "https://www.zhihu.com/question/13692556686",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "「暴躁性格的我养猫后竟然变得温柔」人宠亲密关系还有重塑性格的作用吗？铲屎官们是在扮演「理想父母」吗？",
+      "link": "https://www.zhihu.com/question/1936453967065359224",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "32",
-      "title": "为什么吸血鬼的原型是蝙蝠，不是蚊子这种?",
-      "link": "https://www.zhihu.com/question/1908081714221277263",
+      "title": "集成电路的本质是什么？",
+      "link": "https://www.zhihu.com/question/584664177",
       "heat": "58 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "我以后想造可控核聚变，我应该朝哪方面努力？",
-      "link": "https://www.zhihu.com/question/1940942731020051857",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "从心理学分析，为什么很多人看动画《凡人修仙传》156 集，韩立结婴成功会情绪激动到哭？",
-      "link": "https://www.zhihu.com/question/1940034064858977644",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "国新办发布会介绍阅兵准备工作，编设 45 个方（梯）队，首次亮相新型装备占比很大，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1941441340308173114",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "每天晚上跑步 1 公里会瘦吗？",
-      "link": "https://www.zhihu.com/question/1941071491828544254",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "盘点《凡人修仙传》让你印象深刻的法宝或功法，如果格力家电能穿越进去，你觉得哪款产品最能成为韩立的外挂？",
-      "link": "https://www.zhihu.com/question/1940709359911933656",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "在修仙小说里，如果把储物袋放进另一个储物袋会发生什么？",
-      "link": "https://www.zhihu.com/question/1938530178339939688",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "蚊子咬出的凸包怎么快速止痒？",
-      "link": "https://www.zhihu.com/question/13692556686",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "「暴躁性格的我养猫后竟然变得温柔」人宠亲密关系还有重塑性格的作用吗？铲屎官们是在扮演「理想父母」吗？",
-      "link": "https://www.zhihu.com/question/1936453967065359224",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "44",
       "title": "为什么杨坚可以在极短时间内夺得北周权力并建立隋朝？",
       "link": "https://www.zhihu.com/question/1923350240452384749",
       "heat": "58 万热度"
     },
     {
-      "rank": "45",
-      "title": "集成电路的本质是什么？",
-      "link": "https://www.zhihu.com/question/584664177",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "37",
       "title": "你们为什么相信科学？",
       "link": "https://www.zhihu.com/question/277636743",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
+      "rank": "38",
       "title": "京东宣布已为 15 万全职骑手缴纳五险一金，会给行业带来哪些影响？成本该如何消化？",
       "link": "https://www.zhihu.com/question/1941101278907293707",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
+      "rank": "39",
       "title": "时隔四年，华为二季度重夺中国智能手机市场榜首，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1940794566086199265",
       "heat": "58 万热度"
     },
     {
-      "rank": "49",
+      "rank": "40",
       "title": "韩立初入黄枫谷闭关三月，「潮霉之气」逼到差点走火入魔是什么原因？",
       "link": "https://www.zhihu.com/question/1941082386193441493",
       "heat": "58 万热度"
     },
     {
-      "rank": "50",
+      "rank": "41",
       "title": "请问林冲在野猪林是故意出卖鲁智深还是无意说漏了嘴？",
       "link": "https://www.zhihu.com/question/2236334108",
       "heat": "58 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "为什么「北上广深」中，只有广州没有新荣记？",
+      "link": "https://www.zhihu.com/question/1940293557794616566",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "如何评价综艺《花儿与少年·同心季》（花少 7）？",
+      "link": "https://www.zhihu.com/question/1938201441295627372",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "经济学中众多的方法论中，你认为最经典、最实用的是哪一个？",
+      "link": "https://www.zhihu.com/question/1941049224226628227",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "内河水运对郑州（河南）有意义吗？",
+      "link": "https://www.zhihu.com/question/498253229",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "为什么 80 、 90 后很少玩发烧音响（HiFi）？",
+      "link": "https://www.zhihu.com/question/267004384",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "遮天里的无敌心到底是什么？",
+      "link": "https://www.zhihu.com/question/656394458",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "有哪些简单又美味，适合懒人的做饭方法？",
+      "link": "https://www.zhihu.com/question/38715241",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "醉驾送早产妻子就医被判无罪，法院认定属于紧急避险，怎样从法律角度解读？紧急避险认定有哪些条件？",
+      "link": "https://www.zhihu.com/question/1941176197540181008",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何看待蚂蚁集团开源基于 LLVM 的 JVM JIT 编译器 Jeandle？",
+      "link": "https://www.zhihu.com/question/1939053427192733835",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-08-21 07:22:23"
+  "generated_at": "2025-08-21 07:40:37"
 }
