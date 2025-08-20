@@ -1,48 +1,48 @@
 {
-  "artifact_id": "a981b879-791a-4b7e-a35e-979556dec4b4",
+  "artifact_id": "a50f0d00-46f3-438e-992f-33cf3574c37d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待大爷下棋输了在雨中反思 4 个小时?",
       "link": "https://www.zhihu.com/question/1940939317821301581",
-      "heat": "537 万热度"
+      "heat": "528 万热度"
     },
     {
       "rank": "2",
       "title": "如何看待人民日报专访胖东来董事长于东来？",
       "link": "https://www.zhihu.com/question/1941164219530716148",
-      "heat": "514 万热度"
+      "heat": "379 万热度"
     },
     {
       "rank": "3",
       "title": "韩国公园惊现「3D 全息投影警察」，警方称周边犯罪率骤降 22%，怎样看待这种方法？值得借鉴吗？",
       "link": "https://www.zhihu.com/question/1940868128184688948",
-      "heat": "236 万热度"
+      "heat": "239 万热度"
     },
     {
       "rank": "4",
-      "title": "耗时 31 天日行 25 公里，爸爸带两娃从深圳徒步回长沙，如何看待这种带娃方式？",
-      "link": "https://www.zhihu.com/question/1940728212662518660",
-      "heat": "148 万热度"
+      "title": "2025 年两院院士增选有效候选人名单发布，有哪些你了解的候选人？",
+      "link": "https://www.zhihu.com/question/1941610302333478161",
+      "heat": "145 万热度"
     },
     {
       "rank": "5",
-      "title": "2025 年两院院士增选有效候选人名单发布，有哪些你了解的候选人？",
-      "link": "https://www.zhihu.com/question/1941610302333478161",
-      "heat": "138 万热度"
+      "title": "耗时 31 天日行 25 公里，爸爸带两娃从深圳徒步回长沙，如何看待这种带娃方式？",
+      "link": "https://www.zhihu.com/question/1940728212662518660",
+      "heat": "123 万热度"
     },
     {
       "rank": "6",
       "title": "孩子脱鞋 138cm 穿鞋超标被要求补票，乐园主管反问「难道要脱鞋玩？」，如何看待乐园的购票规定？",
       "link": "https://www.zhihu.com/question/1941077370531481119",
-      "heat": "126 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "7",
       "title": "于东来谈消费降级，「有人不花钱有没有可能是因为产品和服务质量低，使用或体验不舒服」，怎样看待这一观点？",
       "link": "https://www.zhihu.com/question/1941097650159059642",
-      "heat": "103 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "8",
@@ -52,14 +52,14 @@
     },
     {
       "rank": "9",
-      "title": "日本冲绳海港出现凶猛鱼类，有人称「比鲨鱼还可怕」，系褐拟鳞鲀，这是一种怎样的鱼？遇到后该怎么办？",
-      "link": "https://www.zhihu.com/question/1941203046995555551",
-      "heat": "80 万热度"
+      "title": "《两只蝴蝶》下载两亿多次，作者牛朝阳称只挣了 5000 元，为什么会这样？音乐行业中的利益分配合理吗？",
+      "link": "https://www.zhihu.com/question/1939347946522018494",
+      "heat": "78 万热度"
     },
     {
       "rank": "10",
-      "title": "《两只蝴蝶》下载两亿多次，作者牛朝阳称只挣了 5000 元，为什么会这样？音乐行业中的利益分配合理吗？",
-      "link": "https://www.zhihu.com/question/1939347946522018494",
+      "title": "日本冲绳海港出现凶猛鱼类，有人称「比鲨鱼还可怕」，系褐拟鳞鲀，这是一种怎样的鱼？遇到后该怎么办？",
+      "link": "https://www.zhihu.com/question/1941203046995555551",
       "heat": "78 万热度"
     },
     {
@@ -82,38 +82,38 @@
     },
     {
       "rank": "14",
-      "title": "现在的中国人离开味精，还会做饭吗？",
-      "link": "https://www.zhihu.com/question/1918583130568257982",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "15",
       "title": "作为职场新人，周末是否应该与同事和工作「保持距离」？你如何看待工作与生活的平衡？",
       "link": "https://www.zhihu.com/question/660814286",
       "heat": "64 万热度"
     },
     {
-      "rank": "16",
-      "title": "如何评价电视剧《生万物》?",
-      "link": "https://www.zhihu.com/question/1939827731660517395",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "17",
+      "rank": "15",
       "title": "戚薇承认医美过度，眉毛因打肉毒过量完全动不了，医美过度有哪些健康风险？像她这种情况，能恢复吗？",
       "link": "https://www.zhihu.com/question/1940730342374859331",
       "heat": "59 万热度"
     },
     {
+      "rank": "16",
+      "title": "现在的中国人离开味精，还会做饭吗？",
+      "link": "https://www.zhihu.com/question/1918583130568257982",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "中印外长会谈达成 10 项成果，双方同意采取具体措施为两国经贸投资流动提供便利，如何看待这些成果？",
+      "link": "https://www.zhihu.com/question/1941289415000449675",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "18",
-      "title": "如何通过工位分布推断每个人在团队的位置？",
-      "link": "https://www.zhihu.com/question/621501858",
+      "title": "如何评价电视剧《生万物》?",
+      "link": "https://www.zhihu.com/question/1939827731660517395",
       "heat": "59 万热度"
     },
     {
       "rank": "19",
-      "title": "中印外长会谈达成 10 项成果，双方同意采取具体措施为两国经贸投资流动提供便利，如何看待这些成果？",
-      "link": "https://www.zhihu.com/question/1941289415000449675",
+      "title": "如何通过工位分布推断每个人在团队的位置？",
+      "link": "https://www.zhihu.com/question/621501858",
       "heat": "59 万热度"
     },
     {
@@ -148,14 +148,14 @@
     },
     {
       "rank": "25",
-      "title": "《凡人修仙传》中，陈巧倩为何喜欢韩立，而韩立却避之不及？",
-      "link": "https://www.zhihu.com/question/1938240950938867110",
+      "title": "你觉得游戏科学第二部「黑神话」作品《黑神话：钟馗》销量能达到多少份？销量能否超过《黑神话：悟空》呢？",
+      "link": "https://www.zhihu.com/question/1941368236709999372",
       "heat": "58 万热度"
     },
     {
       "rank": "26",
-      "title": "你觉得游戏科学第二部「黑神话」作品《黑神话：钟馗》销量能达到多少份？销量能否超过《黑神话：悟空》呢？",
-      "link": "https://www.zhihu.com/question/1941368236709999372",
+      "title": "京东宣布已为 15 万全职骑手缴纳五险一金，会给行业带来哪些影响？成本该如何消化？",
+      "link": "https://www.zhihu.com/question/1941101278907293707",
       "heat": "58 万热度"
     },
     {
@@ -166,14 +166,14 @@
     },
     {
       "rank": "28",
-      "title": "京东宣布已为 15 万全职骑手缴纳五险一金，会给行业带来哪些影响？成本该如何消化？",
-      "link": "https://www.zhihu.com/question/1941101278907293707",
+      "title": "从月球上真的可以看到万里长城吗？",
+      "link": "https://www.zhihu.com/question/1939014248413008983",
       "heat": "58 万热度"
     },
     {
       "rank": "29",
-      "title": "从月球上真的可以看到万里长城吗？",
-      "link": "https://www.zhihu.com/question/1939014248413008983",
+      "title": "《凡人修仙传》中，陈巧倩为何喜欢韩立，而韩立却避之不及？",
+      "link": "https://www.zhihu.com/question/1938240950938867110",
       "heat": "58 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "大力士和力量举这两个运动为什么在国内发展不起来？",
-      "link": "https://www.zhihu.com/question/1940824196465796607",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "42",
       "title": "《合金弹头》里主角为什么会吃成胖子，这样设计的意义何在？",
       "link": "https://www.zhihu.com/question/1936881285650945693",
       "heat": "58 万热度"
     },
     {
-      "rank": "43",
-      "title": "你印象最深刻的一场乒乓球比赛是哪一场？",
-      "link": "https://www.zhihu.com/question/1909725007044674650",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "《崩坏星穹铁道》中，dot 队在海瑟音加入后还有哪些缺点待补足？",
-      "link": "https://www.zhihu.com/question/1940995556307600550",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "如何看待蚂蚁集团开源基于 LLVM 的 JVM JIT 编译器 Jeandle？",
-      "link": "https://www.zhihu.com/question/1939053427192733835",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "42",
       "title": "领导对下属职业成长负有怎样的责任？",
       "link": "https://www.zhihu.com/question/1941455697691784597",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
+      "rank": "43",
+      "title": "如何看待蚂蚁集团开源基于 LLVM 的 JVM JIT 编译器 Jeandle？",
+      "link": "https://www.zhihu.com/question/1939053427192733835",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "44",
       "title": "遮天里的无敌心到底是什么？",
       "link": "https://www.zhihu.com/question/656394458",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
-      "title": "领导力可以通过后天培养吗？",
-      "link": "https://www.zhihu.com/question/29306174",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "49",
+      "rank": "45",
       "title": "有哪些简单又美味，适合懒人的做饭方法？",
       "link": "https://www.zhihu.com/question/38715241",
       "heat": "58 万热度"
     },
     {
+      "rank": "46",
+      "title": "如何评价 2025 年 8 月 19 日 DeepSeek 新发布的 V3.1 模型？性能上有哪些优化和提升？",
+      "link": "https://www.zhihu.com/question/1941220591475626436",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "我以后想造可控核聚变，我应该朝哪方面努力？",
+      "link": "https://www.zhihu.com/question/1940942731020051857",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "国新办发布会介绍阅兵准备工作，编设 45 个方（梯）队，首次亮相新型装备占比很大，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1941441340308173114",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "为什么吸血鬼的原型是蝙蝠，不是蚊子这种?",
+      "link": "https://www.zhihu.com/question/1908081714221277263",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "50",
-      "title": "韩信如果示弱能否保命？",
-      "link": "https://www.zhihu.com/question/1924847436872029739",
+      "title": "从心理学分析，为什么很多人看动画《凡人修仙传》156 集，韩立结婴成功会情绪激动到哭？",
+      "link": "https://www.zhihu.com/question/1940034064858977644",
       "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-08-21 06:42:36"
+  "generated_at": "2025-08-21 06:55:11"
 }
