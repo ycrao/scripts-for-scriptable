@@ -1,60 +1,60 @@
 {
-  "artifact_id": "c6fee4a3-b0ce-4a74-8a2a-36cdd474a9d5",
+  "artifact_id": "3dc674c5-8459-49dc-8b80-e9bb8e362866",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "「中国钓王」邓刚钓获 73 斤野生花鲢，有网友质疑真实性，这么大的鱼有可能被钓到吗？难度有多大？",
       "link": "https://www.zhihu.com/question/1942980603285828751",
-      "heat": "290 万热度"
+      "heat": "224 万热度"
     },
     {
       "rank": "2",
       "title": "「反诈老陈」打假「嘎子哥」直播间手机官网查不到，酷派回应「确有此产品，正陆续上架」，具体怎么回事？",
       "link": "https://www.zhihu.com/question/1943058826220762999",
-      "heat": "200 万热度"
+      "heat": "175 万热度"
     },
     {
       "rank": "3",
-      "title": "如何评价 DeepSeek V3.1 模型输出 Token 会被随机替换为「极」？",
-      "link": "https://www.zhihu.com/question/1942934856603505597",
-      "heat": "126 万热度"
+      "title": "8 月 25 日沪指涨 1.51% 逼近 3900 点，市场成交额超 3 万亿元，如何看待今日行情？",
+      "link": "https://www.zhihu.com/question/1943243567897244415",
+      "heat": "124 万热度"
     },
     {
       "rank": "4",
-      "title": "8 月 25 日沪指涨 1.51% 逼近 3900 点，市场成交额超 3 万亿元，如何看待今日行情？",
-      "link": "https://www.zhihu.com/question/1943243567897244415",
-      "heat": "125 万热度"
+      "title": "如何评价 DeepSeek V3.1 模型输出 Token 会被随机替换为「极」？",
+      "link": "https://www.zhihu.com/question/1942934856603505597",
+      "heat": "123 万热度"
     },
     {
       "rank": "5",
       "title": "七月用电超过一万亿度，为什么电网没有出现瘫痪现象？",
       "link": "https://www.zhihu.com/question/1942949505189287230",
-      "heat": "117 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "6",
-      "title": "男子把茄子和辣椒混种，意外结出「茄椒」，称「闻着茄子味吃着还辣的」，这是真的吗？",
-      "link": "https://www.zhihu.com/question/1942597876074112104",
-      "heat": "107 万热度"
+      "title": "同时期进入中国，赛百味为什么打不过肯德基麦当劳呢？",
+      "link": "https://www.zhihu.com/question/4439808620",
+      "heat": "105 万热度"
     },
     {
       "rank": "7",
-      "title": "「老漂族」吐槽自己是「不花钱保姆」，觉得在子女家带娃的生活像「坐牢」，这种心理普遍吗？子女能做些什么？",
-      "link": "https://www.zhihu.com/question/1943323809076741464",
-      "heat": "104 万热度"
+      "title": "男子把茄子和辣椒混种，意外结出「茄椒」，称「闻着茄子味吃着还辣的」，这是真的吗？",
+      "link": "https://www.zhihu.com/question/1942597876074112104",
+      "heat": "100 万热度"
     },
     {
       "rank": "8",
-      "title": "同时期进入中国，赛百味为什么打不过肯德基麦当劳呢？",
-      "link": "https://www.zhihu.com/question/4439808620",
-      "heat": "100 万热度"
+      "title": "「老漂族」吐槽自己是「不花钱保姆」，觉得在子女家带娃的生活像「坐牢」，这种心理普遍吗？子女能做些什么？",
+      "link": "https://www.zhihu.com/question/1943323809076741464",
+      "heat": "98 万热度"
     },
     {
       "rank": "9",
       "title": "为什么人一戴上墨镜就会相对更帅？",
       "link": "https://www.zhihu.com/question/21337004",
-      "heat": "99 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "10",
@@ -76,26 +76,26 @@
     },
     {
       "rank": "13",
-      "title": "高盛将寒武纪目标价上调 50% 至 1835 元，如何看待 AI 芯片国产替代的空间？",
-      "link": "https://www.zhihu.com/question/1943240613911820133",
-      "heat": "79 万热度"
-    },
-    {
-      "rank": "14",
       "title": "如何看待「苏超」史诗级的一战（徐州 vs 南京）？",
       "link": "https://www.zhihu.com/question/1942929724247606472",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "为什么我们国家不发展油电混动的车，而要集中精力在插电混动上面？",
-      "link": "https://www.zhihu.com/question/1941180679032402951",
       "heat": "75 万热度"
     },
     {
-      "rank": "16",
+      "rank": "14",
       "title": "电影《捕风追影》里郎月婷饰演的 Madam 发挥了怎样的作用？",
       "link": "https://www.zhihu.com/question/1942214379354435824",
+      "heat": "74 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "高盛将寒武纪目标价上调 50% 至 1835 元，如何看待 AI 芯片国产替代的空间？",
+      "link": "https://www.zhihu.com/question/1943240613911820133",
+      "heat": "74 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "为什么我们国家不发展油电混动的车，而要集中精力在插电混动上面？",
+      "link": "https://www.zhihu.com/question/1941180679032402951",
       "heat": "74 万热度"
     },
     {
@@ -106,27 +106,27 @@
     },
     {
       "rank": "18",
-      "title": "陕西一班主任用「小号」给多名女学生发不雅信息，警方认定构成猥亵行拘 15 日，怎样从法律角度解读？",
-      "link": "https://www.zhihu.com/question/1942533755546862020",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "19",
       "title": "在千禧年时期，有哪些游戏老杂志让你买了一期又一期？有哪些撰稿人和其作品让你印象深刻？",
       "link": "https://www.zhihu.com/question/1939285722608661530",
       "heat": "67 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "明知道吼孩子会让他自卑，但一辅导作业就失控，吼完又愧疚，家长们都有什么好办法？",
       "link": "https://www.zhihu.com/question/1883413077950718750",
+      "heat": "67 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "职场中的跳槽现象，大家是怎么样的看法？",
+      "link": "https://www.zhihu.com/question/1925448804695520131",
       "heat": "66 万热度"
     },
     {
       "rank": "21",
       "title": "《你是我的荣耀》中如果乔晶晶不是大明星，她和于途的结局会怎么样？",
       "link": "https://www.zhihu.com/question/477389590",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "22",
@@ -142,166 +142,166 @@
     },
     {
       "rank": "24",
+      "title": "蝉的一生四年在地下度过，出来七天就死，你想说什么？",
+      "link": "https://www.zhihu.com/question/430883310",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "25",
       "title": "饺子、郭帆、冯骥这些草根天才为什么能够奇迹般地冒出头？",
       "link": "https://www.zhihu.com/question/11467696113",
       "heat": "61 万热度"
     },
     {
-      "rank": "25",
+      "rank": "26",
+      "title": "陕西一班主任用「小号」给多名女学生发不雅信息，警方认定构成猥亵行拘 15 日，怎样从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1942533755546862020",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "27",
       "title": "为什么电影《东极岛》的剧情被很多人吐槽？历史上真实的东极岛事件是怎样的？",
       "link": "https://www.zhihu.com/question/1940803343707501725",
       "heat": "59 万热度"
     },
     {
-      "rank": "26",
-      "title": "月薪过万的人上班会摸鱼吗？",
-      "link": "https://www.zhihu.com/question/660345574",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "27",
+      "rank": "28",
       "title": "发卫星时为什么不把卫星做成炮弹，一炮打上太空?",
       "link": "https://www.zhihu.com/question/1943214852995806587",
       "heat": "59 万热度"
     },
     {
-      "rank": "28",
+      "rank": "29",
+      "title": "月薪过万的人上班会摸鱼吗？",
+      "link": "https://www.zhihu.com/question/660345574",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "30",
       "title": "成为直辖市到底对老百姓有什么实质性好处？",
       "link": "https://www.zhihu.com/question/616736967",
       "heat": "59 万热度"
     },
     {
-      "rank": "29",
+      "rank": "31",
       "title": "董璇和张维伊被全网劝分，张维伊现在该怎么做才能挽回口碑？",
       "link": "https://www.zhihu.com/question/1942194063316055153",
       "heat": "59 万热度"
     },
     {
-      "rank": "30",
+      "rank": "32",
       "title": "人生必须要不停的上班吗？",
       "link": "https://www.zhihu.com/question/627122837",
       "heat": "58 万热度"
     },
     {
-      "rank": "31",
+      "rank": "33",
       "title": "你见过哪些令你瞠目结舌的 Python 代码技巧？",
       "link": "https://www.zhihu.com/question/37904398",
       "heat": "58 万热度"
     },
     {
-      "rank": "32",
-      "title": "韩立原本不就是落云宗的弟子吗？为什么程天坤吕洛还说韩立是散修，希望韩立加入宗门？",
-      "link": "https://www.zhihu.com/question/1942721786052580700",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "如果你穿越成《凡人修仙传》动画中的慕沛灵，你会对韩立做些什么？",
-      "link": "https://www.zhihu.com/question/1940661874136975067",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "34",
-      "title": "在汽车高端市场中，腾势所搭载的智能辅助驾驶功能究竟有多大竞争力？",
-      "link": "https://www.zhihu.com/question/1942228555049210162",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "如何评价许凯、田曦薇主演的电视剧《子夜归》？",
-      "link": "https://www.zhihu.com/question/1939733339339711652",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "哪个游戏的地图参考了现实中真正的城市制作？",
-      "link": "https://www.zhihu.com/question/1939816171974132890",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "你有被蚊虫咬过吗？被咬得最惨的一次是什么时候呢？",
-      "link": "https://www.zhihu.com/question/1918972306652364973",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "38",
       "title": "高铁坐错车次是什么体验？",
       "link": "https://www.zhihu.com/question/279791741",
       "heat": "56 万热度"
     },
     {
+      "rank": "35",
+      "title": "如果你穿越成《凡人修仙传》动画中的慕沛灵，你会对韩立做些什么？",
+      "link": "https://www.zhihu.com/question/1940661874136975067",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "在汽车高端市场中，腾势所搭载的智能辅助驾驶功能究竟有多大竞争力？",
+      "link": "https://www.zhihu.com/question/1942228555049210162",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "如何评价许凯、田曦薇主演的电视剧《子夜归》？",
+      "link": "https://www.zhihu.com/question/1939733339339711652",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "哪个游戏的地图参考了现实中真正的城市制作？",
+      "link": "https://www.zhihu.com/question/1939816171974132890",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "39",
-      "title": "开学大三，但仍处理不好和辅导员的人际关系，我该怎么办？",
-      "link": "https://www.zhihu.com/question/1940675682486171455",
+      "title": "你有被蚊虫咬过吗？被咬得最惨的一次是什么时候呢？",
+      "link": "https://www.zhihu.com/question/1918972306652364973",
       "heat": "56 万热度"
     },
     {
       "rank": "40",
-      "title": "为什么苹果公司在 ai 领域起了个大早赶了个晚集？",
-      "link": "https://www.zhihu.com/question/654052205",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "41",
       "title": "职场上被狠狠阴了一把怎么办？",
       "link": "https://www.zhihu.com/question/1942016943507878427",
       "heat": "56 万热度"
     },
     {
+      "rank": "41",
+      "title": "开学大三，但仍处理不好和辅导员的人际关系，我该怎么办？",
+      "link": "https://www.zhihu.com/question/1940675682486171455",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "42",
+      "title": "为什么苹果公司在 ai 领域起了个大早赶了个晚集？",
+      "link": "https://www.zhihu.com/question/654052205",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "43",
       "title": "大学的时候你会定期跟父母打电话吗？因为打电话被舍友嘲笑是「巨婴」，难道真是我在心理上还没长大吗？",
       "link": "https://www.zhihu.com/question/1941548360340309606",
       "heat": "56 万热度"
     },
     {
-      "rank": "43",
+      "rank": "44",
       "title": "为什么以前的人常说「忠言逆耳利于行」，现在却流行「情绪价值是第一生产力」?",
       "link": "https://www.zhihu.com/question/1942261991549964526",
       "heat": "56 万热度"
     },
     {
-      "rank": "44",
+      "rank": "45",
       "title": "你大学的生活费一个月要多少钱？都花在了哪里？",
       "link": "https://www.zhihu.com/question/1941638566640841631",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "苏超的爆火能够取代中超的地位，为中国足球真正博得未来吗？",
       "link": "https://www.zhihu.com/question/1936713963774677988",
       "heat": "56 万热度"
     },
     {
-      "rank": "46",
+      "rank": "47",
       "title": "自己组一个 E5 服务器才几百块钱，为什么去阿里云租这么贵?",
       "link": "https://www.zhihu.com/question/637522052",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "横店被戏称变「竖店」，微短剧剧组猛增，1 部微短剧 1 周能拍完，这对整个影视行业是好事吗？",
       "link": "https://www.zhihu.com/question/1940789507659097822",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
-      "title": "你认可「30+ 岁中年人无友谊」的说法吗？成年人的友情难道注定沦为「坏账」吗？你有值得炫耀的友情吗？",
-      "link": "https://www.zhihu.com/question/1936453967249913697",
+      "rank": "49",
+      "title": "韩立原本不就是落云宗的弟子吗？为什么程天坤吕洛还说韩立是散修，希望韩立加入宗门？",
+      "link": "https://www.zhihu.com/question/1942721786052580700",
       "heat": "56 万热度"
     },
     {
-      "rank": "49",
-      "title": "你还记得你人生中玩过的第一款电子游戏是什么吗？",
-      "link": "https://www.zhihu.com/question/1943325331277739834",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "50",
-      "title": "LPL 2025 赛季第三赛段组内赛 AL VS JDG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1943034097619441171",
-      "heat": "55 万热度"
+      "title": "你认可「30+ 岁中年人无友谊」的说法吗？成年人的友情难道注定沦为「坏账」吗？你有值得炫耀的友情吗？",
+      "link": "https://www.zhihu.com/question/1936453967249913697",
+      "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-08-26 03:53:10"
+  "generated_at": "2025-08-26 04:26:55"
 }
