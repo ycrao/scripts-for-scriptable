@@ -1,24 +1,24 @@
 {
-  "artifact_id": "a37fb66b-ffd6-42e9-ac73-e96a6ea12de4",
+  "artifact_id": "3a6db75f-34d1-4d65-ba82-d9cb2756c389",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待比亚迪仰望 U9 工程测试车以 472.41km/h 的速度打破全球电动车极速记录？",
       "link": "https://www.zhihu.com/question/1943678548079511304",
-      "heat": "416 万热度"
+      "heat": "431 万热度"
     },
     {
       "rank": "2",
       "title": "广东一小区大蛇小蛇到处溜达，为什么会有这么多蛇？有多危险？小区管理存在哪些问题？",
       "link": "https://www.zhihu.com/question/1943293869228779346",
-      "heat": "155 万热度"
+      "heat": "153 万热度"
     },
     {
       "rank": "3",
       "title": "宁夏一网红过沙漠刀锋车辆侧翻不幸身亡，沙漠刀锋是怎么形成的？遇到沙漠刀锋要注意什么？",
       "link": "https://www.zhihu.com/question/1943359097970848626",
-      "heat": "114 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "4",
@@ -28,27 +28,27 @@
     },
     {
       "rank": "5",
-      "title": "男子在闲鱼买回自己被盗镜头，在警方立案后向平台申请退款被拒，从法律角度看，平台有义务退款吗？",
-      "link": "https://www.zhihu.com/question/1941915188812026180",
-      "heat": "110 万热度"
+      "title": "什么叫演戏用力过猛？",
+      "link": "https://www.zhihu.com/question/57953126",
+      "heat": "111 万热度"
     },
     {
       "rank": "6",
-      "title": "什么叫演戏用力过猛？",
-      "link": "https://www.zhihu.com/question/57953126",
-      "heat": "110 万热度"
-    },
-    {
-      "rank": "7",
       "title": "春秋航空否认故意调低客舱温度售卖毛毯，称按要求设定温度，如何看待这一回应？客舱温度设定有哪些要求？",
       "link": "https://www.zhihu.com/question/1943401452023280732",
       "heat": "104 万热度"
     },
     {
-      "rank": "8",
+      "rank": "7",
       "title": "为什么去日本一下就能被认出是中国人？",
       "link": "https://www.zhihu.com/question/1939807587659908158",
-      "heat": "101 万热度"
+      "heat": "98 万热度"
+    },
+    {
+      "rank": "8",
+      "title": "男子在闲鱼买回自己被盗镜头，在警方立案后向平台申请退款被拒，从法律角度看，平台有义务退款吗？",
+      "link": "https://www.zhihu.com/question/1941915188812026180",
+      "heat": "98 万热度"
     },
     {
       "rank": "9",
@@ -60,19 +60,19 @@
       "rank": "10",
       "title": "特朗普希望韩方把「驻韩美军基地土地所有权」交给美方，有何意图？韩方会如何回应？",
       "link": "https://www.zhihu.com/question/1943604414125408942",
-      "heat": "89 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "11",
       "title": "中国 7 月用电量破万亿千瓦时，相当于美国一年的用电量，我国应对用电高峰有哪些优势？",
       "link": "https://www.zhihu.com/question/1942694274782197639",
-      "heat": "86 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "12",
       "title": "如何评价特斯拉宣传的「1000 公里只充一次电」？",
       "link": "https://www.zhihu.com/question/1943376812899046330",
-      "heat": "85 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "13",
@@ -88,27 +88,27 @@
     },
     {
       "rank": "15",
-      "title": "哪个演员，不提名字，一句台词就能知道是谁？",
-      "link": "https://www.zhihu.com/question/1905730567305143586",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "16",
       "title": "有哪些事是你装修后才明白的？",
       "link": "https://www.zhihu.com/question/412656177",
       "heat": "71 万热度"
     },
     {
-      "rank": "17",
+      "rank": "16",
       "title": "贾玲 56kg 硬拉 120kg 在女生里是什么水平？",
       "link": "https://www.zhihu.com/question/644294560",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "哪个演员，不提名字，一句台词就能知道是谁？",
+      "link": "https://www.zhihu.com/question/1905730567305143586",
       "heat": "69 万热度"
     },
     {
       "rank": "18",
       "title": "为什么在教育孩子时，父母必须保持「一致性」？",
       "link": "https://www.zhihu.com/question/662817150",
-      "heat": "66 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "19",
@@ -130,69 +130,69 @@
     },
     {
       "rank": "22",
-      "title": "男篮美洲杯小组赛，美国男篮 85-86 爆冷不敌乌拉圭男篮，你怎么看？",
-      "link": "https://www.zhihu.com/question/1943315610227406830",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "23",
       "title": "成都车展 8 大豪华品牌集体缺席，外资超豪「绝迹」，反映了中国豪车市场怎样的趋势变化？",
       "link": "https://www.zhihu.com/question/1942988670488507036",
       "heat": "59 万热度"
     },
     {
-      "rank": "24",
-      "title": "职场中，怎样巧妙的让领导知道你做了很多工作？",
-      "link": "https://www.zhihu.com/question/628707805",
+      "rank": "23",
+      "title": "男篮美洲杯小组赛，美国男篮 85-86 爆冷不敌乌拉圭男篮，你怎么看？",
+      "link": "https://www.zhihu.com/question/1943315610227406830",
       "heat": "59 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "给你 10 亿，要求进入石村号、寂静岭、浣熊市中的其中一个场景生存 24 小时，哪个场景的生存几率更大？",
+      "link": "https://www.zhihu.com/question/544226507",
+      "heat": "58 万热度"
     },
     {
       "rank": "25",
-      "title": "给你 10 亿，要求进入石村号、寂静岭、浣熊市中的其中一个场景生存 24 小时，哪个场景的生存几率更大？",
-      "link": "https://www.zhihu.com/question/544226507",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "你在游戏中见过颜值最高的杂兵有哪些?",
-      "link": "https://www.zhihu.com/question/449194855",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "为什么新加坡孕育不出本土高科技巨头企业？",
-      "link": "https://www.zhihu.com/question/651532627",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "成绩差是因为孩子真的笨吗？",
-      "link": "https://www.zhihu.com/question/632402145",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "现在做个人博客的最低成本是多少？",
-      "link": "https://www.zhihu.com/question/581691050",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "《魔兽争霸 3》中死亡骑士 6 级大招改成地狱火对 UD 强度影响如何？",
-      "link": "https://www.zhihu.com/question/1943068097989809572",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
       "title": "《生万物》费家嫂子对苏苏到底是种什么情感？她为什么一定要毒死苏苏？",
       "link": "https://www.zhihu.com/question/1943071255445079302",
       "heat": "58 万热度"
     },
     {
+      "rank": "26",
+      "title": "《魔兽争霸 3》中死亡骑士 6 级大招改成地狱火对 UD 强度影响如何？",
+      "link": "https://www.zhihu.com/question/1943068097989809572",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "职场中，怎样巧妙的让领导知道你做了很多工作？",
+      "link": "https://www.zhihu.com/question/628707805",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "你在游戏中见过颜值最高的杂兵有哪些?",
+      "link": "https://www.zhihu.com/question/449194855",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "为什么新加坡孕育不出本土高科技巨头企业？",
+      "link": "https://www.zhihu.com/question/651532627",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "成绩差是因为孩子真的笨吗？",
+      "link": "https://www.zhihu.com/question/632402145",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "现在做个人博客的最低成本是多少？",
+      "link": "https://www.zhihu.com/question/581691050",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "32",
       "title": "孩子为何对大人的言传身教嗤之以鼻？",
       "link": "https://www.zhihu.com/question/1939218976933676624",
-      "heat": "56 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "33",
@@ -214,15 +214,15 @@
     },
     {
       "rank": "36",
-      "title": "《红楼梦》里的王夫人贵为官员贾政之妻，而且天天念佛，为什么会「杀」丫环金钏和晴雯呢？",
-      "link": "https://www.zhihu.com/question/1916835168536200711",
+      "title": "网传疑似「小米 SU7 L」路测谍照流出，就是纯粹加长吗？空间舒适和性能操控对你来说哪个更重要？",
+      "link": "https://www.zhihu.com/question/1943022005382259184",
       "heat": "56 万热度"
     },
     {
       "rank": "37",
-      "title": "网传疑似「小米 SU7 L」路测谍照流出，就是纯粹加长吗？空间舒适和性能操控对你来说哪个更重要？",
-      "link": "https://www.zhihu.com/question/1943022005382259184",
-      "heat": "56 万热度"
+      "title": "《红楼梦》里的王夫人贵为官员贾政之妻，而且天天念佛，为什么会「杀」丫环金钏和晴雯呢？",
+      "link": "https://www.zhihu.com/question/1916835168536200711",
+      "heat": "55 万热度"
     },
     {
       "rank": "38",
@@ -250,26 +250,26 @@
     },
     {
       "rank": "42",
-      "title": "为什么我们国家不发展油电混动的车，而要集中精力在插电混动上面？",
-      "link": "https://www.zhihu.com/question/1941180679032402951",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "为什么有些学生初中成绩很好，到了高中就跟不上了?",
-      "link": "https://www.zhihu.com/question/475062629",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "44",
       "title": "人类为何对猫、狗如此痴迷？宠物依恋的健康界限在哪？",
       "link": "https://www.zhihu.com/question/1936453966859839234",
       "heat": "55 万热度"
     },
     {
-      "rank": "45",
+      "rank": "43",
+      "title": "为什么我们国家不发展油电混动的车，而要集中精力在插电混动上面？",
+      "link": "https://www.zhihu.com/question/1941180679032402951",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "44",
       "title": "成为直辖市到底对老百姓有什么实质性好处？",
       "link": "https://www.zhihu.com/question/616736967",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "为什么有些学生初中成绩很好，到了高中就跟不上了?",
+      "link": "https://www.zhihu.com/question/475062629",
       "heat": "55 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "大学四年不社交会怎么样？",
-      "link": "https://www.zhihu.com/question/1930640818542191479",
+      "title": "吉林大学新生宿舍楼禁止异性家长进入，如何看待此规定？如何平衡学生隐私与搬运行李的困难？",
+      "link": "https://www.zhihu.com/question/1941864005875533786",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-08-27 06:23:03"
+  "generated_at": "2025-08-27 06:42:29"
 }
