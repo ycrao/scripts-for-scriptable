@@ -1,36 +1,36 @@
 {
-  "artifact_id": "3a6db75f-34d1-4d65-ba82-d9cb2756c389",
+  "artifact_id": "aa57f94f-fe04-4932-9c5d-52037c6a2d2c",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待比亚迪仰望 U9 工程测试车以 472.41km/h 的速度打破全球电动车极速记录？",
       "link": "https://www.zhihu.com/question/1943678548079511304",
-      "heat": "431 万热度"
+      "heat": "437 万热度"
     },
     {
       "rank": "2",
       "title": "广东一小区大蛇小蛇到处溜达，为什么会有这么多蛇？有多危险？小区管理存在哪些问题？",
       "link": "https://www.zhihu.com/question/1943293869228779346",
-      "heat": "153 万热度"
+      "heat": "151 万热度"
     },
     {
       "rank": "3",
       "title": "宁夏一网红过沙漠刀锋车辆侧翻不幸身亡，沙漠刀锋是怎么形成的？遇到沙漠刀锋要注意什么？",
       "link": "https://www.zhihu.com/question/1943359097970848626",
-      "heat": "115 万热度"
+      "heat": "118 万热度"
     },
     {
       "rank": "4",
       "title": "阿里云创始人王坚表示「目前热议的 AI 技术 90% 可能在五到十年内消失」，这一说法有哪些依据？",
       "link": "https://www.zhihu.com/question/1933258750191436344",
-      "heat": "114 万热度"
+      "heat": "113 万热度"
     },
     {
       "rank": "5",
       "title": "什么叫演戏用力过猛？",
       "link": "https://www.zhihu.com/question/57953126",
-      "heat": "111 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "6",
@@ -42,19 +42,19 @@
       "rank": "7",
       "title": "为什么去日本一下就能被认出是中国人？",
       "link": "https://www.zhihu.com/question/1939807587659908158",
-      "heat": "98 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "8",
-      "title": "男子在闲鱼买回自己被盗镜头，在警方立案后向平台申请退款被拒，从法律角度看，平台有义务退款吗？",
-      "link": "https://www.zhihu.com/question/1941915188812026180",
-      "heat": "98 万热度"
-    },
-    {
-      "rank": "9",
       "title": "网友爆料有人在长深高速杭州段戴恐怖面具故意惊吓过路车辆，具体情况如何？涉事者需要承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1943412746386399718",
       "heat": "95 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "男子在闲鱼买回自己被盗镜头，在警方立案后向平台申请退款被拒，从法律角度看，平台有义务退款吗？",
+      "link": "https://www.zhihu.com/question/1941915188812026180",
+      "heat": "91 万热度"
     },
     {
       "rank": "10",
@@ -72,7 +72,7 @@
       "rank": "12",
       "title": "如何评价特斯拉宣传的「1000 公里只充一次电」？",
       "link": "https://www.zhihu.com/question/1943376812899046330",
-      "heat": "84 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "13",
@@ -100,14 +100,14 @@
     },
     {
       "rank": "17",
-      "title": "哪个演员，不提名字，一句台词就能知道是谁？",
-      "link": "https://www.zhihu.com/question/1905730567305143586",
-      "heat": "69 万热度"
+      "title": "为什么在教育孩子时，父母必须保持「一致性」？",
+      "link": "https://www.zhihu.com/question/662817150",
+      "heat": "68 万热度"
     },
     {
       "rank": "18",
-      "title": "为什么在教育孩子时，父母必须保持「一致性」？",
-      "link": "https://www.zhihu.com/question/662817150",
+      "title": "哪个演员，不提名字，一句台词就能知道是谁？",
+      "link": "https://www.zhihu.com/question/1905730567305143586",
       "heat": "67 万热度"
     },
     {
@@ -148,26 +148,26 @@
     },
     {
       "rank": "25",
-      "title": "《生万物》费家嫂子对苏苏到底是种什么情感？她为什么一定要毒死苏苏？",
-      "link": "https://www.zhihu.com/question/1943071255445079302",
-      "heat": "58 万热度"
+      "title": "《魔兽争霸 3》中死亡骑士 6 级大招改成地狱火对 UD 强度影响如何？",
+      "link": "https://www.zhihu.com/question/1943068097989809572",
+      "heat": "57 万热度"
     },
     {
       "rank": "26",
-      "title": "《魔兽争霸 3》中死亡骑士 6 级大招改成地狱火对 UD 强度影响如何？",
-      "link": "https://www.zhihu.com/question/1943068097989809572",
-      "heat": "58 万热度"
+      "title": "《生万物》费家嫂子对苏苏到底是种什么情感？她为什么一定要毒死苏苏？",
+      "link": "https://www.zhihu.com/question/1943071255445079302",
+      "heat": "57 万热度"
     },
     {
       "rank": "27",
-      "title": "职场中，怎样巧妙的让领导知道你做了很多工作？",
-      "link": "https://www.zhihu.com/question/628707805",
-      "heat": "58 万热度"
+      "title": "你在游戏中见过颜值最高的杂兵有哪些?",
+      "link": "https://www.zhihu.com/question/449194855",
+      "heat": "57 万热度"
     },
     {
       "rank": "28",
-      "title": "你在游戏中见过颜值最高的杂兵有哪些?",
-      "link": "https://www.zhihu.com/question/449194855",
+      "title": "职场中，怎样巧妙的让领导知道你做了很多工作？",
+      "link": "https://www.zhihu.com/question/628707805",
       "heat": "57 万热度"
     },
     {
@@ -178,14 +178,14 @@
     },
     {
       "rank": "30",
-      "title": "成绩差是因为孩子真的笨吗？",
-      "link": "https://www.zhihu.com/question/632402145",
+      "title": "现在做个人博客的最低成本是多少？",
+      "link": "https://www.zhihu.com/question/581691050",
       "heat": "57 万热度"
     },
     {
       "rank": "31",
-      "title": "现在做个人博客的最低成本是多少？",
-      "link": "https://www.zhihu.com/question/581691050",
+      "title": "成绩差是因为孩子真的笨吗？",
+      "link": "https://www.zhihu.com/question/632402145",
       "heat": "57 万热度"
     },
     {
@@ -250,14 +250,14 @@
     },
     {
       "rank": "42",
-      "title": "人类为何对猫、狗如此痴迷？宠物依恋的健康界限在哪？",
-      "link": "https://www.zhihu.com/question/1936453966859839234",
+      "title": "为什么我们国家不发展油电混动的车，而要集中精力在插电混动上面？",
+      "link": "https://www.zhihu.com/question/1941180679032402951",
       "heat": "55 万热度"
     },
     {
       "rank": "43",
-      "title": "为什么我们国家不发展油电混动的车，而要集中精力在插电混动上面？",
-      "link": "https://www.zhihu.com/question/1941180679032402951",
+      "title": "人类为何对猫、狗如此痴迷？宠物依恋的健康界限在哪？",
+      "link": "https://www.zhihu.com/question/1936453966859839234",
       "heat": "55 万热度"
     },
     {
@@ -280,14 +280,14 @@
     },
     {
       "rank": "47",
-      "title": "为什么苹果公司在 ai 领域起了个大早赶了个晚集？",
-      "link": "https://www.zhihu.com/question/654052205",
+      "title": "古代底层人民经常吃豆腐吗？",
+      "link": "https://www.zhihu.com/question/509731422",
       "heat": "55 万热度"
     },
     {
       "rank": "48",
-      "title": "古代底层人民经常吃豆腐吗？",
-      "link": "https://www.zhihu.com/question/509731422",
+      "title": "为什么苹果公司在 ai 领域起了个大早赶了个晚集？",
+      "link": "https://www.zhihu.com/question/654052205",
       "heat": "55 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-08-27 06:42:29"
+  "generated_at": "2025-08-27 06:55:24"
 }
