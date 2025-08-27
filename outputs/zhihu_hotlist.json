@@ -1,72 +1,72 @@
 {
-  "artifact_id": "33439824-502d-4020-897d-9f9ec9bd7310",
+  "artifact_id": "3a2d1326-df3f-4ff4-bb67-aecd8be31e13",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "上海白领兴起反叛式社交，花 168 元去讲 PPT，如何看待此类活动？反映出当代都市青年怎样的心理特征？",
       "link": "https://www.zhihu.com/question/1941502392370692604",
-      "heat": "512 万热度"
+      "heat": "518 万热度"
     },
     {
       "rank": "2",
       "title": "钟馗是个什么实力的神仙，能匹敌孙悟空还是猪八戒水平?",
       "link": "https://www.zhihu.com/question/1942727563400163388",
-      "heat": "433 万热度"
+      "heat": "419 万热度"
     },
     {
       "rank": "3",
       "title": "寒武纪上半年净利润扭亏为盈，营收增超 4347%，如何看待其股价走势？对市场风格有着怎样的影响？",
       "link": "https://www.zhihu.com/question/1943785506887411084",
-      "heat": "303 万热度"
+      "heat": "313 万热度"
     },
     {
       "rank": "4",
       "title": "歌手泰勒·斯威夫特宣布与橄榄球运动员凯尔西订婚，你对她有哪些祝福？",
       "link": "https://www.zhihu.com/question/1943933462458365716",
-      "heat": "269 万热度"
+      "heat": "252 万热度"
     },
     {
       "rank": "5",
-      "title": "「瓜子大王」恰恰食品上半年增长乏力，净利润暴跌七成，可能有哪些原因？是大家不爱嗑瓜子了吗？",
-      "link": "https://www.zhihu.com/question/1943374285692474031",
-      "heat": "234 万热度"
+      "title": "深圳欢乐谷被指有擦边表演，游乐园里出现性感女团表演是否合适？游乐园表演应遵循什么标准？",
+      "link": "https://www.zhihu.com/question/1943784034745409605",
+      "heat": "193 万热度"
     },
     {
       "rank": "6",
-      "title": "深圳欢乐谷被指有擦边表演，游乐园里出现性感女团表演是否合适？游乐园表演应遵循什么标准？",
-      "link": "https://www.zhihu.com/question/1943784034745409605",
-      "heat": "185 万热度"
+      "title": "「瓜子大王」恰恰食品上半年增长乏力，净利润暴跌七成，可能有哪些原因？是大家不爱嗑瓜子了吗？",
+      "link": "https://www.zhihu.com/question/1943374285692474031",
+      "heat": "153 万热度"
     },
     {
       "rank": "7",
       "title": "为什么很多公司老板只有在骨干研发离职以后才意识到重要性？但反观其他岗位却不会？",
       "link": "https://www.zhihu.com/question/1906627295780792087",
-      "heat": "161 万热度"
+      "heat": "143 万热度"
     },
     {
       "rank": "8",
+      "title": "贵州一新开理发店取名「最高发院」引发热议，市监局回应，招牌已拆除，该店名是否合理？如何从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1939697939334300868",
+      "heat": "140 万热度"
+    },
+    {
+      "rank": "9",
       "title": "比亚迪前七个月海外销量暴增 133%，但国内销量环比下降，这背后原因有哪些？",
       "link": "https://www.zhihu.com/question/1935285919298097634",
       "heat": "136 万热度"
     },
     {
-      "rank": "9",
-      "title": "宁夏一网红过沙漠刀锋车辆侧翻不幸身亡，沙漠刀锋是怎么形成的？遇到沙漠刀锋要注意什么？",
-      "link": "https://www.zhihu.com/question/1943359097970848626",
-      "heat": "132 万热度"
-    },
-    {
       "rank": "10",
       "title": "为啥高中物理题喜欢让小车在光滑面上跑，没摩擦力也跑不起来啊 ?",
       "link": "https://www.zhihu.com/question/1941533101298811007",
-      "heat": "132 万热度"
+      "heat": "133 万热度"
     },
     {
       "rank": "11",
-      "title": "SpaceX 星舰第十次试飞圆满结束，此前已连续取消两次，这次试飞的意义和挑战是什么？",
-      "link": "https://www.zhihu.com/question/1942177268005867629",
-      "heat": "130 万热度"
+      "title": "宁夏一网红过沙漠刀锋车辆侧翻不幸身亡，沙漠刀锋是怎么形成的？遇到沙漠刀锋要注意什么？",
+      "link": "https://www.zhihu.com/question/1943359097970848626",
+      "heat": "132 万热度"
     },
     {
       "rank": "12",
@@ -76,99 +76,99 @@
     },
     {
       "rank": "13",
-      "title": "贵州一新开理发店取名「最高发院」引发热议，市监局回应，招牌已拆除，该店名是否合理？如何从法律角度解读？",
-      "link": "https://www.zhihu.com/question/1939697939334300868",
+      "title": "多家白酒企业发布低度白酒产品，二十几度的白酒能打开年轻人的消费市场吗？",
+      "link": "https://www.zhihu.com/question/1943957218937501434",
       "heat": "127 万热度"
     },
     {
       "rank": "14",
-      "title": "多家白酒企业发布低度白酒产品，二十几度的白酒能打开年轻人的消费市场吗？",
-      "link": "https://www.zhihu.com/question/1943957218937501434",
-      "heat": "126 万热度"
+      "title": "如何评价 Google 发布的 Nano Banana 模型？",
+      "link": "https://www.zhihu.com/question/1943833450151912321",
+      "heat": "124 万热度"
     },
     {
       "rank": "15",
       "title": "大水冲不走龙王庙，这是科学还是玄学？",
       "link": "https://www.zhihu.com/question/1939725084043469361",
-      "heat": "122 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "16",
       "title": "中国 7 月用电量破万亿千瓦时，相当于美国一年的用电量，我国应对用电高峰有哪些优势？",
       "link": "https://www.zhihu.com/question/1942694274782197639",
-      "heat": "120 万热度"
+      "heat": "118 万热度"
     },
     {
       "rank": "17",
-      "title": "如何评价 Google 发布的 Nano Banana 模型？",
-      "link": "https://www.zhihu.com/question/1943833450151912321",
-      "heat": "118 万热度"
+      "title": "SpaceX 星舰第十次试飞圆满结束，此前已连续取消两次，这次试飞的意义和挑战是什么？",
+      "link": "https://www.zhihu.com/question/1942177268005867629",
+      "heat": "117 万热度"
     },
     {
       "rank": "18",
       "title": "华为官宣 Mate XTs 非凡大师及全场景新品发布会定档 9 月 4 日，你有哪些期待？",
       "link": "https://www.zhihu.com/question/1943963262094939303",
-      "heat": "115 万热度"
+      "heat": "116 万热度"
     },
     {
       "rank": "19",
-      "title": "那些画画的人，眼睛真的能看见物体的阴影有蓝色紫色吗？是心里作用还是真的能看见？",
-      "link": "https://www.zhihu.com/question/1943577877464453440",
-      "heat": "82 万热度"
+      "title": "范马勇次郎打 ufc 什么水平？",
+      "link": "https://www.zhihu.com/question/659019924",
+      "heat": "87 万热度"
     },
     {
       "rank": "20",
-      "title": "贾玲 56kg 硬拉 120kg 在女生里是什么水平？",
-      "link": "https://www.zhihu.com/question/644294560",
-      "heat": "81 万热度"
+      "title": "如何评价《英雄联盟》2024 全球总决赛 T1 冠军皮肤？",
+      "link": "https://www.zhihu.com/question/1943812731749758865",
+      "heat": "85 万热度"
     },
     {
       "rank": "21",
       "title": "特朗普近几周曾至少 4 次致电莫迪，均被拒绝，拒绝通话的原因是什么？双方关系会如何发展？",
       "link": "https://www.zhihu.com/question/1943964425619998710",
-      "heat": "81 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "22",
+      "title": "那些画画的人，眼睛真的能看见物体的阴影有蓝色紫色吗？是心里作用还是真的能看见？",
+      "link": "https://www.zhihu.com/question/1943577877464453440",
+      "heat": "83 万热度"
+    },
+    {
+      "rank": "23",
       "title": "为什么模电这么难？",
       "link": "https://www.zhihu.com/question/564619612",
       "heat": "81 万热度"
     },
     {
-      "rank": "23",
-      "title": "2025 年《财富》中国科技 50 强榜单发布，华为、 DeepSeek 、宁德时代上榜，这意味着什么？",
-      "link": "https://www.zhihu.com/question/1941876366837524210",
-      "heat": "76 万热度"
-    },
-    {
       "rank": "24",
-      "title": "如何评价系列电影《死神来了》？",
-      "link": "https://www.zhihu.com/question/285925014",
-      "heat": "74 万热度"
+      "title": "贾玲 56kg 硬拉 120kg 在女生里是什么水平？",
+      "link": "https://www.zhihu.com/question/644294560",
+      "heat": "80 万热度"
     },
     {
       "rank": "25",
-      "title": "如何看待凯迪拉克 F1 车队官宣签约博塔斯、佩雷兹征战 F12026 赛季？",
-      "link": "https://www.zhihu.com/question/1943756939055067443",
-      "heat": "74 万热度"
+      "title": "2025 年《财富》中国科技 50 强榜单发布，华为、 DeepSeek 、宁德时代上榜，这意味着什么？",
+      "link": "https://www.zhihu.com/question/1941876366837524210",
+      "heat": "78 万热度"
     },
     {
       "rank": "26",
       "title": "如何看待特朗普签行政命令禁烧美国星条旗？有法律依据吗？",
       "link": "https://www.zhihu.com/question/1943663592764314077",
-      "heat": "73 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "27",
-      "title": "农村没见识的孩子进入大学后该发生怎样的变化？",
-      "link": "https://www.zhihu.com/question/1942621983113217346",
-      "heat": "71 万热度"
+      "title": "如何评价系列电影《死神来了》？",
+      "link": "https://www.zhihu.com/question/285925014",
+      "heat": "75 万热度"
     },
     {
       "rank": "28",
-      "title": "长途摩旅买什么摩托？",
-      "link": "https://www.zhihu.com/question/1940206781579100913",
-      "heat": "67 万热度"
+      "title": "如何看待凯迪拉克 F1 车队官宣签约博塔斯、佩雷兹征战 F12026 赛季？",
+      "link": "https://www.zhihu.com/question/1943756939055067443",
+      "heat": "73 万热度"
     },
     {
       "rank": "29",
@@ -196,27 +196,27 @@
     },
     {
       "rank": "33",
-      "title": "为什么最后高城原谅了成才？",
-      "link": "https://www.zhihu.com/question/276826350",
-      "heat": "62 万热度"
-    },
-    {
-      "rank": "34",
       "title": "没人帮忙带娃，你还会生二胎吗？",
       "link": "https://www.zhihu.com/question/654045264",
       "heat": "61 万热度"
     },
     {
-      "rank": "35",
-      "title": "哪个演员，不提名字，一句台词就能知道是谁？",
-      "link": "https://www.zhihu.com/question/1905730567305143586",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "36",
+      "rank": "34",
       "title": "三岁的孩子被蚊子咬了，肿起的红包用什么能快速消肿？",
       "link": "https://www.zhihu.com/question/1941026712986054687",
       "heat": "60 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "哪个演员，不提名字，一句台词就能知道是谁？",
+      "link": "https://www.zhihu.com/question/1905730567305143586",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "农村没见识的孩子进入大学后该发生怎样的变化？",
+      "link": "https://www.zhihu.com/question/1942621983113217346",
+      "heat": "59 万热度"
     },
     {
       "rank": "37",
@@ -226,82 +226,82 @@
     },
     {
       "rank": "38",
+      "title": "为什么最后高城原谅了成才？",
+      "link": "https://www.zhihu.com/question/276826350",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "39",
       "title": "在单位里混不好，被同事们看扁看衰，自己也很难过，该怎么办呢？",
       "link": "https://www.zhihu.com/question/1942026456990487950",
       "heat": "58 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "2025LPL 第三赛段常规赛即将落幕，你认为那些队伍有机会冲击世界赛？",
       "link": "https://www.zhihu.com/question/1943342208569815766",
       "heat": "58 万热度"
     },
     {
-      "rank": "40",
+      "rank": "41",
       "title": "为什么去日本一下就能被认出是中国人？",
       "link": "https://www.zhihu.com/question/1939807587659908158",
       "heat": "58 万热度"
     },
     {
-      "rank": "41",
+      "rank": "42",
       "title": "为什么那么多人想去日本旅游? 去日本旅游体验真的有那么好吗？",
       "link": "https://www.zhihu.com/question/1943429671615197532",
       "heat": "58 万热度"
     },
     {
-      "rank": "42",
+      "rank": "43",
       "title": "如何看待《鸣潮》2.6 版本新共鸣者奥古斯塔发布？",
       "link": "https://www.zhihu.com/question/1943698647897342176",
       "heat": "58 万热度"
     },
     {
-      "rank": "43",
+      "rank": "44",
       "title": "爱一个人，是因为「相似性」？ 还是「互补性」?",
       "link": "https://www.zhihu.com/question/662577526",
       "heat": "58 万热度"
     },
     {
-      "rank": "44",
+      "rank": "45",
       "title": "给你 10 亿，要求进入石村号、寂静岭、浣熊市中的其中一个场景生存 24 小时，哪个场景的生存几率更大？",
       "link": "https://www.zhihu.com/question/544226507",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "LPL 2025 赛季第三赛段组内赛 TES 2:1 FPX，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1943753818010551668",
       "heat": "57 万热度"
     },
     {
-      "rank": "46",
+      "rank": "47",
       "title": "什么叫演戏用力过猛？",
       "link": "https://www.zhihu.com/question/57953126",
       "heat": "57 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "嘻哈在《喜单 2》中说领导要求下属陪酒不然会被「穿小鞋」，你如何看待这种「酒桌文化」？",
       "link": "https://www.zhihu.com/question/1940803435655070423",
       "heat": "57 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "巴菲特的每一次投资都不是秘密，为啥没有人通过跟随巴老而发家致富？",
       "link": "https://www.zhihu.com/question/1933972654454452286",
       "heat": "57 万热度"
     },
     {
-      "rank": "49",
-      "title": "如何评价《马大帅》里的人物「范德彪」？",
-      "link": "https://www.zhihu.com/question/23503508",
-      "heat": "57 万热度"
-    },
-    {
       "rank": "50",
-      "title": "为什么在教育孩子时，父母必须保持「一致性」？",
-      "link": "https://www.zhihu.com/question/662817150",
+      "title": "《三体》中智子用「量子纠缠」实时通信可能吗？量子物理允许吗？",
+      "link": "https://www.zhihu.com/question/1941537044368155928",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-08-27 13:42:32"
+  "generated_at": "2025-08-27 13:55:06"
 }
