@@ -1,307 +1,307 @@
 {
-  "artifact_id": "d47ad163-0b06-414e-b84f-1774ad18a9df",
+  "artifact_id": "8bf881e7-8725-456c-88cc-a8d6aecb03f1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "直播：直击九三阅兵",
-      "link": "https://www.zhihu.com/theater/74689?drama_id=1946451389506107353&source=isuda",
-      "heat": "2396 万热度"
+      "title": "纪念抗战胜利 80 周年阅兵活动举行，有哪些看点、亮点、燃点？",
+      "link": "https://www.zhihu.com/question/1946234177222586808",
+      "heat": "11788 万热度"
     },
     {
       "rank": "2",
-      "title": "纪念抗战胜利 80 周年阅兵活动举行，有哪些看点、亮点、燃点？",
-      "link": "https://www.zhihu.com/question/1946234177222586808",
-      "heat": "1808 万热度"
+      "title": "DF61 导弹亮相九三阅兵场，它有哪些特点和亮点？威力有多大？",
+      "link": "https://www.zhihu.com/question/1946506609699283906",
+      "heat": "4957 万热度"
     },
     {
       "rank": "3",
-      "title": "中国原子弹引爆那天引起了怎样的轰动？",
-      "link": "https://www.zhihu.com/question/347437685",
-      "heat": "1270 万热度"
+      "title": "观看抗战胜利 80 周年阅兵，你有怎样的感受，当下心情如何？",
+      "link": "https://www.zhihu.com/question/1946489608285153090",
+      "heat": "410 万热度"
     },
     {
       "rank": "4",
-      "title": "为什么今年会选择在 9 月 3 号进行大阅兵？",
-      "link": "https://www.zhihu.com/question/1941558339046732052",
-      "heat": "1012 万热度"
+      "title": "阅兵装备方队过天安门时，如同复制粘贴一般车速一致、间距固定、路线笔直，是如何做到「米秒不差」的？",
+      "link": "https://www.zhihu.com/question/1945926019648284083",
+      "heat": "368 万热度"
     },
     {
       "rank": "5",
-      "title": "今年九三阅兵奏响《松花江上》《保卫黄河》等经典，当抗战年代的歌曲再度响起，哪段旋律、哪些歌词最戳你？",
-      "link": "https://www.zhihu.com/question/1941495681538832024",
-      "heat": "279 万热度"
+      "title": "为什么今年会选择在 9 月 3 号进行大阅兵？",
+      "link": "https://www.zhihu.com/question/1941558339046732052",
+      "heat": "294 万热度"
     },
     {
       "rank": "6",
-      "title": "如何看待 2025 年看过《哪吒之魔童闹海》的观众近六成此后未进影院观影？电影院想留住观众有多难？",
-      "link": "https://www.zhihu.com/question/1946215040890922010",
-      "heat": "273 万热度"
+      "title": "中国原子弹引爆那天引起了怎样的轰动？",
+      "link": "https://www.zhihu.com/question/347437685",
+      "heat": "258 万热度"
     },
     {
       "rank": "7",
-      "title": "为什么我能接受孩子平庸，平时也不在意他的成绩，可当他做作业拖拉，我会情绪失控呢？",
-      "link": "https://www.zhihu.com/question/1942290378976899304",
-      "heat": "268 万热度"
+      "title": "携程宣布 9 月起全员推广居家办公，不用领导审批，如何评价这一政策？对员工来说是好事吗？",
+      "link": "https://www.zhihu.com/question/1946342363699049989",
+      "heat": "221 万热度"
     },
     {
       "rank": "8",
-      "title": "理肤泉上百元喷雾被指成分只有水，品牌方回应系温泉水，它真能保湿吗？是不是智商税？",
-      "link": "https://www.zhihu.com/question/1945901949774954739",
-      "heat": "230 万热度"
+      "title": "今年九三阅兵奏响《松花江上》《保卫黄河》等经典，当抗战年代的歌曲再度响起，哪段旋律、哪些歌词最戳你？",
+      "link": "https://www.zhihu.com/question/1941495681538832024",
+      "heat": "188 万热度"
     },
     {
       "rank": "9",
-      "title": "有哪些动物知道近亲繁殖危害大，而刻意避免近亲繁殖的？",
-      "link": "https://www.zhihu.com/question/11110426502",
-      "heat": "203 万热度"
+      "title": "如何看待 2025 年看过《哪吒之魔童闹海》的观众近六成此后未进影院观影？电影院想留住观众有多难？",
+      "link": "https://www.zhihu.com/question/1946215040890922010",
+      "heat": "154 万热度"
     },
     {
       "rank": "10",
-      "title": "为什么我们在镜子中看到的自己是左右颠倒，而不是上下颠倒？",
-      "link": "https://www.zhihu.com/question/1943715748288635109",
-      "heat": "134 万热度"
+      "title": "中小学生午休课桌椅国标出台，能坐可躺，兼顾学习与午休舒适度，此举具有哪些意义？",
+      "link": "https://www.zhihu.com/question/1945895223227016524",
+      "heat": "151 万热度"
     },
     {
       "rank": "11",
-      "title": "中小学生午休课桌椅国标出台，能坐可躺，兼顾学习与午休舒适度，此举具有哪些意义？",
-      "link": "https://www.zhihu.com/question/1945895223227016524",
-      "heat": "131 万热度"
+      "title": "为什么我能接受孩子平庸，平时也不在意他的成绩，可当他做作业拖拉，我会情绪失控呢？",
+      "link": "https://www.zhihu.com/question/1942290378976899304",
+      "heat": "144 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么羽毛球强度这么大，羽毛球队员看上去身材却不是肌肉型？",
-      "link": "https://www.zhihu.com/question/624679420",
-      "heat": "107 万热度"
+      "title": "九三阅兵将放飞 8 万羽和平鸽，这些和平鸽来自北京市 10 个区的鸽友们，放飞后它们能自己飞回家吗？",
+      "link": "https://www.zhihu.com/question/1946166642129199179",
+      "heat": "137 万热度"
     },
     {
       "rank": "13",
-      "title": "如何看待辽宁男篮官宣 38 岁韩德君退役结束 18 载职业生涯？",
-      "link": "https://www.zhihu.com/question/1946143895210669600",
-      "heat": "98 万热度"
+      "title": "理肤泉上百元喷雾被指成分只有水，品牌方回应系温泉水，它真能保湿吗？是不是智商税？",
+      "link": "https://www.zhihu.com/question/1945901949774954739",
+      "heat": "123 万热度"
     },
     {
       "rank": "14",
-      "title": "如何评价《崩坏：星穹铁道》3.5 版本 下半活动「旧瓶新友」？",
-      "link": "https://www.zhihu.com/question/1946195536299397794",
-      "heat": "97 万热度"
+      "title": "百度地图被曝在打车流程中强插广告，关闭按钮设计得极为隐蔽，有哪些安全隐患？这种行为违法吗？",
+      "link": "https://www.zhihu.com/question/1945855233054975062",
+      "heat": "113 万热度"
     },
     {
       "rank": "15",
-      "title": "许昕爆冷不敌 18 岁小将后发文「回家」，赛中多次投诉对手违规裁判未理会，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1945618773395600628",
-      "heat": "83 万热度"
+      "title": "有哪些动物知道近亲繁殖危害大，而刻意避免近亲繁殖的？",
+      "link": "https://www.zhihu.com/question/11110426502",
+      "heat": "92 万热度"
     },
     {
       "rank": "16",
-      "title": "产能过剩原因根本原因就是成本过高，使得消费者买不起用不起，你认为这个观点对吗？",
-      "link": "https://www.zhihu.com/question/1945756629040624718",
-      "heat": "83 万热度"
+      "title": "各部门负责人会上共同同意的方案，落地后效果不佳，老板在会上仅问责你，你怎么应对？",
+      "link": "https://www.zhihu.com/question/1946164823420286897",
+      "heat": "82 万热度"
     },
     {
       "rank": "17",
-      "title": "微积分体系几百年前就建立起来了，为什么我们现在学习它仍存在困难？",
-      "link": "https://www.zhihu.com/question/435369583",
-      "heat": "80 万热度"
+      "title": "美团进击 AI 和零售，阿里搅动外卖市场格局，如何评价双方深入对方腹地的布局？",
+      "link": "https://www.zhihu.com/question/1946147581483774575",
+      "heat": "81 万热度"
     },
     {
       "rank": "18",
-      "title": "被前公司裁员后，前公司领导邀请我去他创业的小公司工作，要不要去？",
-      "link": "https://www.zhihu.com/question/1895852362612053248",
-      "heat": "80 万热度"
+      "title": "养猫如果不听话了，可以打吗？",
+      "link": "https://www.zhihu.com/question/1922687211582783992",
+      "heat": "78 万热度"
     },
     {
       "rank": "19",
-      "title": "小学一二年级的孩子，挤占学习时间上运动类课程值得吗？",
-      "link": "https://www.zhihu.com/question/1940180508567925710",
-      "heat": "77 万热度"
+      "title": "为什么我们在镜子中看到的自己是左右颠倒，而不是上下颠倒？",
+      "link": "https://www.zhihu.com/question/1943715748288635109",
+      "heat": "72 万热度"
     },
     {
       "rank": "20",
-      "title": "各部门负责人会上共同同意的方案，落地后效果不佳，老板在会上仅问责你，你怎么应对？",
-      "link": "https://www.zhihu.com/question/1946164823420286897",
-      "heat": "75 万热度"
+      "title": "为什么许多哲学书其实输出的观点用几句话就能说完，偏偏写那么多文字？",
+      "link": "https://www.zhihu.com/question/1946137560477831611",
+      "heat": "72 万热度"
     },
     {
       "rank": "21",
-      "title": "《凡人修仙传》六道极圣和乾老魔哪个强？",
-      "link": "https://www.zhihu.com/question/1890141036652761387",
-      "heat": "73 万热度"
+      "title": "鲁智深在大相国寺菜园子里每天喝酒吃肉，寺庙不管么？",
+      "link": "https://www.zhihu.com/question/1934214540234589708",
+      "heat": "70 万热度"
     },
     {
       "rank": "22",
-      "title": "养猫如果不听话了，可以打吗？",
-      "link": "https://www.zhihu.com/question/1922687211582783992",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "图形学科研为什么不使用游戏引擎？",
-      "link": "https://www.zhihu.com/question/613041369",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "如果大脑等于电脑，为什么电脑可以随意删除文件，而人脑不能随意删除记忆?",
-      "link": "https://www.zhihu.com/question/1942163151836673693",
+      "title": "产能过剩原因根本原因就是成本过高，使得消费者买不起用不起，你认为这个观点对吗？",
+      "link": "https://www.zhihu.com/question/1945756629040624718",
       "heat": "69 万热度"
     },
     {
-      "rank": "25",
-      "title": "为什么许多哲学书其实输出的观点用几句话就能说完，偏偏写那么多文字？",
-      "link": "https://www.zhihu.com/question/1946137560477831611",
+      "rank": "23",
+      "title": "职场上，有人想要害你，但发现你根基深厚，这个人就主动向你示好，你会怎么做?",
+      "link": "https://www.zhihu.com/question/1943666420375348132",
       "heat": "68 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "如何评价《崩坏：星穹铁道》3.5 版本 下半活动「旧瓶新友」？",
+      "link": "https://www.zhihu.com/question/1946195536299397794",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "微积分体系几百年前就建立起来了，为什么我们现在学习它仍存在困难？",
+      "link": "https://www.zhihu.com/question/435369583",
+      "heat": "61 万热度"
     },
     {
       "rank": "26",
-      "title": "计算机高手们，以极快接近光速的手速拔插电线插头一次，可以做到让电脑运行不断吗？",
-      "link": "https://www.zhihu.com/question/1946095642846930510",
-      "heat": "68 万热度"
+      "title": "自由泳是不是动作越慢代表越厉害？",
+      "link": "https://www.zhihu.com/question/1929859963087488395",
+      "heat": "60 万热度"
     },
     {
       "rank": "27",
-      "title": "九三阅兵将放飞 8 万羽和平鸽，这些和平鸽来自北京市 10 个区的鸽友们，放飞后它们能自己飞回家吗？",
-      "link": "https://www.zhihu.com/question/1946166642129199179",
+      "title": "为什么羽毛球强度这么大，羽毛球队员看上去身材却不是肌肉型？",
+      "link": "https://www.zhihu.com/question/624679420",
       "heat": "59 万热度"
     },
     {
       "rank": "28",
-      "title": "男子在七彩丹霞翻栏杆下山捡相机，景区回应已报警处理，七彩丹霞为何不允许踩踏？该男子将承担什么责任？",
-      "link": "https://www.zhihu.com/question/1944782889259635399",
+      "title": "被前公司裁员后，前公司领导邀请我去他创业的小公司工作，要不要去？",
+      "link": "https://www.zhihu.com/question/1895852362612053248",
       "heat": "59 万热度"
     },
     {
       "rank": "29",
-      "title": "新疆沙漠首次发现盐水丰年虾，是地球上现存较为古老的物种之一，这一发现意味着什么？",
-      "link": "https://www.zhihu.com/question/1945760673301754923",
+      "title": "许昕爆冷不敌 18 岁小将后发文「回家」，赛中多次投诉对手违规裁判未理会，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1945618773395600628",
       "heat": "59 万热度"
     },
     {
       "rank": "30",
-      "title": "公司停电，领导要求把每个设备插座拔下来，而不是把所有空气开关和总开拉下来，这两种方式有什么不一样吗？",
-      "link": "https://www.zhihu.com/question/1944811299511985053",
-      "heat": "58 万热度"
+      "title": "如果大脑等于电脑，为什么电脑可以随意删除文件，而人脑不能随意删除记忆?",
+      "link": "https://www.zhihu.com/question/1942163151836673693",
+      "heat": "59 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么大家会担心纯电池电池寿命，不担心变速箱和发动机的寿命？",
-      "link": "https://www.zhihu.com/question/542798259",
-      "heat": "58 万热度"
+      "title": "图形学科研为什么不使用游戏引擎？",
+      "link": "https://www.zhihu.com/question/613041369",
+      "heat": "59 万热度"
     },
     {
       "rank": "32",
+      "title": "小学一二年级的孩子，挤占学习时间上运动类课程值得吗？",
+      "link": "https://www.zhihu.com/question/1940180508567925710",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "《凡人修仙传》六道极圣和乾老魔哪个强？",
+      "link": "https://www.zhihu.com/question/1890141036652761387",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "计算机高手们，以极快接近光速的手速拔插电线插头一次，可以做到让电脑运行不断吗？",
+      "link": "https://www.zhihu.com/question/1946095642846930510",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "35",
       "title": "博士生工作效率太低怎么办？",
       "link": "https://www.zhihu.com/question/12431607528",
       "heat": "57 万热度"
     },
     {
-      "rank": "33",
-      "title": "小婴儿的性格是天生的吗？",
-      "link": "https://www.zhihu.com/question/392986636",
+      "rank": "36",
+      "title": "为什么大家会担心纯电池电池寿命，不担心变速箱和发动机的寿命？",
+      "link": "https://www.zhihu.com/question/542798259",
       "heat": "57 万热度"
     },
     {
-      "rank": "34",
+      "rank": "37",
+      "title": "公司停电，领导要求把每个设备插座拔下来，而不是把所有空气开关和总开拉下来，这两种方式有什么不一样吗？",
+      "link": "https://www.zhihu.com/question/1944811299511985053",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "如何看待辽宁男篮官宣 38 岁韩德君退役结束 18 载职业生涯？",
+      "link": "https://www.zhihu.com/question/1946143895210669600",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "39",
       "title": "上海合作组织成员国领导人签署并发表《上海合作组织成员国元首理事会天津宣言》，哪些内容值得关注？",
       "link": "https://www.zhihu.com/question/1945863787207942792",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
-      "rank": "35",
-      "title": "如何找到愿意为之付出一生的研究事业？",
-      "link": "https://www.zhihu.com/question/870573710",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "36",
+      "rank": "40",
       "title": "三年级的孩子数学看不懂题目是语文没学好吗？",
       "link": "https://www.zhihu.com/question/1902833942073181138",
       "heat": "55 万热度"
     },
     {
-      "rank": "37",
+      "rank": "41",
+      "title": "如何找到愿意为之付出一生的研究事业？",
+      "link": "https://www.zhihu.com/question/870573710",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "42",
       "title": "如何说服一个领导，让对方同意自己加入那个部门？",
       "link": "https://www.zhihu.com/question/1918575236384810819",
       "heat": "55 万热度"
     },
     {
-      "rank": "38",
+      "rank": "43",
+      "title": "新疆沙漠首次发现盐水丰年虾，是地球上现存较为古老的物种之一，这一发现意味着什么？",
+      "link": "https://www.zhihu.com/question/1945760673301754923",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "44",
       "title": "深圳教育局回应全面封杀教辅资料传闻，称将按一科一辅原则免费发放，怎样看这种方式？能满足不同学生需求吗？",
       "link": "https://www.zhihu.com/question/1945574014333490909",
       "heat": "55 万热度"
     },
     {
-      "rank": "39",
-      "title": "为何乌尔奇奥拉必死，而葛姆力乔却能活下来，俩人实力差不多啊，是不是其中有什么阴谋？",
-      "link": "https://www.zhihu.com/question/645426244",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "45",
       "title": "如何看待有「翻译界哈佛」之称的美国蒙特雷学院 MIIS 预计到 2027 年关闭？",
       "link": "https://www.zhihu.com/question/1944736428039831568",
       "heat": "55 万热度"
     },
     {
-      "rank": "41",
-      "title": "早上孩子睡得香，有时自己也不想送她去幼儿园，可行吗？",
-      "link": "https://www.zhihu.com/question/14095082837",
+      "rank": "46",
+      "title": "为何乌尔奇奥拉必死，而葛姆力乔却能活下来，俩人实力差不多啊，是不是其中有什么阴谋？",
+      "link": "https://www.zhihu.com/question/645426244",
       "heat": "55 万热度"
     },
     {
-      "rank": "42",
+      "rank": "47",
       "title": "乔峰从未有过奇遇，为什么年仅三十就罕见敌手了？",
       "link": "https://www.zhihu.com/question/508558557",
       "heat": "55 万热度"
     },
     {
-      "rank": "43",
+      "rank": "48",
       "title": "大量印钱但不在国内流通，只用于购买外国的商品，还会导致国内通货膨胀吗？",
       "link": "https://www.zhihu.com/question/1926800479851086555",
       "heat": "55 万热度"
     },
     {
-      "rank": "44",
+      "rank": "49",
       "title": "同事迟到，骗领导是感冒了，请半天假，领导还给他算全勤，要不要拆穿他？",
       "link": "https://www.zhihu.com/question/1945829259143786698",
       "heat": "55 万热度"
     },
     {
-      "rank": "45",
-      "title": "当年风靡全国的《反恐精英》，为什么最后却是《穿越火线》摘了桃子？",
-      "link": "https://www.zhihu.com/question/1944470588958700950",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "《魔兽争霸 3》中的冰霜巨龙是否是一种设计失误？",
-      "link": "https://www.zhihu.com/question/1944715887123858321",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "小学生学业压力大，如何通过运动帮助孩子改善情绪低落？",
-      "link": "https://www.zhihu.com/question/12491748380",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "都说大厂不在乎硬件，为什么字节的 go 工程师会提出 SwissTable 替换原 map 实现节省硬件？",
-      "link": "https://www.zhihu.com/question/12024373024",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "创维黑骑士 A6F Pro+ 真的能达到 30 万监视器级别的真实画质吗？",
-      "link": "https://www.zhihu.com/question/1945504231080568486",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "50",
-      "title": "癸酉本红楼梦，可能是什么样的人续的？",
-      "link": "https://www.zhihu.com/question/336520734",
+      "title": "男子在七彩丹霞翻栏杆下山捡相机，景区回应已报警处理，七彩丹霞为何不允许踩踏？该男子将承担什么责任？",
+      "link": "https://www.zhihu.com/question/1944782889259635399",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-09-03 09:48:19"
+  "generated_at": "2025-09-03 10:58:06"
 }
