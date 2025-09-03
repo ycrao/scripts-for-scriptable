@@ -1,162 +1,162 @@
 {
-  "artifact_id": "b52ebd2b-45c0-47a1-a6ed-f000398d4eff",
+  "artifact_id": "19434e14-b404-463f-b81d-387a727a4ed8",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "纪念抗战胜利 80 周年阅兵活动举行，有哪些看点、亮点、燃点？",
       "link": "https://www.zhihu.com/question/1946234177222586808",
-      "heat": "16363 万热度"
+      "heat": "15087 万热度"
     },
     {
       "rank": "2",
       "title": "DF61 导弹亮相九三阅兵场，它有哪些特点和亮点？威力有多大？",
       "link": "https://www.zhihu.com/question/1946506609699283906",
-      "heat": "10404 万热度"
+      "heat": "10372 万热度"
     },
     {
       "rank": "3",
       "title": "东风-5C 液体洲际战略核导弹亮相，打击范围覆盖全球，还有哪些亮点？",
       "link": "https://www.zhihu.com/question/1946517817995256222",
-      "heat": "6357 万热度"
+      "heat": "6444 万热度"
     },
     {
       "rank": "4",
       "title": "看完阅兵，你变「军盲」了吗？我们造的哪件装备令你印象深刻？",
       "link": "https://www.zhihu.com/question/1946507339105570941",
-      "heat": "2689 万热度"
+      "heat": "2933 万热度"
     },
     {
       "rank": "5",
       "title": "如何评价法新社九三阅兵的出图？水平怎么样？",
       "link": "https://www.zhihu.com/question/1946531886995301295",
-      "heat": "1900 万热度"
+      "heat": "1667 万热度"
     },
     {
       "rank": "6",
-      "title": "陆军新一代装甲装备 100 坦克、 100 支援战车和 99B 坦克亮相，它们有哪些亮点？作战能力如何？",
-      "link": "https://www.zhihu.com/question/1946515355322250098",
-      "heat": "1198 万热度"
+      "title": "携程宣布 9 月起全员推广居家办公，不用领导审批，如何评价这一政策？对员工来说是好事吗？",
+      "link": "https://www.zhihu.com/question/1946342363699049989",
+      "heat": "619 万热度"
     },
     {
       "rank": "7",
-      "title": "携程宣布 9 月起全员推广居家办公，不用领导审批，如何评价这一政策？对员工来说是好事吗？",
-      "link": "https://www.zhihu.com/question/1946342363699049989",
-      "heat": "608 万热度"
+      "title": "歼 -35A 首次亮相阅兵，由歼 -20 、歼 -20A 、歼 -20S 等组成歼击机梯队，各有何特点？",
+      "link": "https://www.zhihu.com/question/1946523430145975657",
+      "heat": "568 万热度"
     },
     {
       "rank": "8",
-      "title": "歼 -35A 首次亮相阅兵，由歼 -20 、歼 -20A 、歼 -20S 等组成歼击机梯队，各有何特点？",
-      "link": "https://www.zhihu.com/question/1946523430145975657",
-      "heat": "540 万热度"
+      "title": "九三阅兵军事航天部队方队首次提出「维护太空安全」的实战化理念，《流浪地球》系列电影中哪些装备过时了？",
+      "link": "https://www.zhihu.com/question/1946532580267618692",
+      "heat": "561 万热度"
     },
     {
       "rank": "9",
-      "title": "九三阅兵军事航天部队方队首次提出「维护太空安全」的实战化理念，《流浪地球》系列电影中哪些装备过时了？",
-      "link": "https://www.zhihu.com/question/1946532580267618692",
-      "heat": "535 万热度"
+      "title": "九三阅兵同一时间美国五角大楼附近披萨订单激增，「披萨指数」的波动是巧合吗？",
+      "link": "https://www.zhihu.com/question/1946578922608264943",
+      "heat": "425 万热度"
     },
     {
       "rank": "10",
-      "title": "阅兵装备方队过天安门时，如同复制粘贴一般车速一致、间距固定、路线笔直，是如何做到「米秒不差」的？",
-      "link": "https://www.zhihu.com/question/1945926019648284083",
-      "heat": "466 万热度"
+      "title": "日媒称中国导弹驱逐舰绕了日本一圈，释放了哪些信号？",
+      "link": "https://www.zhihu.com/question/1946262231814739951",
+      "heat": "293 万热度"
     },
     {
       "rank": "11",
-      "title": "九三阅兵同一时间美国五角大楼附近披萨订单激增，「披萨指数」的波动是巧合吗？",
-      "link": "https://www.zhihu.com/question/1946578922608264943",
-      "heat": "398 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "日媒称中国导弹驱逐舰绕了日本一圈，释放了哪些信号？",
-      "link": "https://www.zhihu.com/question/1946262231814739951",
+      "title": "反无人机方队接受检阅，反无弹炮系统、高能激光武器、高功率微波武器，它们有哪些作用？",
+      "link": "https://www.zhihu.com/question/1946515019190739589",
       "heat": "291 万热度"
     },
     {
+      "rank": "12",
+      "title": "阅兵装备方队过天安门时，如同复制粘贴一般车速一致、间距固定、路线笔直，是如何做到「米秒不差」的？",
+      "link": "https://www.zhihu.com/question/1945926019648284083",
+      "heat": "289 万热度"
+    },
+    {
       "rank": "13",
-      "title": "反无人机方队接受检阅，反无弹炮系统、高能激光武器、高功率微波武器，它们有哪些作用？",
-      "link": "https://www.zhihu.com/question/1946515019190739589",
-      "heat": "281 万热度"
+      "title": "陆军新一代装甲装备 100 坦克、 100 支援战车和 99B 坦克亮相，它们有哪些亮点？作战能力如何？",
+      "link": "https://www.zhihu.com/question/1946515355322250098",
+      "heat": "287 万热度"
     },
     {
       "rank": "14",
-      "title": "轰 -6N 、轰 -6K 、轰 -6J 集体亮相阅兵场，作战能力如何？",
-      "link": "https://www.zhihu.com/question/1946520461547631730",
-      "heat": "265 万热度"
+      "title": "为什么战旗方队给杨靖宇支队这么多镜头？",
+      "link": "https://www.zhihu.com/question/1946585683599782730",
+      "heat": "284 万热度"
     },
     {
       "rank": "15",
-      "title": "百度地图被曝在打车流程中强插广告，关闭按钮设计得极为隐蔽，有哪些安全隐患？这种行为违法吗？",
-      "link": "https://www.zhihu.com/question/1945855233054975062",
-      "heat": "218 万热度"
+      "title": "轰 -6N 、轰 -6K 、轰 -6J 集体亮相阅兵场，作战能力如何？",
+      "link": "https://www.zhihu.com/question/1946520461547631730",
+      "heat": "272 万热度"
     },
     {
       "rank": "16",
-      "title": "无人作战方队亮相九三阅兵，国产机器狼等亮相，还有哪些亮点装备？代表了未来怎样的作战能力？",
-      "link": "https://www.zhihu.com/question/1946515939823679156",
-      "heat": "151 万热度"
+      "title": "百度地图被曝在打车流程中强插广告，关闭按钮设计得极为隐蔽，有哪些安全隐患？这种行为违法吗？",
+      "link": "https://www.zhihu.com/question/1945855233054975062",
+      "heat": "222 万热度"
     },
     {
       "rank": "17",
-      "title": "地平线 HSD 被称为中国版 FSD，真的有这么厉害吗？",
-      "link": "https://www.zhihu.com/question/1945775841922486499",
-      "heat": "136 万热度"
+      "title": "无人作战方队亮相九三阅兵，国产机器狼等亮相，还有哪些亮点装备？代表了未来怎样的作战能力？",
+      "link": "https://www.zhihu.com/question/1946515939823679156",
+      "heat": "153 万热度"
     },
     {
       "rank": "18",
-      "title": "中小学生午休课桌椅国标出台，能坐可躺，兼顾学习与午休舒适度，此举具有哪些意义？",
-      "link": "https://www.zhihu.com/question/1945895223227016524",
-      "heat": "133 万热度"
+      "title": "特别讨厌自己的上司，几乎快抑郁了，但是月收入有 3 万多，到底该不该辞职？",
+      "link": "https://www.zhihu.com/question/1946003244842193947",
+      "heat": "132 万热度"
     },
     {
       "rank": "19",
-      "title": "核导弹第一方队亮相，惊雷-1 、巨浪-3 、东风-31 等亮相，代表了怎样的作战能力？",
-      "link": "https://www.zhihu.com/question/1946520766305756804",
-      "heat": "131 万热度"
+      "title": "地平线 HSD 被称为中国版 FSD，真的有这么厉害吗？",
+      "link": "https://www.zhihu.com/question/1945775841922486499",
+      "heat": "130 万热度"
     },
     {
       "rank": "20",
-      "title": "为什么战旗方队给杨靖宇支队这么多镜头？",
-      "link": "https://www.zhihu.com/question/1946585683599782730",
-      "heat": "130 万热度"
+      "title": "中小学生午休课桌椅国标出台，能坐可躺，兼顾学习与午休舒适度，此举具有哪些意义？",
+      "link": "https://www.zhihu.com/question/1945895223227016524",
+      "heat": "129 万热度"
     },
     {
       "rank": "21",
       "title": "歼 20S 震撼亮相九三阅兵，它有哪些提升？",
       "link": "https://www.zhihu.com/question/1946510259586823587",
-      "heat": "130 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "22",
-      "title": "特别讨厌自己的上司，几乎快抑郁了，但是月收入有 3 万多，到底该不该辞职？",
-      "link": "https://www.zhihu.com/question/1946003244842193947",
-      "heat": "126 万热度"
+      "title": "老车有什么魅力为什么那么多人去玩？",
+      "link": "https://www.zhihu.com/question/15225561231",
+      "heat": "94 万热度"
     },
     {
       "rank": "23",
-      "title": "观看抗战胜利 80 周年阅兵，你有怎样的感受，当下心情如何？",
-      "link": "https://www.zhihu.com/question/1946489608285153090",
-      "heat": "110 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "老车有什么魅力为什么那么多人去玩？",
-      "link": "https://www.zhihu.com/question/15225561231",
-      "heat": "93 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何看待网易《归唐》请了前暴雪首席编剧 Brian Kindregan 担任创意总监？",
-      "link": "https://www.zhihu.com/question/1945809342226999165",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "26",
       "title": "如果在远洋集装箱货轮上只剩我一个人了能生存多久？",
       "link": "https://www.zhihu.com/question/1943855620886361060",
       "heat": "84 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "如何看待网易《归唐》请了前暴雪首席编剧 Brian Kindregan 担任创意总监？",
+      "link": "https://www.zhihu.com/question/1945809342226999165",
+      "heat": "77 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "观看抗战胜利 80 周年阅兵，你有怎样的感受，当下心情如何？",
+      "link": "https://www.zhihu.com/question/1946489608285153090",
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "核导弹第一方队亮相，惊雷-1 、巨浪-3 、东风-31 等亮相，代表了怎样的作战能力？",
+      "link": "https://www.zhihu.com/question/1946520766305756804",
+      "heat": "76 万热度"
     },
     {
       "rank": "27",
@@ -166,69 +166,69 @@
     },
     {
       "rank": "28",
-      "title": "九三阅兵放飞 8 万羽和平鸽，这些和平鸽来自北京市 10 个区的鸽友们，放飞后它们能自己飞回家吗？",
-      "link": "https://www.zhihu.com/question/1946166642129199179",
-      "heat": "72 万热度"
+      "title": "今天你是怎么观看阅兵的？",
+      "link": "https://www.zhihu.com/question/1946501950544769150",
+      "heat": "71 万热度"
     },
     {
       "rank": "29",
-      "title": "人生第一辆建议新车还是二手车?",
-      "link": "https://www.zhihu.com/question/1922367669258162285",
-      "heat": "69 万热度"
+      "title": "九三阅兵放飞 8 万羽和平鸽，这些和平鸽来自北京市 10 个区的鸽友们，放飞后它们能自己飞回家吗？",
+      "link": "https://www.zhihu.com/question/1946166642129199179",
+      "heat": "71 万热度"
     },
     {
       "rank": "30",
-      "title": "你觉得性价比最高的 AMD 处理器是哪款？",
-      "link": "https://www.zhihu.com/question/591650011",
-      "heat": "68 万热度"
+      "title": "人生第一辆建议新车还是二手车?",
+      "link": "https://www.zhihu.com/question/1922367669258162285",
+      "heat": "70 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么说错题本是一种伪努力？",
-      "link": "https://www.zhihu.com/question/549969050",
-      "heat": "65 万热度"
+      "title": "你觉得性价比最高的 AMD 处理器是哪款？",
+      "link": "https://www.zhihu.com/question/591650011",
+      "heat": "69 万热度"
     },
     {
       "rank": "32",
+      "title": "为什么说错题本是一种伪努力？",
+      "link": "https://www.zhihu.com/question/549969050",
+      "heat": "67 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "九三阅兵中，哪些镜头让你眼前一亮又一亮？",
+      "link": "https://www.zhihu.com/question/1946509942157706794",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "34",
       "title": "《龙珠》最强的地球人是库林，还是天津饭？",
       "link": "https://www.zhihu.com/question/67300050",
       "heat": "65 万热度"
     },
     {
-      "rank": "33",
+      "rank": "35",
       "title": "一位小前锋在 NBA 场均 30 分＋20 篮板＋20 助攻＋5 盖帽＋5 抢断，篮板均为前场篮板可以拿顶薪吗？",
       "link": "https://www.zhihu.com/question/1945881909461746384",
       "heat": "65 万热度"
     },
     {
-      "rank": "34",
+      "rank": "36",
       "title": "导致能量量子化的最根本原因是什么？",
       "link": "https://www.zhihu.com/question/563207657",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "今天你是怎么观看阅兵的？",
-      "link": "https://www.zhihu.com/question/1946501950544769150",
       "heat": "64 万热度"
     },
     {
-      "rank": "36",
+      "rank": "37",
       "title": "《三角洲行动》存在「动态爆率」吗？",
       "link": "https://www.zhihu.com/question/1945573862117975326",
       "heat": "64 万热度"
     },
     {
-      "rank": "37",
-      "title": "C++ 开发选择什么方向？",
-      "link": "https://www.zhihu.com/question/659403626",
-      "heat": "63 万热度"
-    },
-    {
       "rank": "38",
-      "title": "九三阅兵中，哪些镜头让你眼前一亮又一亮？",
-      "link": "https://www.zhihu.com/question/1946509942157706794",
-      "heat": "61 万热度"
+      "title": "奇幻类小说，如何合理化一个魔法的使用？",
+      "link": "https://www.zhihu.com/question/651214233",
+      "heat": "63 万热度"
     },
     {
       "rank": "39",
@@ -256,9 +256,9 @@
     },
     {
       "rank": "43",
-      "title": "陈鸣飞在《喜单 2》中讲到宿舍除了群收款都不聊天，马上开学了，遇到冷漠的舍友该怎么办？",
-      "link": "https://www.zhihu.com/question/1939714615048123797",
-      "heat": "60 万热度"
+      "title": "抗战胜利 80 周年阅兵活动中，最打动你的细节是什么？",
+      "link": "https://www.zhihu.com/question/1946503394836574475",
+      "heat": "59 万热度"
     },
     {
       "rank": "44",
@@ -268,40 +268,40 @@
     },
     {
       "rank": "45",
-      "title": "抗战胜利 80 周年阅兵活动中，最打动你的细节是什么？",
-      "link": "https://www.zhihu.com/question/1946503394836574475",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "46",
       "title": "二简字为什么被废止了？",
       "link": "https://www.zhihu.com/question/25467956",
       "heat": "59 万热度"
     },
     {
-      "rank": "47",
+      "rank": "46",
       "title": "在职场上，如何不让同事拿捏？",
       "link": "https://www.zhihu.com/question/1932931238232041013",
       "heat": "59 万热度"
     },
     {
-      "rank": "48",
+      "rank": "47",
       "title": "饭店炖的肘子为什么这么好吃？",
       "link": "https://www.zhihu.com/question/1940313610543952115",
       "heat": "59 万热度"
     },
     {
+      "rank": "48",
+      "title": "我感觉受了委屈想辞职，身边的同事和朋友都劝我别辞，但是我自己过不了这个坎，是不是我太较真了？",
+      "link": "https://www.zhihu.com/question/1925595202590048647",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "49",
-      "title": "孩子被班里小团体孤立了，成天闷闷不乐，跟老师反映也没啥效果，家长该怎么巧妙出手，帮孩子重归快乐社交？",
-      "link": "https://www.zhihu.com/question/8437525908",
+      "title": "《平凡的世界》中的孙少平，他执意进城揽活，不肯回家，到底是在追求一种什么东西？",
+      "link": "https://www.zhihu.com/question/1945413997844227777",
       "heat": "59 万热度"
     },
     {
       "rank": "50",
-      "title": "《平凡的世界》中的孙少平，他执意进城揽活，不肯回家，到底是在追求一种什么东西？",
-      "link": "https://www.zhihu.com/question/1945413997844227777",
+      "title": "C++ 开发选择什么方向？",
+      "link": "https://www.zhihu.com/question/659403626",
       "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-09-03 18:55:30"
+  "generated_at": "2025-09-03 19:19:57"
 }
