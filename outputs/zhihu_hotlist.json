@@ -1,258 +1,258 @@
 {
-  "artifact_id": "1253e6bd-5b5b-4393-8eb3-6a6cc7779f3b",
+  "artifact_id": "68c9b0a3-f115-460e-88fb-9ed4bec8d0a9",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "明明 DF61 、 JL-3 都是第一次公开亮相，DF-5C 为啥是压轴出场？",
       "link": "https://www.zhihu.com/question/1946532250880573787",
-      "heat": "1660 万热度"
+      "heat": "1598 万热度"
     },
     {
       "rank": "2",
       "title": "在中国军工最困难的时候，歼 10 总师宋文骢是不是真的下班以后卖过面条？",
       "link": "https://www.zhihu.com/question/41681630",
-      "heat": "615 万热度"
+      "heat": "363 万热度"
     },
     {
       "rank": "3",
       "title": "如何评价岳云鹏在综艺上因为灶台脏淘汰 588 元扬州炒饭选手？",
       "link": "https://www.zhihu.com/question/1946262756715103995",
-      "heat": "277 万热度"
+      "heat": "353 万热度"
     },
     {
       "rank": "4",
-      "title": "国产「机器狼」首次亮相阅兵，它将如何影响地面作战规则？",
-      "link": "https://www.zhihu.com/question/1946517920474702362",
-      "heat": "246 万热度"
+      "title": "九三阅兵中「刘老庒连」旗帜上的「庒」字为什么多了一点？",
+      "link": "https://www.zhihu.com/question/1946932992263021712",
+      "heat": "277 万热度"
     },
     {
       "rank": "5",
       "title": "九三大阅兵里出现的激光武器 LY-1 的 LY 是啥意思？",
       "link": "https://www.zhihu.com/question/1946568878458110774",
-      "heat": "222 万热度"
+      "heat": "218 万热度"
     },
     {
       "rank": "6",
-      "title": "九三阅兵中「刘老庒连」旗帜上的「庒」字为什么多了一点？",
-      "link": "https://www.zhihu.com/question/1946932992263021712",
-      "heat": "222 万热度"
+      "title": "为什么烤包子难出新疆?",
+      "link": "https://www.zhihu.com/question/623494116",
+      "heat": "203 万热度"
     },
     {
       "rank": "7",
       "title": "国家发改委表示少部分「收缩型城市」，未来或面临整合或裁撤，请问可能的城市有哪些，从经济学角度如何看待？",
       "link": "https://www.zhihu.com/question/1946484156625298425",
-      "heat": "210 万热度"
+      "heat": "202 万热度"
     },
     {
       "rank": "8",
-      "title": "为什么烤包子难出新疆?",
-      "link": "https://www.zhihu.com/question/623494116",
-      "heat": "198 万热度"
+      "title": "坦克有没有后视镜？为什么阅兵中有的坦克有、有的没有？坦克后视镜有什么用途？",
+      "link": "https://www.zhihu.com/question/1942369078296712425",
+      "heat": "201 万热度"
     },
     {
       "rank": "9",
-      "title": "坦克有没有后视镜？为什么阅兵中有的坦克有、有的没有？坦克后视镜有什么用途？",
-      "link": "https://www.zhihu.com/question/1942369078296712425",
-      "heat": "197 万热度"
+      "title": "如何评价华为 9 月 4 日举办的华为 Mate XTs 非凡大师及全场景新品发布会？",
+      "link": "https://www.zhihu.com/question/1946936966189940892",
+      "heat": "200 万热度"
     },
     {
       "rank": "10",
-      "title": "全红婵哥哥参加厨艺综艺，被评委指出制作的白切鸡肉质偏老而淘汰，正宗白切鸡什么口感？选用什么品种的鸡？",
-      "link": "https://www.zhihu.com/question/1946602624884401781",
-      "heat": "197 万热度"
+      "title": "为什么很多从小「听话照做」的乖孩子，长大后反而更难成功？尤其普通家庭的孩子？",
+      "link": "https://www.zhihu.com/question/1927338167075320952",
+      "heat": "194 万热度"
     },
     {
       "rank": "11",
       "title": "韩国会议长禹元植在北京与金正恩碰面并简短对话，此次碰面会对朝韩关系产生哪些影响？",
       "link": "https://www.zhihu.com/question/1946623901636457858",
-      "heat": "197 万热度"
+      "heat": "194 万热度"
     },
     {
       "rank": "12",
-      "title": "如何评价华为 9 月 4 日举办的华为 Mate XTs 非凡大师及全场景新品发布会？",
-      "link": "https://www.zhihu.com/question/1946936966189940892",
-      "heat": "197 万热度"
+      "title": "专家称东风 61 改变了东风系列导弹的命名规则，此前的规则是怎样的？这一改变代表了什么？",
+      "link": "https://www.zhihu.com/question/1946655948912419898",
+      "heat": "194 万热度"
     },
     {
       "rank": "13",
-      "title": "专家称东风 61 改变了东风系列导弹的命名规则，此前的规则是怎样的？这一改变代表了什么？",
-      "link": "https://www.zhihu.com/question/1946655948912419898",
-      "heat": "188 万热度"
+      "title": "国产「机器狼」首次亮相阅兵，它将如何影响地面作战规则？",
+      "link": "https://www.zhihu.com/question/1946517920474702362",
+      "heat": "192 万热度"
     },
     {
       "rank": "14",
-      "title": "为什么很多从小「听话照做」的乖孩子，长大后反而更难成功？尤其普通家庭的孩子？",
-      "link": "https://www.zhihu.com/question/1927338167075320952",
-      "heat": "186 万热度"
+      "title": "全红婵哥哥参加厨艺综艺，被评委指出制作的白切鸡肉质偏老而淘汰，正宗白切鸡什么口感？选用什么品种的鸡？",
+      "link": "https://www.zhihu.com/question/1946602624884401781",
+      "heat": "165 万热度"
     },
     {
       "rank": "15",
       "title": "骑行爱好者们开始集体退坑，背后的原因是什么？",
       "link": "https://www.zhihu.com/question/1936068189466366047",
-      "heat": "182 万热度"
+      "heat": "135 万热度"
     },
     {
       "rank": "16",
-      "title": "「增程的尽头是纯电，纯电的优选是换电」，2025 成都车展蔚来采用这种方式「教育用户」，你怎么看？",
-      "link": "https://www.zhihu.com/question/1946116070223099197",
-      "heat": "112 万热度"
+      "title": "为什么大领导看人都很准呢？",
+      "link": "https://www.zhihu.com/question/7597369208",
+      "heat": "87 万热度"
     },
     {
       "rank": "17",
       "title": "如何看待华为发布全球第二款商用三折叠? 对折叠屏行业来说有什么意义？",
       "link": "https://www.zhihu.com/question/1946891209353199852",
-      "heat": "107 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "18",
-      "title": "向喜欢的人表白后才知道，你喜欢的人恰好也喜欢你，是什么感觉？",
-      "link": "https://www.zhihu.com/question/1944725353068213089",
-      "heat": "94 万热度"
+      "title": "从成都车展来看，燃油车是否已沦为「功能性补充」或「情怀产品」？",
+      "link": "https://www.zhihu.com/question/1944716405837652777",
+      "heat": "82 万热度"
     },
     {
       "rank": "19",
-      "title": "军用车辆里有采用混合动力的情况吗？",
-      "link": "https://www.zhihu.com/question/56273767",
-      "heat": "92 万热度"
+      "title": "九三阅兵同一时间美国五角大楼附近披萨订单激增，「披萨指数」的波动是巧合吗？",
+      "link": "https://www.zhihu.com/question/1946578922608264943",
+      "heat": "72 万热度"
     },
     {
       "rank": "20",
       "title": "江西上饶灵山景区投资 1.27 亿建亚洲最长登山扶梯，会影响景区环境吗？你会选择乘电梯「无痛爬山」吗？",
       "link": "https://www.zhihu.com/question/1945488515723952694",
-      "heat": "89 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "21",
       "title": "财政部、税务总局宣布划转万亿国资，以充实社保基金，并给出重磅税收优惠，请问这意味着什么？",
       "link": "https://www.zhihu.com/question/1946538451781518804",
-      "heat": "87 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么大领导看人都很准呢？",
-      "link": "https://www.zhihu.com/question/7597369208",
-      "heat": "85 万热度"
+      "title": "如何提升会议上五分钟发言的思路和水平？",
+      "link": "https://www.zhihu.com/question/1940323048856191058",
+      "heat": "70 万热度"
     },
     {
       "rank": "23",
-      "title": "从成都车展来看，燃油车是否已沦为「功能性补充」或「情怀产品」？",
-      "link": "https://www.zhihu.com/question/1944716405837652777",
-      "heat": "81 万热度"
+      "title": "想搭一个量化交易系统，步骤是怎么样的?",
+      "link": "https://www.zhihu.com/question/482976881",
+      "heat": "69 万热度"
     },
     {
       "rank": "24",
       "title": "中国为什么需要航母？",
       "link": "https://www.zhihu.com/question/38489691",
-      "heat": "76 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "25",
-      "title": "九三阅兵同一时间美国五角大楼附近披萨订单激增，「披萨指数」的波动是巧合吗？",
-      "link": "https://www.zhihu.com/question/1946578922608264943",
-      "heat": "71 万热度"
+      "title": "人是怎样睡醒的？",
+      "link": "https://www.zhihu.com/question/1944069252509332966",
+      "heat": "69 万热度"
     },
     {
       "rank": "26",
-      "title": "人是怎样睡醒的？",
-      "link": "https://www.zhihu.com/question/1944069252509332966",
-      "heat": "68 万热度"
+      "title": "太空竞赛会不会发生第二次，还是已经开始了?",
+      "link": "https://www.zhihu.com/question/1944922019457111015",
+      "heat": "69 万热度"
     },
     {
       "rank": "27",
-      "title": "想搭一个量化交易系统，步骤是怎么样的?",
-      "link": "https://www.zhihu.com/question/482976881",
-      "heat": "67 万热度"
+      "title": "现场观看抗战胜利 80 周年阅兵，是一种怎样的体验？",
+      "link": "https://www.zhihu.com/question/1946309216231973890",
+      "heat": "69 万热度"
     },
     {
       "rank": "28",
-      "title": "太空竞赛会不会发生第二次，还是已经开始了?",
-      "link": "https://www.zhihu.com/question/1944922019457111015",
-      "heat": "67 万热度"
+      "title": "《鬼灭之刃》里斑纹义勇加赫刀能单过猗窝座吗？",
+      "link": "https://www.zhihu.com/question/1931290279249424891",
+      "heat": "69 万热度"
     },
     {
       "rank": "29",
       "title": "你有什么关于「做菜好吃」的心得与技巧？",
       "link": "https://www.zhihu.com/question/38981686",
-      "heat": "65 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "30",
-      "title": "朋友聚餐，除了白酒啤酒果酒外，还有什么选择？",
-      "link": "https://www.zhihu.com/question/1939689314775728348",
-      "heat": "65 万热度"
+      "title": "如何看待 Grothendieck 思考数学问题不依赖具体例子？",
+      "link": "https://www.zhihu.com/question/51219380",
+      "heat": "66 万热度"
     },
     {
       "rank": "31",
-      "title": "普通老百姓什么时候油车换电车最合适？",
-      "link": "https://www.zhihu.com/question/1946607482689523971",
-      "heat": "65 万热度"
+      "title": "中国哪边的海鲜最好吃?",
+      "link": "https://www.zhihu.com/question/21434510",
+      "heat": "64 万热度"
     },
     {
       "rank": "32",
-      "title": "如何看待 Grothendieck 思考数学问题不依赖具体例子？",
-      "link": "https://www.zhihu.com/question/51219380",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "为什么都是滚动更新, Windows 天天被人骂, Arch Linux 没人骂呢?",
-      "link": "https://www.zhihu.com/question/1946520224380741351",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "中国哪边的海鲜最好吃?",
-      "link": "https://www.zhihu.com/question/21434510",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "这次阅兵，你发现哪些只存在在科幻小说里的装备，已经成为现实了？你的「火力不足恐惧症」治好了吗？",
-      "link": "https://www.zhihu.com/question/1946512402288997104",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "数学抽象概念孩子记不住怎么办？",
-      "link": "https://www.zhihu.com/question/9656559666",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "37",
       "title": "《三体》中哪些情节描写展现了人性的复杂？",
       "link": "https://www.zhihu.com/question/1941471938590499520",
       "heat": "64 万热度"
     },
     {
+      "rank": "33",
+      "title": "自助餐为什么不会被吃垮？",
+      "link": "https://www.zhihu.com/question/563546978",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "数学抽象概念孩子记不住怎么办？",
+      "link": "https://www.zhihu.com/question/9656559666",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "这次阅兵，你发现哪些只存在在科幻小说里的装备，已经成为现实了？你的「火力不足恐惧症」治好了吗？",
+      "link": "https://www.zhihu.com/question/1946512402288997104",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "如果程心自杀就能保全地球，程心会自杀嘛?",
+      "link": "https://www.zhihu.com/question/1939741013980747218",
+      "heat": "63 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "「增程的尽头是纯电，纯电的优选是换电」，2025 成都车展蔚来采用这种方式「教育用户」，你怎么看？",
+      "link": "https://www.zhihu.com/question/1946116070223099197",
+      "heat": "63 万热度"
+    },
+    {
       "rank": "38",
+      "title": "14 岁孩子一受挫就暴躁摔东西，家长该怎么引导才能帮他学会平复情绪？",
+      "link": "https://www.zhihu.com/question/1945266294044759189",
+      "heat": "63 万热度"
+    },
+    {
+      "rank": "39",
       "title": "你能接受孩子健康快乐且平庸吗？",
       "link": "https://www.zhihu.com/question/629930446",
       "heat": "62 万热度"
     },
     {
-      "rank": "39",
-      "title": "14 岁孩子一受挫就暴躁摔东西，家长该怎么引导才能帮他学会平复情绪？",
-      "link": "https://www.zhihu.com/question/1945266294044759189",
-      "heat": "62 万热度"
-    },
-    {
       "rank": "40",
-      "title": "如果程心自杀就能保全地球，程心会自杀嘛?",
-      "link": "https://www.zhihu.com/question/1939741013980747218",
+      "title": "无限恐怖中，不明白异形第一部郑吒等人为什么会损失惨重，那么多人和枪，这不纯刷分吗？",
+      "link": "https://www.zhihu.com/question/1945437269172393457",
       "heat": "61 万热度"
     },
     {
       "rank": "41",
-      "title": "无限恐怖中，不明白异形第一部郑吒等人为什么会损失惨重，那么多人和枪，这不纯刷分吗？",
-      "link": "https://www.zhihu.com/question/1945437269172393457",
+      "title": "一份是朝九晚五的工作，一份是高工资，经常加班，你会怎么选择呢？",
+      "link": "https://www.zhihu.com/question/1941302948098467632",
       "heat": "61 万热度"
     },
     {
       "rank": "42",
       "title": "中年人了还有减肥的必要吗？",
       "link": "https://www.zhihu.com/question/1911205273974079862",
-      "heat": "61 万热度"
+      "heat": "60 万热度"
     },
     {
       "rank": "43",
@@ -262,46 +262,46 @@
     },
     {
       "rank": "44",
-      "title": "《原神》《崩坏·星穹铁道》《绝区零》三修的话，每天要花多久时间？",
-      "link": "https://www.zhihu.com/question/1946170127411286065",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "45",
       "title": "孩子步入高三了。对于明年的高考，家长很焦虑。家长是干预孩子的学习好，还是让孩子按照自己的节奏来？",
       "link": "https://www.zhihu.com/question/1945816849146180144",
       "heat": "60 万热度"
     },
     {
+      "rank": "45",
+      "title": "《原神》《崩坏·星穹铁道》《绝区零》三修的话，每天要花多久时间？",
+      "link": "https://www.zhihu.com/question/1946170127411286065",
+      "heat": "60 万热度"
+    },
+    {
       "rank": "46",
-      "title": "本科生，月薪只有 3000 多，工作轻松，但是感觉丢人，怎么办？",
-      "link": "https://www.zhihu.com/question/1946620387526967595",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "一份是朝九晚五的工作，一份是高工资，经常加班，你会怎么选择呢？",
-      "link": "https://www.zhihu.com/question/1941302948098467632",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "有宠物的家庭怎么选空气净化器?",
-      "link": "https://www.zhihu.com/question/1937161107631474087",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "49",
       "title": "玩《英雄联盟》赢和快乐哪个更重要？",
       "link": "https://www.zhihu.com/question/463555989",
       "heat": "60 万热度"
     },
     {
-      "rank": "50",
+      "rank": "47",
+      "title": "有宠物的家庭怎么选空气净化器?",
+      "link": "https://www.zhihu.com/question/1937161107631474087",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "本科生，月薪只有 3000 多，工作轻松，但是感觉丢人，怎么办？",
+      "link": "https://www.zhihu.com/question/1946620387526967595",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "49",
       "title": "如何评价华为发布的首款 MateTV ？能玩手游能触屏的创新交互方式会给行业带来哪些改变？",
       "link": "https://www.zhihu.com/question/1946223090083267356",
       "heat": "59 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何评价 9 月 4 日发布的新款华为 MatePad Mini，有哪些亮点值得关注？",
+      "link": "https://www.zhihu.com/question/1946889583888437915",
+      "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-09-04 19:53:10"
+  "generated_at": "2025-09-04 20:47:45"
 }
