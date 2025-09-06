@@ -1,84 +1,84 @@
 {
-  "artifact_id": "a2688b2d-1e5c-426e-aa42-c00d14ec730f",
+  "artifact_id": "af5ecb67-d12f-4ba7-bf7b-95fa04b56fb6",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "上海夫妻遭遇现实版「寄生虫」，钟点工干活 6 年持续盗窃 4 年，家政行业如何避免此类事件？",
       "link": "https://www.zhihu.com/question/1947341636288868839",
-      "heat": "427 万热度"
+      "heat": "466 万热度"
     },
     {
       "rank": "2",
+      "title": "医生说这个病他不是很懂，建议我挂 XX 专家的号，这样是负责任还是不够负责任的建议？你是医生会怎么做？",
+      "link": "https://www.zhihu.com/question/1946914300057851761",
+      "heat": "127 万热度"
+    },
+    {
+      "rank": "3",
       "title": "中方同意加入纽约宣言，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1947601769803773707",
       "heat": "115 万热度"
     },
     {
-      "rank": "3",
-      "title": "医生说这个病他不是很懂，建议我挂 XX 专家的号，这样是负责任还是不够负责任的建议？你是医生会怎么做？",
-      "link": "https://www.zhihu.com/question/1946914300057851761",
-      "heat": "113 万热度"
-    },
-    {
       "rank": "4",
       "title": "字节跳动通报辞退 100 人，8 人涉嫌刑事犯罪，具体什么情况？大厂内部的「红线」究竟有哪些？",
       "link": "https://www.zhihu.com/question/1947240995155604521",
-      "heat": "93 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "5",
       "title": "帮助过你或者对你好的人不管其动机如何都需要感恩吗?",
       "link": "https://www.zhihu.com/question/9213667587",
-      "heat": "74 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "6",
-      "title": "如何评价乒乓球德甲联赛樊振东 3:1 战胜贝塔斯. 迈尔这场比赛?",
-      "link": "https://www.zhihu.com/question/1947808576329450528",
-      "heat": "74 万热度"
+      "title": "狗有财产意识吗，如果把狗狗用了几年的饭盆炸了，狗会觉得是把它的东西炸了吗？",
+      "link": "https://www.zhihu.com/question/11164633360",
+      "heat": "71 万热度"
     },
     {
       "rank": "7",
-      "title": "狗有财产意识吗，如果把狗狗用了几年的饭盆炸了，狗会觉得是把它的东西炸了吗？",
-      "link": "https://www.zhihu.com/question/11164633360",
-      "heat": "70 万热度"
+      "title": "如何评价乒乓球德甲联赛樊振东 3:1 战胜贝塔斯. 迈尔这场比赛?",
+      "link": "https://www.zhihu.com/question/1947808576329450528",
+      "heat": "69 万热度"
     },
     {
       "rank": "8",
+      "title": "有人说，工作太有责任心，在职场是一种灾难，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/557665178",
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "9",
       "title": "中国能拦截洲际导弹吗？",
       "link": "https://www.zhihu.com/question/657908019",
       "heat": "65 万热度"
     },
     {
-      "rank": "9",
+      "rank": "10",
+      "title": "9 月 3 日王毅外长送给匈牙利外长一双跑鞋，这有什么深意？",
+      "link": "https://www.zhihu.com/question/1946971369771349279",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "11",
       "title": "郭帆还来得及拍《流浪地球 3》么？",
       "link": "https://www.zhihu.com/question/1947024260464881795",
       "heat": "64 万热度"
     },
     {
-      "rank": "10",
-      "title": "9 月 3 日王毅外长送给匈牙利外长一双跑鞋，这有什么深意？",
-      "link": "https://www.zhihu.com/question/1946971369771349279",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "11",
+      "rank": "12",
       "title": "有哪些只有香港人爱吃，但其他广东人普遍不爱吃的东西？",
       "link": "https://www.zhihu.com/question/1939777107950547759",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "有人说，工作太有责任心，在职场是一种灾难，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/557665178",
-      "heat": "63 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "13",
-      "title": "曝前兰博基尼首席外饰设计师加盟小米汽车，其设计风格有哪些特色？会对小米带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1946903395341411498",
-      "heat": "61 万热度"
+      "title": "马斯克新薪酬方案曝光，董事会砸出 1 万亿美元薪酬赌约，这一方案具有哪些挑战？",
+      "link": "https://www.zhihu.com/question/1947381182531592461",
+      "heat": "59 万热度"
     },
     {
       "rank": "14",
@@ -100,20 +100,20 @@
     },
     {
       "rank": "17",
-      "title": "马斯克新薪酬方案曝光，董事会砸出 1 万亿美元薪酬赌约，这一方案具有哪些挑战？",
-      "link": "https://www.zhihu.com/question/1947381182531592461",
+      "title": "曝前兰博基尼首席外饰设计师加盟小米汽车，其设计风格有哪些特色？会对小米带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1946903395341411498",
       "heat": "59 万热度"
     },
     {
       "rank": "18",
-      "title": "PTrade 量化软件需要什么条件才能使用？",
-      "link": "https://www.zhihu.com/question/554768365",
+      "title": "为什么人到中年，很少有身材能保持住苗条的？",
+      "link": "https://www.zhihu.com/question/642908297",
       "heat": "59 万热度"
     },
     {
       "rank": "19",
-      "title": "如何评价复旦大学中文系教授严锋为我们开了一个「不必读」的书的清单？",
-      "link": "https://www.zhihu.com/question/309339643",
+      "title": "公司让我当法人怎么办？",
+      "link": "https://www.zhihu.com/question/303055286",
       "heat": "59 万热度"
     },
     {
@@ -136,172 +136,172 @@
     },
     {
       "rank": "23",
-      "title": "图像降噪和图像滤波的区别是什么？",
-      "link": "https://www.zhihu.com/question/30442864",
+      "title": "自行车仅保留轮圈，辐条部分用来储物，可行吗？",
+      "link": "https://www.zhihu.com/question/1943258913186231206",
       "heat": "59 万热度"
     },
     {
       "rank": "24",
-      "title": "为什么人到中年，很少有身材能保持住苗条的？",
-      "link": "https://www.zhihu.com/question/642908297",
+      "title": "什么时候是睡觉的最佳时间？",
+      "link": "https://www.zhihu.com/question/474252636",
       "heat": "59 万热度"
     },
     {
       "rank": "25",
-      "title": "AI 写诗和人写诗，你更愿意阅读哪种作品？",
-      "link": "https://www.zhihu.com/question/1946623009361212273",
+      "title": "在单位里，平时明明自己做得比同事多比同事好，可升职加薪的总是别人，是我不会「表现」还是领导真的偏心？",
+      "link": "https://www.zhihu.com/question/1945801637198304561",
       "heat": "59 万热度"
     },
     {
       "rank": "26",
       "title": "在「秒回时代」，为什么有人收到一句否定消息（如我生气了）就想逃离？背后藏着怎样的心理创伤？如何改善？",
       "link": "https://www.zhihu.com/question/1943060815503668174",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "北京环球影城怎么能玩得尽兴？",
-      "link": "https://www.zhihu.com/question/440593113",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "如何评价周翊然、王影璐主演的双时空奇幻剧《十二封信》？",
-      "link": "https://www.zhihu.com/question/1944766619105584177",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "科幻电影中 ai 的反叛是否本质上是人类对技术失控的自我投射?",
-      "link": "https://www.zhihu.com/question/1946699657234318938",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "身价上亿的有钱人都是做什么生意发家的？",
-      "link": "https://www.zhihu.com/question/643671019",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "公司让我当法人怎么办？",
-      "link": "https://www.zhihu.com/question/303055286",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "什么时候是睡觉的最佳时间？",
-      "link": "https://www.zhihu.com/question/474252636",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "工作是为了钱还是为了什么？",
-      "link": "https://www.zhihu.com/question/1934227222903906909",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "自行车仅保留轮圈，辐条部分用来储物，可行吗？",
-      "link": "https://www.zhihu.com/question/1943258913186231206",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "在单位里，平时明明自己做得比同事多比同事好，可升职加薪的总是别人，是我不会「表现」还是领导真的偏心？",
-      "link": "https://www.zhihu.com/question/1945801637198304561",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "美国南北战争中，南方明显弱于北方，为什么双方可以僵持 4 年？",
-      "link": "https://www.zhihu.com/question/21511826",
       "heat": "58 万热度"
     },
     {
-      "rank": "37",
+      "rank": "27",
+      "title": "如何评价复旦大学中文系教授严锋为我们开了一个「不必读」的书的清单？",
+      "link": "https://www.zhihu.com/question/309339643",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "28",
       "title": "假如随机给诸葛亮一名崩坏：星穹铁道中的黄金裔，他能北伐成功吗？",
       "link": "https://www.zhihu.com/question/1947235212099585892",
       "heat": "58 万热度"
     },
     {
-      "rank": "38",
+      "rank": "29",
       "title": "如果观众看了《神话》喜欢高要，看了《人民的名义》喜欢祁同伟，看了《狂飙》喜欢高启强，剧组是否白拍了？",
       "link": "https://www.zhihu.com/question/1926282404030576368",
       "heat": "58 万热度"
     },
     {
-      "rank": "39",
+      "rank": "30",
       "title": "如何看待 WTT 北京票价贵，最高票价高达 3776 元？",
       "link": "https://www.zhihu.com/question/1947607985745540086",
       "heat": "58 万热度"
     },
     {
-      "rank": "40",
+      "rank": "31",
+      "title": "美国南北战争中，南方明显弱于北方，为什么双方可以僵持 4 年？",
+      "link": "https://www.zhihu.com/question/21511826",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "科幻电影中 ai 的反叛是否本质上是人类对技术失控的自我投射?",
+      "link": "https://www.zhihu.com/question/1946699657234318938",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
       "title": "今年的 TI14，中国队前景如何？",
       "link": "https://www.zhihu.com/question/1947220118015828067",
       "heat": "58 万热度"
     },
     {
-      "rank": "41",
+      "rank": "34",
       "title": "今年中元节遇上「红月亮」，有什么讲究？中式恐怖为啥这么吓人？",
       "link": "https://www.zhihu.com/question/1947424169936511864",
       "heat": "58 万热度"
     },
     {
-      "rank": "42",
-      "title": "为什么领导对你评价不低，但是一遇到晋升机会就把你往后摆？",
-      "link": "https://www.zhihu.com/question/11072580403",
+      "rank": "35",
+      "title": "工作是为了钱还是为了什么？",
+      "link": "https://www.zhihu.com/question/1934227222903906909",
       "heat": "58 万热度"
     },
     {
-      "rank": "43",
-      "title": "日本的留学生活是怎么样的？",
-      "link": "https://www.zhihu.com/question/20472563",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "如果绝交很久的好友找你和好，你会与她和好吗？",
-      "link": "https://www.zhihu.com/question/1936793388843239367",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "45",
+      "rank": "36",
       "title": "U23 亚洲杯预选赛 U22 国足 10:0 战胜北马里亚纳群岛 U23，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1947775252814862034",
       "heat": "58 万热度"
     },
     {
-      "rank": "46",
+      "rank": "37",
+      "title": "如果绝交很久的好友找你和好，你会与她和好吗？",
+      "link": "https://www.zhihu.com/question/1936793388843239367",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "38",
       "title": "上级突然给急活，明显规定交付时间内无法完成，团队成员直接「开摆」，作为 leader 该怎么办？",
       "link": "https://www.zhihu.com/question/600582451",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
+      "rank": "39",
       "title": "如何看待《三十而已》里许幻山和顾佳的婚姻？",
       "link": "https://www.zhihu.com/question/411858564",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
+      "rank": "40",
       "title": "如何看待 CNCS 选手 Somebody 被指假赛组织核心，操控多队比赛并涉及软路由作弊？",
       "link": "https://www.zhihu.com/question/1947044935602795536",
       "heat": "58 万热度"
     },
     {
-      "rank": "49",
+      "rank": "41",
       "title": "为什么每年国考招录大量税务系统公务员？",
       "link": "https://www.zhihu.com/question/1937176308678361642",
       "heat": "58 万热度"
     },
     {
-      "rank": "50",
+      "rank": "42",
+      "title": "价位 2000 以内最好的计算器是什么？",
+      "link": "https://www.zhihu.com/question/431220391",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "如何评价《三体》对科幻宇宙中时空观、武器观和文明观的重构？",
+      "link": "https://www.zhihu.com/question/1942305645719160474",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "44",
       "title": "有什么车看第一眼就喜欢上了？",
       "link": "https://www.zhihu.com/question/629662447",
       "heat": "58 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "《征服》里刘华强让封彪拿枪指着自己脑袋，如何封彪真开枪了怎么办？",
+      "link": "https://www.zhihu.com/question/1945468165933991910",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "为什么领导对你评价不低，但是一遇到晋升机会就把你往后摆？",
+      "link": "https://www.zhihu.com/question/11072580403",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "辅导作业是万千家庭的难题，如何才能让孩子不再把写作业当做沉重的心理负担？",
+      "link": "https://www.zhihu.com/question/1945777211304019058",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "机器人需要像人类到什么程度才能减轻恐怖谷效应？",
+      "link": "https://www.zhihu.com/question/1941142169910998832",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "管理者是管人好还是管事好？",
+      "link": "https://www.zhihu.com/question/649034011",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "北京环球影城怎么能玩得尽兴？",
+      "link": "https://www.zhihu.com/question/440593113",
+      "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-09-07 06:53:08"
+  "generated_at": "2025-09-07 07:19:56"
 }
