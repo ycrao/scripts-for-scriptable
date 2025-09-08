@@ -1,36 +1,36 @@
 {
-  "artifact_id": "a1874577-e7ef-4e0e-afcf-7a51746da88d",
+  "artifact_id": "d34a29a6-d036-43e9-8a16-7f18c9204596",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "小米中国区市场部总经理王腾因泄密被辞退，对小米和其手机业务有哪些影响？公司管理可能存在哪些问题？",
       "link": "https://www.zhihu.com/question/1948539201017574806",
-      "heat": "1416 万热度"
+      "heat": "1466 万热度"
     },
     {
       "rank": "2",
       "title": "外交部对日本参议员石平采取反制措施，他是谁？还有哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1948378366676791610",
-      "heat": "582 万热度"
+      "heat": "603 万热度"
     },
     {
       "rank": "3",
       "title": "日本首相石破茂辞职，高市早苗与小泉进次郎成继任者热门人选，他们各有哪些政策主张？当选前景如何？",
       "link": "https://www.zhihu.com/question/1948343290601628180",
-      "heat": "326 万热度"
+      "heat": "330 万热度"
     },
     {
       "rank": "4",
       "title": "「男子地铁被诬陷偷拍」案二审结束将择期宣判，二审结果会有改变吗？怎样从法律角度解读？",
       "link": "https://www.zhihu.com/question/1948412412073046732",
-      "heat": "292 万热度"
+      "heat": "301 万热度"
     },
     {
       "rank": "5",
       "title": "九三阅兵北京气温接近 30℃，现场为啥要准备热姜茶？有哪些医学依据？",
       "link": "https://www.zhihu.com/question/1946885928279831011",
-      "heat": "265 万热度"
+      "heat": "268 万热度"
     },
     {
       "rank": "6",
@@ -42,7 +42,7 @@
       "rank": "7",
       "title": "为什么现在在职场上不能太积极负责？",
       "link": "https://www.zhihu.com/question/1911357436289357253",
-      "heat": "120 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "8",
@@ -54,42 +54,42 @@
       "rank": "9",
       "title": "现货黄金首次涨超 3560 美元，国际金价连涨七日，国内金饰价涨破 1050 元，受哪些因素影响？",
       "link": "https://www.zhihu.com/question/1946868112264770371",
-      "heat": "64 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "10",
       "title": "为什么现在体制内的好多年轻人都不愿意当领导了？",
       "link": "https://www.zhihu.com/question/1934015345565349239",
-      "heat": "61 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "现在大学里以教学为主的教师与听课学生的关系，是否越来越类似于「服务行业从业者与客户」？",
-      "link": "https://www.zhihu.com/question/1946532845637072697",
       "heat": "59 万热度"
     },
     {
-      "rank": "12",
+      "rank": "11",
       "title": "西藏一处垃圾堆有大量藏马熊聚集，这样危险吗？",
       "link": "https://www.zhihu.com/question/1948150160866635780",
       "heat": "59 万热度"
     },
     {
-      "rank": "13",
+      "rank": "12",
       "title": "《凡人修仙传》中，王蝉强娶燕如嫣，只是为了双修「血灵大法」吗，燕如嫣甘心吗？",
       "link": "https://www.zhihu.com/question/1936088526740501038",
       "heat": "59 万热度"
     },
     {
-      "rank": "14",
+      "rank": "13",
       "title": "为什么很多三甲医院的主任医师都会拍摄看病过程，发在社交平台上？",
       "link": "https://www.zhihu.com/question/641623947",
       "heat": "59 万热度"
     },
     {
-      "rank": "15",
+      "rank": "14",
       "title": "为什么二战为背景电子游戏这么多，但却很少有游戏背景是一战的？",
       "link": "https://www.zhihu.com/question/1936814948849267467",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "智能音箱（如小爱、天猫精灵）的热度好像过去了，它们是失败了吗？",
+      "link": "https://www.zhihu.com/question/1946542103418103322",
       "heat": "59 万热度"
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "rank": "17",
-      "title": "智能音箱（如小爱、天猫精灵）的热度好像过去了，它们是失败了吗？",
-      "link": "https://www.zhihu.com/question/1946542103418103322",
+      "title": "「教师必须站着上课」这条规定是成文的还是不成文的？",
+      "link": "https://www.zhihu.com/question/1946579776253952973",
       "heat": "59 万热度"
     },
     {
@@ -112,8 +112,8 @@
     },
     {
       "rank": "19",
-      "title": "「教师必须站着上课」这条规定是成文的还是不成文的？",
-      "link": "https://www.zhihu.com/question/1946579776253952973",
+      "title": "现在大学里以教学为主的教师与听课学生的关系，是否越来越类似于「服务行业从业者与客户」？",
+      "link": "https://www.zhihu.com/question/1946532845637072697",
       "heat": "59 万热度"
     },
     {
@@ -136,50 +136,50 @@
     },
     {
       "rank": "23",
-      "title": "如何看待 9 月 7 日湘超揭幕战长沙 2:0 娄底？其他 13 个地市能成功群殴阵容豪华的长沙吗？",
-      "link": "https://www.zhihu.com/question/1948142401752404440",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "为什么有的人开车会不打转向灯？",
-      "link": "https://www.zhihu.com/question/1909597988818510757",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "九三阅兵新乐曲《无人智胜进行曲》公布，如何评价这一曲目？",
-      "link": "https://www.zhihu.com/question/1946654849572758865",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "双方父母只能在老家带孩子，媳妇只同意孩子在上海，怎么解决这个问题？",
-      "link": "https://www.zhihu.com/question/1943798639702041208",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "乘客炫耀「第 N 次带打火机登机」，已被警方行拘，打火机是怎么被带上飞机的？涉事乘客将承担哪些责任？",
-      "link": "https://www.zhihu.com/question/1948056052521236454",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "28",
       "title": "作为养宠一族，你是如何把家改造为「宠物友好型」家居的？",
       "link": "https://www.zhihu.com/question/632517420",
       "heat": "57 万热度"
     },
     {
-      "rank": "29",
+      "rank": "24",
       "title": "OpenAI 研究人员宣称已破解模型「幻觉」难题，具体情况如何？",
       "link": "https://www.zhihu.com/question/1947725605970895134",
       "heat": "57 万热度"
     },
     {
-      "rank": "30",
+      "rank": "25",
       "title": "9 月 6 日苏超第十一轮，南通队 1-0 扬州队，取得十连胜，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1947772824233160842",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "如何评价 9 月 1 日凌晨答主刘博洋问界 m9 智驾事故？",
+      "link": "https://www.zhihu.com/question/1946949954686915038",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "为什么电影美少女特工队 (sucker punch) 评分这么低?",
+      "link": "https://www.zhihu.com/question/34573188",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "为什么现在把高音、哭戏当做实力？",
+      "link": "https://www.zhihu.com/question/1943759715516539442",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "为什么在生活中一个人懂感恩很重要？",
+      "link": "https://www.zhihu.com/question/1944882829654745463",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "在法学中有哪些好听的专有名词 ?",
+      "link": "https://www.zhihu.com/question/426770138",
       "heat": "57 万热度"
     },
     {
@@ -190,118 +190,118 @@
     },
     {
       "rank": "32",
-      "title": "如何评价 9 月 1 日凌晨答主刘博洋问界 m9 智驾事故？",
-      "link": "https://www.zhihu.com/question/1946949954686915038",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "如何看待《潜伏》的大结局？",
-      "link": "https://www.zhihu.com/question/394541537",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "黛玉初次到王夫人屋里，看到很多东西都是半旧的，这是怎么回事？",
-      "link": "https://www.zhihu.com/question/499124253",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "35",
       "title": "LPL 2025 赛季第三赛段季后赛 AL 2:3 WBG，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1948370077964535349",
       "heat": "57 万热度"
     },
     {
-      "rank": "36",
-      "title": "为什么电影美少女特工队 (sucker punch) 评分这么低?",
-      "link": "https://www.zhihu.com/question/34573188",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "为什么现在把高音、哭戏当做实力？",
-      "link": "https://www.zhihu.com/question/1943759715516539442",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "为什么毛利率比净利率更重要？",
-      "link": "https://www.zhihu.com/question/1908845059429896632",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "为什么在生活中一个人懂感恩很重要？",
-      "link": "https://www.zhihu.com/question/1944882829654745463",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "如何提供情绪价值，给人以最好的情绪帮助？",
-      "link": "https://www.zhihu.com/question/1946475695963341043",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "在法学中有哪些好听的专有名词 ?",
-      "link": "https://www.zhihu.com/question/426770138",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "「一心多用」的马斯克会成为人类历史上第一个万亿美元富翁吗？",
-      "link": "https://www.zhihu.com/question/1948318841559019950",
+      "rank": "33",
+      "title": "双方父母只能在老家带孩子，媳妇只同意孩子在上海，怎么解决这个问题？",
+      "link": "https://www.zhihu.com/question/1943798639702041208",
       "heat": "56 万热度"
     },
     {
-      "rank": "43",
-      "title": "如果想从事人工智能方向，本科应该选择计算机还是数学？",
-      "link": "https://www.zhihu.com/question/3841168067",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "水煮肉片怎么做才好吃呢？",
-      "link": "https://www.zhihu.com/question/311725269",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "45",
+      "rank": "34",
       "title": "中华文明可以排人类文明前十吗？",
       "link": "https://www.zhihu.com/question/1900220176537989914",
       "heat": "56 万热度"
     },
     {
-      "rank": "46",
+      "rank": "35",
+      "title": "「一心多用」的马斯克会成为人类历史上第一个万亿美元富翁吗？",
+      "link": "https://www.zhihu.com/question/1948318841559019950",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "水煮肉片怎么做才好吃呢？",
+      "link": "https://www.zhihu.com/question/311725269",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "如果想从事人工智能方向，本科应该选择计算机还是数学？",
+      "link": "https://www.zhihu.com/question/3841168067",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "38",
       "title": "辛芷蕾获得威尼斯电影节影后，往后咖位会超过 85 花吗？",
       "link": "https://www.zhihu.com/question/1947920326244669040",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "39",
       "title": "作家是怎么写出他没见过没经历过的事情的？",
       "link": "https://www.zhihu.com/question/1946304974226163073",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
+      "rank": "40",
       "title": "你小时候有哪些自以为瞒天过海却被父母知道得一清二楚的事？",
       "link": "https://www.zhihu.com/question/317600442",
       "heat": "56 万热度"
     },
     {
+      "rank": "41",
+      "title": "为什么有的人开车会不打转向灯？",
+      "link": "https://www.zhihu.com/question/1909597988818510757",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "如何看待 9 月 7 日湘超揭幕战长沙 2:0 娄底？其他 13 个地市能成功群殴阵容豪华的长沙吗？",
+      "link": "https://www.zhihu.com/question/1948142401752404440",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "你们省的「省菜」是啥，可以推荐一下吗？",
+      "link": "https://www.zhihu.com/question/1943295173971903406",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "电影《冰血暴》到底想表达什么？为何风格如此诡异？",
+      "link": "https://www.zhihu.com/question/23756228",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "传闻 DeepSeek 将在第四季度推出智能体，有哪些值得期待的地方？",
+      "link": "https://www.zhihu.com/question/1947264997374784167",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "乘客炫耀「第 N 次带打火机登机」，已被警方行拘，打火机是怎么被带上飞机的？涉事乘客将承担哪些责任？",
+      "link": "https://www.zhihu.com/question/1948056052521236454",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "大一考虑考研的事情太早了吗?",
+      "link": "https://www.zhihu.com/question/510238864",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么那些「不完美」的老师反而会给学生留下最深刻的印象？",
+      "link": "https://www.zhihu.com/question/1946305321162212368",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "49",
-      "title": "为什么「老派男友」成为现在婚恋市场香饽饽？反映了当下年轻人怎样的审美或需求变化？",
-      "link": "https://www.zhihu.com/question/1948338377842717149",
+      "title": "为什么游戏里会有真实伤害的概念？",
+      "link": "https://www.zhihu.com/question/661411797",
       "heat": "56 万热度"
     },
     {
       "rank": "50",
-      "title": "你们省的「省菜」是啥，可以推荐一下吗？",
-      "link": "https://www.zhihu.com/question/1943295173971903406",
+      "title": "截至 8 月我国外储规模超 3.3 万亿美元，较 7 月增长 0.91%，外储增加对我国经济有何影响？",
+      "link": "https://www.zhihu.com/question/1948307535007323038",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-09-09 06:41:13"
+  "generated_at": "2025-09-09 06:53:53"
 }
