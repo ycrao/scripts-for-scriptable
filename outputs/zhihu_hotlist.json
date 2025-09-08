@@ -1,84 +1,84 @@
 {
-  "artifact_id": "6670d623-89c0-4128-ae25-fe5decfd15a3",
+  "artifact_id": "e320811a-c64e-4594-9cb8-58b7d8452635",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "西藏一处垃圾堆有大量藏马熊聚集，这样危险吗？",
       "link": "https://www.zhihu.com/question/1948150160866635780",
-      "heat": "514 万热度"
+      "heat": "507 万热度"
     },
     {
       "rank": "2",
-      "title": "小米中国区市场部总经理王腾因泄密被辞退，其还将承担哪些责任？",
-      "link": "https://www.zhihu.com/question/1948522081810605216",
-      "heat": "432 万热度"
+      "title": "为什么很多三甲医院的主任医师都会拍摄看病过程，发在社交平台上？",
+      "link": "https://www.zhihu.com/question/641623947",
+      "heat": "262 万热度"
     },
     {
       "rank": "3",
-      "title": "为什么很多三甲医院的主任医师都会拍摄看病过程，发在社交平台上？",
-      "link": "https://www.zhihu.com/question/641623947",
-      "heat": "261 万热度"
+      "title": "日本首相石破茂辞职，高市早苗与小泉进次郎成继任者热门人选，他们各有哪些政策主张？当选前景如何？",
+      "link": "https://www.zhihu.com/question/1948343290601628180",
+      "heat": "186 万热度"
     },
     {
       "rank": "4",
-      "title": "日本首相石破茂辞职，高市早苗与小泉进次郎成继任者热门人选，他们各有哪些政策主张？当选前景如何？",
-      "link": "https://www.zhihu.com/question/1948343290601628180",
-      "heat": "183 万热度"
+      "title": "九三阅兵北京气温接近 30℃，现场为啥要准备热姜茶？有哪些医学依据？",
+      "link": "https://www.zhihu.com/question/1946885928279831011",
+      "heat": "140 万热度"
     },
     {
       "rank": "5",
-      "title": "九三阅兵北京气温接近 30℃，现场为啥要准备热姜茶？有哪些医学依据？",
-      "link": "https://www.zhihu.com/question/1946885928279831011",
-      "heat": "138 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "乘客炫耀「第 N 次带打火机登机」，已被警方行拘，打火机是怎么被带上飞机的？涉事乘客将承担哪些责任？",
-      "link": "https://www.zhihu.com/question/1948056052521236454",
-      "heat": "122 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "全球最大冰山三个月内面积减少超过三分之一，这会带来哪些影响？还能够恢复吗？",
-      "link": "https://www.zhihu.com/question/1946139274173970058",
-      "heat": "119 万热度"
-    },
-    {
-      "rank": "8",
       "title": "如果黑人皮肤变白，长的像白人还是黄种人？",
       "link": "https://www.zhihu.com/question/24311835",
       "heat": "116 万热度"
     },
     {
-      "rank": "9",
+      "rank": "6",
+      "title": "乘客炫耀「第 N 次带打火机登机」，已被警方行拘，打火机是怎么被带上飞机的？涉事乘客将承担哪些责任？",
+      "link": "https://www.zhihu.com/question/1948056052521236454",
+      "heat": "105 万热度"
+    },
+    {
+      "rank": "7",
+      "title": "全球最大冰山三个月内面积减少超过三分之一，这会带来哪些影响？还能够恢复吗？",
+      "link": "https://www.zhihu.com/question/1946139274173970058",
+      "heat": "102 万热度"
+    },
+    {
+      "rank": "8",
       "title": "韩国 2026 年将实行小学生家长 10 点上班制，可行性如何？能解决低生育率的问题吗？",
       "link": "https://www.zhihu.com/question/1948366079710683557",
+      "heat": "100 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "小米中国区市场部总经理王腾因泄密被辞退，其还将承担哪些责任？",
+      "link": "https://www.zhihu.com/question/1948522081810605216",
       "heat": "99 万热度"
     },
     {
       "rank": "10",
       "title": "为什么二战为背景电子游戏这么多，但却很少有游戏背景是一战的？",
       "link": "https://www.zhihu.com/question/1936814948849267467",
-      "heat": "95 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "11",
       "title": "智能音箱（如小爱、天猫精灵）的热度好像过去了，它们是失败了吗？",
       "link": "https://www.zhihu.com/question/1946542103418103322",
-      "heat": "89 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么「老派男友」成为现在婚恋市场香饽饽？反映了当下年轻人怎样的审美或需求变化？",
-      "link": "https://www.zhihu.com/question/1948338377842717149",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "13",
       "title": "截至 8 月我国外储规模超 3.3 万亿美元，较 7 月增长 0.91%，外储增加对我国经济有何影响？",
       "link": "https://www.zhihu.com/question/1948307535007323038",
       "heat": "82 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "为什么「老派男友」成为现在婚恋市场香饽饽？反映了当下年轻人怎样的审美或需求变化？",
+      "link": "https://www.zhihu.com/question/1948338377842717149",
+      "heat": "77 万热度"
     },
     {
       "rank": "14",
@@ -90,7 +90,7 @@
       "rank": "15",
       "title": "中华文明可以排人类文明前十吗？",
       "link": "https://www.zhihu.com/question/1900220176537989914",
-      "heat": "70 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "16",
@@ -108,7 +108,7 @@
       "rank": "18",
       "title": "杭州一酒馆女舞者表演被指「擦边」，文旅部门回应「涉嫌过度营销，已叫停约谈」，商家将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1947318180864325129",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "19",
@@ -120,7 +120,7 @@
       "rank": "20",
       "title": "为什么毛利率比净利率更重要？",
       "link": "https://www.zhihu.com/question/1908845059429896632",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "21",
@@ -130,33 +130,33 @@
     },
     {
       "rank": "22",
+      "title": "水煮肉片怎么做才好吃呢？",
+      "link": "https://www.zhihu.com/question/311725269",
+      "heat": "63 万热度"
+    },
+    {
+      "rank": "23",
       "title": "「教师必须站着上课」这条规定是成文的还是不成文的？",
       "link": "https://www.zhihu.com/question/1946579776253952973",
       "heat": "63 万热度"
     },
     {
-      "rank": "23",
-      "title": "水煮肉片怎么做才好吃呢？",
-      "link": "https://www.zhihu.com/question/311725269",
-      "heat": "62 万热度"
-    },
-    {
       "rank": "24",
-      "title": "为什么现在把高音、哭戏当做实力？",
-      "link": "https://www.zhihu.com/question/1943759715516539442",
+      "title": "威马汽车突然宣布本月复产，力争今年产销两万辆，还将启动 IPO 筹备，此前负债超 200 亿，如何看待其前景？",
+      "link": "https://www.zhihu.com/question/1947811030764851211",
       "heat": "59 万热度"
     },
     {
       "rank": "25",
-      "title": "威马汽车突然宣布本月复产，力争今年产销两万辆，还将启动 IPO 筹备，此前负债超 200 亿，如何看待其前景？",
-      "link": "https://www.zhihu.com/question/1947811030764851211",
+      "title": "为什么现在把高音、哭戏当做实力？",
+      "link": "https://www.zhihu.com/question/1943759715516539442",
       "heat": "59 万热度"
     },
     {
       "rank": "26",
       "title": "射箭时为什么严禁空放？",
       "link": "https://www.zhihu.com/question/39936292",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "27",
@@ -166,68 +166,68 @@
     },
     {
       "rank": "28",
-      "title": "作家是怎么写出他没见过没经历过的事情的？",
-      "link": "https://www.zhihu.com/question/1946304974226163073",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "为什么那些「不完美」的老师反而会给学生留下最深刻的印象？",
-      "link": "https://www.zhihu.com/question/1946305321162212368",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "LPL 2025 赛季第三赛段季后赛 AL 2:3 WBG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1948370077964535349",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "有没有一座城市，藏着让你难忘的喜悦时刻？",
-      "link": "https://www.zhihu.com/question/1948339660108588121",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "32",
       "title": "如何评价「小鹿斑比」的恐怖片版《小鹿斑比：清算》？",
       "link": "https://www.zhihu.com/question/1947339933296583747",
       "heat": "58 万热度"
     },
     {
-      "rank": "33",
+      "rank": "29",
       "title": "为什么非常喜欢一个人的时候，常常会感觉到悲伤？",
       "link": "https://www.zhihu.com/question/1946589614472143885",
       "heat": "58 万热度"
     },
     {
-      "rank": "34",
+      "rank": "30",
       "title": "为什么游戏里会有真实伤害的概念？",
       "link": "https://www.zhihu.com/question/661411797",
       "heat": "57 万热度"
     },
     {
-      "rank": "35",
+      "rank": "31",
+      "title": "有没有一座城市，藏着让你难忘的喜悦时刻？",
+      "link": "https://www.zhihu.com/question/1948339660108588121",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "LPL 2025 赛季第三赛段季后赛 AL 2:3 WBG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1948370077964535349",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "33",
       "title": "江南的文风有什么特点？如何模仿？",
       "link": "https://www.zhihu.com/question/49247049",
       "heat": "57 万热度"
     },
     {
-      "rank": "36",
+      "rank": "34",
       "title": "C++ STL 里面哪些是需要掌握的哪些是可选择的？",
       "link": "https://www.zhihu.com/question/446867163",
       "heat": "57 万热度"
     },
     {
-      "rank": "37",
+      "rank": "35",
       "title": "辛芷蕾获得威尼斯电影节影后，往后咖位会超过 85 花吗？",
       "link": "https://www.zhihu.com/question/1947920326244669040",
       "heat": "57 万热度"
     },
     {
-      "rank": "38",
+      "rank": "36",
       "title": "9 月 6 日苏超第十一轮，徐州队 1-1 南京队，观赛人数突破 60817 人，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1947773924935996603",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "作家是怎么写出他没见过没经历过的事情的？",
+      "link": "https://www.zhihu.com/question/1946304974226163073",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "为什么那些「不完美」的老师反而会给学生留下最深刻的印象？",
+      "link": "https://www.zhihu.com/question/1946305321162212368",
       "heat": "57 万热度"
     },
     {
@@ -238,14 +238,14 @@
     },
     {
       "rank": "40",
-      "title": "上海公办小学学生新学期喜提「每周无作业日」，比如有的学校每周五不布置家庭作业，你怎么看？",
-      "link": "https://www.zhihu.com/question/1948342000588944878",
+      "title": "APSC 与 m43 的差距有多大？",
+      "link": "https://www.zhihu.com/question/1890460757361160452",
       "heat": "57 万热度"
     },
     {
       "rank": "41",
-      "title": "APSC 与 m43 的差距有多大？",
-      "link": "https://www.zhihu.com/question/1890460757361160452",
+      "title": "如何看待樊振东入围 2025 大本钟奖全球十大杰出（华人）青年候选人？",
+      "link": "https://www.zhihu.com/question/1948381944581699035",
       "heat": "57 万热度"
     },
     {
@@ -256,26 +256,26 @@
     },
     {
       "rank": "43",
+      "title": "如何向六七岁的小朋友解释自行车骑快点就会变稳定？",
+      "link": "https://www.zhihu.com/question/1947817691256696972",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "44",
       "title": "网传联通正为 iPhone 17 筹备 eSIM 卡服务，是真的吗？eSIM 是什么？将带来哪些便利？",
       "link": "https://www.zhihu.com/question/1946929021557372311",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
+      "rank": "45",
       "title": "OpenAI 研究人员宣称已破解模型「幻觉」难题，具体情况如何？",
       "link": "https://www.zhihu.com/question/1947725605970895134",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
-      "title": "如何看待樊振东入围 2025 大本钟奖全球十大杰出（华人）青年候选人？",
-      "link": "https://www.zhihu.com/question/1948381944581699035",
-      "heat": "57 万热度"
-    },
-    {
       "rank": "46",
-      "title": "如何向六七岁的小朋友解释自行车骑快点就会变稳定？",
-      "link": "https://www.zhihu.com/question/1947817691256696972",
+      "title": "9 月 7 日苏超第十一轮，盐城队 3-2 苏州队，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1948126932106446034",
       "heat": "57 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "为什么有的人开车会不打转向灯？",
-      "link": "https://www.zhihu.com/question/1909597988818510757",
+      "title": "9 月 6 日苏超第十一轮，南通队 1-0 扬州队，取得十连胜，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1947772824233160842",
       "heat": "57 万热度"
     },
     {
       "rank": "49",
-      "title": "9 月 7 日苏超第十一轮，盐城队 3-2 苏州队，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1948126932106446034",
+      "title": "如果发行稳定币的公司（比如发行 USDT 的 Tether ）倒闭了，手里的稳定币会变成废纸吗？",
+      "link": "https://www.zhihu.com/question/1948326618025123858",
       "heat": "57 万热度"
     },
     {
       "rank": "50",
-      "title": "9 月 6 日苏超第十一轮，南通队 1-0 扬州队，取得十连胜，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1947772824233160842",
+      "title": "为什么感觉现在 AI Agent 都是雷声大雨点小？",
+      "link": "https://www.zhihu.com/question/1923049104222721873",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-09-08 23:43:04"
+  "generated_at": "2025-09-08 23:55:31"
 }
