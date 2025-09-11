@@ -1,132 +1,132 @@
 {
-  "artifact_id": "8888a108-ba31-4cc1-a6d0-644a7ed44f02",
+  "artifact_id": "33d0d069-d275-42fd-82c5-c5a85b7e6127",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "我国发现「亚洲锂腰带」，长度达 2800 公里，这一发现意味着什么？",
       "link": "https://www.zhihu.com/question/1949125421812639200",
-      "heat": "559 万热度"
+      "heat": "538 万热度"
     },
     {
       "rank": "2",
       "title": "罗永浩吐槽西贝几乎全是预制菜，应强制饭馆注明是否用了预制菜，商家称不存在预制，你赞同饭馆注明预制菜吗？",
       "link": "https://www.zhihu.com/question/1949413137892734429",
-      "heat": "398 万热度"
+      "heat": "414 万热度"
     },
     {
       "rank": "3",
       "title": "政治盟友演讲时遭枪击身亡，特朗普下令全美降半旗，此事将对美国政坛产生哪些影响？",
       "link": "https://www.zhihu.com/question/1949379106606117291",
-      "heat": "332 万热度"
+      "heat": "334 万热度"
     },
     {
       "rank": "4",
       "title": "网友请示领导「发 pdf 可以吗」，领导纠正「得 PDF 才行」，是什么心理？你被领导在什么奇怪的地方教育过？",
       "link": "https://www.zhihu.com/question/1949155727638753771",
-      "heat": "267 万热度"
+      "heat": "254 万热度"
     },
     {
       "rank": "5",
       "title": "你做出过什么特别费时，但却十分好吃的美食？",
       "link": "https://www.zhihu.com/question/421807647",
-      "heat": "240 万热度"
+      "heat": "214 万热度"
     },
     {
       "rank": "6",
       "title": "日本将部署远程导弹，射程覆盖中国沿海地区，如何看待日本这一行为？这体现日方的哪些动机？",
       "link": "https://www.zhihu.com/question/1949141640016008427",
-      "heat": "201 万热度"
+      "heat": "198 万热度"
     },
     {
       "rank": "7",
       "title": "如何看待王辰被免去中国工程院副院长职务?",
       "link": "https://www.zhihu.com/question/1949519565114578406",
-      "heat": "162 万热度"
+      "heat": "181 万热度"
     },
     {
       "rank": "8",
-      "title": "如何评价 Visual Studio 2026？",
-      "link": "https://www.zhihu.com/question/1949061195031118812",
-      "heat": "160 万热度"
+      "title": "九寨沟一酒店大堂惊现毒蛇，有小孩以为是假蛇伸手摸了一下，有多危险？酒店管理存在哪些问题？",
+      "link": "https://www.zhihu.com/question/1948855007966360886",
+      "heat": "162 万热度"
     },
     {
       "rank": "9",
-      "title": "九寨沟一酒店大堂惊现毒蛇，有小孩以为是假蛇伸手摸了一下，有多危险？酒店管理存在哪些问题？",
-      "link": "https://www.zhihu.com/question/1948855007966360886",
-      "heat": "160 万热度"
+      "title": "如何评价 Visual Studio 2026？",
+      "link": "https://www.zhihu.com/question/1949061195031118812",
+      "heat": "145 万热度"
     },
     {
       "rank": "10",
       "title": "成都地铁诬告偷拍案二审维持原判，被上诉人不构成对上诉人一般人格权的侵害，怎样从法律角度解读？",
       "link": "https://www.zhihu.com/question/1949519434369692866",
-      "heat": "135 万热度"
+      "heat": "121 万热度"
     },
     {
       "rank": "11",
-      "title": "为什么弹幕都在向左飘，而我们却向右读呢？",
-      "link": "https://www.zhihu.com/question/1945418130949121041",
-      "heat": "127 万热度"
+      "title": "国务院批复同意自即日起两年内开展北京城市副中心等十个要素市场化配置综合改革试点，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1949496231685526878",
+      "heat": "113 万热度"
     },
     {
       "rank": "12",
-      "title": "国务院批复同意自即日起两年内开展北京城市副中心等十个要素市场化配置综合改革试点，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1949496231685526878",
-      "heat": "106 万热度"
+      "title": "NASA 称美国「毅力」号火星车发现潜在生命迹象，这有哪些意义？会给火星研究带来哪些新的想象空间？",
+      "link": "https://www.zhihu.com/question/1949430849926815896",
+      "heat": "111 万热度"
     },
     {
       "rank": "13",
-      "title": "NASA 称美国「毅力」号火星车发现潜在生命迹象，这有哪些意义？会给火星研究带来哪些新的想象空间？",
-      "link": "https://www.zhihu.com/question/1949430849926815896",
-      "heat": "105 万热度"
+      "title": "为什么弹幕都在向左飘，而我们却向右读呢？",
+      "link": "https://www.zhihu.com/question/1945418130949121041",
+      "heat": "109 万热度"
     },
     {
       "rank": "14",
       "title": "iPhone 17 系列 9 月 12 日 20 点开启预售，你会入手吗？你选择入手哪款？",
       "link": "https://www.zhihu.com/question/1948934008978240284",
-      "heat": "96 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "15",
-      "title": "越南 GDP 总值在 2050 年超过日本的可能性有多大？",
-      "link": "https://www.zhihu.com/question/1945856371141632418",
-      "heat": "94 万热度"
+      "title": "知名动漫社区「动漫之家」于 9 月 10 日正式停止运营，你有哪些关于它的回忆？",
+      "link": "https://www.zhihu.com/question/1949429874117808409",
+      "heat": "96 万热度"
     },
     {
       "rank": "16",
-      "title": "一杯 100 度的水可以把一杯 0 度的水最多加热到多少度？63.21 度是极限了吗？",
-      "link": "https://www.zhihu.com/question/12899311380",
-      "heat": "90 万热度"
+      "title": "越南 GDP 总值在 2050 年超过日本的可能性有多大？",
+      "link": "https://www.zhihu.com/question/1945856371141632418",
+      "heat": "96 万热度"
     },
     {
       "rank": "17",
-      "title": "阿里推出「高德扫街榜」对标大众点评，如何看待阿里做梦都想有个「大众点评」？",
-      "link": "https://www.zhihu.com/question/1949090588696778627",
+      "title": "一杯 100 度的水可以把一杯 0 度的水最多加热到多少度？63.21 度是极限了吗？",
+      "link": "https://www.zhihu.com/question/12899311380",
       "heat": "89 万热度"
     },
     {
       "rank": "18",
       "title": "苹果「迄今最薄 」iPhone Air 发布，厚度仅 5.6mm，还有哪些亮点值得关注，你会入手吗？",
       "link": "https://www.zhihu.com/question/1948945996827554503",
-      "heat": "85 万热度"
+      "heat": "86 万热度"
     },
     {
       "rank": "19",
+      "title": "墨西哥计划对中国生产的汽车等产品征收 50% 关税，这会对两国贸易及相关行业有怎样的影响？",
+      "link": "https://www.zhihu.com/question/1949510344893490611",
+      "heat": "85 万热度"
+    },
+    {
+      "rank": "20",
       "title": "樊振东的德甲之旅于乒乓球运动而言算不算新出路？",
       "link": "https://www.zhihu.com/question/1948329199266959890",
       "heat": "82 万热度"
     },
     {
-      "rank": "20",
-      "title": "墨西哥计划对中国生产的汽车等产品征收 50% 关税，这会对两国贸易及相关行业有怎样的影响？",
-      "link": "https://www.zhihu.com/question/1949510344893490611",
-      "heat": "81 万热度"
-    },
-    {
       "rank": "21",
       "title": "如何评价 DOTA2 Ti14 淘汰赛 XG 2：0 Tundra？",
       "link": "https://www.zhihu.com/question/1949549818293760581",
-      "heat": "80 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "22",
@@ -136,15 +136,15 @@
     },
     {
       "rank": "23",
-      "title": "玩游戏真的是在浪费时间吗？",
-      "link": "https://www.zhihu.com/question/54471175",
-      "heat": "66 万热度"
+      "title": "曹丕调侃王忠曾经吃过人肉，却为什么没有调侃程昱搞过肉干军粮？",
+      "link": "https://www.zhihu.com/question/1946457317471164294",
+      "heat": "69 万热度"
     },
     {
       "rank": "24",
-      "title": "估值方法有鄙视链吗？用 PE 估值会不会有点不好意思？",
-      "link": "https://www.zhihu.com/question/1948382358702093701",
-      "heat": "65 万热度"
+      "title": "玩游戏真的是在浪费时间吗？",
+      "link": "https://www.zhihu.com/question/54471175",
+      "heat": "67 万热度"
     },
     {
       "rank": "25",
@@ -154,15 +154,15 @@
     },
     {
       "rank": "26",
-      "title": "有哪些实验室日常必备的神器？",
-      "link": "https://www.zhihu.com/question/330495870",
-      "heat": "63 万热度"
+      "title": "有没有除了外星人、人工智能、时空穿越、太空旅行等等常见创意之外令人惊艳的科幻核心设定？",
+      "link": "https://www.zhihu.com/question/1946901156652646509",
+      "heat": "62 万热度"
     },
     {
       "rank": "27",
-      "title": "有没有除了外星人、人工智能、时空穿越、太空旅行等等常见创意之外令人惊艳的科幻核心设定？",
-      "link": "https://www.zhihu.com/question/1946901156652646509",
-      "heat": "61 万热度"
+      "title": "阿里推出「高德扫街榜」对标大众点评，如何看待阿里做梦都想有个「大众点评」？",
+      "link": "https://www.zhihu.com/question/1949090588696778627",
+      "heat": "59 万热度"
     },
     {
       "rank": "28",
@@ -172,14 +172,14 @@
     },
     {
       "rank": "29",
-      "title": "董事长向明星女友透露内幕交易，本想割韭菜反亏 500 万，两人被刑拘，如何从法律角度解读？",
-      "link": "https://www.zhihu.com/question/1948728025664446831",
+      "title": "有哪些实验室日常必备的神器？",
+      "link": "https://www.zhihu.com/question/330495870",
       "heat": "59 万热度"
     },
     {
       "rank": "30",
-      "title": "网红「柴怼怼」等人涉嫌生产销售伪劣产品被立案调查，曾抹黑胖东来，其将承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1949113994628522145",
+      "title": "iPhone 17 Pro 系列新增橙色和 2TB 存储版本，这配色好看吗？你会为此买单吗？",
+      "link": "https://www.zhihu.com/question/1949064798353449349",
       "heat": "59 万热度"
     },
     {
@@ -190,20 +190,20 @@
     },
     {
       "rank": "32",
-      "title": "iPhone 17 Pro 系列新增橙色和 2TB 存储版本，这配色好看吗？你会为此买单吗？",
-      "link": "https://www.zhihu.com/question/1949064798353449349",
+      "title": "董事长向明星女友透露内幕交易，本想割韭菜反亏 500 万，两人被刑拘，如何从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1948728025664446831",
       "heat": "59 万热度"
     },
     {
       "rank": "33",
-      "title": "iPhone17 基础版上 120Hz 高刷会对安卓机有什么影响？",
-      "link": "https://www.zhihu.com/question/1948949421850076044",
+      "title": "人大经济学大一，以后想要从事量化，现在该如何准备？",
+      "link": "https://www.zhihu.com/question/1926248759412646816",
       "heat": "59 万热度"
     },
     {
       "rank": "34",
-      "title": "人大经济学大一，以后想要从事量化，现在该如何准备？",
-      "link": "https://www.zhihu.com/question/1926248759412646816",
+      "title": "iPhone17 基础版上 120Hz 高刷会对安卓机有什么影响？",
+      "link": "https://www.zhihu.com/question/1948949421850076044",
       "heat": "59 万热度"
     },
     {
@@ -214,44 +214,44 @@
     },
     {
       "rank": "36",
-      "title": "有什么关于宁波的冷知识？",
-      "link": "https://www.zhihu.com/question/54174380",
+      "title": "有一阵子挺流行的双层列车现在为什么不见了？",
+      "link": "https://www.zhihu.com/question/1948184700842672740",
       "heat": "59 万热度"
     },
     {
       "rank": "37",
-      "title": "有一阵子挺流行的双层列车现在为什么不见了？",
-      "link": "https://www.zhihu.com/question/1948184700842672740",
+      "title": "有什么关于宁波的冷知识？",
+      "link": "https://www.zhihu.com/question/54174380",
       "heat": "59 万热度"
     },
     {
       "rank": "38",
       "title": "心理学中，除人以外的动物到底有没有情感？",
       "link": "https://www.zhihu.com/question/1907778859639768520",
-      "heat": "58 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "39",
-      "title": "如何看待小将薛飞 3 比 0 完胜张本智和?",
-      "link": "https://www.zhihu.com/question/1949463542869779893",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "40",
       "title": "中国神鬼文化中有很多厉害的神仙，为何在恐怖游戏中，这些正神往往不起作用？",
       "link": "https://www.zhihu.com/question/1944065827327412009",
       "heat": "58 万热度"
     },
     {
+      "rank": "40",
+      "title": "如何看待小将薛飞 3 比 0 完胜张本智和?",
+      "link": "https://www.zhihu.com/question/1949463542869779893",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "41",
-      "title": "为什么托比·马奎尔后来不再出演蜘蛛侠了？",
-      "link": "https://www.zhihu.com/question/341867606",
+      "title": "中国哪里还有真的古建筑？",
+      "link": "https://www.zhihu.com/question/420380425",
       "heat": "58 万热度"
     },
     {
       "rank": "42",
-      "title": "中国哪里还有真的古建筑？",
-      "link": "https://www.zhihu.com/question/420380425",
+      "title": "为什么托比·马奎尔后来不再出演蜘蛛侠了？",
+      "link": "https://www.zhihu.com/question/341867606",
       "heat": "58 万热度"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "rank": "44",
-      "title": "iPhone 17 Pro Max 新增 2TB 版本，为什么要增加这一配置？真有这么大存储需求吗？",
-      "link": "https://www.zhihu.com/question/1949125899103465735",
+      "title": "WTT 中国澳门冠军赛男单 1/16 决赛，薛飞 3-0 战胜张本智和，晋级 16 强，如何看待这场比赛？",
+      "link": "https://www.zhihu.com/question/1949462798011733994",
       "heat": "58 万热度"
     },
     {
       "rank": "45",
-      "title": "我们能否仅通过「自己看见自己」而获得幸福？「被外界看见」是一种我执，还是人无法避免的需求？",
-      "link": "https://www.zhihu.com/question/1948734209104511619",
+      "title": "私有云带给家的快乐模式，可以有多少种打开方式？",
+      "link": "https://www.zhihu.com/question/1949134292195218346",
       "heat": "58 万热度"
     },
     {
@@ -286,8 +286,8 @@
     },
     {
       "rank": "48",
-      "title": "私有云带给家的快乐模式，可以有多少种打开方式？",
-      "link": "https://www.zhihu.com/question/1949134292195218346",
+      "title": "iPhone 17 Pro Max 新增 2TB 版本，为什么要增加这一配置？真有这么大存储需求吗？",
+      "link": "https://www.zhihu.com/question/1949125899103465735",
       "heat": "58 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "WTT 中国澳门冠军赛男单 1/16 决赛，薛飞 3-0 战胜张本智和，晋级 16 强，如何看待这场比赛？",
-      "link": "https://www.zhihu.com/question/1949462798011733994",
+      "title": "网红「柴怼怼」等人涉嫌生产销售伪劣产品被立案调查，曾抹黑胖东来，其将承担哪些法律责任？",
+      "link": "https://www.zhihu.com/question/1949113994628522145",
       "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-09-11 21:28:32"
+  "generated_at": "2025-09-11 21:43:40"
 }
