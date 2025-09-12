@@ -1,307 +1,307 @@
 {
-  "artifact_id": "a6128b34-0eb2-4a1a-97fa-48bde890ec7c",
+  "artifact_id": "8b5efe29-d89c-43e0-b929-86e78a355388",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "海底捞「小便门」相关纠纷案一审宣判，涉案者父母赔偿 220 万元，如何从法律角度解读？",
       "link": "https://www.zhihu.com/question/1949905299143095184",
-      "heat": "1053 万热度"
+      "heat": "942 万热度"
     },
     {
       "rank": "2",
       "title": "以军 72 小时内袭击叙利亚、黎巴嫩等 6 国，此举意味着什么？最新进展如何？",
       "link": "https://www.zhihu.com/question/1949824406667920686",
-      "heat": "538 万热度"
+      "heat": "574 万热度"
     },
     {
       "rank": "3",
-      "title": "其余五常大概有多长时间能达到 df-5c 全球轰炸的标准？",
-      "link": "https://www.zhihu.com/question/1947248129930934028",
-      "heat": "189 万热度"
+      "title": "罗永浩直播展示老乡鸡店内公示的菜品加工等级牌，称是行业表率，怎样看老乡鸡的做法？值得推广吗？",
+      "link": "https://www.zhihu.com/question/1949953707534934581",
+      "heat": "203 万热度"
     },
     {
       "rank": "4",
-      "title": "罗永浩直播展示老乡鸡店内公示的菜品加工等级牌，称是行业表率，怎样看老乡鸡的做法？值得推广吗？",
-      "link": "https://www.zhihu.com/question/1949953707534934581",
-      "heat": "174 万热度"
+      "title": "其余五常大概有多长时间能达到 df-5c 全球轰炸的标准？",
+      "link": "https://www.zhihu.com/question/1947248129930934028",
+      "heat": "201 万热度"
     },
     {
       "rank": "5",
       "title": "联想懂的通信称「哪吒所有欠费车辆将触发系统停机」，系统停机会有哪些影响？对行业合作模式有何警示？",
       "link": "https://www.zhihu.com/question/1949524158305251917",
-      "heat": "170 万热度"
+      "heat": "161 万热度"
     },
     {
       "rank": "6",
       "title": "美国第二架 B-21 「突袭者」轰炸机完成首飞，有哪些细节值得关注？",
       "link": "https://www.zhihu.com/question/1949892246443877786",
-      "heat": "149 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "7",
       "title": "小鹏主动召回 47490 辆 P7 + 汽车，免费更换转向机总成，转向助力失效的安全隐患有多大？",
       "link": "https://www.zhihu.com/question/1949881317593408069",
-      "heat": "110 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "8",
+      "title": "布冯最近向国际足联提出，现代足球比赛的球门偏小，希望国际足联增大球门尺寸，这个你怎么看？",
+      "link": "https://www.zhihu.com/question/1949564110665650718",
+      "heat": "108 万热度"
+    },
+    {
+      "rank": "9",
       "title": "博主「户晨风」称 iPhone17 将对 4000 元以上的手机市场进行核打击，你认同他这个观点吗？",
       "link": "https://www.zhihu.com/question/1949165641127928749",
       "heat": "106 万热度"
     },
     {
-      "rank": "9",
-      "title": "布冯最近向国际足联提出，现代足球比赛的球门偏小，希望国际足联增大球门尺寸，这个你怎么看？",
-      "link": "https://www.zhihu.com/question/1949564110665650718",
-      "heat": "105 万热度"
-    },
-    {
       "rank": "10",
       "title": "京东方推出全新 ADS Pro（更先进的 LCD）手机显示屏，你希望哪家手机厂商率先使用？",
       "link": "https://www.zhihu.com/question/1949818893444023147",
-      "heat": "91 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "11",
       "title": "金城武、梁家辉主演香港电影《风林火山》定档国庆上映，并发布预告，对于这部电影你有哪些期待？",
       "link": "https://www.zhihu.com/question/1949776662490231683",
-      "heat": "86 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "12",
-      "title": "上海申花作为老牌强队为啥没拿过中超冠军？",
-      "link": "https://www.zhihu.com/question/1945608497476646532",
-      "heat": "75 万热度"
+      "title": "如何评价 Thinking Machines Lab 发表的首篇长文《克服 LLM 推理中的不确定性》？",
+      "link": "https://www.zhihu.com/question/1949437533063706212",
+      "heat": "81 万热度"
     },
     {
       "rank": "13",
-      "title": "如何评价 9 月 12 日上市 128 万起售的仰望 U8L？对中国高端新能源市场有什么影响？",
-      "link": "https://www.zhihu.com/question/1947217183840114636",
-      "heat": "74 万热度"
+      "title": "长江十年禁渔，现在仅仅四年多鱼群数量就显著恢复，那么古代根本就没什么 「 渔 」 时，长江鱼群是怎样的?",
+      "link": "https://www.zhihu.com/question/1946665242961646895",
+      "heat": "73 万热度"
     },
     {
       "rank": "14",
-      "title": "长江十年禁渔，现在仅仅四年多鱼群数量就显著恢复，那么古代根本就没什么 「 渔 」 时，长江鱼群是怎样的?",
-      "link": "https://www.zhihu.com/question/1946665242961646895",
-      "heat": "72 万热度"
+      "title": "有什么降维打击高中题目的例子？",
+      "link": "https://www.zhihu.com/question/1944903816546878244",
+      "heat": "73 万热度"
     },
     {
       "rank": "15",
-      "title": "为什么黄焖鸡米饭很多人念成黄焖 / 鸡米饭？",
-      "link": "https://www.zhihu.com/question/662409130",
-      "heat": "69 万热度"
+      "title": "如何评价 9 月 12 日上市 128 万起售的仰望 U8L？对中国高端新能源市场有什么影响？",
+      "link": "https://www.zhihu.com/question/1947217183840114636",
+      "heat": "71 万热度"
     },
     {
       "rank": "16",
       "title": "有哪些软件和 App 是你后悔没有早点安装的？",
       "link": "https://www.zhihu.com/question/554475758",
-      "heat": "65 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "17",
-      "title": "追觅首款车型渲染图曝光，造型神似布加迪，首款车的设计水平如何？会成为布加迪的平替吗？",
-      "link": "https://www.zhihu.com/question/1949157357037773453",
-      "heat": "65 万热度"
+      "title": "为什么黄焖鸡米饭很多人念成黄焖 / 鸡米饭？",
+      "link": "https://www.zhihu.com/question/662409130",
+      "heat": "62 万热度"
     },
     {
       "rank": "18",
+      "title": "追觅首款车型渲染图曝光，造型神似布加迪，首款车的设计水平如何？会成为布加迪的平替吗？",
+      "link": "https://www.zhihu.com/question/1949157357037773453",
+      "heat": "61 万热度"
+    },
+    {
+      "rank": "19",
       "title": "网友称阳光玫瑰葡萄不像葡萄味，你印象中的葡萄是什么味道？和哪个品种最接近？",
       "link": "https://www.zhihu.com/question/1941160435203139218",
       "heat": "59 万热度"
     },
     {
-      "rank": "19",
+      "rank": "20",
+      "title": "上海申花作为老牌强队为啥没拿过中超冠军？",
+      "link": "https://www.zhihu.com/question/1945608497476646532",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "21",
       "title": "256G 的 iPhone 还能买吗？2025 年这个容量是勇敢还是冒险？",
       "link": "https://www.zhihu.com/question/1949543504989623922",
       "heat": "57 万热度"
     },
     {
-      "rank": "20",
-      "title": "你在做外贸的过程中碰到过什么让人难忘的事情么？",
-      "link": "https://www.zhihu.com/question/427992208",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "你的猫如果离开，去了猫星，你会再养一只一样的吗？还是再也不养了？为什么？",
-      "link": "https://www.zhihu.com/question/1937259853216216903",
-      "heat": "57 万热度"
-    },
-    {
       "rank": "22",
-      "title": "9 月 12 日 WTT 澳门冠军赛，薛飞 0-3 不敌韩国选手张禹珍，无缘男单 8 强，如何评价两人本场比赛的发挥？",
-      "link": "https://www.zhihu.com/question/1949925792730552314",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "全运会围棋预赛，柯洁胜李东方，随后负于时越（终结对柯洁 8 连败），再负严在明，如何评价他现在的状态？",
-      "link": "https://www.zhihu.com/question/1948817511391913075",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "2025 年 wtt 澳门冠军赛女单第二轮，陈熠 1:3 德国老将韩莹止步十六强，怎么评价上海队陈熠这场表现？",
-      "link": "https://www.zhihu.com/question/1949914295279269035",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何评价 9 月 12 日晚的任天堂直面会？有什么新游戏发售消息值得关注？",
-      "link": "https://www.zhihu.com/question/1949943983364080744",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "正宗白切鸡的口味是怎样的？如何识别这道广东特色菜到底正不正？",
-      "link": "https://www.zhihu.com/question/1946539600802709595",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "汉字字库为什么不能只存储偏旁笔画，而是以一个个单独完整的字存储呢?",
-      "link": "https://www.zhihu.com/question/1948923122532221172",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "为什么 LibreOffice 的 Windows 版在国内火不起来？",
-      "link": "https://www.zhihu.com/question/321756360",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "对于陆军非两栖作战部队来说，履带式步战车和运兵车的无准备浮渡能力是刚需吗？",
-      "link": "https://www.zhihu.com/question/14611118617",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "为什么大自然诞生不出巨型飞鸟？",
-      "link": "https://www.zhihu.com/question/1917300150168196494",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "iPhone Air 因 eSIM 设计国行预售推迟，你会等待，还是直接入手 iPhone 17 系列？",
-      "link": "https://www.zhihu.com/question/1949758589406262728",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "如何评价 2025 年 9 月米哈游《崩坏星穹铁道》3.6 版本前瞻直播【于长夜重返大地】？",
-      "link": "https://www.zhihu.com/question/1949516928218554864",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "如何看待 9 月 12 日 TI14 Nigma2 比 0 击败 Tidebound ？",
-      "link": "https://www.zhihu.com/question/1949939675545474246",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "父母追着唠叨、上司不停催促…为什么这些瞬间会令人瞬间烦躁？过度提醒背后的心理动机是什么？",
-      "link": "https://www.zhihu.com/question/1949504283113387605",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "LPL 2025 赛季 2025 赛季季后赛 AL 3:1 NIP，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1949865812987975333",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "36",
       "title": "如何看待 9 月 12 日 TI14 胜者组半决赛 XG0 比 2 不敌 PARI ，落入败者组？",
       "link": "https://www.zhihu.com/question/1949979979241723255",
       "heat": "57 万热度"
     },
     {
-      "rank": "37",
-      "title": "正确的交易之路是什么样的？",
-      "link": "https://www.zhihu.com/question/665290432",
+      "rank": "23",
+      "title": "父母追着唠叨、上司不停催促…为什么这些瞬间会令人瞬间烦躁？过度提醒背后的心理动机是什么？",
+      "link": "https://www.zhihu.com/question/1949504283113387605",
       "heat": "57 万热度"
     },
     {
-      "rank": "38",
-      "title": "自研游戏引擎的优势何在，真的值得投入巨大成本吗？",
-      "link": "https://www.zhihu.com/question/1949081232513143133",
+      "rank": "24",
+      "title": "如何看待 9 月 12 日 TI14 Nigma2 比 0 击败 Tidebound ？",
+      "link": "https://www.zhihu.com/question/1949939675545474246",
       "heat": "57 万热度"
     },
     {
-      "rank": "39",
-      "title": "郭帆导演宣布《流浪地球 3》剧本已完成，将分上下两部，你对此有哪些期待？",
-      "link": "https://www.zhihu.com/question/1949762049484789031",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "为什么名著很少有大场面描写？如果有，能描述推荐一下吗？",
-      "link": "https://www.zhihu.com/question/1936193426677823479",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "怎么知道自己是怎样的人？",
-      "link": "https://www.zhihu.com/question/21650774",
+      "rank": "25",
+      "title": "LPL 2025 赛季 2025 赛季季后赛 AL 3:1 NIP，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1949865812987975333",
       "heat": "56 万热度"
     },
     {
-      "rank": "42",
+      "rank": "26",
+      "title": "iPhone Air 因 eSIM 设计国行预售推迟，你会等待，还是直接入手 iPhone 17 系列？",
+      "link": "https://www.zhihu.com/question/1949758589406262728",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "正确的交易之路是什么样的？",
+      "link": "https://www.zhihu.com/question/665290432",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "如何评价 9 月 12 日晚的任天堂直面会？有什么新游戏发售消息值得关注？",
+      "link": "https://www.zhihu.com/question/1949943983364080744",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "为什么名著很少有大场面描写？如果有，能描述推荐一下吗？",
+      "link": "https://www.zhihu.com/question/1936193426677823479",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "30",
       "title": "不懂就问，《三角洲行动》航天基地尤其是绝密模式真的是如网上所说「一旦染上就回不去」了吗？",
       "link": "https://www.zhihu.com/question/1940532263633789379",
       "heat": "56 万热度"
     },
     {
-      "rank": "43",
+      "rank": "31",
+      "title": "为什么 LibreOffice 的 Windows 版在国内火不起来？",
+      "link": "https://www.zhihu.com/question/321756360",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
       "title": "一杯 100 度的水可以把一杯 0 度的水最多加热到多少度？63.21 度是极限了吗？",
       "link": "https://www.zhihu.com/question/12899311380",
       "heat": "56 万热度"
     },
     {
-      "rank": "44",
-      "title": "科幻的作用和意义是什么？",
-      "link": "https://www.zhihu.com/question/1949512783780636410",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "为什么我们总是会喜欢上和自己相似的人，爱情的本质是「自恋」吗？",
-      "link": "https://www.zhihu.com/question/1946947217291178898",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "33",
       "title": "有一阵子挺流行的双层列车现在为什么不见了？",
       "link": "https://www.zhihu.com/question/1948184700842672740",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "34",
+      "title": "为什么我们总是会喜欢上和自己相似的人，爱情的本质是「自恋」吗？",
+      "link": "https://www.zhihu.com/question/1946947217291178898",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "自研游戏引擎的优势何在，真的值得投入巨大成本吗？",
+      "link": "https://www.zhihu.com/question/1949081232513143133",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "科幻的作用和意义是什么？",
+      "link": "https://www.zhihu.com/question/1949512783780636410",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "37",
       "title": "有什么好玩不吃配置的单机电脑游戏？",
       "link": "https://www.zhihu.com/question/597250937",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
+      "rank": "38",
+      "title": "9 月 12 日 WTT 澳门冠军赛，薛飞 0-3 不敌韩国选手张禹珍，无缘男单 8 强，如何评价两人本场比赛的发挥？",
+      "link": "https://www.zhihu.com/question/1949925792730552314",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "39",
       "title": "「观测」的本质究竟是什么？到底是什么构成了一个「观测者」？",
       "link": "https://www.zhihu.com/question/1946566677115414145",
       "heat": "56 万热度"
     },
     {
+      "rank": "40",
+      "title": "怎么知道自己是怎样的人？",
+      "link": "https://www.zhihu.com/question/21650774",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "你脑海中浮现过最震撼的外星生物是什么模样？",
+      "link": "https://www.zhihu.com/question/1947777589000254273",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "2025 年 wtt 澳门冠军赛女单第二轮，陈熠 1:3 德国老将韩莹止步十六强，怎么评价上海队陈熠这场表现？",
+      "link": "https://www.zhihu.com/question/1949914295279269035",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "男生宿舍真的没有人装床帘吗 ?",
+      "link": "https://www.zhihu.com/question/1931689148437226025",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "郭帆导演宣布《流浪地球 3》剧本已完成，将分上下两部，你对此有哪些期待？",
+      "link": "https://www.zhihu.com/question/1949762049484789031",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "巨石强森为了新电影《粉碎机》暴瘦肌肉全丢，你对他在影片中的表现有哪些期待？",
+      "link": "https://www.zhihu.com/question/1948716305189439400",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "你的猫如果离开，去了猫星，你会再养一只一样的吗？还是再也不养了？为什么？",
+      "link": "https://www.zhihu.com/question/1937259853216216903",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "九寨沟一酒店大堂惊现毒蛇，有小孩以为是假蛇伸手摸了一下，有多危险？酒店管理存在哪些问题？",
+      "link": "https://www.zhihu.com/question/1948855007966360886",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "你在做外贸的过程中碰到过什么让人难忘的事情么？",
+      "link": "https://www.zhihu.com/question/427992208",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "49",
-      "title": "WTT 澳门冠军赛，王曼昱 3-2 早田希娜，晋级 8 强，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1949872515905184943",
+      "title": "美国公布 8 月 CPI，同比 2.9%，环比 0.4%，核心 CPI 同比 3.1%，失业人数续增，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1949748763276060262",
       "heat": "56 万热度"
     },
     {
       "rank": "50",
-      "title": "你脑海中浮现过最震撼的外星生物是什么模样？",
-      "link": "https://www.zhihu.com/question/1947777589000254273",
+      "title": "为什么现在的孩子会沉迷手机？",
+      "link": "https://www.zhihu.com/question/2889616645",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-09-13 07:19:55"
+  "generated_at": "2025-09-13 07:39:31"
 }
