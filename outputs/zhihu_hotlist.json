@@ -1,48 +1,48 @@
 {
-  "artifact_id": "d711c428-459e-49b9-9cbd-c6b795fda772",
+  "artifact_id": "98908955-4452-4014-ba7f-b64a5ac1fc1f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何评价小米跳过数字 16 直接发布「小米 17 系列」？",
       "link": "https://www.zhihu.com/question/1950864277209612738",
-      "heat": "2865 万热度"
+      "heat": "1896 万热度"
     },
     {
       "rank": "2",
-      "title": "如何在辩论上胜过罗永浩老师？",
-      "link": "https://www.zhihu.com/question/1950272100561589802",
-      "heat": "276 万热度"
+      "title": "如何看待「湘超」揭幕战禁止带水进场，场内矿泉水需要 6 元一瓶？",
+      "link": "https://www.zhihu.com/question/1949798218364872034",
+      "heat": "235 万热度"
     },
     {
       "rank": "3",
-      "title": "如何看待「湘超」揭幕战禁止带水进场，场内矿泉水需要 6 元一瓶？",
-      "link": "https://www.zhihu.com/question/1949798218364872034",
-      "heat": "233 万热度"
+      "title": "英伟达违反反垄断法，市场监管总局依法决定实施进一步调查，进一步调查意味着什么？会带来怎样的影响？",
+      "link": "https://www.zhihu.com/question/1950953407306236650",
+      "heat": "220 万热度"
     },
     {
       "rank": "4",
-      "title": "如果早餐午餐和晚餐必须不吃一餐，最好不吃哪一餐？",
-      "link": "https://www.zhihu.com/question/291979672",
-      "heat": "209 万热度"
+      "title": "如何在辩论上胜过罗永浩老师？",
+      "link": "https://www.zhihu.com/question/1950272100561589802",
+      "heat": "169 万热度"
     },
     {
       "rank": "5",
-      "title": "英伟达违反反垄断法，市场监管总局依法决定实施进一步调查，进一步调查意味着什么？会带来怎样的影响？",
-      "link": "https://www.zhihu.com/question/1950953407306236650",
-      "heat": "209 万热度"
+      "title": "如果早餐午餐和晚餐必须不吃一餐，最好不吃哪一餐？",
+      "link": "https://www.zhihu.com/question/291979672",
+      "heat": "160 万热度"
     },
     {
       "rank": "6",
       "title": "如何看待河南一女子花费 13500 元报携程报高端纯玩云南游竟然是转手服务，高端游变「二手团」？",
       "link": "https://www.zhihu.com/question/1949913643236984543",
-      "heat": "137 万热度"
+      "heat": "141 万热度"
     },
     {
       "rank": "7",
       "title": "小米 17 系列本月发布，雷军宣布「全面对标 iPhone，正面迎战」，如何看待小米此次对标策略？",
       "link": "https://www.zhihu.com/question/1950877912568934748",
-      "heat": "114 万热度"
+      "heat": "111 万热度"
     },
     {
       "rank": "8",
@@ -72,67 +72,67 @@
       "rank": "12",
       "title": "微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？",
       "link": "https://www.zhihu.com/question/1949419248297419587",
-      "heat": "109 万热度"
+      "heat": "110 万热度"
     },
     {
       "rank": "13",
       "title": "中国拥有世界上最大的程序员群体，却连个世界二流软件公司都没有，为什么会这样？",
       "link": "https://www.zhihu.com/question/1950594196693038498",
-      "heat": "96 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "14",
-      "title": "世界上最大的宝石是什么宝石？",
-      "link": "https://www.zhihu.com/question/429231337",
-      "heat": "83 万热度"
+      "title": "明明很多消费者反对的是餐馆的预制菜本身，为什么所有的舆论都引导消费者反对的不是预制菜而是没有知情权？",
+      "link": "https://www.zhihu.com/question/1950785316848908004",
+      "heat": "97 万热度"
     },
     {
       "rank": "15",
       "title": "为什么迄今为止刺杀重要人物都是用炸弹、狙击枪等，从来没有人用迫击炮？",
       "link": "https://www.zhihu.com/question/1949917116795971451",
-      "heat": "81 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "16",
       "title": "29 岁男星蒋智豪确诊癌症晚期，为什么不抽烟年纪轻轻的他却得了肺癌？日常生活要注意什么？",
       "link": "https://www.zhihu.com/question/1950235621982434649",
-      "heat": "80 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "17",
-      "title": "上海地铁 9 号线尝试拆除部分座位，「扩容」效果如何？这会成为一种缓解高峰拥挤的标配吗？",
-      "link": "https://www.zhihu.com/question/1948418545269596469",
-      "heat": "79 万热度"
+      "title": "世界上最大的宝石是什么宝石？",
+      "link": "https://www.zhihu.com/question/429231337",
+      "heat": "83 万热度"
     },
     {
       "rank": "18",
+      "title": "上海地铁 9 号线尝试拆除部分座位，「扩容」效果如何？这会成为一种缓解高峰拥挤的标配吗？",
+      "link": "https://www.zhihu.com/question/1948418545269596469",
+      "heat": "80 万热度"
+    },
+    {
+      "rank": "19",
       "title": "当下的学生最缺少什么教育？",
       "link": "https://www.zhihu.com/question/1947795350262879049",
       "heat": "72 万热度"
     },
     {
-      "rank": "19",
-      "title": "明明很多消费者反对的是餐馆的预制菜本身，为什么所有的舆论都引导消费者反对的不是预制菜而是没有知情权？",
-      "link": "https://www.zhihu.com/question/1950785316848908004",
-      "heat": "69 万热度"
-    },
-    {
       "rank": "20",
       "title": "以毛尖、茉莉花茶、普洱茶等为原料精酿的中式啤酒扎堆上市，如何评价这种混搭？市场前景如何？",
       "link": "https://www.zhihu.com/question/1950213315809731758",
-      "heat": "63 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "21",
-      "title": "武汉一小学多位家长罢课抵制多动症孩子，教育局称其符合随班就读条件，如何看待此事？怎样解决特殊学生问题？",
-      "link": "https://www.zhihu.com/question/1949491075392725976",
-      "heat": "61 万热度"
+      "title": "为什么争议不断的 OLED 电视能持续受到市场和用户的欢迎？我们对家用电视的屏幕选购思路应该是什么？",
+      "link": "https://www.zhihu.com/question/1950947773743633358",
+      "heat": "66 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么争议不断的 OLED 电视能持续受到市场和用户的欢迎？我们对家用电视的屏幕选购思路应该是什么？",
-      "link": "https://www.zhihu.com/question/1950947773743633358",
-      "heat": "60 万热度"
+      "title": "大学生不喜欢上课的真正原因是什么？",
+      "link": "https://www.zhihu.com/question/1948829590215697594",
+      "heat": "64 万热度"
     },
     {
       "rank": "23",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "24",
-      "title": "静坐都要求背挺直，但挺直半个小时以上明显觉得背疲劳，那些大师是怎么做到一坐几个小时的？",
-      "link": "https://www.zhihu.com/question/35886696",
+      "title": "青海「尕日塘秦刻石」认定为我国目前已知唯一存于原址且海拔最高的秦代刻石，这一发现有何意义和价值？",
+      "link": "https://www.zhihu.com/question/1950869855520658931",
       "heat": "59 万热度"
     },
     {
@@ -154,154 +154,154 @@
     },
     {
       "rank": "26",
-      "title": "2025 年我国电影总票房破 400 亿，比去年提前 76 天，如何评价这一成绩？",
-      "link": "https://www.zhihu.com/question/1950182827640447091",
+      "title": "静坐都要求背挺直，但挺直半个小时以上明显觉得背疲劳，那些大师是怎么做到一坐几个小时的？",
+      "link": "https://www.zhihu.com/question/35886696",
       "heat": "59 万热度"
     },
     {
       "rank": "27",
-      "title": "青海「尕日塘秦刻石」认定为我国目前已知唯一存于原址且海拔最高的秦代刻石，这一发现有何意义和价值？",
-      "link": "https://www.zhihu.com/question/1950869855520658931",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "Ame 三度打进 TI 总决赛却均告失利，这背后原因有哪些？",
-      "link": "https://www.zhihu.com/question/1950865655877329525",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "同样是对标安卓系统，为什么谷歌的 Fuchsia 死了，而华为的鸿蒙却愈发壮大？",
-      "link": "https://www.zhihu.com/question/1908531885698683097",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "工作经常内耗怎么办？",
-      "link": "https://www.zhihu.com/question/1919927576324989103",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "哪一瞬间让你觉得科学是浪漫的？",
-      "link": "https://www.zhihu.com/question/1947312384726271566",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "如何评价《三角洲行动》 新干员「银翼」？",
-      "link": "https://www.zhihu.com/question/1949907760431985785",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "25-26 赛季英超联赛英超第 4 轮伯恩利 0:1 利物浦，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1950666175945118616",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "《大明王朝 1566》赵贞吉为什么要给海瑞使绊子？",
-      "link": "https://www.zhihu.com/question/1945970777427019478",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "35",
       "title": "乡镇上班，买油车还是电车?",
       "link": "https://www.zhihu.com/question/1950693739568805325",
       "heat": "58 万热度"
     },
     {
-      "rank": "36",
+      "rank": "28",
       "title": "达芬奇的《最后的晚餐》为什么会出名，真正的意义是什么？",
       "link": "https://www.zhihu.com/question/322658025",
       "heat": "58 万热度"
     },
     {
-      "rank": "37",
-      "title": "为什么很多人开始反思「临时生活」了？你有过这种感受吗？该怎样摆脱「凑合」「等待」的过渡心态？",
-      "link": "https://www.zhihu.com/question/1949757326983692726",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "为什么 ti14 比赛第四局 xg 没有选择继续 ban 沙王?",
-      "link": "https://www.zhihu.com/question/1950763517272658928",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "TI14 总决赛 Falcons 3:2 击败中国战队 XG 夺得冠军，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1950650298340213390",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "黄鳝泥鳅这种在国内被视为滋补佳肴的淡水生物，为啥在西方餐桌上几乎绝迹？是文化不同还是口味差异？",
-      "link": "https://www.zhihu.com/question/1949856982438776952",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "清弓和日本弓哪个性能更优越?",
-      "link": "https://www.zhihu.com/question/666453984",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "餐厅预制菜国标草案已过审，将公开征求意见，你如何判定预制菜？预制菜产业如何健康发展？",
-      "link": "https://www.zhihu.com/question/1950223421741971084",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "人都说顺其自然，其实一点都不是，而是实在别无选择的选择，您认为对吗？",
-      "link": "https://www.zhihu.com/question/1949162141371306802",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "44",
+      "rank": "29",
       "title": "Agent store 平台 MuleRun (骡子快跑) 海外走红，如何使用？有哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1950866027371013832",
       "heat": "58 万热度"
     },
     {
-      "rank": "45",
-      "title": "2025WTT 澳门冠军赛女单决赛，孙颖莎 4 比 3 王曼昱夺冠，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1950642942118166631",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "30",
       "title": "哪些游戏术语已经融入了我们的日常生活？",
       "link": "https://www.zhihu.com/question/1949078695672262860",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
+      "rank": "31",
+      "title": "清弓和日本弓哪个性能更优越?",
+      "link": "https://www.zhihu.com/question/666453984",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "为什么 ti14 比赛第四局 xg 没有选择继续 ban 沙王?",
+      "link": "https://www.zhihu.com/question/1950763517272658928",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "为什么很多人开始反思「临时生活」了？你有过这种感受吗？该怎样摆脱「凑合」「等待」的过渡心态？",
+      "link": "https://www.zhihu.com/question/1949757326983692726",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "餐厅预制菜国标草案已过审，将公开征求意见，你如何判定预制菜？预制菜产业如何健康发展？",
+      "link": "https://www.zhihu.com/question/1950223421741971084",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "黄鳝泥鳅这种在国内被视为滋补佳肴的淡水生物，为啥在西方餐桌上几乎绝迹？是文化不同还是口味差异？",
+      "link": "https://www.zhihu.com/question/1949856982438776952",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "2025WTT 澳门冠军赛女单决赛，孙颖莎 4 比 3 王曼昱夺冠，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1950642942118166631",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "《大明王朝 1566》赵贞吉为什么要给海瑞使绊子？",
+      "link": "https://www.zhihu.com/question/1945970777427019478",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "TI14 总决赛 Falcons 3:2 击败中国战队 XG 夺得冠军，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1950650298340213390",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "电影《731》发布「恶魔的面具」主题预告，从中透露出哪些细节？",
+      "link": "https://www.zhihu.com/question/1950876838982283961",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "40",
       "title": "未来 20 年，太空电梯技术能否从设想变为现实？会彻底改变人类进入太空的成本和方式吗？",
       "link": "https://www.zhihu.com/question/1943993374509078227",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
+      "rank": "41",
       "title": "练字四年，基本没有进步，为什么?",
       "link": "https://www.zhihu.com/question/1907784336125715636",
       "heat": "58 万热度"
     },
     {
-      "rank": "49",
+      "rank": "42",
+      "title": "有没有可能发明一种没有 GC 且能保证完全没有内存泄露的编程语言?",
+      "link": "https://www.zhihu.com/question/653377812",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "领导的威严是怎么树立起来的？",
+      "link": "https://www.zhihu.com/question/12569527315",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "人类能不能进化出类似于植物的光合作用能力？",
+      "link": "https://www.zhihu.com/question/1949148925878595705",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "45",
       "title": "为什么欧美白人不像在美洲澳洲一样在非洲建立一些欧美白人为主导的国家？",
       "link": "https://www.zhihu.com/question/1948072554070779288",
       "heat": "58 万热度"
     },
     {
+      "rank": "46",
+      "title": "如何评价电视剧《一把青》？",
+      "link": "https://www.zhihu.com/question/39506428",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "早八赶课总是来不及化妆，有哪些 5 分钟就能搞定的「伪素颜」 彩妆神器？",
+      "link": "https://www.zhihu.com/question/1941566372258771823",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "2025 年我国电影总票房破 400 亿，比去年提前 76 天，如何评价这一成绩？",
+      "link": "https://www.zhihu.com/question/1950182827640447091",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "《死神》结局中，赫利贝尔当虚圈之王，葛力姆乔会服她吗，会不会去挑战她的地位?",
+      "link": "https://www.zhihu.com/question/658981297",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "50",
-      "title": "有没有可能发明一种没有 GC 且能保证完全没有内存泄露的编程语言?",
-      "link": "https://www.zhihu.com/question/653377812",
+      "title": "加密货币估值是不是一场集体叙事的「共识估值」？",
+      "link": "https://www.zhihu.com/question/1948408609089221359",
       "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-09-15 20:51:28"
+  "generated_at": "2025-09-15 21:30:40"
 }
