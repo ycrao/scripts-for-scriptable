@@ -1,30 +1,30 @@
 {
-  "artifact_id": "390a0b3b-0873-4b65-815d-7cd9e2b31b1e",
+  "artifact_id": "4f9d088d-89ac-40db-8fd1-04a982ce7cab",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何评价小米跳过数字 16 直接发布「小米 17 系列」？",
       "link": "https://www.zhihu.com/question/1950864277209612738",
-      "heat": "1446 万热度"
+      "heat": "1371 万热度"
     },
     {
       "rank": "2",
       "title": "英伟达违反反垄断法，市场监管总局依法决定实施进一步调查，进一步调查意味着什么？会带来怎样的影响？",
       "link": "https://www.zhihu.com/question/1950953407306236650",
-      "heat": "307 万热度"
+      "heat": "313 万热度"
     },
     {
       "rank": "3",
       "title": "如何看待「湘超」揭幕战禁止带水进场，场内矿泉水需要 6 元一瓶？",
       "link": "https://www.zhihu.com/question/1949798218364872034",
-      "heat": "250 万热度"
+      "heat": "252 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待河南一女子花费 13500 元报携程报高端纯玩云南游竟然是转手服务，高端游变「二手团」？",
       "link": "https://www.zhihu.com/question/1949913643236984543",
-      "heat": "153 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "5",
@@ -42,25 +42,25 @@
       "rank": "7",
       "title": "微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？",
       "link": "https://www.zhihu.com/question/1949419248297419587",
-      "heat": "113 万热度"
+      "heat": "114 万热度"
     },
     {
       "rank": "8",
       "title": "既然巴菲特的持仓是公开的，为什么我们不能跟着巴菲特买呢？",
       "link": "https://www.zhihu.com/question/662354024",
-      "heat": "99 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "9",
       "title": "如何评价 2025 年 9 月 15 日发布的魅族 22，有哪些亮点和槽点？",
       "link": "https://www.zhihu.com/question/1950918702200497482",
-      "heat": "84 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "10",
-      "title": "世界上最大的宝石是什么宝石？",
-      "link": "https://www.zhihu.com/question/429231337",
-      "heat": "84 万热度"
+      "title": "LPL 2025 赛季季后赛胜者组决赛 TES 2:3 不敌 BLG，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1951010936702898205",
+      "heat": "83 万热度"
     },
     {
       "rank": "11",
@@ -84,43 +84,43 @@
       "rank": "14",
       "title": "上市没几天 iPhone 17 已破发，拼多多补贴后全系直降 900 元，这对苹果价格体系有何影响？",
       "link": "https://www.zhihu.com/question/1950838683767894963",
-      "heat": "83 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "15",
       "title": "为什么迄今为止刺杀重要人物都是用炸弹、狙击枪等，从来没有人用迫击炮？",
       "link": "https://www.zhihu.com/question/1949917116795971451",
-      "heat": "83 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "16",
       "title": "29 岁男星蒋智豪确诊癌症晚期，为什么不抽烟年纪轻轻的他却得了肺癌？日常生活要注意什么？",
       "link": "https://www.zhihu.com/question/1950235621982434649",
-      "heat": "83 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "17",
-      "title": "LPL 2025 赛季季后赛胜者组决赛 TES 2:3 不敌 BLG，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1951010936702898205",
-      "heat": "83 万热度"
-    },
-    {
-      "rank": "18",
       "title": "以毛尖、茉莉花茶、普洱茶等为原料精酿的中式啤酒扎堆上市，如何评价这种混搭？市场前景如何？",
       "link": "https://www.zhihu.com/question/1950213315809731758",
       "heat": "81 万热度"
     },
     {
-      "rank": "19",
+      "rank": "18",
       "title": "苏联解体，是偶然还是必然？",
       "link": "https://www.zhihu.com/question/1949843158214108399",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "为什么海豚是食肉动物，却很少袭击人类？",
       "link": "https://www.zhihu.com/question/307959235",
       "heat": "73 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "世界上最大的宝石是什么宝石？",
+      "link": "https://www.zhihu.com/question/429231337",
+      "heat": "70 万热度"
     },
     {
       "rank": "21",
@@ -132,7 +132,7 @@
       "rank": "22",
       "title": "大学生不喜欢上课的真正原因是什么？",
       "link": "https://www.zhihu.com/question/1948829590215697594",
-      "heat": "66 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "23",
@@ -154,154 +154,154 @@
     },
     {
       "rank": "26",
-      "title": "如何从心理学角度理解「磕学家」的快乐？「纸片人」为什么如此让人上瘾？",
-      "link": "https://www.zhihu.com/question/1936453966926943258",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "如果早餐午餐和晚餐必须不吃一餐，最好不吃哪一餐？",
-      "link": "https://www.zhihu.com/question/291979672",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "《死神》结局中，赫利贝尔当虚圈之王，葛力姆乔会服她吗，会不会去挑战她的地位?",
-      "link": "https://www.zhihu.com/question/658981297",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "为什么我会疯狂渴望被爱？",
-      "link": "https://www.zhihu.com/question/1944190387943118426",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "如何评价《崩坏：星穹铁道》9 月 15 日更新的混沌回忆：创世之柱？",
-      "link": "https://www.zhihu.com/question/1950861133167691179",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
       "title": "为什么感觉身边的每个人过的都比自己好?",
       "link": "https://www.zhihu.com/question/351656444",
       "heat": "58 万热度"
     },
     {
-      "rank": "32",
-      "title": "早八赶课总是来不及化妆，有哪些 5 分钟就能搞定的「伪素颜」 彩妆神器？",
-      "link": "https://www.zhihu.com/question/1941566372258771823",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "加密货币估值是不是一场集体叙事的「共识估值」？",
-      "link": "https://www.zhihu.com/question/1948408609089221359",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "34",
+      "rank": "27",
       "title": "2025 年我国电影总票房破 400 亿，比去年提前 76 天，如何评价这一成绩？",
       "link": "https://www.zhihu.com/question/1950182827640447091",
       "heat": "58 万热度"
     },
     {
-      "rank": "35",
-      "title": "TI14 总决赛 Falcons 3:2 击败中国战队 XG 夺得冠军，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1950650298340213390",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "36",
+      "rank": "28",
       "title": "清弓和日本弓哪个性能更优越?",
       "link": "https://www.zhihu.com/question/666453984",
       "heat": "58 万热度"
     },
     {
-      "rank": "37",
+      "rank": "29",
+      "title": "早八赶课总是来不及化妆，有哪些 5 分钟就能搞定的「伪素颜」 彩妆神器？",
+      "link": "https://www.zhihu.com/question/1941566372258771823",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "加密货币估值是不是一场集体叙事的「共识估值」？",
+      "link": "https://www.zhihu.com/question/1948408609089221359",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "TI14 总决赛 Falcons 3:2 击败中国战队 XG 夺得冠军，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1950650298340213390",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "如何评价《崩坏：星穹铁道》9 月 15 日更新的混沌回忆：创世之柱？",
+      "link": "https://www.zhihu.com/question/1950861133167691179",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "为什么我会疯狂渴望被爱？",
+      "link": "https://www.zhihu.com/question/1944190387943118426",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "34",
       "title": "为什么欧美白人不像在美洲澳洲一样在非洲建立一些欧美白人为主导的国家？",
       "link": "https://www.zhihu.com/question/1948072554070779288",
       "heat": "58 万热度"
     },
     {
-      "rank": "38",
-      "title": "如何评价电视剧《一把青》？",
-      "link": "https://www.zhihu.com/question/39506428",
+      "rank": "35",
+      "title": "《死神》结局中，赫利贝尔当虚圈之王，葛力姆乔会服她吗，会不会去挑战她的地位?",
+      "link": "https://www.zhihu.com/question/658981297",
       "heat": "58 万热度"
     },
     {
-      "rank": "39",
-      "title": "当下的学生最缺少什么教育？",
-      "link": "https://www.zhihu.com/question/1947795350262879049",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "36",
       "title": "同样是对标安卓系统，为什么谷歌的 Fuchsia 死了，而华为的鸿蒙却愈发壮大？",
       "link": "https://www.zhihu.com/question/1908531885698683097",
       "heat": "58 万热度"
     },
     {
-      "rank": "41",
-      "title": "为什么 ti14 比赛第四局 xg 没有选择继续 ban 沙王?",
-      "link": "https://www.zhihu.com/question/1950763517272658928",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "人都说顺其自然，其实一点都不是，而是实在别无选择的选择，您认为对吗？",
-      "link": "https://www.zhihu.com/question/1949162141371306802",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "哪些游戏术语已经融入了我们的日常生活？",
-      "link": "https://www.zhihu.com/question/1949078695672262860",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "达芬奇的《最后的晚餐》为什么会出名，真正的意义是什么？",
-      "link": "https://www.zhihu.com/question/322658025",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "在风云变幻的如今，我们普通人应该做点什么？",
-      "link": "https://www.zhihu.com/question/1915468600485058471",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "37",
       "title": "电影《731》发布「恶魔的面具」主题预告，从中透露出哪些细节？",
       "link": "https://www.zhihu.com/question/1950876838982283961",
       "heat": "58 万热度"
     },
     {
-      "rank": "47",
-      "title": "餐厅预制菜国标草案已过审，将公开征求意见，你如何判定预制菜？预制菜产业如何健康发展？",
-      "link": "https://www.zhihu.com/question/1950223421741971084",
+      "rank": "38",
+      "title": "人都说顺其自然，其实一点都不是，而是实在别无选择的选择，您认为对吗？",
+      "link": "https://www.zhihu.com/question/1949162141371306802",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
+      "rank": "39",
+      "title": "为什么 ti14 比赛第四局 xg 没有选择继续 ban 沙王?",
+      "link": "https://www.zhihu.com/question/1950763517272658928",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "达芬奇的《最后的晚餐》为什么会出名，真正的意义是什么？",
+      "link": "https://www.zhihu.com/question/322658025",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "哪些游戏术语已经融入了我们的日常生活？",
+      "link": "https://www.zhihu.com/question/1949078695672262860",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "在风云变幻的如今，我们普通人应该做点什么？",
+      "link": "https://www.zhihu.com/question/1915468600485058471",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "43",
       "title": "工作经常内耗怎么办？",
       "link": "https://www.zhihu.com/question/1919927576324989103",
       "heat": "58 万热度"
     },
     {
-      "rank": "49",
+      "rank": "44",
+      "title": "Ame 三度打进 TI 总决赛却均告失利，这背后原因有哪些？",
+      "link": "https://www.zhihu.com/question/1950865655877329525",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "如何从心理学角度理解「磕学家」的快乐？「纸片人」为什么如此让人上瘾？",
+      "link": "https://www.zhihu.com/question/1936453966926943258",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
       "title": "哪一瞬间让你觉得科学是浪漫的？",
       "link": "https://www.zhihu.com/question/1947312384726271566",
       "heat": "57 万热度"
     },
     {
-      "rank": "50",
+      "rank": "47",
       "title": "《大明王朝 1566》赵贞吉为什么要给海瑞使绊子？",
       "link": "https://www.zhihu.com/question/1945970777427019478",
       "heat": "57 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "黄鳝泥鳅这种在国内被视为滋补佳肴的淡水生物，为啥在西方餐桌上几乎绝迹？是文化不同还是口味差异？",
+      "link": "https://www.zhihu.com/question/1949856982438776952",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "当我们在讨论反感预制菜时，到底反感的是什么？",
+      "link": "https://www.zhihu.com/question/1950488735792719372",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "乡镇上班，买油车还是电车?",
+      "link": "https://www.zhihu.com/question/1950693739568805325",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-09-15 22:42:17"
+  "generated_at": "2025-09-15 22:54:47"
 }
