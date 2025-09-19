@@ -1,120 +1,120 @@
 {
-  "artifact_id": "1929f199-6484-4bc3-9f6d-9e45329924ac",
+  "artifact_id": "102dd847-4554-4de3-bcf4-3337b24eae9a",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "「传说机型」歼 -6 无人机首次现身长春航展，该机型有哪些亮点？",
-      "link": "https://www.zhihu.com/question/1952291462914994537",
-      "heat": "558 万热度"
+      "title": "王自如与罗永浩辩论时应当说什么才能反杀老罗？",
+      "link": "https://www.zhihu.com/question/25015684",
+      "heat": "304 万热度"
     },
     {
       "rank": "2",
-      "title": "王自如与罗永浩辩论时应当说什么才能反杀老罗？",
-      "link": "https://www.zhihu.com/question/25015684",
-      "heat": "298 万热度"
+      "title": "女子捡板栗穿雨靴仍被五步蛇咬穿，五步蛇攻击性怎么这么强？",
+      "link": "https://www.zhihu.com/question/1952097156581253413",
+      "heat": "295 万热度"
     },
     {
       "rank": "3",
-      "title": "女子捡板栗穿雨靴仍被五步蛇咬穿，五步蛇攻击性怎么这么强？",
-      "link": "https://www.zhihu.com/question/1952097156581253413",
-      "heat": "287 万热度"
+      "title": "「传说机型」歼 -6 无人机首次现身长春航展，该机型有哪些亮点？",
+      "link": "https://www.zhihu.com/question/1952291462914994537",
+      "heat": "240 万热度"
     },
     {
       "rank": "4",
       "title": "马云被曝全面回归阿里，真实性如何？他如果真的回归，能给企业带来哪些帮助？",
       "link": "https://www.zhihu.com/question/1951958406157046823",
-      "heat": "209 万热度"
+      "heat": "171 万热度"
     },
     {
       "rank": "5",
+      "title": "为什么中国地铁速度始终是每小时 80 公里，不能更快了？",
+      "link": "https://www.zhihu.com/question/295280552",
+      "heat": "100 万热度"
+    },
+    {
+      "rank": "6",
       "title": "2526 欧冠联赛第 1 轮，纽卡斯尔 1:2 巴塞罗那，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1952206428652679559",
       "heat": "100 万热度"
     },
     {
-      "rank": "6",
-      "title": "云海肴创始人赵晗因心梗去世，年仅 40 岁，导致其心梗诱因有哪些？餐饮创业者普遍面临哪些压力？",
-      "link": "https://www.zhihu.com/question/1952360371429011474",
-      "heat": "99 万热度"
-    },
-    {
       "rank": "7",
-      "title": "为什么中国地铁速度始终是每小时 80 公里，不能更快了？",
-      "link": "https://www.zhihu.com/question/295280552",
-      "heat": "98 万热度"
+      "title": "为什么面馆里煮面要用清水煮，而不用高汤直接煮呢？",
+      "link": "https://www.zhihu.com/question/554878851",
+      "heat": "94 万热度"
     },
     {
       "rank": "8",
       "title": "「嘎子哥」谢孟伟被拘后新电影戏份将换人重拍，对制作方损失有多大？他应该承担制作方损失吗？",
       "link": "https://www.zhihu.com/question/1952056115429863516",
-      "heat": "97 万热度"
+      "heat": "86 万热度"
     },
     {
       "rank": "9",
-      "title": "为什么面馆里煮面要用清水煮，而不用高汤直接煮呢？",
-      "link": "https://www.zhihu.com/question/554878851",
-      "heat": "96 万热度"
+      "title": "外网热议的年度最佳游戏候选名单，你认为哪些游戏是有力竞争者？",
+      "link": "https://www.zhihu.com/question/1952124893090025900",
+      "heat": "78 万热度"
     },
     {
       "rank": "10",
-      "title": "外网热议的年度最佳游戏候选名单，你认为哪些游戏是有力竞争者？",
-      "link": "https://www.zhihu.com/question/1952124893090025900",
-      "heat": "77 万热度"
+      "title": "为什么很多小公司开始委以重任的人干一段时间就会选择离开呢？",
+      "link": "https://www.zhihu.com/question/1921479426811593079",
+      "heat": "71 万热度"
     },
     {
       "rank": "11",
       "title": "翟欣欣敲诈勒索案一审获刑 12 年，曾索要千万逼死前夫，如何从法律角度解读此案？",
       "link": "https://www.zhihu.com/question/1952319674403485146",
-      "heat": "73 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "12",
-      "title": "当一个人下定决心要改变自己时，真的可以改变吗？",
-      "link": "https://www.zhihu.com/question/653119748",
+      "title": "云海肴创始人赵晗因心梗去世，年仅 40 岁，导致其心梗诱因有哪些？餐饮创业者普遍面临哪些压力？",
+      "link": "https://www.zhihu.com/question/1952360371429011474",
       "heat": "70 万热度"
     },
     {
       "rank": "13",
-      "title": "为什么很多小公司开始委以重任的人干一段时间就会选择离开呢？",
-      "link": "https://www.zhihu.com/question/1921479426811593079",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "14",
       "title": "Windows 内核的私有 api 是怎么被发现的?",
       "link": "https://www.zhihu.com/question/826943704",
       "heat": "68 万热度"
     },
     {
+      "rank": "14",
+      "title": "为什么当前的多模态大模型更侧重「多模态理解」，而不是「多模态生成」？",
+      "link": "https://www.zhihu.com/question/5869685595",
+      "heat": "65 万热度"
+    },
+    {
       "rank": "15",
       "title": "《黑神话》被列入吉尼斯世界纪录，并被称为改编最成功的单机游戏，对此你怎么看？",
       "link": "https://www.zhihu.com/question/1951985459317171489",
-      "heat": "67 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "16",
       "title": "加沙停火决议草案再遭美一票否决，以色列军事行动持续，特朗普反对英国承认巴勒斯坦国，如何看待当前局势？",
       "link": "https://www.zhihu.com/question/1952303889517883438",
-      "heat": "67 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "17",
       "title": "年轻人专研「邪修」省钱大法，假装有娃要养、「哄骗」自己在欧洲，这是一种什么心理？真能攒下钱来吗？",
       "link": "https://www.zhihu.com/question/1951300063067333711",
-      "heat": "67 万热度"
+      "heat": "60 万热度"
     },
     {
       "rank": "18",
       "title": "如何看待《西游记》中孙悟空自己是妖怪，却杀妖怪杀得最狠？",
       "link": "https://www.zhihu.com/question/417700274",
-      "heat": "66 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "19",
-      "title": "为什么当前的多模态大模型更侧重「多模态理解」，而不是「多模态生成」？",
-      "link": "https://www.zhihu.com/question/5869685595",
-      "heat": "65 万热度"
+      "title": "当一个人下定决心要改变自己时，真的可以改变吗？",
+      "link": "https://www.zhihu.com/question/653119748",
+      "heat": "59 万热度"
     },
     {
       "rank": "20",
@@ -130,80 +130,80 @@
     },
     {
       "rank": "22",
-      "title": "胖东来回应酥饼 10 号揽收 11 号生产，称订单当日实物未发出，物流信息未更新，如何看待这一回应？",
-      "link": "https://www.zhihu.com/question/1952280427889915465",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "2025 年法考客观题成绩 9 月 19 日公布，考过了吗？心情怎么样？",
-      "link": "https://www.zhihu.com/question/1952051568284233752",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "9 月 17 日关晓彤 28 岁生日鹿晗未卡零点发文，中断连续 8 年的庆生惯例，两人是否真的分手？",
-      "link": "https://www.zhihu.com/question/1951448676854665561",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "《731》首日票房破 3 亿，是春节档之后首部单日破 3 亿的影片，你预测这部电影票房能到多少？",
-      "link": "https://www.zhihu.com/question/1952171459553240601",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "有哪些令人为之惊叹的数学题目？",
-      "link": "https://www.zhihu.com/question/298657281",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "27",
       "title": "如何评价小米 17Pro 的外观?",
       "link": "https://www.zhihu.com/question/1951260645317129153",
       "heat": "57 万热度"
     },
     {
+      "rank": "23",
+      "title": "如何评价全智贤、姜东元主演韩剧《暴风圈》？",
+      "link": "https://www.zhihu.com/question/1949106560337937065",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "9 月 17 日关晓彤 28 岁生日鹿晗未卡零点发文，中断连续 8 年的庆生惯例，两人是否真的分手？",
+      "link": "https://www.zhihu.com/question/1951448676854665561",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "既然木星是一颗气态行星，为啥天体撞击木星，却不能直接穿过去？",
+      "link": "https://www.zhihu.com/question/1934195764122322262",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "拼多多兜底偏远地区物流中转费的这一年，你的生活有什么变化吗？",
+      "link": "https://www.zhihu.com/question/1951632303748002953",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "《笑傲江湖》里令狐冲为什么不告诉师父思过崖山洞?",
+      "link": "https://www.zhihu.com/question/375591764",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "28",
-      "title": "为什么《让我们荡起双桨》有一种淡淡的哀伤？",
-      "link": "https://www.zhihu.com/question/49688722",
+      "title": "在职场中如鱼得水的人有哪些特质？",
+      "link": "https://www.zhihu.com/question/1949643502989324462",
       "heat": "57 万热度"
     },
     {
       "rank": "29",
-      "title": "很多泡面的汤料包都会有一句：「三分钟后再加，味道更好」，是故弄玄虚，还是真能使味道更好？",
-      "link": "https://www.zhihu.com/question/1910231305607710182",
+      "title": "同事很会来事，经常推脱自己的工作，领导只能把工作推给我做，我不是很想做，怎么办？",
+      "link": "https://www.zhihu.com/question/1942891766018712888",
       "heat": "57 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么工科研究生都倾向于做研发，而对非研发尤其销售有一定的排斥？",
-      "link": "https://www.zhihu.com/question/1950256711945397835",
+      "title": "美联储如期降息 25bp，从历史看 A 股会受怎样的影响？",
+      "link": "https://www.zhihu.com/question/1951902859433050220",
       "heat": "57 万热度"
     },
     {
       "rank": "31",
-      "title": "想拿下广深的游戏大厂 offer，今年的秋招可以提前做哪些准备？",
-      "link": "https://www.zhihu.com/question/1949118785991705167",
+      "title": "可以推荐一部你喜欢的动漫吗？",
+      "link": "https://www.zhihu.com/question/421511239",
       "heat": "57 万热度"
     },
     {
       "rank": "32",
-      "title": "有人说『选择大于努力’，也有人说』不努力连选择的资格都没有’，你更认同哪一种？",
-      "link": "https://www.zhihu.com/question/1951804032600507561",
+      "title": "HMO（母乳低聚糖）到底是什么？为什么被称为「黄金成分」，花贵价买 HMO 奶粉真的值得吗？",
+      "link": "https://www.zhihu.com/question/1951964396290028262",
       "heat": "57 万热度"
     },
     {
       "rank": "33",
-      "title": "奥迪 E5 Sportback 售价 23.59 万元起，辅助驾驶全系终身免费，20 万级纯电奥迪能否闭眼买？",
-      "link": "https://www.zhihu.com/question/1951399619872388641",
+      "title": "为什么明明很想改变现状，却总忍不住重复摆烂、拖延的行为，是心理在「故意」和自己作对吗？",
+      "link": "https://www.zhihu.com/question/1950982066897412840",
       "heat": "57 万热度"
     },
     {
       "rank": "34",
-      "title": "生孩子那天的每个细节你们都记得吗？",
-      "link": "https://www.zhihu.com/question/631081096",
+      "title": "原神仆人传说任务是不是故意削弱旅行者？",
+      "link": "https://www.zhihu.com/question/653992507",
       "heat": "57 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
-      "title": "可不可以把每个人大脑里面负责情感的部分切除，确保每个人都极度理性，以此提高社会的效率？",
-      "link": "https://www.zhihu.com/question/1951465552355783777",
+      "title": "你生活中有哪些可以讲成段子的真实经历？",
+      "link": "https://www.zhihu.com/question/1950934725234487805",
       "heat": "57 万热度"
     },
     {
       "rank": "38",
-      "title": "为什么说江西小炒是预制菜克星？它有哪些特点是预制菜永远做不到的？",
-      "link": "https://www.zhihu.com/question/1951383818234717319",
+      "title": "2025 英雄联盟亚洲邀请赛即将举行，你对该赛事有哪些期待？",
+      "link": "https://www.zhihu.com/question/1951669330010957379",
       "heat": "57 万热度"
     },
     {
       "rank": "39",
-      "title": "为什么美军要用客机改空中加油机，而不是基于 C17 和 C5？",
-      "link": "https://www.zhihu.com/question/1950321847322281354",
+      "title": "奥迪 E5 Sportback 售价 23.59 万元起，辅助驾驶全系终身免费，20 万级纯电奥迪能否闭眼买？",
+      "link": "https://www.zhihu.com/question/1951399619872388641",
       "heat": "57 万热度"
     },
     {
       "rank": "40",
+      "title": "线性代数的核心思想是什么？",
+      "link": "https://www.zhihu.com/question/608226774",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "如果有机会为你珍藏的童年玩具办一场时光博物展，你会提名哪位「老朋友」带着你们的故事参展？",
+      "link": "https://www.zhihu.com/question/1951595705752838794",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "为何四论 (证明论，模型论，递归论，集合论) 明明是数学和计算机科学的基础，计算机科学与技术专业却不教?",
+      "link": "https://www.zhihu.com/question/1948167289422722459",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "43",
       "title": "有哪些瞬间让你觉得「住的好」这件事真的很重要？",
       "link": "https://www.zhihu.com/question/1941519776770912611",
       "heat": "57 万热度"
     },
     {
-      "rank": "41",
-      "title": "可以推荐一部你喜欢的动漫吗？",
-      "link": "https://www.zhihu.com/question/421511239",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "目前能力到哪种程度的程序员还暂时不会被 ai 替代？",
-      "link": "https://www.zhihu.com/question/1940357061255860465",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "既然木星是一颗气态行星，为啥天体撞击木星，却不能直接穿过去？",
-      "link": "https://www.zhihu.com/question/1934195764122322262",
-      "heat": "57 万热度"
-    },
-    {
       "rank": "44",
-      "title": "如何评价全智贤、姜东元主演韩剧《暴风圈》？",
-      "link": "https://www.zhihu.com/question/1949106560337937065",
+      "title": "为什么有些人口才很好，销售业绩却不行？",
+      "link": "https://www.zhihu.com/question/1916974259860924306",
       "heat": "57 万热度"
     },
     {
       "rank": "45",
-      "title": "《笑傲江湖》里令狐冲为什么不告诉师父思过崖山洞?",
-      "link": "https://www.zhihu.com/question/375591764",
+      "title": "内向的人，出路在哪里？",
+      "link": "https://www.zhihu.com/question/614686498",
       "heat": "57 万热度"
     },
     {
       "rank": "46",
-      "title": "在职场中如鱼得水的人有哪些特质？",
-      "link": "https://www.zhihu.com/question/1949643502989324462",
+      "title": "新手小白完全不会搭配，买衣服总踩雷，有没有比较万能的穿搭公式和单品？",
+      "link": "https://www.zhihu.com/question/1941566372405581368",
       "heat": "57 万热度"
     },
     {
       "rank": "47",
-      "title": "拼多多兜底偏远地区物流中转费的这一年，你的生活有什么变化吗？",
-      "link": "https://www.zhihu.com/question/1951632303748002953",
+      "title": "有哪些 985 高校如今已经名不副实了？",
+      "link": "https://www.zhihu.com/question/434189175",
       "heat": "57 万热度"
     },
     {
       "rank": "48",
-      "title": "美联储如期降息 25bp，从历史看 A 股会受怎样的影响？",
-      "link": "https://www.zhihu.com/question/1951902859433050220",
+      "title": "明明平时看着挺坚强，怎么突然就「撑不住了」？心理承受极限真的会突然「破防」吗？",
+      "link": "https://www.zhihu.com/question/1947267600900953977",
       "heat": "57 万热度"
     },
     {
       "rank": "49",
-      "title": "同事很会来事，经常推脱自己的工作，领导只能把工作推给我做，我不是很想做，怎么办？",
-      "link": "https://www.zhihu.com/question/1942891766018712888",
+      "title": "角动量的本质是什么?",
+      "link": "https://www.zhihu.com/question/660800571",
       "heat": "57 万热度"
     },
     {
       "rank": "50",
-      "title": "HMO（母乳低聚糖）到底是什么？为什么被称为「黄金成分」，花贵价买 HMO 奶粉真的值得吗？",
-      "link": "https://www.zhihu.com/question/1951964396290028262",
+      "title": "请问巴西柔术的恐怖之处在哪里？",
+      "link": "https://www.zhihu.com/question/662245479",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-09-20 00:29:17"
+  "generated_at": "2025-09-20 00:47:46"
 }
