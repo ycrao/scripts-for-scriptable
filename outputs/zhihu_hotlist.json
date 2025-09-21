@@ -1,54 +1,54 @@
 {
-  "artifact_id": "d8e46a3f-9da1-4169-a5d4-6246c36f93b2",
+  "artifact_id": "297e197c-120d-4dad-84cb-4a2ae8351320",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "17 级台风「桦加沙」将袭广东，随时登陆、多次登陆，当地目前怎么样？影响有多大？",
       "link": "https://www.zhihu.com/question/1953107463130800325",
-      "heat": "578 万热度"
+      "heat": "577 万热度"
     },
     {
       "rank": "2",
       "title": "徽州一母亲将儿子去世后留下的 3 万斤藏书贩卖，如何看待她这一做法？亲人离世后的遗物你会选择怎样处理？",
       "link": "https://www.zhihu.com/question/1952335272202182710",
-      "heat": "449 万热度"
+      "heat": "451 万热度"
     },
     {
       "rank": "3",
       "title": "国内大企拒绝下单英伟达的真正原因是什么？",
       "link": "https://www.zhihu.com/question/1952527457539294642",
-      "heat": "209 万热度"
+      "heat": "216 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待澳大利亚、加拿大、英国宣布承认巴勒斯坦国？对中东格局将产生怎样的影响？",
       "link": "https://www.zhihu.com/question/1953209311523201754",
-      "heat": "170 万热度"
+      "heat": "180 万热度"
     },
     {
       "rank": "5",
-      "title": "LPL 2025 赛季总决赛 BLG 3-2 TES，夺得年度总冠军，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1953107526343168776",
-      "heat": "115 万热度"
-    },
-    {
-      "rank": "6",
       "title": "韩国女星全智贤相关代言广告已被撤下，因此前主演韩剧《暴风圈》台词和画面引争议，对其影响有多大？",
       "link": "https://www.zhihu.com/question/1952744997553181158",
       "heat": "101 万热度"
     },
     {
-      "rank": "7",
+      "rank": "6",
       "title": "iPhone 17 Pro 真机线下展出，用户反馈满身划痕质感差，这反映了哪些问题？",
       "link": "https://www.zhihu.com/question/1952372440677226405",
-      "heat": "92 万热度"
+      "heat": "97 万热度"
+    },
+    {
+      "rank": "7",
+      "title": "LPL 2025 赛季总决赛 BLG 3-2 TES，夺得年度总冠军，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1953107526343168776",
+      "heat": "94 万热度"
     },
     {
       "rank": "8",
       "title": "怎么评价刘涛的长相和气质? 怎么评价她这个人？",
       "link": "https://www.zhihu.com/question/1943429264054678449",
-      "heat": "91 万热度"
+      "heat": "93 万热度"
     },
     {
       "rank": "9",
@@ -64,38 +64,38 @@
     },
     {
       "rank": "11",
-      "title": "如何看待电影《731》上映三天票房破 10 亿？",
-      "link": "https://www.zhihu.com/question/1952835002036352588",
-      "heat": "82 万热度"
+      "title": "如何评价悬疑剧《不眠日》大结局？",
+      "link": "https://www.zhihu.com/question/1953068133133836766",
+      "heat": "80 万热度"
     },
     {
       "rank": "12",
       "title": "谷歌试图说服 YouTube 用户弃用广告拦截器，这背后原因有哪些？",
       "link": "https://www.zhihu.com/question/1952104083063309302",
-      "heat": "79 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "13",
-      "title": "如何评价悬疑剧《不眠日》大结局？",
-      "link": "https://www.zhihu.com/question/1953068133133836766",
-      "heat": "79 万热度"
+      "title": "如何看待电影《731》上映三天票房破 10 亿？",
+      "link": "https://www.zhihu.com/question/1952835002036352588",
+      "heat": "73 万热度"
     },
     {
       "rank": "14",
-      "title": "陨石猎人算出「火流星」落地点，挖出 423 公斤的「茂名」，它具有哪些研究价值？",
-      "link": "https://www.zhihu.com/question/1952829008195580183",
-      "heat": "72 万热度"
+      "title": "为什么上海地铁一号线与高架共建的模式没有得到普及？",
+      "link": "https://www.zhihu.com/question/655137801",
+      "heat": "71 万热度"
     },
     {
       "rank": "15",
-      "title": "为什么上海地铁一号线与高架共建的模式没有得到普及？",
-      "link": "https://www.zhihu.com/question/655137801",
+      "title": "长三角经济一体化为什么有安徽？",
+      "link": "https://www.zhihu.com/question/285872018",
       "heat": "70 万热度"
     },
     {
       "rank": "16",
-      "title": "长三角经济一体化为什么有安徽？",
-      "link": "https://www.zhihu.com/question/285872018",
+      "title": "陨石猎人算出「火流星」落地点，挖出 423 公斤的「茂名」，它具有哪些研究价值？",
+      "link": "https://www.zhihu.com/question/1952829008195580183",
       "heat": "70 万热度"
     },
     {
@@ -136,62 +136,62 @@
     },
     {
       "rank": "23",
-      "title": "如何培养自己的商业思维能力？",
-      "link": "https://www.zhihu.com/question/337476148",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "如何处理脱离优绩主义后的价值虚无？",
-      "link": "https://www.zhihu.com/question/1951934927688926665",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "你觉得鸿蒙 NEXT 生态成熟大概要用几年?",
-      "link": "https://www.zhihu.com/question/659507433",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "26",
       "title": "为什么电视剧通常只拍上半身？",
       "link": "https://www.zhihu.com/question/525029164",
       "heat": "59 万热度"
     },
     {
+      "rank": "24",
+      "title": "如何培养自己的商业思维能力？",
+      "link": "https://www.zhihu.com/question/337476148",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "如何处理脱离优绩主义后的价值虚无？",
+      "link": "https://www.zhihu.com/question/1951934927688926665",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "你觉得鸿蒙 NEXT 生态成熟大概要用几年?",
+      "link": "https://www.zhihu.com/question/659507433",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "27",
-      "title": "电影《731》中有哪些细思极恐的细节？",
-      "link": "https://www.zhihu.com/question/1952529393680352365",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "浙大硕士从烟草公司离职回村隐居 8 年，如何看待他的选择？为什么社会难以理解这样的选择？",
-      "link": "https://www.zhihu.com/question/1952689417933251419",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "猫科动物的眼睛为什么能在夜间反光？",
-      "link": "https://www.zhihu.com/question/1929562360022041578",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "为什么感觉身边的人都在玩《三角洲行动》？",
-      "link": "https://www.zhihu.com/question/1953079559411986971",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
       "title": "如果让你当领导，你认为哪个特质最可能帮助到自己？",
       "link": "https://www.zhihu.com/question/1949470495067079989",
       "heat": "58 万热度"
     },
     {
-      "rank": "32",
+      "rank": "28",
+      "title": "电影《731》中有哪些细思极恐的细节？",
+      "link": "https://www.zhihu.com/question/1952529393680352365",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "浙大硕士从烟草公司离职回村隐居 8 年，如何看待他的选择？为什么社会难以理解这样的选择？",
+      "link": "https://www.zhihu.com/question/1952689417933251419",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "30",
       "title": "你有哪些像段子的亲身经历？",
       "link": "https://www.zhihu.com/question/48337357",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "猫科动物的眼睛为什么能在夜间反光？",
+      "link": "https://www.zhihu.com/question/1929562360022041578",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "为什么感觉身边的人都在玩《三角洲行动》？",
+      "link": "https://www.zhihu.com/question/1953079559411986971",
       "heat": "57 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "AI 生成的回答，算是一种「预制菜」回答么？",
-      "link": "https://www.zhihu.com/question/1952086151281205870",
+      "title": "奥迪 E5 Sportback 售价 23.59 万元起，辅助驾驶全系终身免费，20 万级纯电奥迪能否闭眼买？",
+      "link": "https://www.zhihu.com/question/1951399619872388641",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-09-22 06:21:12"
+  "generated_at": "2025-09-22 06:40:42"
 }
