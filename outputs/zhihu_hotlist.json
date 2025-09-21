@@ -1,125 +1,125 @@
 {
-  "artifact_id": "af48b7b5-2051-4d07-9ec4-a5d6630e3fc4",
+  "artifact_id": "e60ef5b9-ffae-478f-b441-730fd3d15cc1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "多位中国游客在法国遭抢劫，遭不法分子尾随暴力砸窗抢行李，他们为何如此猖獗？出国旅游如何保障安全？",
       "link": "https://www.zhihu.com/question/1952007737660629793",
-      "heat": "385 万热度"
+      "heat": "424 万热度"
     },
     {
       "rank": "2",
       "title": "OpenAI 在 ICPC 世界总决赛获得金牌，向我们释放了什么信号?",
       "link": "https://www.zhihu.com/question/1952087381579632727",
-      "heat": "192 万热度"
+      "heat": "206 万热度"
     },
     {
       "rank": "3",
       "title": "浙大硕士从烟草公司离职回村隐居 8 年，如何看待他的选择？为什么社会难以理解这样的选择？",
       "link": "https://www.zhihu.com/question/1952689417933251419",
-      "heat": "184 万热度"
+      "heat": "202 万热度"
     },
     {
       "rank": "4",
       "title": "如何评价始祖鸟、蔡国强就《升龙》艺术项目致歉？当前阶段有哪些可落地的补救措施？这一事件留下哪些警示？",
       "link": "https://www.zhihu.com/question/1953011895448592501",
-      "heat": "180 万热度"
+      "heat": "194 万热度"
     },
     {
       "rank": "5",
       "title": "当地回应喜马拉雅山脉烟花表演，称手续合规生态暂未受破坏，怎样看这一回应？后续对当地生态监控要注意什么？",
       "link": "https://www.zhihu.com/question/1952783560994944848",
-      "heat": "179 万热度"
+      "heat": "192 万热度"
     },
     {
       "rank": "6",
-      "title": "影视飓风李四维怒怼代理公司朗知，后称问题已解决，具体怎么回事？暴露了哪些行业乱象？",
-      "link": "https://www.zhihu.com/question/1952421167450292981",
-      "heat": "178 万热度"
+      "title": "韩国女星全智贤相关代言广告已被撤下，因此前主演韩剧《暴风圈》台词和画面引争议，对其影响有多大？",
+      "link": "https://www.zhihu.com/question/1952744997553181158",
+      "heat": "189 万热度"
     },
     {
       "rank": "7",
-      "title": "韩国女星全智贤相关代言广告已被撤下，因此前主演韩剧《暴风圈》台词和画面引争议，对其影响有多大？",
-      "link": "https://www.zhihu.com/question/1952744997553181158",
-      "heat": "178 万热度"
+      "title": "如何看待电影《731》上映三天票房破 10 亿？",
+      "link": "https://www.zhihu.com/question/1952835002036352588",
+      "heat": "185 万热度"
     },
     {
       "rank": "8",
-      "title": "如何看待电影《731》上映三天票房破 10 亿？",
-      "link": "https://www.zhihu.com/question/1952835002036352588",
-      "heat": "176 万热度"
-    },
-    {
-      "rank": "9",
       "title": "如何看待仰望 U9 极速突破到 496.22km/h 创造世界最快记录？",
       "link": "https://www.zhihu.com/question/1952843953356410919",
       "heat": "168 万热度"
     },
     {
+      "rank": "9",
+      "title": "尼安德特人、丹尼索瓦人再怎么低级，也比老虎狮子强吧，怎么会灭绝？",
+      "link": "https://www.zhihu.com/question/1952499192980279883",
+      "heat": "166 万热度"
+    },
+    {
       "rank": "10",
       "title": "AI 是让世界更有趣了，还是更无趣了？",
       "link": "https://www.zhihu.com/question/1949052887800963720",
-      "heat": "167 万热度"
+      "heat": "153 万热度"
     },
     {
       "rank": "11",
-      "title": "尼安德特人、丹尼索瓦人再怎么低级，也比老虎狮子强吧，怎么会灭绝？",
-      "link": "https://www.zhihu.com/question/1952499192980279883",
-      "heat": "167 万热度"
+      "title": "影视飓风李四维怒怼代理公司朗知，后称问题已解决，具体怎么回事？暴露了哪些行业乱象？",
+      "link": "https://www.zhihu.com/question/1952421167450292981",
+      "heat": "146 万热度"
     },
     {
       "rank": "12",
       "title": "媒体发文称外卖平台反复「补贴大战」正引发中小餐饮商户生存危机，如何客观看待这一现象？",
       "link": "https://www.zhihu.com/question/1951714972863303942",
-      "heat": "135 万热度"
+      "heat": "139 万热度"
     },
     {
       "rank": "13",
       "title": "多名车主起诉特斯拉欺诈，要求「退一赔三」，因购买完全自动驾驶功能却无法实现，怎样从法律角度解读？",
       "link": "https://www.zhihu.com/question/1952845447891742884",
-      "heat": "130 万热度"
+      "heat": "131 万热度"
     },
     {
       "rank": "14",
       "title": "蔡国强烟花艺术《升龙》亮相喜马拉雅山脉，烟火艺术如何平衡美学效果与环保？",
       "link": "https://www.zhihu.com/question/1952705560664302087",
-      "heat": "124 万热度"
+      "heat": "126 万热度"
     },
     {
       "rank": "15",
-      "title": "新三国就没有可取之处了吗？",
-      "link": "https://www.zhihu.com/question/1930343590443331980",
-      "heat": "118 万热度"
+      "title": "男子种猴面包树 18 年，2 棵已达结果要求，为什么这么久才会结果？这种植物有哪些价值？",
+      "link": "https://www.zhihu.com/question/1950884621404300541",
+      "heat": "122 万热度"
     },
     {
       "rank": "16",
-      "title": "为什么现在很多人认为南方大米没有东北大米好吃？",
-      "link": "https://www.zhihu.com/question/651582864",
-      "heat": "117 万热度"
+      "title": "新三国就没有可取之处了吗？",
+      "link": "https://www.zhihu.com/question/1930343590443331980",
+      "heat": "120 万热度"
     },
     {
       "rank": "17",
-      "title": "为什么古代中国没有其它文明那么多大型石砌建筑？",
-      "link": "https://www.zhihu.com/question/338390171",
-      "heat": "111 万热度"
+      "title": "为什么现在很多人认为南方大米没有东北大米好吃？",
+      "link": "https://www.zhihu.com/question/651582864",
+      "heat": "120 万热度"
     },
     {
       "rank": "18",
       "title": "如何看待俄罗斯军机违法侵入爱沙尼亚领空事件？",
       "link": "https://www.zhihu.com/question/1952631232455246760",
-      "heat": "110 万热度"
+      "heat": "117 万热度"
     },
     {
       "rank": "19",
-      "title": "男子种猴面包树 18 年，2 棵已达结果要求，为什么这么久才会结果？这种植物有哪些价值？",
-      "link": "https://www.zhihu.com/question/1950884621404300541",
-      "heat": "109 万热度"
+      "title": "为什么古代中国没有其它文明那么多大型石砌建筑？",
+      "link": "https://www.zhihu.com/question/338390171",
+      "heat": "115 万热度"
     },
     {
       "rank": "20",
-      "title": "究竟是什么让工蜂心甘情愿地为蜂后奉献自己的一生？",
-      "link": "https://www.zhihu.com/question/1952006488525607967",
+      "title": "中欧班列这么麻烦，为什么还要发展？",
+      "link": "https://www.zhihu.com/question/1942692247402452810",
       "heat": "106 万热度"
     },
     {
@@ -130,128 +130,128 @@
     },
     {
       "rank": "22",
-      "title": "中欧班列这么麻烦，为什么还要发展？",
-      "link": "https://www.zhihu.com/question/1942692247402452810",
-      "heat": "103 万热度"
+      "title": "如何评价阿里新开源的 Tongyi DeepResearch 模型？有什么亮眼和启发？",
+      "link": "https://www.zhihu.com/question/1951587761955009058",
+      "heat": "99 万热度"
     },
     {
       "rank": "23",
-      "title": "如何评价阿里新开源的 Tongyi DeepResearch 模型？有什么亮眼和启发？",
-      "link": "https://www.zhihu.com/question/1951587761955009058",
-      "heat": "98 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "有哪些日常用语其实是几十年前的「烂梗」？",
-      "link": "https://www.zhihu.com/question/6236741826",
-      "heat": "96 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "谢安为什么将侄女谢道韫许配给愚夫王凝之？",
-      "link": "https://www.zhihu.com/question/1944642051577737599",
-      "heat": "93 万热度"
-    },
-    {
-      "rank": "26",
       "title": "为什么兰博基尼、法拉利等不仿照保时捷推出百万左右的轿车？",
       "link": "https://www.zhihu.com/question/594757089",
       "heat": "91 万热度"
     },
     {
-      "rank": "27",
+      "rank": "24",
+      "title": "有哪些日常用语其实是几十年前的「烂梗」？",
+      "link": "https://www.zhihu.com/question/6236741826",
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "谢安为什么将侄女谢道韫许配给愚夫王凝之？",
+      "link": "https://www.zhihu.com/question/1944642051577737599",
+      "heat": "89 万热度"
+    },
+    {
+      "rank": "26",
       "title": "当科幻作家们的幻想抵不上科学上真正突破带来的震撼，科幻应该何去何从？",
       "link": "https://www.zhihu.com/question/1949758185649996419",
       "heat": "73 万热度"
     },
     {
-      "rank": "28",
-      "title": "从高级技术岗晋升管理层，如何补齐管理短板？",
-      "link": "https://www.zhihu.com/question/1950527888219670439",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "你喜欢用手机玩游戏还是电脑玩游戏？",
-      "link": "https://www.zhihu.com/question/1949236687805847492",
-      "heat": "69 万热度"
-    },
-    {
-      "rank": "30",
+      "rank": "27",
       "title": "编译器和反编译器哪个厉害，哪个更难于编写？",
       "link": "https://www.zhihu.com/question/337724426",
       "heat": "66 万热度"
     },
     {
-      "rank": "31",
-      "title": "若固态电池量产，蔚来的「换电」还有未来吗？",
-      "link": "https://www.zhihu.com/question/666257227",
-      "heat": "66 万热度"
+      "rank": "28",
+      "title": "从高级技术岗晋升管理层，如何补齐管理短板？",
+      "link": "https://www.zhihu.com/question/1950527888219670439",
+      "heat": "63 万热度"
     },
     {
-      "rank": "32",
-      "title": "什么样的员工容易被提拔为管理层？",
-      "link": "https://www.zhihu.com/question/654122483",
-      "heat": "61 万热度"
+      "rank": "29",
+      "title": "究竟是什么让工蜂心甘情愿地为蜂后奉献自己的一生？",
+      "link": "https://www.zhihu.com/question/1952006488525607967",
+      "heat": "60 万热度"
     },
     {
-      "rank": "33",
+      "rank": "30",
       "title": "杭州一女教师因在微信群传播不实信息，造谣另一女教师卖淫被行拘，案件有哪些细节值得关注？",
       "link": "https://www.zhihu.com/question/1952111669321925081",
       "heat": "60 万热度"
     },
     {
-      "rank": "34",
+      "rank": "31",
+      "title": "若固态电池量产，蔚来的「换电」还有未来吗？",
+      "link": "https://www.zhihu.com/question/666257227",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "32",
       "title": "秦岭失联驴友遇难后，家属起诉救援队等各方，怎样从法律角度解读？救援队该承担责任吗？",
       "link": "https://www.zhihu.com/question/1952422043753641319",
       "heat": "59 万热度"
     },
     {
-      "rank": "35",
+      "rank": "33",
       "title": "小伙卖东风 -5C 、辽宁舰、歼 -35 造型烧饼引小学生抢购，这些烧饼对孩子有何吸引力？此举是否侵权？",
       "link": "https://www.zhihu.com/question/1952433230557963137",
       "heat": "59 万热度"
     },
     {
-      "rank": "36",
-      "title": "只知道思路在明朝能不能批量造出燧发枪？",
-      "link": "https://www.zhihu.com/question/1948683965188804698",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "37",
+      "rank": "34",
       "title": "成都动物园的狮子被吐槽胖成球，导致它肥胖的原因有哪些？如何科学地帮助这些大型猫科动物减肥？",
       "link": "https://www.zhihu.com/question/1952436278479008079",
       "heat": "59 万热度"
     },
     {
-      "rank": "38",
+      "rank": "35",
+      "title": "你喜欢用手机玩游戏还是电脑玩游戏？",
+      "link": "https://www.zhihu.com/question/1949236687805847492",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "36",
       "title": "为什么《绝区零》在米哈游的游戏中玩家月活跃量最少？",
       "link": "https://www.zhihu.com/question/1949790508193912303",
       "heat": "59 万热度"
     },
     {
-      "rank": "39",
+      "rank": "37",
+      "title": "比亚迪仰望 U9 赛道版极速成绩达 496.22km/h，成为世界第一，怎样看待这一成绩？",
+      "link": "https://www.zhihu.com/question/1952855817259824376",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "38",
       "title": "小学有什么真相，可以让普娃走走捷径？",
       "link": "https://www.zhihu.com/question/622591887",
       "heat": "59 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "为什么东北菜没有一个全国连锁的大品牌餐饮店呀？",
       "link": "https://www.zhihu.com/question/1952000628495716503",
       "heat": "59 万热度"
     },
     {
-      "rank": "41",
+      "rank": "40",
       "title": "2526 赛季英超联赛第 5 轮，曼联 2:1 切尔西，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1952893294687269542",
       "heat": "59 万热度"
     },
     {
+      "rank": "41",
+      "title": "什么样的员工容易被提拔为管理层？",
+      "link": "https://www.zhihu.com/question/654122483",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "42",
-      "title": "比亚迪仰望 U9 赛道版极速成绩达 496.22km/h，成为世界第一，怎样看待这一成绩？",
-      "link": "https://www.zhihu.com/question/1952855817259824376",
+      "title": "只知道思路在明朝能不能批量造出燧发枪？",
+      "link": "https://www.zhihu.com/question/1948683965188804698",
       "heat": "59 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-09-21 13:24:47"
+  "generated_at": "2025-09-21 13:41:23"
 }
