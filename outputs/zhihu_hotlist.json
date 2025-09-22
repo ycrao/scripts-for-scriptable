@@ -1,66 +1,66 @@
 {
-  "artifact_id": "7f378d94-6707-4623-b85c-d57dc3a11bb2",
+  "artifact_id": "ce06e5da-496b-4789-b6d5-59c46d9dccb0",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "歼 -15T 、歼 -35 和空警 -600 在福建舰上首次弹射起飞和着舰训练，释放了怎样的信号？",
       "link": "https://www.zhihu.com/question/1953516306285467147",
-      "heat": "2296 万热度"
+      "heat": "2349 万热度"
     },
     {
       "rank": "2",
       "title": "17 级超强台风「桦加沙」体型超整个广东省，最新路径公布，将登陆广东广西海南等地，要做好哪些应对措施？",
       "link": "https://www.zhihu.com/question/1953365181380912993",
-      "heat": "1224 万热度"
+      "heat": "1235 万热度"
     },
     {
       "rank": "3",
       "title": "「风王」桦加沙完成眼墙置换变得更强，可能导致海水倒灌，什么是眼墙置换？会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1953507311579527126",
-      "heat": "301 万热度"
+      "heat": "316 万热度"
     },
     {
       "rank": "4",
       "title": "美国签证新规发布后，印度返美机票 2 小时暴涨超 110%，这是怎么回事？会带来哪些连锁反应？",
       "link": "https://www.zhihu.com/question/1953193931773798264",
-      "heat": "201 万热度"
+      "heat": "202 万热度"
     },
     {
       "rank": "5",
       "title": "如何看待长春航展中歼 10 甩掉塑料布，排在 C 位？",
       "link": "https://www.zhihu.com/question/1952382659444601938",
-      "heat": "141 万热度"
+      "heat": "142 万热度"
     },
     {
       "rank": "6",
       "title": "福建舰电磁弹射三型舰载机，打击范围已覆盖第二岛链，对地区军事格局会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1953534979108730443",
-      "heat": "109 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "7",
-      "title": "为什么去客厅化开始变成了图书馆化？",
-      "link": "https://www.zhihu.com/question/1945933342613672923",
-      "heat": "96 万热度"
-    },
-    {
-      "rank": "8",
       "title": "从什么时候起，日本动画里青梅竹马就总是赢不了天降呢？为什么？",
       "link": "https://www.zhihu.com/question/472757190",
       "heat": "92 万热度"
     },
     {
-      "rank": "9",
-      "title": "上班已经很累了，从身体承受角度来看，还需要去运动吗？",
-      "link": "https://www.zhihu.com/question/1950485710827131771",
-      "heat": "87 万热度"
-    },
-    {
-      "rank": "10",
+      "rank": "8",
       "title": "贵州多名儿童疑似食物中毒，官方通报「沙门氏菌污染引起，排除人为投毒」，涉事方应承担哪些责任？",
       "link": "https://www.zhihu.com/question/1953126336110487376",
       "heat": "86 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "为什么去客厅化开始变成了图书馆化？",
+      "link": "https://www.zhihu.com/question/1945933342613672923",
+      "heat": "86 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "如何评价歼 -35 飞机？",
+      "link": "https://www.zhihu.com/question/1948982966891049419",
+      "heat": "79 万热度"
     },
     {
       "rank": "11",
@@ -70,9 +70,9 @@
     },
     {
       "rank": "12",
-      "title": "如何评价歼 -35 飞机？",
-      "link": "https://www.zhihu.com/question/1948982966891049419",
-      "heat": "78 万热度"
+      "title": "上班已经很累了，从身体承受角度来看，还需要去运动吗？",
+      "link": "https://www.zhihu.com/question/1950485710827131771",
+      "heat": "79 万热度"
     },
     {
       "rank": "13",
@@ -82,15 +82,15 @@
     },
     {
       "rank": "14",
-      "title": "斯诺克比赛大比分落后时，为什么都是直接认输而不是努力通过斯诺克来追分？",
-      "link": "https://www.zhihu.com/question/263917299",
+      "title": "年轻人涌向黄金「平替」，铂金、金包银等兴起，反应了年轻人怎样的消费观念？购买时要注意什么？",
+      "link": "https://www.zhihu.com/question/1951028570114716323",
       "heat": "75 万热度"
     },
     {
       "rank": "15",
-      "title": "哪些饮料让你喝到第一口就大呼好喝？",
-      "link": "https://www.zhihu.com/question/338195759",
-      "heat": "73 万热度"
+      "title": "斯诺克比赛大比分落后时，为什么都是直接认输而不是努力通过斯诺克来追分？",
+      "link": "https://www.zhihu.com/question/263917299",
+      "heat": "75 万热度"
     },
     {
       "rank": "16",
@@ -100,62 +100,62 @@
     },
     {
       "rank": "17",
-      "title": "小学数学题孩子答「3×8」被判错，据新教材答案为「8×3」，乘法算式需要严格区分乘数和被乘数吗？",
-      "link": "https://www.zhihu.com/question/1953403837764338347",
-      "heat": "73 万热度"
+      "title": "小米 17 手机的背后屏有啥用途？",
+      "link": "https://www.zhihu.com/question/1953377439649595919",
+      "heat": "72 万热度"
     },
     {
       "rank": "18",
-      "title": "小米 17 手机的背后屏有啥用途？",
-      "link": "https://www.zhihu.com/question/1953377439649595919",
-      "heat": "70 万热度"
+      "title": "switch2 为什么不用高通骁龙或者联发科天玑的旗舰芯片？",
+      "link": "https://www.zhihu.com/question/1919743067218478140",
+      "heat": "69 万热度"
     },
     {
       "rank": "19",
-      "title": "switch2 为什么不用高通骁龙或者联发科天玑的旗舰芯片？",
-      "link": "https://www.zhihu.com/question/1919743067218478140",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "年轻人涌向黄金「平替」，铂金、金包银等兴起，反应了年轻人怎样的消费观念？购买时要注意什么？",
-      "link": "https://www.zhihu.com/question/1951028570114716323",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "中国 2027 能否与美国一起登月？",
-      "link": "https://www.zhihu.com/question/2498568459",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "如何看待巴菲特清仓比亚迪？原因是什么？",
-      "link": "https://www.zhihu.com/question/1953237725395260332",
-      "heat": "68 万热度"
-    },
-    {
-      "rank": "23",
       "title": "帕里斯选择把苹果给谁，才能达成最好的个人结局？",
       "link": "https://www.zhihu.com/question/301906105",
       "heat": "67 万热度"
     },
     {
-      "rank": "24",
+      "rank": "20",
+      "title": "哪些饮料让你喝到第一口就大呼好喝？",
+      "link": "https://www.zhihu.com/question/338195759",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "中国 2027 能否与美国一起登月？",
+      "link": "https://www.zhihu.com/question/2498568459",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "如何看待巴菲特清仓比亚迪？原因是什么？",
+      "link": "https://www.zhihu.com/question/1953237725395260332",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "23",
       "title": "篮球和足球哪个更难？",
       "link": "https://www.zhihu.com/question/432974122",
       "heat": "63 万热度"
     },
     {
-      "rank": "25",
+      "rank": "24",
       "title": "如果孩子的学习不用你管，生活不用你管，考上大学了也不用你送，你会开心吗？",
       "link": "https://www.zhihu.com/question/1952649611496882247",
       "heat": "60 万热度"
     },
     {
-      "rank": "26",
+      "rank": "25",
       "title": "一个单位的管理乱不乱，看哪里能看出来？",
       "link": "https://www.zhihu.com/question/1951572739971331741",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "小学数学题孩子答「3×8」被判错，据新教材答案为「8×3」，乘法算式需要严格区分乘数和被乘数吗？",
+      "link": "https://www.zhihu.com/question/1953403837764338347",
       "heat": "59 万热度"
     },
     {
@@ -178,14 +178,14 @@
     },
     {
       "rank": "30",
-      "title": "山姆也在卖冷冻 2 年的西兰花，冷冻 2 年的蔬菜还有营养吗？餐馆为什么不用新鲜的西兰花？",
-      "link": "https://www.zhihu.com/question/1952414569461941126",
+      "title": "为什么《让我们荡起双桨》有一种淡淡的哀伤？",
+      "link": "https://www.zhihu.com/question/49688722",
       "heat": "55 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么《让我们荡起双桨》有一种淡淡的哀伤？",
-      "link": "https://www.zhihu.com/question/49688722",
+      "title": "2:3 不敌 BLG，2025 LPL 年度总决赛上 TES 输在哪？",
+      "link": "https://www.zhihu.com/question/1953216693334664512",
       "heat": "55 万热度"
     },
     {
@@ -202,86 +202,86 @@
     },
     {
       "rank": "34",
-      "title": "哪部科幻作品彻底改变了你理解世界的方式？具体触发点是什么？",
-      "link": "https://www.zhihu.com/question/1949077274205840661",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "2:3 不敌 BLG，2025 LPL 年度总决赛上 TES 输在哪？",
-      "link": "https://www.zhihu.com/question/1953216693334664512",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "36",
       "title": "为什么电视剧通常只拍上半身？",
       "link": "https://www.zhihu.com/question/525029164",
       "heat": "55 万热度"
     },
     {
-      "rank": "37",
+      "rank": "35",
       "title": "谷歌试图说服 YouTube 用户弃用广告拦截器，这背后原因有哪些？",
       "link": "https://www.zhihu.com/question/1952104083063309302",
       "heat": "55 万热度"
     },
     {
-      "rank": "38",
-      "title": "为什么《空洞骑士：丝之歌》中朝圣者谢尔玛要在铁门前一直唱歌，他真的不知道这门是光靠唱歌是唱不开的么？",
-      "link": "https://www.zhihu.com/question/1952418848750962502",
+      "rank": "36",
+      "title": "山姆也在卖冷冻 2 年的西兰花，冷冻 2 年的蔬菜还有营养吗？餐馆为什么不用新鲜的西兰花？",
+      "link": "https://www.zhihu.com/question/1952414569461941126",
       "heat": "55 万热度"
     },
     {
-      "rank": "39",
+      "rank": "37",
       "title": "成都动物园的狮子被吐槽胖成球，导致它肥胖的原因有哪些？如何科学地帮助这些大型猫科动物减肥？",
       "link": "https://www.zhihu.com/question/1952436278479008079",
       "heat": "55 万热度"
     },
     {
-      "rank": "40",
-      "title": "你觉得 T1 能赢下《英雄联盟》2025 全球总决赛「17 强」赛吗？",
-      "link": "https://www.zhihu.com/question/1953172248488796939",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "若固态电池量产，蔚来的「换电」还有未来吗？",
-      "link": "https://www.zhihu.com/question/666257227",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "42",
+      "rank": "38",
       "title": "在体制内工作，你悟出了什么真知灼见，可以帮助后来者少走弯路？",
       "link": "https://www.zhihu.com/question/1931120808723484673",
       "heat": "55 万热度"
     },
     {
-      "rank": "43",
+      "rank": "39",
+      "title": "若固态电池量产，蔚来的「换电」还有未来吗？",
+      "link": "https://www.zhihu.com/question/666257227",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "为什么《空洞骑士：丝之歌》中朝圣者谢尔玛要在铁门前一直唱歌，他真的不知道这门是光靠唱歌是唱不开的么？",
+      "link": "https://www.zhihu.com/question/1952418848750962502",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "你觉得 T1 能赢下《英雄联盟》2025 全球总决赛「17 强」赛吗？",
+      "link": "https://www.zhihu.com/question/1953172248488796939",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "42",
       "title": "研究显示烟花会对鸟类形成 10 公里「惊魂圈」，生理学机制是什么？蔡国强烟花对当地鸟类会有何影响？",
       "link": "https://www.zhihu.com/question/1953021916261607414",
       "heat": "55 万热度"
     },
     {
-      "rank": "44",
+      "rank": "43",
       "title": "如何评价羊献容？",
       "link": "https://www.zhihu.com/question/58268265",
       "heat": "55 万热度"
     },
     {
-      "rank": "45",
+      "rank": "44",
       "title": "怎么评价刘涛的长相和气质? 怎么评价她这个人？",
       "link": "https://www.zhihu.com/question/1943429264054678449",
       "heat": "55 万热度"
     },
     {
-      "rank": "46",
+      "rank": "45",
       "title": "秦岭失联驴友遇难后，家属起诉救援队等各方，怎样从法律角度解读？救援队该承担责任吗？",
       "link": "https://www.zhihu.com/question/1952422043753641319",
       "heat": "55 万热度"
     },
     {
-      "rank": "47",
+      "rank": "46",
       "title": "张、章为什么读起来好像发音不一样？",
       "link": "https://www.zhihu.com/question/558783501",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "为什么要用电视玩主机游戏？",
+      "link": "https://www.zhihu.com/question/623679261",
       "heat": "55 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "为什么要用电视玩主机游戏？",
-      "link": "https://www.zhihu.com/question/623679261",
+      "title": "一百年以后，复仇者大部分去世，雷神会怎么回忆他们呢？",
+      "link": "https://www.zhihu.com/question/299483862",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "一百年以后，复仇者大部分去世，雷神会怎么回忆他们呢？",
-      "link": "https://www.zhihu.com/question/299483862",
+      "title": "你最喜欢的科幻作品，如何改变了你对世界或未来的看法？",
+      "link": "https://www.zhihu.com/question/1946616403454040054",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-09-22 23:42:59"
+  "generated_at": "2025-09-22 23:55:39"
 }
