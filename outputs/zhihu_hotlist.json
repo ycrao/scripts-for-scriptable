@@ -1,24 +1,24 @@
 {
-  "artifact_id": "c7259e14-dda1-4e3b-8d4e-bd791bdbed61",
+  "artifact_id": "e48c6929-fb8b-425e-9629-d3e0e6e13209",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "其实我觉得优衣库已经很贵了，为什么大家还定义它为快消低端？",
       "link": "https://www.zhihu.com/question/303266579",
-      "heat": "368 万热度"
+      "heat": "399 万热度"
     },
     {
       "rank": "2",
       "title": "台风「桦加沙」来袭，广东全面进入临战状态，多个城市停工，24 日省内所有列车停运，目前当地情况如何？",
       "link": "https://www.zhihu.com/question/1953470712707774126",
-      "heat": "263 万热度"
+      "heat": "281 万热度"
     },
     {
       "rank": "3",
       "title": "美国公布六代机动画，美军宣布 F47 预计 2028 年首飞，美军为何此时宣布？可信度有多大？",
       "link": "https://www.zhihu.com/question/1953880927282362306",
-      "heat": "161 万热度"
+      "heat": "166 万热度"
     },
     {
       "rank": "4",
@@ -46,27 +46,27 @@
     },
     {
       "rank": "8",
-      "title": "尚界 H5 正式上市售价 15.98 万起，首次将华为 ADS 4 带入 15 万级市场，如何看待？",
-      "link": "https://www.zhihu.com/question/1953918121049039253",
-      "heat": "96 万热度"
+      "title": "中欧班列北线停了，影响大吗？",
+      "link": "https://www.zhihu.com/question/1952679259240891781",
+      "heat": "95 万热度"
     },
     {
       "rank": "9",
-      "title": "中欧班列北线停了，影响大吗？",
-      "link": "https://www.zhihu.com/question/1952679259240891781",
+      "title": "尚界 H5 正式上市售价 15.98 万起，首次将华为 ADS 4 带入 15 万级市场，如何看待？",
+      "link": "https://www.zhihu.com/question/1953918121049039253",
       "heat": "94 万热度"
     },
     {
       "rank": "10",
       "title": "多家航空公司经济舱前 6 排被锁座，需付费购买或里程兑换，这种选座模式合法吗？",
       "link": "https://www.zhihu.com/question/1953398592917177031",
-      "heat": "90 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "11",
       "title": "《三角洲行动》全职跑刀的玩家一个月能赚多少钱？",
       "link": "https://www.zhihu.com/question/1913607615948224253",
-      "heat": "83 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "12",
@@ -84,13 +84,13 @@
       "rank": "14",
       "title": "如何看待 OpenAI 与 NVIDIA 宣布战略合作，NVDIA 最高投资 1000 亿美元?",
       "link": "https://www.zhihu.com/question/1953719574911484478",
-      "heat": "77 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "15",
       "title": "游戏给你带来了哪些人生道理？",
       "link": "https://www.zhihu.com/question/26956671",
-      "heat": "77 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "16",
@@ -108,42 +108,42 @@
       "rank": "18",
       "title": "2025 年国庆档期 13 部影片定档上映，你最期待哪部影片？为什么？",
       "link": "https://www.zhihu.com/question/1949782425342316906",
-      "heat": "69 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "19",
-      "title": "多子女家庭是不是需要树立老大在家的权威和地位，让老大做弟弟妹妹的榜样，让其在日后能团结兄弟姐妹?",
-      "link": "https://www.zhihu.com/question/1953037229594240254",
-      "heat": "65 万热度"
+      "title": "有一百万只鸡，每次从有腿的鸡中抽取一只砍掉一条腿，重复一百万次，最后数学期望下还有多少完好的鸡？",
+      "link": "https://www.zhihu.com/question/1950568727587317333",
+      "heat": "66 万热度"
     },
     {
       "rank": "20",
       "title": "鸿蒙智行全新问界 M7 上市，提供增程 / 纯电两种动力，售价 27.98 万起值不值得买？推荐哪个版本？",
       "link": "https://www.zhihu.com/question/1953918648285619405",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "21",
-      "title": "如何看待英伟达拟向 OpenAI 投资 1000 亿美元？都有哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1953752170315912723",
-      "heat": "64 万热度"
+      "title": "多子女家庭是不是需要树立老大在家的权威和地位，让老大做弟弟妹妹的榜样，让其在日后能团结兄弟姐妹?",
+      "link": "https://www.zhihu.com/question/1953037229594240254",
+      "heat": "65 万热度"
     },
     {
       "rank": "22",
+      "title": "如何看待英伟达拟向 OpenAI 投资 1000 亿美元？都有哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1953752170315912723",
+      "heat": "63 万热度"
+    },
+    {
+      "rank": "23",
       "title": "毛文龙驻扎的皮岛在什么地方，他如何牵制后金的？",
       "link": "https://www.zhihu.com/question/659578730",
       "heat": "62 万热度"
     },
     {
-      "rank": "23",
+      "rank": "24",
       "title": "力量训练只做 40 分钟的话有用吗？",
       "link": "https://www.zhihu.com/question/1953335921152853056",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "百果园一年关店超 1600 家，拟筹约 3 亿元还债，百果园的商业模式存在哪些问题？",
-      "link": "https://www.zhihu.com/question/1953756670028116549",
       "heat": "59 万热度"
     },
     {
@@ -154,56 +154,56 @@
     },
     {
       "rank": "26",
+      "title": "百果园一年关店超 1600 家，拟筹约 3 亿元还债，百果园的商业模式存在哪些问题？",
+      "link": "https://www.zhihu.com/question/1953756670028116549",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "27",
       "title": "「最快女护士」张水华道歉，称对单位及领导形象造成困扰和损害痛悔不已，其惹众怒背后哪些问题值得反思？",
       "link": "https://www.zhihu.com/question/1953565147969840611",
       "heat": "57 万热度"
     },
     {
-      "rank": "27",
+      "rank": "28",
       "title": "孩子学习不好能打吗？",
       "link": "https://www.zhihu.com/question/1947666436932732543",
       "heat": "57 万热度"
     },
     {
-      "rank": "28",
+      "rank": "29",
       "title": "上司领导会怎样对待顶撞他的下属呢？",
       "link": "https://www.zhihu.com/question/1940367055980332083",
       "heat": "56 万热度"
     },
     {
-      "rank": "29",
+      "rank": "30",
       "title": "为什么全麻是一瞬间失去意识而没有中间越来越昏迷的过程，在身体里是怎么运作的?",
       "link": "https://www.zhihu.com/question/547427069",
       "heat": "55 万热度"
     },
     {
-      "rank": "30",
+      "rank": "31",
+      "title": "一百年以后，复仇者大部分去世，雷神会怎么回忆他们呢？",
+      "link": "https://www.zhihu.com/question/299483862",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "32",
       "title": "为什么《让我们荡起双桨》有一种淡淡的哀伤？",
       "link": "https://www.zhihu.com/question/49688722",
       "heat": "53 万热度"
     },
     {
-      "rank": "31",
+      "rank": "33",
       "title": "为什么现在大部分的增程车型都不用 2.0T 的增程器反而 1.5T 居多？",
       "link": "https://www.zhihu.com/question/1951199932481536906",
       "heat": "52 万热度"
     },
     {
-      "rank": "32",
+      "rank": "34",
       "title": "海底捞、杨国福纷纷推出小火锅，年轻人为啥爱上小火锅？你最近一次吃花了多少钱？",
       "link": "https://www.zhihu.com/question/1951731512438420978",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "如何评价羊献容？",
-      "link": "https://www.zhihu.com/question/58268265",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "为什么说装修也是整理人生的过程？",
-      "link": "https://www.zhihu.com/question/1950913905774801477",
       "heat": "52 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "年轻人涌向黄金「平替」，铂金、金包银等兴起，反应了年轻人怎样的消费观念？购买时要注意什么？",
-      "link": "https://www.zhihu.com/question/1951028570114716323",
+      "title": "如何评价羊献容？",
+      "link": "https://www.zhihu.com/question/58268265",
       "heat": "52 万热度"
     },
     {
       "rank": "37",
+      "title": "为什么说装修也是整理人生的过程？",
+      "link": "https://www.zhihu.com/question/1950913905774801477",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "38",
       "title": "如果孩子的学习不用你管，生活不用你管，考上大学了也不用你送，你会开心吗？",
       "link": "https://www.zhihu.com/question/1952649611496882247",
       "heat": "52 万热度"
     },
     {
-      "rank": "38",
+      "rank": "39",
+      "title": "年轻人涌向黄金「平替」，铂金、金包银等兴起，反应了年轻人怎样的消费观念？购买时要注意什么？",
+      "link": "https://www.zhihu.com/question/1951028570114716323",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "40",
       "title": "职场上，是要做个人，还是要做个机器人呢？",
       "link": "https://www.zhihu.com/question/1951077704238626241",
       "heat": "52 万热度"
     },
     {
-      "rank": "39",
+      "rank": "41",
       "title": "什么样的员工容易被提拔为管理层？",
       "link": "https://www.zhihu.com/question/654122483",
       "heat": "52 万热度"
     },
     {
-      "rank": "40",
-      "title": "「金融三巨头」的发布会又来了，此次发布会有哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1953398153458972000",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "41",
+      "rank": "42",
       "title": "独处会毁掉自己吗？",
       "link": "https://www.zhihu.com/question/1945781649355826716",
       "heat": "52 万热度"
     },
     {
-      "rank": "42",
+      "rank": "43",
+      "title": "「金融三巨头」的发布会又来了，此次发布会有哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1953398153458972000",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "44",
       "title": "历史上刘备与诸葛亮之间真的毫无嫌隙吗？",
       "link": "https://www.zhihu.com/question/530136726",
       "heat": "52 万热度"
     },
     {
-      "rank": "43",
+      "rank": "45",
       "title": "在体制内工作，你悟出了什么真知灼见，可以帮助后来者少走弯路？",
       "link": "https://www.zhihu.com/question/1931120808723484673",
       "heat": "52 万热度"
     },
     {
-      "rank": "44",
+      "rank": "46",
       "title": "冷枪冷炮运动那么成功为何对战后我军兵器和战术发展没有构成实质影响？",
       "link": "https://www.zhihu.com/question/343736404",
       "heat": "52 万热度"
     },
     {
-      "rank": "45",
+      "rank": "47",
       "title": "站在领导的角度上看，打压员工是不是必要的？",
       "link": "https://www.zhihu.com/question/732406694",
       "heat": "52 万热度"
     },
     {
-      "rank": "46",
+      "rank": "48",
       "title": "为什么科幻电影总是流露出反科技的观念？",
       "link": "https://www.zhihu.com/question/1946757017592133244",
       "heat": "52 万热度"
     },
     {
-      "rank": "47",
+      "rank": "49",
       "title": "贵州多名儿童疑似食物中毒，官方通报「沙门氏菌污染引起，排除人为投毒」，涉事方应承担哪些责任？",
       "link": "https://www.zhihu.com/question/1953126336110487376",
       "heat": "52 万热度"
     },
     {
-      "rank": "48",
+      "rank": "50",
       "title": "如何评价《崩坏：因缘精灵》首测后制作组发布的后续优化方向?",
       "link": "https://www.zhihu.com/question/1953082550529561142",
       "heat": "52 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "为什么《空洞骑士：丝之歌》中朝圣者谢尔玛要在铁门前一直唱歌，他真的不知道这门是光靠唱歌是唱不开的么？",
-      "link": "https://www.zhihu.com/question/1952418848750962502",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "当审稿人要求补充实验，怎么办？",
-      "link": "https://www.zhihu.com/question/637436629",
-      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-09-24 04:55:39"
+  "generated_at": "2025-09-24 05:21:22"
 }
