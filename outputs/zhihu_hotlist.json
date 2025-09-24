@@ -1,72 +1,72 @@
 {
-  "artifact_id": "bdb0a1a7-a6e2-4d11-b86f-324277ef6b5b",
+  "artifact_id": "d47aa46c-c28d-46bb-8e00-033234aeec1e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "北京大学教授俞孔坚在巴西坠机遇难，他有哪些成就？他的离世对风景园林领域意味着什么？",
       "link": "https://www.zhihu.com/question/1954288106560774389",
-      "heat": "227 万热度"
+      "heat": "229 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价何同学说 iPhone17 pro 系列导热性太好，会把户外热量导进内部，从而影响屏幕亮度？",
       "link": "https://www.zhihu.com/question/1952702772001638098",
-      "heat": "127 万热度"
+      "heat": "126 万热度"
     },
     {
       "rank": "3",
       "title": "「桦加沙」在广东阳江海陵岛沿海登陆，中心附近最大风力 13 级，目前情况怎么样？你做好了哪些应对措施？",
       "link": "https://www.zhihu.com/question/1954093273942548480",
-      "heat": "123 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "4",
       "title": "浙江绍兴地铁被曝深夜非运营时间列车撞上保洁员致多人伤亡，当地回应省里已提级调查，具体情况如何？",
       "link": "https://www.zhihu.com/question/1954250523529146705",
-      "heat": "119 万热度"
+      "heat": "123 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待网易旗下游戏《射雕》宣布将于 25 年 11 月 24 日停服，这部作品最终失败的原因是什么？",
-      "link": "https://www.zhihu.com/question/1954208338498793692",
-      "heat": "116 万热度"
+      "title": "如何看待港科大团队发文称观测到 250K 超导，且施加 0.1kbar 可将材料的转变温度提升至室温以上？",
+      "link": "https://www.zhihu.com/question/1954180538890958414",
+      "heat": "106 万热度"
     },
     {
       "rank": "6",
-      "title": "如何看待港科大团队发文称观测到 250K 超导，且施加 0.1kbar 可将材料的转变温度提升至室温以上？",
-      "link": "https://www.zhihu.com/question/1954180538890958414",
-      "heat": "105 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "香烟的成本很低，假烟为什么做不到和真烟味道相近？",
-      "link": "https://www.zhihu.com/question/1950632299440875474",
+      "title": "商务部表示中国在世贸组织谈判中将不寻求新的特殊和差别待遇，释放了哪些信号？",
+      "link": "https://www.zhihu.com/question/1954128611457101845",
       "heat": "99 万热度"
     },
     {
-      "rank": "8",
-      "title": "商务部表示中国在世贸组织谈判中将不寻求新的特殊和差别待遇，释放了哪些信号？",
-      "link": "https://www.zhihu.com/question/1954128611457101845",
+      "rank": "7",
+      "title": "中国象棋反腐第一案宣判，六名特级大师被判刑，「象棋第一人」王天一当庭认罪认罚，具有哪些警示意义？",
+      "link": "https://www.zhihu.com/question/1954227336401614515",
       "heat": "98 万热度"
     },
     {
-      "rank": "9",
-      "title": "中国象棋反腐第一案宣判，六名特级大师被判刑，「象棋第一人」王天一当庭认罪认罚，具有哪些警示意义？",
-      "link": "https://www.zhihu.com/question/1954227336401614515",
+      "rank": "8",
+      "title": "商务部表示，中国在世贸组织谈判中将不寻求新的特殊和差别待遇，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1954130459064800529",
       "heat": "97 万热度"
     },
     {
-      "rank": "10",
-      "title": "商务部表示，中国在世贸组织谈判中将不寻求新的特殊和差别待遇，哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1954130459064800529",
+      "rank": "9",
+      "title": "香烟的成本很低，假烟为什么做不到和真烟味道相近？",
+      "link": "https://www.zhihu.com/question/1950632299440875474",
       "heat": "95 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "如何看待网易旗下游戏《射雕》宣布将于 25 年 11 月 24 日停服，这部作品最终失败的原因是什么？",
+      "link": "https://www.zhihu.com/question/1954208338498793692",
+      "heat": "92 万热度"
     },
     {
       "rank": "11",
       "title": "雷军发文称「造车造芯把小米家底全押上了」，怎样看待雷军和小米的选择？",
       "link": "https://www.zhihu.com/question/1954156825478918206",
-      "heat": "91 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "12",
@@ -76,20 +76,20 @@
     },
     {
       "rank": "13",
-      "title": "高德宣布为全国餐饮商家免一年入驻年费，这对餐饮行业及大众点评会有何影响?",
-      "link": "https://www.zhihu.com/question/1953931067804350202",
-      "heat": "85 万热度"
+      "title": "医院通报「CT 报告单现不文明用语」，系审核医生打字失误，已诚恳道歉，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1953934717524075093",
+      "heat": "81 万热度"
     },
     {
       "rank": "14",
       "title": "福特号已经完成了两万次起降，是否说明电磁弹射的问题已经解决？",
       "link": "https://www.zhihu.com/question/1947344355200341645",
-      "heat": "83 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "15",
-      "title": "医院通报「CT 报告单现不文明用语」，系审核医生打字失误，已诚恳道歉，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1953934717524075093",
+      "title": "高德宣布为全国餐饮商家免一年入驻年费，这对餐饮行业及大众点评会有何影响?",
+      "link": "https://www.zhihu.com/question/1953931067804350202",
       "heat": "80 万热度"
     },
     {
@@ -106,33 +106,33 @@
     },
     {
       "rank": "18",
+      "title": "在台风核心区引爆超大当量温压弹 / 核弹能否使台风减弱?",
+      "link": "https://www.zhihu.com/question/1953738103371075896",
+      "heat": "77 万热度"
+    },
+    {
+      "rank": "19",
       "title": "美国陪审团可以做出最终裁决，那法官来干嘛的？",
       "link": "https://www.zhihu.com/question/27109006",
       "heat": "76 万热度"
     },
     {
-      "rank": "19",
-      "title": "在台风核心区引爆超大当量温压弹 / 核弹能否使台风减弱?",
-      "link": "https://www.zhihu.com/question/1953738103371075896",
-      "heat": "75 万热度"
-    },
-    {
       "rank": "20",
       "title": "为什么网上开始嘲笑苏州绿豆汤和西湖醋鱼?",
       "link": "https://www.zhihu.com/question/1952812583410185437",
-      "heat": "75 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "21",
-      "title": "中国的第四艘航母，会是核动力航母吗？",
-      "link": "https://www.zhihu.com/question/647299661",
-      "heat": "72 万热度"
+      "title": "如何评价张艺谋导演任用的历任谋女郎？",
+      "link": "https://www.zhihu.com/question/58456646",
+      "heat": "70 万热度"
     },
     {
       "rank": "22",
-      "title": "如何评价张艺谋导演任用的历任谋女郎？",
-      "link": "https://www.zhihu.com/question/58456646",
-      "heat": "71 万热度"
+      "title": "厨艺好是一种什么体验？",
+      "link": "https://www.zhihu.com/question/27353159",
+      "heat": "69 万热度"
     },
     {
       "rank": "23",
@@ -144,55 +144,55 @@
       "rank": "24",
       "title": "在古中国人的视角中，罗马属于「华夷之辩」中的「夷」吗？",
       "link": "https://www.zhihu.com/question/658973230",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "25",
+      "title": "为什么一些四轮车会在其他车辆行驶轨迹未侵入他的车道时，仍然按喇叭提醒，这种人心里怎么想的？",
+      "link": "https://www.zhihu.com/question/1952487397397858126",
+      "heat": "68 万热度"
+    },
+    {
+      "rank": "26",
       "title": "为什么《水浒传》中宋江总想着招安？",
       "link": "https://www.zhihu.com/question/661067685",
       "heat": "68 万热度"
     },
     {
-      "rank": "26",
+      "rank": "27",
       "title": "大学计算机系最努力的同学都是如何学习的？",
       "link": "https://www.zhihu.com/question/270352528",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "为什么一些四轮车会在其他车辆行驶轨迹未侵入他的车道时，仍然按喇叭提醒，这种人心里怎么想的？",
-      "link": "https://www.zhihu.com/question/1952487397397858126",
-      "heat": "67 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "28",
-      "title": "刘翔和苏炳添到底谁的成就更好，影响力更大？",
-      "link": "https://www.zhihu.com/question/615027748",
-      "heat": "66 万热度"
-    },
-    {
-      "rank": "29",
       "title": "为什么不把仁爱礁的那艘破船拖走，这里面有什么讲究吗?",
       "link": "https://www.zhihu.com/question/1938995979408900191",
       "heat": "66 万热度"
     },
     {
+      "rank": "29",
+      "title": "中国的第四艘航母，会是核动力航母吗？",
+      "link": "https://www.zhihu.com/question/647299661",
+      "heat": "66 万热度"
+    },
+    {
       "rank": "30",
-      "title": "现实里有人叫你网名和网络上有人叫你真名哪个更恐怖？",
-      "link": "https://www.zhihu.com/question/1947605039754507488",
-      "heat": "65 万热度"
+      "title": "刘翔和苏炳添到底谁的成就更好，影响力更大？",
+      "link": "https://www.zhihu.com/question/615027748",
+      "heat": "66 万热度"
     },
     {
       "rank": "31",
-      "title": "骑行是不是效率最低的锻炼？",
-      "link": "https://www.zhihu.com/question/15685042922",
-      "heat": "65 万热度"
+      "title": "现实里有人叫你网名和网络上有人叫你真名哪个更恐怖？",
+      "link": "https://www.zhihu.com/question/1947605039754507488",
+      "heat": "66 万热度"
     },
     {
       "rank": "32",
-      "title": "厨艺好是一种什么体验？",
-      "link": "https://www.zhihu.com/question/27353159",
-      "heat": "64 万热度"
+      "title": "骑行是不是效率最低的锻炼？",
+      "link": "https://www.zhihu.com/question/15685042922",
+      "heat": "65 万热度"
     },
     {
       "rank": "33",
@@ -238,14 +238,14 @@
     },
     {
       "rank": "40",
-      "title": "如何评价 9 月 24 日发布的新品华为 WATCH GT 6 系列，哪些功能值得关注，值得购买吗？",
-      "link": "https://www.zhihu.com/question/1953776112246195212",
+      "title": "如何评价美剧《异形：地球》第八集？",
+      "link": "https://www.zhihu.com/question/1949522772893087379",
       "heat": "59 万热度"
     },
     {
       "rank": "41",
-      "title": "如何评价美剧《异形：地球》第八集？",
-      "link": "https://www.zhihu.com/question/1949522772893087379",
+      "title": "会飞这个超能力会不会显得很鸡肋?",
+      "link": "https://www.zhihu.com/question/407617594",
       "heat": "59 万热度"
     },
     {
@@ -256,20 +256,20 @@
     },
     {
       "rank": "43",
-      "title": "会飞这个超能力会不会显得很鸡肋?",
-      "link": "https://www.zhihu.com/question/407617594",
+      "title": "如何评价 9 月 24 日发布的新品华为 WATCH GT 6 系列，哪些功能值得关注，值得购买吗？",
+      "link": "https://www.zhihu.com/question/1953776112246195212",
       "heat": "59 万热度"
     },
     {
       "rank": "44",
-      "title": "当前 A 、 H 股主要指数估值水平，处于历史什么位置？",
-      "link": "https://www.zhihu.com/question/1951952897140023823",
+      "title": "被誉为「词家之冠」的周邦彦，诗词水平究竟如何? 是否过誉?",
+      "link": "https://www.zhihu.com/question/68058966",
       "heat": "59 万热度"
     },
     {
       "rank": "45",
-      "title": "被誉为「词家之冠」的周邦彦，诗词水平究竟如何? 是否过誉?",
-      "link": "https://www.zhihu.com/question/68058966",
+      "title": "当前 A 、 H 股主要指数估值水平，处于历史什么位置？",
+      "link": "https://www.zhihu.com/question/1951952897140023823",
       "heat": "59 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
+      "title": "老师被要求「亦师亦友」又需保持威严，这种双重期待现实吗？",
+      "link": "https://www.zhihu.com/question/1951668693193977991",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "49",
       "title": "鸣人和佐助到底谁更强？",
       "link": "https://www.zhihu.com/question/453144408",
       "heat": "59 万热度"
     },
     {
-      "rank": "49",
+      "rank": "50",
       "title": "美国为何不直接利用两颗重型猎鹰火箭实现新世纪的载人登月？",
       "link": "https://www.zhihu.com/question/633127105",
       "heat": "59 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "想要面部胶原满满、紧致饱满，哪些抗老面霜值得推荐？",
-      "link": "https://www.zhihu.com/question/513856395",
-      "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-09-25 04:53:28"
+  "generated_at": "2025-09-25 05:20:38"
 }
