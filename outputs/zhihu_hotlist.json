@@ -1,191 +1,191 @@
 {
-  "artifact_id": "328c7059-21b2-47f1-a1b1-82b1c78c4cc9",
+  "artifact_id": "7e05b6eb-8b0b-4a92-86e3-887c07095866",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "全球首条中欧北极集装箱快航正式通航，18 天直达欧洲，这一速度意味着什么？",
       "link": "https://www.zhihu.com/question/1953816422204547740",
-      "heat": "373 万热度"
+      "heat": "376 万热度"
     },
     {
       "rank": "2",
       "title": "协和医院专家吃了一颗头孢被送进抢救室，称「以前不过敏，没喝酒」，为什么突然过敏了？这种情况常见吗？",
       "link": "https://www.zhihu.com/question/1954594554280899888",
-      "heat": "367 万热度"
+      "heat": "369 万热度"
     },
     {
       "rank": "3",
       "title": "如何看待 Faker 成为《英雄联盟》历史上首位十次晋级全球总决赛的选手？",
       "link": "https://www.zhihu.com/question/1952112645529372306",
-      "heat": "159 万热度"
+      "heat": "161 万热度"
     },
     {
       "rank": "4",
-      "title": "如何看待 9 月 25 日雷军年度演讲发布的小米 17 系列旗舰手机？有哪些值得关注的点？",
-      "link": "https://www.zhihu.com/question/1954576411219190193",
-      "heat": "111 万热度"
+      "title": "领导一般会如何看待那些不争不抢、闷声干活且业绩不错的员工？",
+      "link": "https://www.zhihu.com/question/1559953472",
+      "heat": "104 万热度"
     },
     {
       "rank": "5",
-      "title": "孙悟空只是一只妖猴，有许多妖怪本领都远胜过他，为何只有他敢大闹天宫？",
-      "link": "https://www.zhihu.com/question/1889632840464974777",
-      "heat": "106 万热度"
+      "title": "六部门印发《县域普通高中振兴行动计划》，严禁省属、省会城市违规面向县域掐尖招生，还有哪些内容值得关注？",
+      "link": "https://www.zhihu.com/question/1954859238917633883",
+      "heat": "92 万热度"
     },
     {
       "rank": "6",
       "title": "厦门幼师因「产前地贫基因报告」被解聘，个人基因检测报告为什么会泄露出去？学校以此为据解雇合法吗？",
       "link": "https://www.zhihu.com/question/1954195980850299914",
-      "heat": "103 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "7",
-      "title": "东北人到底有多幽默？",
-      "link": "https://www.zhihu.com/question/665790675",
-      "heat": "101 万热度"
+      "title": "为什么不把 USB 接口设计为圆形？",
+      "link": "https://www.zhihu.com/question/1933453628481475390",
+      "heat": "87 万热度"
     },
     {
       "rank": "8",
-      "title": "为什么孩子有事都是喊妈妈，而不叫爸爸？",
-      "link": "https://www.zhihu.com/question/667119894",
-      "heat": "98 万热度"
+      "title": "如何看待 9 月 25 日雷军年度演讲发布的小米 17 系列旗舰手机？有哪些值得关注的点？",
+      "link": "https://www.zhihu.com/question/1954576411219190193",
+      "heat": "86 万热度"
     },
     {
       "rank": "9",
-      "title": "领导一般会如何看待那些不争不抢、闷声干活且业绩不错的员工？",
-      "link": "https://www.zhihu.com/question/1559953472",
-      "heat": "97 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "为什么不把 USB 接口设计为圆形？",
-      "link": "https://www.zhihu.com/question/1933453628481475390",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "如何看待 9 月 26 日上市的理想 i6?",
-      "link": "https://www.zhihu.com/question/1951629434214941706",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "徐达谥号为什么不是最高？",
-      "link": "https://www.zhihu.com/question/24168072",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "胖东来否认月饼礼盒设计费一千万，称实际为 372 万，这价格属于什么水平？你觉得他们的月饼设计怎么样？",
-      "link": "https://www.zhihu.com/question/1954504138202243747",
+      "title": "装备了福建号同款电磁弹射器的 076 两栖登陆舰，是否可以搭载歼 35 和歼 15T？",
+      "link": "https://www.zhihu.com/question/1953878414340620909",
       "heat": "82 万热度"
     },
     {
+      "rank": "10",
+      "title": "为什么孩子有事都是喊妈妈，而不叫爸爸？",
+      "link": "https://www.zhihu.com/question/667119894",
+      "heat": "82 万热度"
+    },
+    {
+      "rank": "11",
+      "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
+      "link": "https://www.zhihu.com/question/1954819999765066391",
+      "heat": "82 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "如何看待 9 月 26 日上市的理想 i6?",
+      "link": "https://www.zhihu.com/question/1951629434214941706",
+      "heat": "81 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "孙悟空只是一只妖猴，有许多妖怪本领都远胜过他，为何只有他敢大闹天宫？",
+      "link": "https://www.zhihu.com/question/1889632840464974777",
+      "heat": "81 万热度"
+    },
+    {
       "rank": "14",
-      "title": "装备了福建号同款电磁弹射器的 076 两栖登陆舰，是否可以搭载歼 35 和歼 15T？",
-      "link": "https://www.zhihu.com/question/1953878414340620909",
+      "title": "为什么《武林外传》里没有人喜欢祝无双？和她身上的悲情特质有关系吗？",
+      "link": "https://www.zhihu.com/question/22106619",
       "heat": "81 万热度"
     },
     {
       "rank": "15",
       "title": "小米 17 系列手机发布，起售价 4499 元起，该手机在硬件配置上有哪些升级？",
       "link": "https://www.zhihu.com/question/1954658971966239770",
-      "heat": "81 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "16",
       "title": "「精算脑」真的比「恋爱脑」更好吗？",
       "link": "https://www.zhihu.com/question/1945862900490171451",
-      "heat": "81 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "17",
-      "title": "六部门印发《县域普通高中振兴行动计划》，严禁省属、省会城市违规面向县域掐尖招生，还有哪些内容值得关注？",
-      "link": "https://www.zhihu.com/question/1954859238917633883",
-      "heat": "81 万热度"
+      "title": "徐达谥号为什么不是最高？",
+      "link": "https://www.zhihu.com/question/24168072",
+      "heat": "79 万热度"
     },
     {
       "rank": "18",
       "title": "你小时候第一个觉得超级漂亮的是哪个女明星？",
       "link": "https://www.zhihu.com/question/387530239",
-      "heat": "81 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "19",
-      "title": "珠海一司机台风天驾车造浪，致周边商铺玻璃门损坏，被行拘十日，有哪些警示意义？激起水流破坏力有多大？",
-      "link": "https://www.zhihu.com/question/1954560005647853093",
-      "heat": "81 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "多大的船只能完全抵御海上风暴？",
-      "link": "https://www.zhihu.com/question/284221132",
-      "heat": "81 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "西贝删除《7 岁的毛毛：我以为自己再也吃不到西贝了》文章，这种所谓「温情公关」戳中了网友的哪些雷点？",
-      "link": "https://www.zhihu.com/question/1954581282181853411",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
-      "link": "https://www.zhihu.com/question/1954819999765066391",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "美国经济矛盾再现，二季度 GDP 增长上修至 3.8%，8 月逆差大降，失业率却创新高，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1954667356975506305",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "24",
       "title": "公益如何摆脱「一时热度」，成为一种可持续的「生活方式」？",
       "link": "https://www.zhihu.com/question/1952009298486986655",
       "heat": "73 万热度"
     },
     {
-      "rank": "25",
-      "title": "《凡人修仙传》元瑶是怎样的人？",
-      "link": "https://www.zhihu.com/question/560471807",
-      "heat": "72 万热度"
+      "rank": "20",
+      "title": "多大的船只能完全抵御海上风暴？",
+      "link": "https://www.zhihu.com/question/284221132",
+      "heat": "71 万热度"
     },
     {
-      "rank": "26",
-      "title": "5 年投入超千亿研发，如何评价雷军在小米造车和造芯上的「豪赌」？",
-      "link": "https://www.zhihu.com/question/1954655758835778389",
+      "rank": "21",
+      "title": "西贝删除《7 岁的毛毛：我以为自己再也吃不到西贝了》文章，这种所谓「温情公关」戳中了网友的哪些雷点？",
+      "link": "https://www.zhihu.com/question/1954581282181853411",
       "heat": "70 万热度"
     },
     {
-      "rank": "27",
+      "rank": "22",
       "title": "韩信的军事能力在整个中国冷兵器时代能否稳进前三？",
       "link": "https://www.zhihu.com/question/1910509590396789323",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
-      "rank": "28",
-      "title": "为什么《武林外传》里没有人喜欢祝无双？和她身上的悲情特质有关系吗？",
-      "link": "https://www.zhihu.com/question/22106619",
+      "rank": "23",
+      "title": "胖东来否认月饼礼盒设计费一千万，称实际为 372 万，这价格属于什么水平？你觉得他们的月饼设计怎么样？",
+      "link": "https://www.zhihu.com/question/1954504138202243747",
       "heat": "66 万热度"
     },
     {
-      "rank": "29",
+      "rank": "24",
+      "title": "东北人到底有多幽默？",
+      "link": "https://www.zhihu.com/question/665790675",
+      "heat": "65 万热度"
+    },
+    {
+      "rank": "25",
       "title": "为什么有些程序员写代码很厉害，但面试表现不佳呢？",
       "link": "https://www.zhihu.com/question/1953836031141979077",
       "heat": "64 万热度"
     },
     {
-      "rank": "30",
-      "title": "科技 / 辅助科技能在多大程度上提升我们的无障碍生活质量？",
-      "link": "https://www.zhihu.com/question/1951369378340791253",
+      "rank": "26",
+      "title": "5 年投入超千亿研发，如何评价雷军在小米造车和造芯上的「豪赌」？",
+      "link": "https://www.zhihu.com/question/1954655758835778389",
       "heat": "59 万热度"
     },
     {
+      "rank": "27",
+      "title": "《凡人修仙传》元瑶是怎样的人？",
+      "link": "https://www.zhihu.com/question/560471807",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "佐助对香磷一点感觉都没有吗？",
+      "link": "https://www.zhihu.com/question/308732542",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "贵阳一小区六十多户玻璃集体自爆，仅入住一两年，可能是什么原因导致的？相关责任谁该来承担？",
+      "link": "https://www.zhihu.com/question/1950948851038032945",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "为什么《琵琶行》里琵琶女会「夜深忽梦少年事，梦啼妆泪红阑干」？",
+      "link": "https://www.zhihu.com/question/21143161",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "31",
-      "title": "为什么《火影》里要举办会暴露忍者能力的中忍考试?",
-      "link": "https://www.zhihu.com/question/1941845494016999576",
+      "title": "为什么在战略游戏中，一堆小国的联盟总是强于一个统一的大帝国呢？",
+      "link": "https://www.zhihu.com/question/14620423491",
       "heat": "58 万热度"
     },
     {
@@ -220,88 +220,88 @@
     },
     {
       "rank": "37",
-      "title": "佐助对香磷一点感觉都没有吗？",
-      "link": "https://www.zhihu.com/question/308732542",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "贵阳一小区六十多户玻璃集体自爆，仅入住一两年，可能是什么原因导致的？相关责任谁该来承担？",
-      "link": "https://www.zhihu.com/question/1950948851038032945",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "为什么《琵琶行》里琵琶女会「夜深忽梦少年事，梦啼妆泪红阑干」？",
-      "link": "https://www.zhihu.com/question/21143161",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "为什么在战略游戏中，一堆小国的联盟总是强于一个统一的大帝国呢？",
-      "link": "https://www.zhihu.com/question/14620423491",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "41",
       "title": "有哪些我们已经听到麻痹，但实则错误的教育观念？",
       "link": "https://www.zhihu.com/question/290210182",
       "heat": "58 万热度"
     },
     {
-      "rank": "42",
+      "rank": "38",
+      "title": "为什么《火影》里要举办会暴露忍者能力的中忍考试?",
+      "link": "https://www.zhihu.com/question/1941845494016999576",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "39",
       "title": "生活中解决冲突的能力很差，怎么样提高?",
       "link": "https://www.zhihu.com/question/32219365",
       "heat": "58 万热度"
     },
     {
-      "rank": "43",
+      "rank": "40",
       "title": "为什么「稳定工作之余一定要有额外收入」成为当下许多人的共识？这反映了怎样的社会心态？",
       "link": "https://www.zhihu.com/question/1953423547167905414",
       "heat": "58 万热度"
     },
     {
-      "rank": "44",
-      "title": "《寂静岭 f》剧情讲了什么？",
-      "link": "https://www.zhihu.com/question/1954125552807023504",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "45",
+      "rank": "41",
       "title": "高敏感人群的显著特征有哪些？",
       "link": "https://www.zhihu.com/question/545387674",
       "heat": "57 万热度"
     },
     {
-      "rank": "46",
+      "rank": "42",
       "title": "为什么台风天很多人在窗户上贴「麦」字？",
       "link": "https://www.zhihu.com/question/1953920086093030199",
       "heat": "57 万热度"
     },
     {
-      "rank": "47",
+      "rank": "43",
       "title": "骑行是不是效率最低的锻炼？",
       "link": "https://www.zhihu.com/question/15685042922",
       "heat": "57 万热度"
     },
     {
-      "rank": "48",
+      "rank": "44",
+      "title": "科技 / 辅助科技能在多大程度上提升我们的无障碍生活质量？",
+      "link": "https://www.zhihu.com/question/1951369378340791253",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "45",
       "title": "如何评价 9 月 24 日发布的新品华为 WATCH GT 6 系列，哪些功能值得关注，值得购买吗？",
       "link": "https://www.zhihu.com/question/1953776112246195212",
       "heat": "57 万热度"
     },
     {
+      "rank": "46",
+      "title": "你的一生是怎样的？",
+      "link": "https://www.zhihu.com/question/389894146",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "你所知道的电影冷知识有哪些？",
+      "link": "https://www.zhihu.com/question/421988567",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "鲍威尔似再次放鹰，目标直指降息空间与美股价格，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1954099575427150681",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "49",
-      "title": "你看过哪些很冷门但含金量很高的书？",
-      "link": "https://www.zhihu.com/question/580215671",
+      "title": "成型的裸绞为什么挣脱不了？即使是成年男性被女生裸绞也是一样吗？",
+      "link": "https://www.zhihu.com/question/1931532194758783872",
       "heat": "57 万热度"
     },
     {
       "rank": "50",
-      "title": "你的一生是怎样的？",
-      "link": "https://www.zhihu.com/question/389894146",
+      "title": "你吃过最有「锅气」的一顿饭是什么？在你的想象中，最完美的一顿饭应该是怎样的？",
+      "link": "https://www.zhihu.com/question/1952076967605167474",
       "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-09-26 13:26:24"
+  "generated_at": "2025-09-26 13:42:39"
 }
