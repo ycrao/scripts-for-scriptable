@@ -1,209 +1,209 @@
 {
-  "artifact_id": "f7e74c3f-b4ea-4aa8-80c9-f3c27312f129",
+  "artifact_id": "c4f65d31-8849-489c-b785-75f6b1feeff5",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "清华大学团队突破固态电池技术瓶颈，开发出高能量密度聚合物电解质，如何通俗理解这一技术突破？",
       "link": "https://www.zhihu.com/question/1955336964116014193",
-      "heat": "334 万热度"
+      "heat": "365 万热度"
     },
     {
       "rank": "2",
-      "title": "普林斯顿中国博士后李昊然去世，有哪些细节值得关注？",
-      "link": "https://www.zhihu.com/question/1955561753380393276",
-      "heat": "244 万热度"
+      "title": "「鸡排哥」每天睡三四个小时，怕辜负顾客不舍得休息，「鸡排哥」为什么爆火？景德镇文旅该如何接住这波流量？",
+      "link": "https://www.zhihu.com/question/1955650761934504410",
+      "heat": "303 万热度"
     },
     {
       "rank": "3",
-      "title": "重庆两地发现上百株罕见的「冥界之花」，人触碰后它会迅速变黑枯萎，这是为什么？为何一次发现这么多？",
-      "link": "https://www.zhihu.com/question/1955283900378079381",
-      "heat": "201 万热度"
+      "title": "普林斯顿中国博士后李昊然去世，有哪些细节值得关注？",
+      "link": "https://www.zhihu.com/question/1955561753380393276",
+      "heat": "264 万热度"
     },
     {
       "rank": "4",
-      "title": "「鸡排哥」每天睡三四个小时，怕辜负顾客不舍得休息，「鸡排哥」为什么爆火？景德镇文旅该如何接住这波流量？",
-      "link": "https://www.zhihu.com/question/1955650761934504410",
+      "title": "重庆两地发现上百株罕见的「冥界之花」，人触碰后它会迅速变黑枯萎，这是为什么？为何一次发现这么多？",
+      "link": "https://www.zhihu.com/question/1955283900378079381",
       "heat": "171 万热度"
     },
     {
       "rank": "5",
-      "title": "疯狂英语李阳「家暴」侵权案一审胜诉，判决书认定前妻言论无充分证据支撑、与事实不符，怎样从法律角度解读？",
-      "link": "https://www.zhihu.com/question/1955605350930670575",
-      "heat": "125 万热度"
+      "title": "埃及失联 6 天中国女孩因参与电诈被捕，同时一名被绑架者获救，到底是怎么回事？海外旅行要防范哪些骗局？",
+      "link": "https://www.zhihu.com/question/1956280127076918756",
+      "heat": "142 万热度"
     },
     {
       "rank": "6",
-      "title": "网友称为了减肥连续吃 6 个月水煮菜导致胰腺坏死，吃水煮菜真能导致胰腺坏死吗？减肥要注意哪些误区？",
-      "link": "https://www.zhihu.com/question/1955370217887719878",
-      "heat": "108 万热度"
+      "title": "户外徒步登山看到几乎人人都要拿个「拐杖」，疑惑这么多人都不信任自己的身体功能吗？",
+      "link": "https://www.zhihu.com/question/14523161775",
+      "heat": "130 万热度"
     },
     {
       "rank": "7",
-      "title": "中国网球公开赛，郑钦文 1-1 诺斯科娃后退赛，止步第三轮，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1956054646956193535",
-      "heat": "91 万热度"
+      "title": "如何评价 Anthropic 在 9 月 30 日更新的 Claude Sonnet 4.5 模型？",
+      "link": "https://www.zhihu.com/question/1956163768401784982",
+      "heat": "101 万热度"
     },
     {
       "rank": "8",
-      "title": "如何评价 Anthropic 在 9 月 30 日更新的 Claude Sonnet 4.5 模型？",
-      "link": "https://www.zhihu.com/question/1956163768401784982",
-      "heat": "91 万热度"
+      "title": "中国网球公开赛，郑钦文 1-1 诺斯科娃后退赛，止步第三轮，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1956054646956193535",
+      "heat": "99 万热度"
     },
     {
       "rank": "9",
       "title": "蕾塞的故事只是间谍爱上被监视的人这样被用烂的套路，为什么那么动人？",
       "link": "https://www.zhihu.com/question/1955245222255652929",
-      "heat": "89 万热度"
+      "heat": "91 万热度"
     },
     {
       "rank": "10",
-      "title": "物理学副教授基金申请 8 年不中转行养鸡，这反映了当前学术科研环境的哪些问题？",
-      "link": "https://www.zhihu.com/question/1954153755286167788",
-      "heat": "88 万热度"
+      "title": "学校食堂为什么一定要用饭卡?",
+      "link": "https://www.zhihu.com/question/1955556462895010523",
+      "heat": "90 万热度"
     },
     {
       "rank": "11",
-      "title": "户外徒步登山看到几乎人人都要拿个「拐杖」，疑惑这么多人都不信任自己的身体功能吗？",
-      "link": "https://www.zhihu.com/question/14523161775",
-      "heat": "77 万热度"
+      "title": "物理学副教授基金申请 8 年不中转行养鸡，这反映了当前学术科研环境的哪些问题？",
+      "link": "https://www.zhihu.com/question/1954153755286167788",
+      "heat": "83 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么地球上的动物大多数都是有两只眼睛、两只手、两只脚、两个耳朵？",
-      "link": "https://www.zhihu.com/question/1948730215619617978",
-      "heat": "77 万热度"
+      "title": "疯狂英语李阳「家暴」侵权案一审胜诉，判决书认定前妻言论无充分证据支撑、与事实不符，怎样从法律角度解读？",
+      "link": "https://www.zhihu.com/question/1955605350930670575",
+      "heat": "80 万热度"
     },
     {
       "rank": "13",
-      "title": "若有一个精灵，每天给你两枚新金币，但会收走你「最早得到的那一枚」，永恒的契约结束后，你最终会剩下什么？",
-      "link": "https://www.zhihu.com/question/1955904354159669432",
-      "heat": "75 万热度"
+      "title": "网友称为了减肥连续吃 6 个月水煮菜导致胰腺坏死，吃水煮菜真能导致胰腺坏死吗？减肥要注意哪些误区？",
+      "link": "https://www.zhihu.com/question/1955370217887719878",
+      "heat": "77 万热度"
     },
     {
       "rank": "14",
-      "title": "学校食堂为什么一定要用饭卡?",
-      "link": "https://www.zhihu.com/question/1955556462895010523",
-      "heat": "70 万热度"
+      "title": "中国的汽车全部变成电动汽车后，我国每年的石油消费量能降到多少？",
+      "link": "https://www.zhihu.com/question/1955365626777404689",
+      "heat": "75 万热度"
     },
     {
       "rank": "15",
       "title": "国庆中秋即将来临，你准备待在家里还是去旅游？",
       "link": "https://www.zhihu.com/question/1953402537400055605",
-      "heat": "70 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "16",
-      "title": "中国的汽车全部变成电动汽车后，我国每年的石油消费量能降到多少？",
-      "link": "https://www.zhihu.com/question/1955365626777404689",
-      "heat": "70 万热度"
+      "title": "若有一个精灵，每天给你两枚新金币，但会收走你「最早得到的那一枚」，永恒的契约结束后，你最终会剩下什么？",
+      "link": "https://www.zhihu.com/question/1955904354159669432",
+      "heat": "66 万热度"
     },
     {
       "rank": "17",
       "title": "有哪些博物馆的文物让你一眼难忘？",
       "link": "https://www.zhihu.com/question/1903363140739141922",
-      "heat": "63 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "18",
       "title": "又一批爱泼斯坦相关文件公布，马斯克出现其中，这会对他产生影响吗？",
       "link": "https://www.zhihu.com/question/1955206859343491194",
-      "heat": "59 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "19",
-      "title": "「替罪羊」是怎么被选中的？",
-      "link": "https://www.zhihu.com/question/1949205697318356345",
-      "heat": "59 万热度"
+      "title": "电视剧《亮剑》中，秀芹牺牲，为什么和尚哭得比李云龙还惨？",
+      "link": "https://www.zhihu.com/question/1955627997605388356",
+      "heat": "64 万热度"
     },
     {
       "rank": "20",
-      "title": "知乎直答全面升级为 Agentic  助手，体验如何？",
-      "link": "https://www.zhihu.com/question/1954510912032568366",
-      "heat": "59 万热度"
+      "title": "「节前综合症」蔓延，如何保持专注？避免在放假前最后关头出错？",
+      "link": "https://www.zhihu.com/question/1955684014552756703",
+      "heat": "64 万热度"
     },
     {
       "rank": "21",
-      "title": "看完路阳执导的《刺杀小说家 2》你有什么感受？值得到电影院看吗？",
-      "link": "https://www.zhihu.com/question/1956046465651700547",
-      "heat": "58 万热度"
+      "title": "什么事的发生让你感叹「人生如戏」？",
+      "link": "https://www.zhihu.com/question/440111963",
+      "heat": "64 万热度"
     },
     {
       "rank": "22",
-      "title": "如何看待高盛称「铜是新石油」的观点？",
-      "link": "https://www.zhihu.com/question/1955936009704403389",
-      "heat": "55 万热度"
+      "title": "早上锻炼身体的时候深蹲两分钟真的比跑步一小时还好吗？",
+      "link": "https://www.zhihu.com/question/1954425747356746435",
+      "heat": "62 万热度"
     },
     {
       "rank": "23",
-      "title": "为啥 coze 和 dify 这种 llmops 没热度了，是不是没必要部署了？",
-      "link": "https://www.zhihu.com/question/1953809252960407580",
-      "heat": "55 万热度"
+      "title": "为什么地球上的动物大多数都是有两只眼睛、两只手、两只脚、两个耳朵？",
+      "link": "https://www.zhihu.com/question/1948730215619617978",
+      "heat": "58 万热度"
     },
     {
       "rank": "24",
-      "title": "三星推出「洗烘护」一站式解决方案，打造「衣美级护衣」体验，这是否意味着洗烘行业进入了下一个时代？",
-      "link": "https://www.zhihu.com/question/1953769380451166165",
-      "heat": "54 万热度"
+      "title": "看完路阳执导的《刺杀小说家 2》你有什么感受？值得到电影院看吗？",
+      "link": "https://www.zhihu.com/question/1956046465651700547",
+      "heat": "57 万热度"
     },
     {
       "rank": "25",
-      "title": "蛇的体型这么小，力气也没狗大，可以直接凭借身高优势一脚踹死，为什么还有那么多人怕蛇？",
-      "link": "https://www.zhihu.com/question/1954621877319374786",
-      "heat": "53 万热度"
+      "title": "「替罪羊」是怎么被选中的？",
+      "link": "https://www.zhihu.com/question/1949205697318356345",
+      "heat": "56 万热度"
     },
     {
       "rank": "26",
       "title": "司机称在上海办事遇「丁义珍式」窗口，还张贴「问路 100 元」标语，如何看待此事？",
       "link": "https://www.zhihu.com/question/1955685074021344334",
-      "heat": "52 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "27",
-      "title": "为什么战锤 40k 中的人类举世皆敌？",
-      "link": "https://www.zhihu.com/question/1953919551264780638",
-      "heat": "52 万热度"
+      "title": "知乎直答全面升级为 Agentic  助手，体验如何？",
+      "link": "https://www.zhihu.com/question/1954510912032568366",
+      "heat": "55 万热度"
     },
     {
       "rank": "28",
-      "title": "S15 全球总决赛 LPL 赛区队伍能走多远？",
-      "link": "https://www.zhihu.com/question/1955370722500240722",
-      "heat": "50 万热度"
+      "title": "三星推出「洗烘护」一站式解决方案，打造「衣美级护衣」体验，这是否意味着洗烘行业进入了下一个时代？",
+      "link": "https://www.zhihu.com/question/1953769380451166165",
+      "heat": "55 万热度"
     },
     {
       "rank": "29",
-      "title": "如何评价《崩坏：星穹铁道》3.6 剧情中昔涟的塑造？",
-      "link": "https://www.zhihu.com/question/1954890341179166999",
-      "heat": "50 万热度"
+      "title": "如何看待高盛称「铜是新石油」的观点？",
+      "link": "https://www.zhihu.com/question/1955936009704403389",
+      "heat": "52 万热度"
     },
     {
       "rank": "30",
-      "title": "S15 全球总决赛十七强战 iG vs T1，你觉得谁能赢？",
-      "link": "https://www.zhihu.com/question/1955370412801220660",
-      "heat": "50 万热度"
+      "title": "为啥 coze 和 dify 这种 llmops 没热度了，是不是没必要部署了？",
+      "link": "https://www.zhihu.com/question/1953809252960407580",
+      "heat": "51 万热度"
     },
     {
       "rank": "31",
-      "title": "什么样的 PPT 才是好的 PPT？",
-      "link": "https://www.zhihu.com/question/298361291",
+      "title": "读完一本书之后，过一段时间大部分内容就想不起来了，这样来说读的这本书是不是没有任何效果呢？",
+      "link": "https://www.zhihu.com/question/1955335263308984707",
       "heat": "50 万热度"
     },
     {
       "rank": "32",
-      "title": "82 岁老奶奶听信偏方，活吞八只青蛙被送医，活吞青蛙有什么风险？",
-      "link": "https://www.zhihu.com/question/1955933392559370885",
+      "title": "看完南昌的海昏侯你有什么感觉？",
+      "link": "https://www.zhihu.com/question/452718828",
       "heat": "50 万热度"
     },
     {
       "rank": "33",
-      "title": "感觉被工作 / 生活掏空后，你的「续命良方」是什么？",
-      "link": "https://www.zhihu.com/question/1955593711883886602",
+      "title": "2526 赛季意甲联赛第五轮，十人 AC 米兰 2 比 1 那不勒斯登顶，如何评价这场比赛?",
+      "link": "https://www.zhihu.com/question/1955859951768565588",
       "heat": "50 万热度"
     },
     {
       "rank": "34",
-      "title": "2526 赛季意甲联赛第五轮，十人 AC 米兰 2 比 1 那不勒斯登顶，如何评价这场比赛?",
-      "link": "https://www.zhihu.com/question/1955859951768565588",
+      "title": "B 费英超 200 场造 115 球，如何评价其对曼联的价值与影响？",
+      "link": "https://www.zhihu.com/question/1953458973941413235",
       "heat": "50 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "电脑用什么浏览器好？",
-      "link": "https://www.zhihu.com/question/660991829",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "小米汽车为什么推豪车才有的定制服务？定制服务是不是很挣钱？",
-      "link": "https://www.zhihu.com/question/1954661126064271611",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "自学机器学习的路线是什么呢？",
-      "link": "https://www.zhihu.com/question/1928284479711056225",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "读完一本书之后，过一段时间大部分内容就想不起来了，这样来说读的这本书是不是没有任何效果呢？",
-      "link": "https://www.zhihu.com/question/1955335263308984707",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "如何看待格力高管在壶口瀑布「豪饮」净化后的黄河水？",
-      "link": "https://www.zhihu.com/question/1954855242064700554",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "长途自驾出游时，比亚迪的智能辅助驾驶能解决旅途哪些难题？",
-      "link": "https://www.zhihu.com/question/1955238236768147360",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "领导一般会如何看待那些不争不抢、闷声干活且业绩不错的员工？",
-      "link": "https://www.zhihu.com/question/1559953472",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "看完南昌的海昏侯你有什么感觉？",
-      "link": "https://www.zhihu.com/question/452718828",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "B 费英超 200 场造 115 球，如何评价其对曼联的价值与影响？",
-      "link": "https://www.zhihu.com/question/1953458973941413235",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "日企发明的 5S 过时了吗？",
+      "title": "日企发明的5S过时了吗？",
       "link": "https://www.zhihu.com/question/7096294445",
       "heat": "50 万热度"
     },
     {
-      "rank": "46",
+      "rank": "37",
       "title": "如何看待《三角洲行动》摸金模式子弹比枪更值钱的情况？",
       "link": "https://www.zhihu.com/question/14211026724",
       "heat": "50 万热度"
     },
     {
-      "rank": "47",
+      "rank": "38",
       "title": "如何评价舒淇凭导演首作《女孩》获釜山国际电影节最佳导演，首次执导就获奖？你期待这部电影吗？",
       "link": "https://www.zhihu.com/question/1954993948826240838",
       "heat": "50 万热度"
     },
     {
-      "rank": "48",
+      "rank": "39",
       "title": "销售这个职业有哪些越早知道越好的道理？",
       "link": "https://www.zhihu.com/question/618006776",
       "heat": "50 万热度"
     },
     {
-      "rank": "49",
+      "rank": "40",
+      "title": "长途自驾出游时，比亚迪的智能辅助驾驶能解决旅途哪些难题？",
+      "link": "https://www.zhihu.com/question/1955238236768147360",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "41",
       "title": "为什么不把仁爱礁的那艘破船拖走，这里面有什么讲究吗?",
       "link": "https://www.zhihu.com/question/1938995979408900191",
       "heat": "50 万热度"
     },
     {
+      "rank": "42",
+      "title": "空降到一个单位做高管，怎样立足， 工作如何开展？",
+      "link": "https://www.zhihu.com/question/286472050",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "为什么学数学的人喜欢讲数学史？",
+      "link": "https://www.zhihu.com/question/24887046",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "2025 LCK 第三赛段决赛 GEN 3:1 HLE 夺冠，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1955638955455287444",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "电子厂真的很累吗？",
+      "link": "https://www.zhihu.com/question/446644008",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "天才与普通人的区别是什么？",
+      "link": "https://www.zhihu.com/question/351513841",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "从诸葛亮、司马懿、荀彧、周瑜、法正、贾诩、陆逊、郭嘉、荀攸、沮授、程昱中选两个助你争霸汉末，何选？",
+      "link": "https://www.zhihu.com/question/492939693",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么上班明明没做什么体力活，却感觉身体好累？",
+      "link": "https://www.zhihu.com/question/630011625",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如果阿莫林下课，曼联换帅应该选谁？",
+      "link": "https://www.zhihu.com/question/1955952823108887974",
+      "heat": "50 万热度"
+    },
+    {
       "rank": "50",
-      "title": "如何评价极客湾对骁龙 8Elite Gen5 处理器的评测？",
-      "link": "https://www.zhihu.com/question/1954487273958676104",
+      "title": "容声方糖冰箱凭什么能成为法式冰箱「机皇」？",
+      "link": "https://www.zhihu.com/question/1955635787543589320",
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-09-30 11:01:43"
+  "generated_at": "2025-09-30 11:42:33"
 }
