@@ -1,36 +1,36 @@
 {
-  "artifact_id": "677dc129-bfe1-4dcb-9f81-b80357bae01e",
+  "artifact_id": "3d4811bc-55ee-4518-a723-613e15b45648",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "得力 CEO 就辞退跛脚员工道歉，称当事人不愿回来入职，劳动者能索赔吗？如何避免此类就业歧视再发生？",
       "link": "https://www.zhihu.com/question/1956366027869905603",
-      "heat": "149 万热度"
+      "heat": "140 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价「鸡排哥」在景德镇文旅座谈会的发言？",
       "link": "https://www.zhihu.com/question/1955950023427744183",
-      "heat": "124 万热度"
+      "heat": "125 万热度"
     },
     {
       "rank": "3",
-      "title": "如何看待儿子成绩三连跌，妈妈怒退国庆机票，称「只有奖惩分明才能让他明白努力的重要性」？",
-      "link": "https://www.zhihu.com/question/1956015299263431821",
-      "heat": "114 万热度"
-    },
-    {
-      "rank": "4",
       "title": "美国中西部粮仓爆满，「最大买家中国却转购巴西大豆」，这一贸易转向可能会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1956004143178164115",
       "heat": "103 万热度"
     },
     {
+      "rank": "4",
+      "title": "如何看待儿子成绩三连跌，妈妈怒退国庆机票，称「只有奖惩分明才能让他明白努力的重要性」？",
+      "link": "https://www.zhihu.com/question/1956015299263431821",
+      "heat": "94 万热度"
+    },
+    {
       "rank": "5",
       "title": "为什么西方国家几乎都不怎么吃豆腐？",
       "link": "https://www.zhihu.com/question/560084670",
-      "heat": "75 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "6",
@@ -76,20 +76,20 @@
     },
     {
       "rank": "13",
-      "title": "网红「唐飞机」直播时坠机不幸身亡，事故发生的原因可能是什么？",
-      "link": "https://www.zhihu.com/question/1955585219756273752",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "14",
       "title": "为什么《凡人修仙传》中没有越境界杀敌?",
       "link": "https://www.zhihu.com/question/1940088853277958251",
       "heat": "59 万热度"
     },
     {
-      "rank": "15",
+      "rank": "14",
       "title": "江河源头为什么会一直出水？",
       "link": "https://www.zhihu.com/question/37914188",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "网红「唐飞机」直播时坠机不幸身亡，事故发生的原因可能是什么？",
+      "link": "https://www.zhihu.com/question/1955585219756273752",
       "heat": "58 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "目前机器人研究热点是什么？",
-      "link": "https://www.zhihu.com/question/328583927",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "49",
       "title": "刘德华的哪首歌，曾在你人生的某个阶段给过你力量？",
       "link": "https://www.zhihu.com/question/1956088543886685878",
       "heat": "51 万热度"
     },
     {
-      "rank": "50",
+      "rank": "49",
       "title": "如果可以带孩子去课本里的一个地方过节，你会选哪？为什么？",
       "link": "https://www.zhihu.com/question/1955018519629529817",
       "heat": "51 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "作为一个职场人，你理想中的「完美假期」应该具备哪些元素？",
+      "link": "https://www.zhihu.com/question/1954969339020174228",
+      "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-10-01 05:21:03"
+  "generated_at": "2025-10-01 05:39:35"
 }
