@@ -1,60 +1,60 @@
 {
-  "artifact_id": "26890f60-783a-44c5-9d25-842e1240011c",
+  "artifact_id": "23fb137c-c92e-433c-b319-8866f6f641e4",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "得力 CEO 就辞退跛脚员工道歉，称当事人不愿回来入职，劳动者能索赔吗？如何避免此类就业歧视再发生？",
       "link": "https://www.zhihu.com/question/1956366027869905603",
-      "heat": "225 万热度"
+      "heat": "228 万热度"
     },
     {
       "rank": "2",
       "title": "如何看待儿子成绩三连跌，妈妈怒退国庆机票，称「只有奖惩分明才能让他明白努力的重要性」？",
       "link": "https://www.zhihu.com/question/1956015299263431821",
-      "heat": "122 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "3",
-      "title": "网文作者文笔想达到金庸的水平难吗？",
-      "link": "https://www.zhihu.com/question/650478025",
-      "heat": "91 万热度"
-    },
-    {
-      "rank": "4",
       "title": "电影《731》票房突破 15 亿，这部电影票房还有多大增长空间？对国庆档电影有什么影响？",
       "link": "https://www.zhihu.com/question/1956301424116888750",
       "heat": "85 万热度"
     },
     {
+      "rank": "4",
+      "title": "网红「唐飞机」直播时坠机不幸身亡，事故发生的原因可能是什么？",
+      "link": "https://www.zhihu.com/question/1955585219756273752",
+      "heat": "82 万热度"
+    },
+    {
       "rank": "5",
       "title": "1.4 亿欧身价维尔茨加盟利物浦后 8 场 0 球 1 助，如何评价他的表现？",
       "link": "https://www.zhihu.com/question/1956007948666016928",
-      "heat": "78 万热度"
+      "heat": "79 万热度"
     },
     {
       "rank": "6",
       "title": "以色列总理就空袭多哈向卡塔尔道歉，以方为何此时道歉？是迫于哪些压力？这会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1956273844210869107",
-      "heat": "77 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "7",
-      "title": "如何用最少的钱获得最高的营养？",
-      "link": "https://www.zhihu.com/question/332936364",
-      "heat": "75 万热度"
+      "title": "为什么西方国家几乎都不怎么吃豆腐？",
+      "link": "https://www.zhihu.com/question/560084670",
+      "heat": "74 万热度"
     },
     {
       "rank": "8",
       "title": "苏醒称「只有西安胡辣汤是真胡辣汤，河南的不是」，如何看待此番言论引发的地域美食争议？",
       "link": "https://www.zhihu.com/question/1956013646497968577",
-      "heat": "74 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "9",
-      "title": "为什么西方国家几乎都不怎么吃豆腐？",
-      "link": "https://www.zhihu.com/question/560084670",
-      "heat": "73 万热度"
+      "title": "网文作者文笔想达到金庸的水平难吗？",
+      "link": "https://www.zhihu.com/question/650478025",
+      "heat": "72 万热度"
     },
     {
       "rank": "10",
@@ -106,14 +106,14 @@
     },
     {
       "rank": "18",
-      "title": "如何评价张家辉、胡杏儿主演的港剧《绝命法官》？",
-      "link": "https://www.zhihu.com/question/1955595021676933595",
-      "heat": "60 万热度"
+      "title": "天性凉薄的人是怎样的呢？",
+      "link": "https://www.zhihu.com/question/329361460",
+      "heat": "61 万热度"
     },
     {
       "rank": "19",
-      "title": "2025 全国田径冠军赛，吴艳妮 100 米栏 12 秒 90 力压林雨薇夺冠，如何评价这一表现？",
-      "link": "https://www.zhihu.com/question/1955751893407102424",
+      "title": "如何用最少的钱获得最高的营养？",
+      "link": "https://www.zhihu.com/question/332936364",
       "heat": "59 万热度"
     },
     {
@@ -124,8 +124,8 @@
     },
     {
       "rank": "21",
-      "title": "中国的汽车全部变成电动汽车后，我国每年的石油消费量能降到多少？",
-      "link": "https://www.zhihu.com/question/1955365626777404689",
+      "title": "2025 全国田径冠军赛，吴艳妮 100 米栏 12 秒 90 力压林雨薇夺冠，如何评价这一表现？",
+      "link": "https://www.zhihu.com/question/1955751893407102424",
       "heat": "59 万热度"
     },
     {
@@ -136,62 +136,62 @@
     },
     {
       "rank": "23",
+      "title": "中国的汽车全部变成电动汽车后，我国每年的石油消费量能降到多少？",
+      "link": "https://www.zhihu.com/question/1955365626777404689",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "24",
       "title": "「鸡排哥」每天睡三四个小时，怕辜负顾客不舍得休息，「鸡排哥」为什么爆火？景德镇文旅该如何接住这波流量？",
       "link": "https://www.zhihu.com/question/1955650761934504410",
       "heat": "59 万热度"
     },
     {
-      "rank": "24",
+      "rank": "25",
       "title": "为什么《凡人修仙传》中没有越境界杀敌?",
       "link": "https://www.zhihu.com/question/1940088853277958251",
       "heat": "59 万热度"
     },
     {
-      "rank": "25",
+      "rank": "26",
+      "title": "如何评价张家辉、胡杏儿主演的港剧《绝命法官》？",
+      "link": "https://www.zhihu.com/question/1955595021676933595",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "27",
       "title": "电视剧《亮剑》中，秀芹牺牲，为什么和尚哭得比李云龙还惨？",
       "link": "https://www.zhihu.com/question/1955627997605388356",
       "heat": "56 万热度"
     },
     {
-      "rank": "26",
+      "rank": "28",
       "title": "所谓的「反侦查能力强」具体指的是什么？",
       "link": "https://www.zhihu.com/question/58942874",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "36 岁以后的职场生涯，该怎么规划？什么重要？",
-      "link": "https://www.zhihu.com/question/1926651849735374284",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "你有怪过曾经的自己吗?",
-      "link": "https://www.zhihu.com/question/1926419445066235973",
-      "heat": "52 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "29",
-      "title": "究竟什么才是优秀的代码？",
-      "link": "https://www.zhihu.com/question/1905707905585481540",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "30",
       "title": "拉里·埃里森在他 32 岁创办甲骨文之前的时候是什么样的一个人？性格如何？",
       "link": "https://www.zhihu.com/question/20118236",
       "heat": "52 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "蕾塞的故事只是间谍爱上被监视的人这样被用烂的套路，为什么那么动人？",
       "link": "https://www.zhihu.com/question/1955245222255652929",
       "heat": "52 万热度"
     },
     {
+      "rank": "31",
+      "title": "究竟什么才是优秀的代码？",
+      "link": "https://www.zhihu.com/question/1905707905585481540",
+      "heat": "52 万热度"
+    },
+    {
       "rank": "32",
-      "title": "有没有超级好看的电视剧电影推荐呢？",
-      "link": "https://www.zhihu.com/question/489319178",
+      "title": "《空洞骑士：丝之歌》给个 boss 房死了直接复活在门口的「玛丽卡楔石」，是不是就没什么问题了？",
+      "link": "https://www.zhihu.com/question/1954152549511836879",
       "heat": "52 万热度"
     },
     {
@@ -202,38 +202,38 @@
     },
     {
       "rank": "34",
-      "title": "《空洞骑士：丝之歌》给个 boss 房死了直接复活在门口的「玛丽卡楔石」，是不是就没什么问题了？",
-      "link": "https://www.zhihu.com/question/1954152549511836879",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "35",
       "title": "早上锻炼身体的时候深蹲两分钟真的比跑步一小时还好吗？",
       "link": "https://www.zhihu.com/question/1954425747356746435",
       "heat": "52 万热度"
     },
     {
-      "rank": "36",
-      "title": "美国亚利桑那州洪水导致 1000 个丙烷罐被冲走，这可能造成哪些潜在危险？",
-      "link": "https://www.zhihu.com/question/1955996187690760140",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "37",
+      "rank": "35",
       "title": "如何评价《三角洲行动》有玩家会在交战前先把背包藏起来的行为？",
       "link": "https://www.zhihu.com/question/14211051086",
       "heat": "52 万热度"
     },
     {
-      "rank": "38",
+      "rank": "36",
       "title": "学校食堂为什么一定要用饭卡?",
       "link": "https://www.zhihu.com/question/1955556462895010523",
       "heat": "52 万热度"
     },
     {
-      "rank": "39",
+      "rank": "37",
       "title": "有哪两种食材，堪称天生一对？",
       "link": "https://www.zhihu.com/question/27598411",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "好奇 20 多年前《空之轨迹》第一部剧情断在约书亚和艾斯蒂尔分开，大家都有什么反应？",
+      "link": "https://www.zhihu.com/question/1956285696361865881",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "最近几年的旗舰机内存为什么都是 16G 封顶？",
+      "link": "https://www.zhihu.com/question/1954657487908209290",
       "heat": "52 万热度"
     },
     {
@@ -250,14 +250,14 @@
     },
     {
       "rank": "42",
-      "title": "最近几年的旗舰机内存为什么都是 16G 封顶？",
-      "link": "https://www.zhihu.com/question/1954657487908209290",
+      "title": "你有怪过曾经的自己吗?",
+      "link": "https://www.zhihu.com/question/1926419445066235973",
       "heat": "52 万热度"
     },
     {
       "rank": "43",
-      "title": "好奇 20 多年前《空之轨迹》第一部剧情断在约书亚和艾斯蒂尔分开，大家都有什么反应？",
-      "link": "https://www.zhihu.com/question/1956285696361865881",
+      "title": "36 岁以后的职场生涯，该怎么规划？什么重要？",
+      "link": "https://www.zhihu.com/question/1926651849735374284",
       "heat": "52 万热度"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "rank": "45",
-      "title": "如果 LoL 所有职业选手恢复巅峰游戏水平，你觉得哪五个巅峰的中国人在一起能够打赢五个巅峰的韩国人？",
-      "link": "https://www.zhihu.com/question/615912373",
+      "title": "轩逸为何 20 年都不换发动机？",
+      "link": "https://www.zhihu.com/question/1955557758347764046",
       "heat": "52 万热度"
     },
     {
@@ -280,28 +280,28 @@
     },
     {
       "rank": "47",
-      "title": "轩逸为何 20 年都不换发动机？",
-      "link": "https://www.zhihu.com/question/1955557758347764046",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "48",
       "title": "DeepSeek-V3.2-Exp 和 Qwen3-Next 哪个才是未来？",
       "link": "https://www.zhihu.com/question/1956137082197083536",
       "heat": "52 万热度"
     },
     {
-      "rank": "49",
+      "rank": "48",
       "title": "你心目中的苏菜排名前五是什么？",
       "link": "https://www.zhihu.com/question/522238826",
       "heat": "52 万热度"
     },
     {
-      "rank": "50",
+      "rank": "49",
       "title": "河流的发源地是什么样的？",
       "link": "https://www.zhihu.com/question/322839952",
       "heat": "52 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "假如我到处撒菜种子，可以提高绿化吗？",
+      "link": "https://www.zhihu.com/question/1942039762815910732",
+      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-09-30 23:55:07"
+  "generated_at": "2025-10-01 00:30:30"
 }
