@@ -1,89 +1,89 @@
 {
-  "artifact_id": "23831765-0f3f-421d-b91f-0153ff7e6bdd",
+  "artifact_id": "166e03fd-98f8-420e-93da-e3cd077adacb",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "山姆 99.9 零食被曝在好特卖仅 39.9 元，怎么回事？为什么同款零食会出现巨大价差？",
       "link": "https://www.zhihu.com/question/1956659439777047910",
-      "heat": "172 万热度"
+      "heat": "164 万热度"
     },
     {
       "rank": "2",
       "title": "美国驯兽师被从小养大的老虎突袭致死，为什么从小养大的老虎也这么危险？",
       "link": "https://www.zhihu.com/question/1956664668815844592",
-      "heat": "107 万热度"
+      "heat": "109 万热度"
     },
     {
       "rank": "3",
       "title": "如何看待 XG 宣布新赛季阵容，NTS 与 FY 正式加入？",
       "link": "https://www.zhihu.com/question/1956764046121468563",
-      "heat": "80 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "4",
-      "title": "为什么动物几乎不锻炼肌肉还那么发达，人却要不断健身才可以？",
-      "link": "https://www.zhihu.com/question/479365967",
-      "heat": "77 万热度"
+      "title": "Windows 无法运行大于 4GB 的 EXE 文件，在未来是否会成为阻碍？",
+      "link": "https://www.zhihu.com/question/1956204628074037890",
+      "heat": "75 万热度"
     },
     {
       "rank": "5",
-      "title": "Windows 无法运行大于 4GB 的 EXE 文件，在未来是否会成为阻碍？",
-      "link": "https://www.zhihu.com/question/1956204628074037890",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "为什么中国各地一夜之间多了很多零食店?",
-      "link": "https://www.zhihu.com/question/624803398",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "7",
       "title": "怎么判断一个人认知水平?",
       "link": "https://www.zhihu.com/question/344453214",
       "heat": "69 万热度"
     },
     {
-      "rank": "8",
+      "rank": "6",
       "title": "燃油车通过踩离合再踩刹车来迅速减速，而电车只能通过踩刹车来减速，如果遇到紧急情况，哪个车刹车更安全？",
       "link": "https://www.zhihu.com/question/1953347749140496539",
       "heat": "68 万热度"
     },
     {
+      "rank": "7",
+      "title": "为什么动物几乎不锻炼肌肉还那么发达，人却要不断健身才可以？",
+      "link": "https://www.zhihu.com/question/479365967",
+      "heat": "67 万热度"
+    },
+    {
+      "rank": "8",
+      "title": "为什么中国各地一夜之间多了很多零食店?",
+      "link": "https://www.zhihu.com/question/624803398",
+      "heat": "67 万热度"
+    },
+    {
       "rank": "9",
       "title": "美国中西部粮仓爆满，最大买家中国却转购巴西大豆，这一贸易转向可能会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1956004143178164115",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "10",
       "title": "为什么中国剑与西洋剑走了不同的演变道路？",
       "link": "https://www.zhihu.com/question/660884673",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "11",
       "title": "四川一初中 8 人宿舍住 9 名男生 1 人轮流挤睡，校方称已连夜增设床位，校方管理存在哪些问题？",
       "link": "https://www.zhihu.com/question/1956360394802205085",
-      "heat": "64 万热度"
+      "heat": "61 万热度"
     },
     {
       "rank": "12",
-      "title": "普通 Java 开发如何转型大模型方向？",
-      "link": "https://www.zhihu.com/question/10745665429",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "13",
       "title": "如何看待儿子成绩三连跌，妈妈怒退国庆机票，称「只有奖惩分明才能让他明白努力的重要性」？",
       "link": "https://www.zhihu.com/question/1956015299263431821",
       "heat": "59 万热度"
     },
     {
-      "rank": "14",
+      "rank": "13",
       "title": "为什么战略最弱的东吴活到了三国最后？",
       "link": "https://www.zhihu.com/question/658270745",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "一个碗坚持活过两百年，就会被人当作古董，我把我的碗保存好，过了两百年，也能卖个好价钱吗?",
+      "link": "https://www.zhihu.com/question/615770465",
       "heat": "59 万热度"
     },
     {
@@ -94,21 +94,21 @@
     },
     {
       "rank": "16",
-      "title": "一个碗坚持活过两百年，就会被人当作古董，我把我的碗保存好，过了两百年，也能卖个好价钱吗?",
-      "link": "https://www.zhihu.com/question/615770465",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "17",
       "title": "如何评价小米 17？",
       "link": "https://www.zhihu.com/question/1951062044083200517",
       "heat": "59 万热度"
     },
     {
-      "rank": "18",
+      "rank": "17",
       "title": "如何评价易中天编剧、监制的动画电影《三国的星空》？",
       "link": "https://www.zhihu.com/question/1956324342674747893",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "18",
+      "title": "普通 Java 开发如何转型大模型方向？",
+      "link": "https://www.zhihu.com/question/10745665429",
+      "heat": "58 万热度"
     },
     {
       "rank": "19",
@@ -168,7 +168,7 @@
       "rank": "28",
       "title": "如何评价《原神》中爱诺和伊涅芙的关系？",
       "link": "https://www.zhihu.com/question/1955590177696252368",
-      "heat": "49 万热度"
+      "heat": "50 万热度"
     },
     {
       "rank": "29",
@@ -178,26 +178,26 @@
     },
     {
       "rank": "30",
+      "title": "为什么近代英国不学中国明清的改土归流政策，如果对爱尔兰等地进行改土归流后，是不是就不会脱离了？",
+      "link": "https://www.zhihu.com/question/1955387622634521897",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "31",
       "title": "疯狂英语李阳「家暴」侵权案一审胜诉，判决书认定前妻言论无充分证据支撑、与事实不符，怎样从法律角度解读？",
       "link": "https://www.zhihu.com/question/1955605350930670575",
       "heat": "49 万热度"
     },
     {
-      "rank": "31",
+      "rank": "32",
       "title": "销售这个职业有哪些越早知道越好的道理？",
       "link": "https://www.zhihu.com/question/618006776",
       "heat": "49 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "早上锻炼身体的时候深蹲两分钟真的比跑步一小时还好吗？",
       "link": "https://www.zhihu.com/question/1954425747356746435",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "为什么近代英国不学中国明清的改土归流政策，如果对爱尔兰等地进行改土归流后，是不是就不会脱离了？",
-      "link": "https://www.zhihu.com/question/1955387622634521897",
       "heat": "49 万热度"
     },
     {
@@ -234,7 +234,7 @@
       "rank": "39",
       "title": "如何评价路阳执导，邓超、董子健主演的电影《刺杀小说家 2》？",
       "link": "https://www.zhihu.com/question/1956315890145527077",
-      "heat": "48 万热度"
+      "heat": "49 万热度"
     },
     {
       "rank": "40",
@@ -244,20 +244,20 @@
     },
     {
       "rank": "41",
-      "title": "生成式推荐是不是一个伪范式？",
-      "link": "https://www.zhihu.com/question/1906473225224953962",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "42",
       "title": "刘德华的哪首歌，曾在你人生的某个阶段给过你力量？",
       "link": "https://www.zhihu.com/question/1956088543886685878",
       "heat": "48 万热度"
     },
     {
-      "rank": "43",
+      "rank": "42",
       "title": "为什么说「 科研绝不能陷入『顶刊崇拜』」？",
       "link": "https://www.zhihu.com/question/1955842651740967670",
+      "heat": "48 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "生成式推荐是不是一个伪范式？",
+      "link": "https://www.zhihu.com/question/1906473225224953962",
       "heat": "48 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "生活中有哪些隐蔽的心理操纵术，正在悄悄侵蚀我们的精神健康？",
-      "link": "https://www.zhihu.com/question/1952375575869129139",
+      "title": "为什么西方国家几乎都不怎么吃豆腐？",
+      "link": "https://www.zhihu.com/question/560084670",
       "heat": "48 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么西方国家几乎都不怎么吃豆腐？",
-      "link": "https://www.zhihu.com/question/560084670",
+      "title": "所谓的「反侦查能力强」具体指的是什么？",
+      "link": "https://www.zhihu.com/question/58942874",
       "heat": "48 万热度"
     }
   ],
-  "generated_at": "2025-10-02 05:22:09"
+  "generated_at": "2025-10-02 05:39:27"
 }
