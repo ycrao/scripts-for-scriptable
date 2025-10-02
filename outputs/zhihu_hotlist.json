@@ -1,54 +1,54 @@
 {
-  "artifact_id": "717dada2-6cf9-44e3-829b-f77866aef2c4",
+  "artifact_id": "f22935c2-2205-44ae-b316-dc71fdc15c6b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "国庆高速路充电桩迎「排队叫号」模式，有人排队 3 小时，怎样才能解决这一困境？你开车出行还顺利吗？",
       "link": "https://www.zhihu.com/question/1956751456230143553",
-      "heat": "189 万热度"
+      "heat": "198 万热度"
     },
     {
       "rank": "2",
-      "title": "为什么二手车贩子都要求原版原漆，真的有人能做到开车 7、8 年一点漆都没蹭掉么？",
-      "link": "https://www.zhihu.com/question/11799663971",
+      "title": "G3754 次列车因买短乘长超员临停，列车员清了一部分人下车，怎样避免这种情况？高铁超员有多危险？",
+      "link": "https://www.zhihu.com/question/1956809982726075048",
       "heat": "161 万热度"
     },
     {
       "rank": "3",
-      "title": "G3754 次列车因买短乘长超员临停，列车员清了一部分人下车，怎样避免这种情况？高铁超员有多危险？",
-      "link": "https://www.zhihu.com/question/1956809982726075048",
-      "heat": "160 万热度"
+      "title": "为什么二手车贩子都要求原版原漆，真的有人能做到开车 7、8 年一点漆都没蹭掉么？",
+      "link": "https://www.zhihu.com/question/11799663971",
+      "heat": "148 万热度"
     },
     {
       "rank": "4",
       "title": "中国为什么造不出高端相机？",
       "link": "https://www.zhihu.com/question/1954237809306077072",
-      "heat": "119 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "5",
       "title": "为什么三百年周期律不适用于欧美？",
       "link": "https://www.zhihu.com/question/1948433856584721249",
-      "heat": "100 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "6",
       "title": "南京长江大桥是否阻碍了长江航运的发展？",
       "link": "https://www.zhihu.com/question/23588159",
-      "heat": "97 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "7",
       "title": "山东威海一车主称，他的小米汽车突然自己开走了，可能发生了什么?",
       "link": "https://www.zhihu.com/question/1956841259089003844",
-      "heat": "96 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "8",
       "title": "韩国举行大规模阅兵式，机器狗、无人机等亮相，李在明称明年将大幅提高军费，收回作战指挥权，如何解读？",
       "link": "https://www.zhihu.com/question/1956743356592952825",
-      "heat": "96 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "9",
@@ -58,39 +58,39 @@
     },
     {
       "rank": "10",
-      "title": "体制内有能力的人是怎么工作的？",
-      "link": "https://www.zhihu.com/question/1956050366102766888",
+      "title": "为什么烟瘾大的人看电影能忍住 2 小时左右不抽烟?",
+      "link": "https://www.zhihu.com/question/354885834",
       "heat": "92 万热度"
     },
     {
       "rank": "11",
-      "title": "为什么烟瘾大的人看电影能忍住 2 小时左右不抽烟?",
-      "link": "https://www.zhihu.com/question/354885834",
-      "heat": "84 万热度"
+      "title": "有哪些看起来简洁却很难的数学题？",
+      "link": "https://www.zhihu.com/question/662306514",
+      "heat": "80 万热度"
     },
     {
       "rank": "12",
-      "title": "有哪些看起来简洁却很难的数学题？",
-      "link": "https://www.zhihu.com/question/662306514",
-      "heat": "79 万热度"
-    },
-    {
-      "rank": "13",
       "title": "《赛博朋克 2077》的序章中，为什么所有人都在准备工作时忽视了亚当重锤？",
       "link": "https://www.zhihu.com/question/434532635",
       "heat": "78 万热度"
     },
     {
+      "rank": "13",
+      "title": "小公司没必要上 k8s 么？",
+      "link": "https://www.zhihu.com/question/590170869",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "14",
       "title": "你读过哪些你认为比较冷门但却非常好的书？",
       "link": "https://www.zhihu.com/question/24525223",
-      "heat": "64 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "15",
-      "title": "纸质火车票在 10 月 1 日已成历史，能晒一张对你有特殊意义的火车票吗？背后发生了怎样的故事？",
-      "link": "https://www.zhihu.com/question/1956018455925977345",
-      "heat": "61 万热度"
+      "title": "为什么别人都说蹲着拉屎比较好拉？",
+      "link": "https://www.zhihu.com/question/283819528",
+      "heat": "59 万热度"
     },
     {
       "rank": "16",
@@ -100,26 +100,26 @@
     },
     {
       "rank": "17",
-      "title": "小公司没必要上 k8s 么？",
-      "link": "https://www.zhihu.com/question/590170869",
+      "title": "体制内有能力的人是怎么工作的？",
+      "link": "https://www.zhihu.com/question/1956050366102766888",
       "heat": "59 万热度"
     },
     {
       "rank": "18",
-      "title": "为什么别人都说蹲着拉屎比较好拉？",
-      "link": "https://www.zhihu.com/question/283819528",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "19",
       "title": "教育孩子怎么才能做到情绪稳定呢?",
       "link": "https://www.zhihu.com/question/1942966668604192330",
       "heat": "59 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "为什么证券从业人员不许炒股?",
       "link": "https://www.zhihu.com/question/314417321",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "纸质火车票在 10 月 1 日已成历史，能晒一张对你有特殊意义的火车票吗？背后发生了怎样的故事？",
+      "link": "https://www.zhihu.com/question/1956018455925977345",
       "heat": "59 万热度"
     },
     {
@@ -190,33 +190,33 @@
     },
     {
       "rank": "32",
-      "title": "民国建立后，为什么不恢复汉服，反而推行起了中山装？",
-      "link": "https://www.zhihu.com/question/605405390",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "33",
       "title": "一个碗坚持活过两百年，就会被人当作古董，我把我的碗保存好，过了两百年，也能卖个好价钱吗?",
       "link": "https://www.zhihu.com/question/615770465",
       "heat": "48 万热度"
     },
     {
-      "rank": "34",
-      "title": "檀健次主演电影《震耳欲聋》定档 10 月 4 日上映，对于这部电影你有哪些期待？",
-      "link": "https://www.zhihu.com/question/1952312027780440743",
+      "rank": "33",
+      "title": "民国建立后，为什么不恢复汉服，反而推行起了中山装？",
+      "link": "https://www.zhihu.com/question/605405390",
       "heat": "48 万热度"
     },
     {
-      "rank": "35",
+      "rank": "34",
       "title": "如何看待原神新开放的《幻想真镜剧诗月谕篇》？",
       "link": "https://www.zhihu.com/question/1956660978465879610",
       "heat": "48 万热度"
     },
     {
-      "rank": "36",
+      "rank": "35",
       "title": "你电脑上有哪些「 效率高到爆炸 」的软件？",
       "link": "https://www.zhihu.com/question/479531888",
-      "heat": "47 万热度"
+      "heat": "48 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "檀健次主演电影《震耳欲聋》定档 10 月 4 日上映，对于这部电影你有哪些期待？",
+      "link": "https://www.zhihu.com/question/1952312027780440743",
+      "heat": "48 万热度"
     },
     {
       "rank": "37",
@@ -232,20 +232,20 @@
     },
     {
       "rank": "39",
+      "title": "为什么很多人不使用 Word 中的自动编号功能？",
+      "link": "https://www.zhihu.com/question/19977121",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "40",
       "title": "中国 BEST 核聚变装置主机开建，2030 年有望发电，核聚变发电有哪些优势？对能源领域有哪些影响？",
       "link": "https://www.zhihu.com/question/1956806717900809294",
       "heat": "47 万热度"
     },
     {
-      "rank": "40",
+      "rank": "41",
       "title": "元末农民起义时，没有战马又疏于训练的农民武装是如何战胜蒙古骑兵的？",
       "link": "https://www.zhihu.com/question/381558650",
-      "heat": "47 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "为什么很多人不使用 Word 中的自动编号功能？",
-      "link": "https://www.zhihu.com/question/19977121",
       "heat": "47 万热度"
     },
     {
@@ -280,28 +280,28 @@
     },
     {
       "rank": "47",
-      "title": "如何评价 25-26 赛季欧冠联赛阶段第二轮巴萨 1-2 巴黎的比赛?",
-      "link": "https://www.zhihu.com/question/1956953822485251875",
-      "heat": "47 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "18 天直达欧洲，全球首条中欧北极集装箱快航正式通航，将带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1953772154886788858",
-      "heat": "47 万热度"
-    },
-    {
-      "rank": "49",
       "title": "如何看待微软把 Xbox Gamepass Ultimate 的价格上涨至 29.99 美元一月？",
       "link": "https://www.zhihu.com/question/1956845666765632887",
       "heat": "47 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "为什么六部制在我国沿用千年却没有变动过数量？",
       "link": "https://www.zhihu.com/question/1953783951677199800",
       "heat": "47 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如何评价 25-26 赛季欧冠联赛阶段第二轮巴萨 1-2 巴黎的比赛?",
+      "link": "https://www.zhihu.com/question/1956953822485251875",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "18 天直达欧洲，全球首条中欧北极集装箱快航正式通航，将带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1953772154886788858",
+      "heat": "47 万热度"
     }
   ],
-  "generated_at": "2025-10-03 04:54:54"
+  "generated_at": "2025-10-03 05:20:10"
 }
