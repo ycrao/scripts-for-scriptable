@@ -1,191 +1,191 @@
 {
-  "artifact_id": "91d37b08-48ec-473d-927f-0b8dc34f0b17",
+  "artifact_id": "2b7612ee-297a-4068-9449-9bce9f998c21",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "128 斤胖狗躺路中间被路过车辆碾压毫发无损，这是怎么做到的？",
       "link": "https://www.zhihu.com/question/1957872075223036264",
-      "heat": "420 万热度"
+      "heat": "436 万热度"
     },
     {
       "rank": "2",
-      "title": "美国农业迎来创纪录丰收却无法卖出，议员喊话称正失去数十年心血开拓的市场，美国失去的仅仅是大豆市场吗？",
-      "link": "https://www.zhihu.com/question/1957529534543949914",
-      "heat": "139 万热度"
+      "title": "单看作品质量，你觉得 2025 国庆档是「神仙打架」还是「菜鸡互啄」？",
+      "link": "https://www.zhihu.com/question/1957418338696258427",
+      "heat": "127 万热度"
     },
     {
       "rank": "3",
       "title": "肯德基保密 54 年的炸鸡配方将于 10 月 8 日公开，公开后会对炸鸡销量带来影响吗？",
       "link": "https://www.zhihu.com/question/1957490230828426457",
-      "heat": "132 万热度"
+      "heat": "123 万热度"
     },
     {
       "rank": "4",
-      "title": "单看作品质量，你觉得 2025 国庆档是「神仙打架」还是「菜鸡互啄」？",
-      "link": "https://www.zhihu.com/question/1957418338696258427",
-      "heat": "124 万热度"
+      "title": "《天道》丁元英连说都不能说的赚钱秘籍到底是什么？",
+      "link": "https://www.zhihu.com/question/664594338",
+      "heat": "120 万热度"
     },
     {
       "rank": "5",
-      "title": "《天道》丁元英连说都不能说的赚钱秘籍到底是什么？",
-      "link": "https://www.zhihu.com/question/664594338",
-      "heat": "114 万热度"
+      "title": "美国农业迎来创纪录丰收却无法卖出，议员喊话称正失去数十年心血开拓的市场，美国失去的仅仅是大豆市场吗？",
+      "link": "https://www.zhihu.com/question/1957529534543949914",
+      "heat": "108 万热度"
     },
     {
       "rank": "6",
-      "title": "如果《赠汪伦》不是李白写的，而是一个不知名的书生写的，还能这么出名吗？",
-      "link": "https://www.zhihu.com/question/361217174",
-      "heat": "94 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "女子把车停路边被狗啃得面目全非，若找到「肇事狗」能向狗主人索赔吗？这情况汽车保险会赔付吗？",
-      "link": "https://www.zhihu.com/question/1957353751020009458",
-      "heat": "87 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "伊朗总统称伊朗别无选择必须迁都，首都德黑兰存在哪些问题？可能迁到哪里？迁都后问题能解决吗？",
-      "link": "https://www.zhihu.com/question/1957471314110538983",
-      "heat": "86 万热度"
-    },
-    {
-      "rank": "9",
-      "title": "太阳每秒消耗 420 万吨物质，已经烧了 46 亿年，为什么能烧这么久？",
-      "link": "https://www.zhihu.com/question/14689836446",
-      "heat": "84 万热度"
-    },
-    {
-      "rank": "10",
       "title": "小米 299 元金沙江磁吸充电宝火速售罄，闲鱼加价至 400 多元，透露出哪些市场信息？",
       "link": "https://www.zhihu.com/question/1957015302429737900",
       "heat": "83 万热度"
     },
     {
+      "rank": "7",
+      "title": "女子把车停路边被狗啃得面目全非，若找到「肇事狗」能向狗主人索赔吗？这情况汽车保险会赔付吗？",
+      "link": "https://www.zhihu.com/question/1957353751020009458",
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "8",
+      "title": "伊朗总统称伊朗别无选择必须迁都，首都德黑兰存在哪些问题？可能迁到哪里？迁都后问题能解决吗？",
+      "link": "https://www.zhihu.com/question/1957471314110538983",
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "如果《赠汪伦》不是李白写的，而是一个不知名的书生写的，还能这么出名吗？",
+      "link": "https://www.zhihu.com/question/361217174",
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "人到中年，你觉得你有朋友吗？",
+      "link": "https://www.zhihu.com/question/610940901",
+      "heat": "73 万热度"
+    },
+    {
       "rank": "11",
       "title": "高市早苗当选自民党总裁，预计将成为日本第一位女首相，对日本政坛意味着什么？她有哪些政治主张？",
       "link": "https://www.zhihu.com/question/1957806831721214788",
-      "heat": "80 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "12",
       "title": "如何评价中国矿产资源集团有限公司本周已要求国内买家暂停购买任何以美元计价的必和必拓（BHP）海运船货？",
       "link": "https://www.zhihu.com/question/1957533217943970122",
-      "heat": "77 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "13",
-      "title": "人到中年，你觉得你有朋友吗？",
-      "link": "https://www.zhihu.com/question/610940901",
-      "heat": "70 万热度"
+      "title": "太阳每秒消耗 420 万吨物质，已经烧了 46 亿年，为什么能烧这么久？",
+      "link": "https://www.zhihu.com/question/14689836446",
+      "heat": "72 万热度"
     },
     {
       "rank": "14",
       "title": "内地这么多女演员，为什么选蔡少芬饰演《甄嬛传》中的皇后一角?",
       "link": "https://www.zhihu.com/question/271720441",
-      "heat": "68 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "15",
       "title": "蜜雪冰城茶饮业务如日中天，为何要斥资近 3 亿元增资啤酒品牌？有何战略布局？",
       "link": "https://www.zhihu.com/question/1957198732610212978",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "16",
       "title": "游本昌演完《繁花》5  年没走出来，一直活在爷叔的悲壮氛围中，为什么会无法出戏？有什么办法吗？",
       "link": "https://www.zhihu.com/question/1957376398906844234",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "17",
-      "title": "你知道的最刺激的科学反转是什么？",
-      "link": "https://www.zhihu.com/question/422850941",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "18",
-      "title": "《剑豪生死斗》在多大程度上还原了日本剑术，剑道？",
-      "link": "https://www.zhihu.com/question/329433453",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "做科研的时候大家还会从头到尾地读一本书吗？",
-      "link": "https://www.zhihu.com/question/599806584",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "二战结束后，为什么西方国家没有把德国王室迎回来继续做西德王统治西德？",
-      "link": "https://www.zhihu.com/question/1887126535925892258",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "如何看待「鸡排哥」带领全家统一服装「裂变式出摊」？他有哪些经营策略值得借鉴？",
-      "link": "https://www.zhihu.com/question/1957484832201336456",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "你如何看待《喜人奇妙夜 2》第二期中铁男、李梓熙、周可人带来的作品《忘不了》？",
-      "link": "https://www.zhihu.com/question/1957830349183771232",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "翻译会削弱不同语种文学作品本身的魅力吗？会不会影响诺贝尔文学奖的评定？",
-      "link": "https://www.zhihu.com/question/666925124",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "为什么很多人喜欢和 AI 对话?",
-      "link": "https://www.zhihu.com/question/645617658",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
       "title": "为什么 12306 不买 HTTPS 证书？",
       "link": "https://www.zhihu.com/question/24931822",
       "heat": "58 万热度"
     },
     {
+      "rank": "18",
+      "title": "你知道的最刺激的科学反转是什么？",
+      "link": "https://www.zhihu.com/question/422850941",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "《剑豪生死斗》在多大程度上还原了日本剑术，剑道？",
+      "link": "https://www.zhihu.com/question/329433453",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "做科研的时候大家还会从头到尾地读一本书吗？",
+      "link": "https://www.zhihu.com/question/599806584",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "如何看待「鸡排哥」带领全家统一服装「裂变式出摊」？他有哪些经营策略值得借鉴？",
+      "link": "https://www.zhihu.com/question/1957484832201336456",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "二战结束后，为什么西方国家没有把德国王室迎回来继续做西德王统治西德？",
+      "link": "https://www.zhihu.com/question/1887126535925892258",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "你如何看待《喜人奇妙夜 2》第二期中铁男、李梓熙、周可人带来的作品《忘不了》？",
+      "link": "https://www.zhihu.com/question/1957830349183771232",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "翻译会削弱不同语种文学作品本身的魅力吗？会不会影响诺贝尔文学奖的评定？",
+      "link": "https://www.zhihu.com/question/666925124",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "为什么很多人喜欢和 AI 对话?",
+      "link": "https://www.zhihu.com/question/645617658",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "26",
       "title": "为什么越耐心解释有些人反而越固执，这种沟通黑洞怎么办？",
       "link": "https://www.zhihu.com/question/1955328745532551984",
-      "heat": "58 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "27",
       "title": "尼采为什么要抱着马哭？",
       "link": "https://www.zhihu.com/question/31316617",
-      "heat": "58 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "28",
-      "title": "怎样才能做出一份完美的煎牛排？",
-      "link": "https://www.zhihu.com/question/36237482",
-      "heat": "57 万热度"
+      "title": "10 月 4 日苏超四分之一决赛南京队点球大战击败连云港队晋级半决赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1957924772852770683",
+      "heat": "56 万热度"
     },
     {
       "rank": "29",
-      "title": "当被问「这次出去玩最喜欢的是啥」时，小孩的答案与大人的预期会差多远？",
-      "link": "https://www.zhihu.com/question/1955018519533036012",
-      "heat": "57 万热度"
+      "title": "怎样才能做出一份完美的煎牛排？",
+      "link": "https://www.zhihu.com/question/36237482",
+      "heat": "56 万热度"
     },
     {
       "rank": "30",
-      "title": "10 月 4 日苏超四分之一决赛南京队点球大战击败连云港队晋级半决赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1957924772852770683",
-      "heat": "57 万热度"
+      "title": "2025 WTT 中国大满贯女单半决赛，王曼昱 vs 申裕斌发球回抛，挑战鹰眼失败，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1957884368782619340",
+      "heat": "56 万热度"
     },
     {
       "rank": "31",
-      "title": "2025 WTT 中国大满贯女单半决赛，王曼昱 vs 申裕斌发球回抛，挑战鹰眼失败，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1957884368782619340",
+      "title": "当被问「这次出去玩最喜欢的是啥」时，小孩的答案与大人的预期会差多远？",
+      "link": "https://www.zhihu.com/question/1955018519533036012",
       "heat": "56 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-10-05 06:39:38"
+  "generated_at": "2025-10-05 06:53:08"
 }
