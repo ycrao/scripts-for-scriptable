@@ -1,36 +1,36 @@
 {
-  "artifact_id": "8c6ecb03-21a6-47e0-a16d-78d46326be83",
+  "artifact_id": "6403aad0-8278-436c-bb35-f43fb55753d5",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "男子旅游遇天价海鲜，炒蛏子和螃蟹两个菜 661 元，店家称明码标价，这价格合理吗？怎样从法律角度解读？",
       "link": "https://www.zhihu.com/question/1958816336974148143",
-      "heat": "231 万热度"
+      "heat": "232 万热度"
     },
     {
       "rank": "2",
       "title": "有没有可能宇宙是一个无穷套娃，对于更高阶来讲可能我们的地球只是一个电子？我们的下一阶电子也是个星球？",
       "link": "https://www.zhihu.com/question/1954681065689035172",
-      "heat": "207 万热度"
+      "heat": "208 万热度"
     },
     {
       "rank": "3",
       "title": "OpenAI DevDay 震撼发布 GPT-5 Pro 、 App SDK 等五件套，有哪些亮点？",
       "link": "https://www.zhihu.com/question/1958800584279814300",
-      "heat": "203 万热度"
+      "heat": "206 万热度"
     },
     {
       "rank": "4",
       "title": "网友称夜晚被困五台山遇狐狸引路，因好奇跟着走了 10 分钟到了终点附近，狐狸是真的在引路还是巧合？",
       "link": "https://www.zhihu.com/question/1958848288708065161",
-      "heat": "203 万热度"
+      "heat": "178 万热度"
     },
     {
       "rank": "5",
       "title": "漫威打算通过《复仇者联盟 6》删减以往烂片，只保留有利于后续发展的作品，对此你有什么期待?",
       "link": "https://www.zhihu.com/question/1956587951862579542",
-      "heat": "116 万热度"
+      "heat": "114 万热度"
     },
     {
       "rank": "6",
@@ -114,7 +114,7 @@
       "rank": "19",
       "title": "华尔街论战：当下 AI 热潮是部分「工业泡沫」，还是纯粹的「金融泡沫」，对此你怎么看？",
       "link": "https://www.zhihu.com/question/1958090599031898841",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "20",
@@ -126,66 +126,66 @@
       "rank": "21",
       "title": "高铁上陌生男子对邻座 7 岁女孩又亲又摸，称她这么小没关系，已被刑拘，男子行为将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1958886199520360302",
-      "heat": "54 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "22",
       "title": "经济学有哪些著名的论文？",
       "link": "https://www.zhihu.com/question/22760339",
-      "heat": "54 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "23",
       "title": "函数式编程该怎么学呀？",
       "link": "https://www.zhihu.com/question/664311077",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "饶毅发文认为 2025 诺奖中的两位工作一般，给 B 、 T 细胞发现者更公平合理，你怎么看？",
-      "link": "https://www.zhihu.com/question/1958844897340650893",
       "heat": "53 万热度"
     },
     {
-      "rank": "25",
+      "rank": "24",
       "title": "勒布朗 - 詹姆斯更新社媒，发文「所有决定中的决定」，可能会是什么决定？",
       "link": "https://www.zhihu.com/question/1958812191831598633",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "饶毅发文认为 2025 诺奖中的两位工作一般，给 B 、 T 细胞发现者更公平合理，你怎么看？",
+      "link": "https://www.zhihu.com/question/1958844897340650893",
       "heat": "52 万热度"
     },
     {
       "rank": "26",
       "title": "当你老了，你愿意回农村养老吗？",
       "link": "https://www.zhihu.com/question/278775655",
-      "heat": "52 万热度"
+      "heat": "51 万热度"
     },
     {
       "rank": "27",
       "title": "怎么看待中国汽车品牌纷纷推出大型 SUV 这一现象？",
       "link": "https://www.zhihu.com/question/1955032060113715545",
-      "heat": "51 万热度"
+      "heat": "50 万热度"
     },
     {
       "rank": "28",
       "title": "2025 年该使用 ray 、 accelerate 、 trainer 、 lightning 还是 pytorch？",
       "link": "https://www.zhihu.com/question/1926849595331318550",
-      "heat": "51 万热度"
+      "heat": "50 万热度"
     },
     {
       "rank": "29",
-      "title": "如果参加同学聚会，别人都对你不注意。你会怎么办?",
-      "link": "https://www.zhihu.com/question/1954340209488564683",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "30",
       "title": "为什么在飞机上不能使用互联网？",
       "link": "https://www.zhihu.com/question/537137596",
       "heat": "49 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "蔡国强在喜马拉雅放烟花被骂，《无极》拍摄损坏香格里拉高山草甸，还有哪些影视作品拍摄破坏了当地生态系统？",
       "link": "https://www.zhihu.com/question/1954297418540607260",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "如果参加同学聚会，别人都对你不注意。你会怎么办?",
+      "link": "https://www.zhihu.com/question/1954340209488564683",
       "heat": "49 万热度"
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "rank": "48",
-      "title": "国庆亲子游，你体验了哪些「我在人海看人海」的画面？",
-      "link": "https://www.zhihu.com/question/1955018519612757861",
+      "title": "人性的弱点为什么不能被终结？",
+      "link": "https://www.zhihu.com/question/1944971756394742730",
       "heat": "49 万热度"
     },
     {
       "rank": "49",
-      "title": "人性的弱点为什么不能被终结？",
-      "link": "https://www.zhihu.com/question/1944971756394742730",
+      "title": "国庆亲子游，你体验了哪些「我在人海看人海」的画面？",
+      "link": "https://www.zhihu.com/question/1955018519612757861",
       "heat": "49 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-10-08 06:21:42"
+  "generated_at": "2025-10-08 06:40:26"
 }
