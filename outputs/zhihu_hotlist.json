@@ -1,89 +1,89 @@
 {
-  "artifact_id": "2341da7d-6872-4225-bfc7-b2436caa2c4e",
+  "artifact_id": "f7aa1815-1719-4ac4-9d8f-dfe6f9bb9f97",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "网友称夜晚被困五台山遇狐狸引路，因好奇跟着走了 10 分钟到了终点附近，狐狸是真的在引路还是巧合？",
       "link": "https://www.zhihu.com/question/1958848288708065161",
-      "heat": "441 万热度"
+      "heat": "395 万热度"
     },
     {
       "rank": "2",
       "title": "男子旅游遇天价海鲜，炒蛏子和螃蟹两个菜 661 元，店家称明码标价，这价格合理吗？怎样从法律角度解读？",
       "link": "https://www.zhihu.com/question/1958816336974148143",
-      "heat": "238 万热度"
+      "heat": "239 万热度"
     },
     {
       "rank": "3",
       "title": "有没有可能宇宙是一个无穷套娃，对于更高阶来讲可能我们的地球只是一个电子？我们的下一阶电子也是个星球？",
       "link": "https://www.zhihu.com/question/1954681065689035172",
-      "heat": "193 万热度"
+      "heat": "204 万热度"
     },
     {
       "rank": "4",
       "title": "OpenAI DevDay 震撼发布 GPT-5 Pro 、 App SDK 等五件套，有哪些亮点？",
       "link": "https://www.zhihu.com/question/1958800584279814300",
-      "heat": "187 万热度"
+      "heat": "195 万热度"
     },
     {
       "rank": "5",
       "title": "漫威打算通过《复仇者联盟 6》删减以往烂片，只保留有利于后续发展的作品，对此你有什么期待?",
       "link": "https://www.zhihu.com/question/1956587951862579542",
-      "heat": "152 万热度"
+      "heat": "153 万热度"
     },
     {
       "rank": "6",
       "title": "我国央行连续第 11 个月增持黄金，有何考量？将带来哪些影响？",
       "link": "https://www.zhihu.com/question/1958848892205535267",
-      "heat": "130 万热度"
+      "heat": "107 万热度"
     },
     {
       "rank": "7",
-      "title": "华尔街论战：当下 AI 热潮是部分「工业泡沫」，还是纯粹的「金融泡沫」，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1958090599031898841",
-      "heat": "84 万热度"
+      "title": "饶毅发文认为 2025 诺奖中的两位工作一般，给 B 、 T 细胞发现者更公平合理，你怎么看？",
+      "link": "https://www.zhihu.com/question/1958844897340650893",
+      "heat": "75 万热度"
     },
     {
       "rank": "8",
-      "title": "胖东来超市真的没有缺点吗？",
-      "link": "https://www.zhihu.com/question/431570947",
-      "heat": "79 万热度"
+      "title": "华尔街论战：当下 AI 热潮是部分「工业泡沫」，还是纯粹的「金融泡沫」，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1958090599031898841",
+      "heat": "72 万热度"
     },
     {
       "rank": "9",
+      "title": "胖东来超市真的没有缺点吗？",
+      "link": "https://www.zhihu.com/question/431570947",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "10",
       "title": "为什么互联网大厂给应届生的工资能高达 30 万，制造业公司永远达不到这个 level?",
       "link": "https://www.zhihu.com/question/1954284181317219794",
       "heat": "68 万热度"
     },
     {
-      "rank": "10",
-      "title": "旅行时，你喜欢「按美食攻略打卡」还是「随缘逛吃」？",
-      "link": "https://www.zhihu.com/question/1955239409457795889",
-      "heat": "66 万热度"
-    },
-    {
       "rank": "11",
       "title": "2025 年诺贝物理奖颁给电路中宏观量子隧穿和能量量子化的三位发现者，如何看待这三位科学家获奖？",
       "link": "https://www.zhihu.com/question/1958953499850178596",
-      "heat": "65 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "12",
-      "title": "饶毅发文认为 2025 诺奖中的两位工作一般，给 B 、 T 细胞发现者更公平合理，你怎么看？",
-      "link": "https://www.zhihu.com/question/1958844897340650893",
-      "heat": "63 万热度"
+      "title": "旅行时，你喜欢「按美食攻略打卡」还是「随缘逛吃」？",
+      "link": "https://www.zhihu.com/question/1955239409457795889",
+      "heat": "59 万热度"
     },
     {
       "rank": "13",
-      "title": "老人手术时导丝断裂掉进血管，医院表示外科取出意义不大，补偿八千元，导丝为什么会断？不取出没有危险吗？",
-      "link": "https://www.zhihu.com/question/1955972465449723887",
+      "title": "如何看待多地发布银龄教师招募计划？对提升农村教育质量有哪些帮助？",
+      "link": "https://www.zhihu.com/question/1958940475101771166",
       "heat": "58 万热度"
     },
     {
       "rank": "14",
-      "title": "如何看待多地发布银龄教师招募计划？对提升农村教育质量有哪些帮助？",
-      "link": "https://www.zhihu.com/question/1958940475101771166",
+      "title": "老人手术时导丝断裂掉进血管，医院表示外科取出意义不大，补偿八千元，导丝为什么会断？不取出没有危险吗？",
+      "link": "https://www.zhihu.com/question/1955972465449723887",
       "heat": "58 万热度"
     },
     {
@@ -172,26 +172,26 @@
     },
     {
       "rank": "29",
-      "title": "你是看了什么书之后生活彻底改变？",
-      "link": "https://www.zhihu.com/question/1921915625879639477",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "30",
       "title": "如果参加同学聚会，别人都对你不注意。你会怎么办?",
       "link": "https://www.zhihu.com/question/1954340209488564683",
       "heat": "49 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "为什么在飞机上不能使用互联网？",
       "link": "https://www.zhihu.com/question/537137596",
       "heat": "49 万热度"
     },
     {
-      "rank": "32",
+      "rank": "31",
       "title": "蔡国强在喜马拉雅放烟花被骂，《无极》拍摄损坏香格里拉高山草甸，还有哪些影视作品拍摄破坏了当地生态系统？",
       "link": "https://www.zhihu.com/question/1954297418540607260",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "如何评价《海贼王》漫画第 1162 话情报？",
+      "link": "https://www.zhihu.com/question/1958789877580694093",
       "heat": "49 万热度"
     },
     {
@@ -202,74 +202,74 @@
     },
     {
       "rank": "34",
-      "title": "如何评价《海贼王》漫画第 1162 话情报？",
-      "link": "https://www.zhihu.com/question/1958789877580694093",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "35",
       "title": "《不眠日》墨远致不择手段的背后真的是为了婉清吗？",
       "link": "https://www.zhihu.com/question/1953111562945553821",
       "heat": "49 万热度"
     },
     {
+      "rank": "35",
+      "title": "你是看了什么书之后生活彻底改变？",
+      "link": "https://www.zhihu.com/question/1921915625879639477",
+      "heat": "49 万热度"
+    },
+    {
       "rank": "36",
-      "title": "历史上有武松这个人吗？",
-      "link": "https://www.zhihu.com/question/360355413",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "对从小缺少陪伴、照顾和安全感的留守儿童，作为老师或社工应该怎样对待？",
-      "link": "https://www.zhihu.com/question/1951701272127320415",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如何看待钱学森之子钱永刚说，希望孩子们主动拥抱课外知识，多阅读少刷题？",
-      "link": "https://www.zhihu.com/question/1949587571303768474",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "39",
       "title": "量化行业为什么喜欢博士？",
       "link": "https://www.zhihu.com/question/652001278",
       "heat": "49 万热度"
     },
     {
-      "rank": "40",
+      "rank": "37",
+      "title": "如何看待钱学森之子钱永刚说，希望孩子们主动拥抱课外知识，多阅读少刷题？",
+      "link": "https://www.zhihu.com/question/1949587571303768474",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "对从小缺少陪伴、照顾和安全感的留守儿童，作为老师或社工应该怎样对待？",
+      "link": "https://www.zhihu.com/question/1951701272127320415",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "39",
       "title": "DOTA 里有复制敌方技能的拉比克、水人，为什么不推出复制友方技能的英雄呢？工程量太大，还是别的原因？",
       "link": "https://www.zhihu.com/question/1948907048810025839",
       "heat": "49 万热度"
     },
     {
-      "rank": "41",
+      "rank": "40",
       "title": "如何理解「自我并不是一个固定实体，而是一种持续被构建的体验」？",
       "link": "https://www.zhihu.com/question/1952961272812404850",
       "heat": "49 万热度"
     },
     {
-      "rank": "42",
-      "title": "国乒在 WTT 中国大满贯包揽五冠，如何评价中国队在本届赛事的表现？",
-      "link": "https://www.zhihu.com/question/1958459851337335763",
+      "rank": "41",
+      "title": "历史上有武松这个人吗？",
+      "link": "https://www.zhihu.com/question/360355413",
       "heat": "49 万热度"
     },
     {
-      "rank": "43",
+      "rank": "42",
       "title": "如何克服自己过于在意别人想法的心理？",
       "link": "https://www.zhihu.com/question/20767147",
       "heat": "49 万热度"
     },
     {
-      "rank": "44",
+      "rank": "43",
       "title": "单机（离线）游戏明明是一种游戏模式，为什么很多中国玩家会当成一种游戏类型？",
       "link": "https://www.zhihu.com/question/1949452243330917665",
       "heat": "49 万热度"
     },
     {
-      "rank": "45",
+      "rank": "44",
       "title": "中甲广西外援阿萨莫阿被推搡后头撞广告牌，颈椎错位可能高位截瘫，这场悲剧本可避免吗？现场有什么可改进的？",
       "link": "https://www.zhihu.com/question/1958578047851668656",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "国乒在 WTT 中国大满贯包揽五冠，如何评价中国队在本届赛事的表现？",
+      "link": "https://www.zhihu.com/question/1958459851337335763",
       "heat": "49 万热度"
     },
     {
@@ -280,28 +280,28 @@
     },
     {
       "rank": "47",
-      "title": "美国百万富豪在南非组队带枪狩猎，被 1.3  吨非洲水牛背后偷袭身亡，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1958439336900036329",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "人性的弱点为什么不能被终结？",
-      "link": "https://www.zhihu.com/question/1944971756394742730",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "49",
       "title": "做过最气的题是什么题？",
       "link": "https://www.zhihu.com/question/68348175",
       "heat": "49 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
+      "title": "美国百万富豪在南非组队带枪狩猎，被 1.3  吨非洲水牛背后偷袭身亡，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1958439336900036329",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "49",
       "title": "作为健听者，为了更好地与听障朋友交流，你认为我们最需要养成的一个具体沟通习惯是什么？",
       "link": "https://www.zhihu.com/question/1950969811128524914",
       "heat": "49 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "国庆亲子游，你体验了哪些「我在人海看人海」的画面？",
+      "link": "https://www.zhihu.com/question/1955018519612757861",
+      "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-10-08 04:55:25"
+  "generated_at": "2025-10-08 05:21:04"
 }
