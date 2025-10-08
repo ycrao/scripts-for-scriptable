@@ -1,60 +1,60 @@
 {
-  "artifact_id": "5b0bbb18-ca00-4eef-ae8b-4c6595757ab2",
+  "artifact_id": "e5774554-18e3-43f7-b964-b8eaaeb56799",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "参加异地朋友婚礼要包路费吗？",
       "link": "https://www.zhihu.com/question/1957539651461056500",
-      "heat": "377 万热度"
+      "heat": "395 万热度"
     },
     {
       "rank": "2",
       "title": "大学同学给介绍工作，要做同学的下属，工资也只有同学的 60%，这样的工作机会能去吗？",
       "link": "https://www.zhihu.com/question/1955269914953778884",
-      "heat": "309 万热度"
+      "heat": "327 万热度"
     },
     {
       "rank": "3",
       "title": "如何评价 10 月 8 日《三角洲行动》官方发布的平衡性调整专项沟通与致歉补偿公告?",
       "link": "https://www.zhihu.com/question/1959238851903070723",
-      "heat": "205 万热度"
+      "heat": "222 万热度"
     },
     {
       "rank": "4",
       "title": "为什么很多人认为一辆车开五六年就要换车？",
       "link": "https://www.zhihu.com/question/37958506",
-      "heat": "106 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "5",
       "title": "如何评价女游客在江苏连云港花果山景区捡了一个板栗, 被民宿老板娘诬陷偷盗, 索赔 2000 元事件？",
       "link": "https://www.zhihu.com/question/1958579745437516649",
-      "heat": "91 万热度"
+      "heat": "92 万热度"
     },
     {
       "rank": "6",
       "title": "两名中国游客在马来西亚海边酒店失联多日，手机定位在海里，当地警方正搜寻，具体情况如何？",
       "link": "https://www.zhihu.com/question/1958927948418606915",
-      "heat": "84 万热度"
+      "heat": "86 万热度"
     },
     {
       "rank": "7",
-      "title": "人是如何废掉的？",
-      "link": "https://www.zhihu.com/question/310689818",
-      "heat": "77 万热度"
+      "title": "你觉得《许我耀眼》，为什么会爆？",
+      "link": "https://www.zhihu.com/question/1958275865956816138",
+      "heat": "81 万热度"
     },
     {
       "rank": "8",
-      "title": "你在坐飞机过程中遇到最奇葩的经历是什么？",
-      "link": "https://www.zhihu.com/question/36226425",
-      "heat": "70 万热度"
+      "title": "人是如何废掉的？",
+      "link": "https://www.zhihu.com/question/310689818",
+      "heat": "79 万热度"
     },
     {
       "rank": "9",
-      "title": "你觉得《许我耀眼》，为什么会爆？",
-      "link": "https://www.zhihu.com/question/1958275865956816138",
-      "heat": "61 万热度"
+      "title": "你在坐飞机过程中遇到最奇葩的经历是什么？",
+      "link": "https://www.zhihu.com/question/36226425",
+      "heat": "70 万热度"
     },
     {
       "rank": "10",
@@ -70,9 +70,9 @@
     },
     {
       "rank": "12",
-      "title": "大一感觉自己落后好多，怎么办?",
-      "link": "https://www.zhihu.com/question/1955809458803418081",
-      "heat": "59 万热度"
+      "title": "2025 年 ASI 亚洲邀请赛 WBG 2-0 DK，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1959372976119083657",
+      "heat": "58 万热度"
     },
     {
       "rank": "13",
@@ -88,8 +88,8 @@
     },
     {
       "rank": "15",
-      "title": "2025 年 ASI 亚洲邀请赛 WBG 2-0 DK，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1959372976119083657",
+      "title": "大一感觉自己落后好多，怎么办?",
+      "link": "https://www.zhihu.com/question/1955809458803418081",
       "heat": "58 万热度"
     },
     {
@@ -120,13 +120,13 @@
       "rank": "20",
       "title": "黄金能降回 400 多一克吗？",
       "link": "https://www.zhihu.com/question/1906767457055637838",
-      "heat": "56 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "21",
       "title": "金属有机框架材料或者说筑网化学会不会成为下一个风口？获得诺奖后，MOF是否会像石墨烯一样被吹上天？",
       "link": "https://www.zhihu.com/question/659577343",
-      "heat": "56 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "22",
@@ -172,8 +172,8 @@
     },
     {
       "rank": "29",
-      "title": "六岁小孩说等妈妈老了丑了他就嫌弃她了，言语表达清晰，作为家长你们是在哪一刻意识到言传身教的重要性的?",
-      "link": "https://www.zhihu.com/question/7660671267",
+      "title": "10 月 8 日 2025 年 asi 亚洲邀请赛，NIP 战胜 MVKE，如何评价双方的发挥？",
+      "link": "https://www.zhihu.com/question/1959328110991356822",
       "heat": "50 万热度"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
       "rank": "31",
-      "title": "10 月 8 日 2025 年 asi 亚洲邀请赛，NIP 战胜 MVKE，如何评价双方的发挥？",
-      "link": "https://www.zhihu.com/question/1959328110991356822",
+      "title": "六岁小孩说等妈妈老了丑了他就嫌弃她了，言语表达清晰，作为家长你们是在哪一刻意识到言传身教的重要性的?",
+      "link": "https://www.zhihu.com/question/7660671267",
       "heat": "50 万热度"
     },
     {
@@ -196,14 +196,14 @@
     },
     {
       "rank": "33",
-      "title": "詹姆斯更新社媒，决定将自己的天赋带给白兰地品牌轩尼诗，如何看待这一操作？算是消费粉丝吗？",
-      "link": "https://www.zhihu.com/question/1959032554251329893",
+      "title": "透过事物看本质能力怎么培养？",
+      "link": "https://www.zhihu.com/question/438994047",
       "heat": "50 万热度"
     },
     {
       "rank": "34",
-      "title": "透过事物看本质能力怎么培养？",
-      "link": "https://www.zhihu.com/question/438994047",
+      "title": "詹姆斯更新社媒，决定将自己的天赋带给白兰地品牌轩尼诗，如何看待这一操作？算是消费粉丝吗？",
+      "link": "https://www.zhihu.com/question/1959032554251329893",
       "heat": "50 万热度"
     },
     {
@@ -246,7 +246,7 @@
       "rank": "41",
       "title": "2025 年 ASI 亚洲邀请赛 JDG 0-2 爆冷不敌 GAM，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1959300831099745522",
-      "heat": "47 万热度"
+      "heat": "46 万热度"
     },
     {
       "rank": "42",
@@ -303,5 +303,5 @@
       "heat": "46 万热度"
     }
   ],
-  "generated_at": "2025-10-09 04:26:14"
+  "generated_at": "2025-10-09 04:42:40"
 }
