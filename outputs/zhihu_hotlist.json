@@ -1,42 +1,42 @@
 {
-  "artifact_id": "532bf410-e8cd-40e4-8a0d-3e44eab8ab24",
+  "artifact_id": "927c6890-014d-414c-8a35-c145623fa2c0",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
       "link": "https://www.zhihu.com/question/1900495632873035271",
-      "heat": "230 万热度"
+      "heat": "232 万热度"
     },
     {
       "rank": "2",
       "title": "辽宁一景区禁止游客捡枫叶，手持枫叶也不行，说是保护自然环境，落叶已经掉下来了，为什么捡走会破坏环境？",
       "link": "https://www.zhihu.com/question/1959632144621069808",
-      "heat": "158 万热度"
+      "heat": "217 万热度"
     },
     {
       "rank": "3",
+      "title": "中国狸花猫有什么优缺点呢？",
+      "link": "https://www.zhihu.com/question/49379992",
+      "heat": "140 万热度"
+    },
+    {
+      "rank": "4",
       "title": "明明知道开长途很累，为什么大家还是喜欢开车回家过年？",
       "link": "https://www.zhihu.com/question/579246861",
       "heat": "135 万热度"
     },
     {
-      "rank": "4",
-      "title": "中国狸花猫有什么优缺点呢？",
-      "link": "https://www.zhihu.com/question/49379992",
-      "heat": "128 万热度"
-    },
-    {
       "rank": "5",
       "title": "有什么食物是你一直想吃，真吃到却很失望的？",
       "link": "https://www.zhihu.com/question/61523874",
-      "heat": "111 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "6",
       "title": "Windows10 即将结束支持，专家建议不想升级可改用 Linux，普通用户会面临哪些挑战？",
       "link": "https://www.zhihu.com/question/1958485123252065069",
-      "heat": "110 万热度"
+      "heat": "116 万热度"
     },
     {
       "rank": "7",
@@ -48,55 +48,55 @@
       "rank": "8",
       "title": "为什么月球始终以同一面朝向地球？",
       "link": "https://www.zhihu.com/question/1928239825699446888",
-      "heat": "79 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "9",
       "title": "像《犬夜叉》这种万族林立的世界观，没有超凡力量的凡人凭什么活下来且成为领土最大的种族?",
       "link": "https://www.zhihu.com/question/1958503316762912191",
-      "heat": "71 万热度"
+      "heat": "75 万热度"
     },
     {
       "rank": "10",
+      "title": "为什么互联网大厂给应届生的工资能高达 30 万，制造业公司永远达不到这个 level?",
+      "link": "https://www.zhihu.com/question/1954284181317219794",
+      "heat": "60 万热度"
+    },
+    {
+      "rank": "11",
       "title": "现在的车设计怀挡，把雨刷器位置占用了，算是反人类设计吗？",
       "link": "https://www.zhihu.com/question/660447120",
       "heat": "58 万热度"
     },
     {
-      "rank": "11",
+      "rank": "12",
       "title": "现货黄金突破 4000 美元，续创历史新高，年内涨幅超 52%，黄金价格后续怎么走？",
       "link": "https://www.zhihu.com/question/1959276928260379961",
       "heat": "58 万热度"
     },
     {
-      "rank": "12",
+      "rank": "13",
       "title": "耗资 4 亿，集结金城武等 4 大影帝的《风林火山》为何无法让港片复兴？",
       "link": "https://www.zhihu.com/question/1959268771408644016",
       "heat": "57 万热度"
     },
     {
-      "rank": "13",
+      "rank": "14",
       "title": "俄罗斯一废弃气象站被北极熊「占领」，为什么会出现这种现象？背后有哪些生态警示？",
       "link": "https://www.zhihu.com/question/1955357702835380937",
       "heat": "57 万热度"
     },
     {
-      "rank": "14",
+      "rank": "15",
       "title": "同事说他要空降到一家集团公司做高管年薪百万，我直觉判断这份工作做不长，我的这种想法有道理吗？",
       "link": "https://www.zhihu.com/question/1897381385003570216",
       "heat": "57 万热度"
     },
     {
-      "rank": "15",
+      "rank": "16",
       "title": "《技能五子棋》里面，「你这个畜生」这句台词为什么让李诞他们笑成那样？",
       "link": "https://www.zhihu.com/question/1957383652037068562",
       "heat": "57 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "商务部公布对稀土相关技术实施出口管制的决定，稀土冶炼、生产线等技术不得出口，释放了哪些信息？",
-      "link": "https://www.zhihu.com/question/1959548926504990062",
-      "heat": "56 万热度"
     },
     {
       "rank": "17",
@@ -106,8 +106,8 @@
     },
     {
       "rank": "18",
-      "title": "开长途车的时候，有没有提神醒脑的办法？",
-      "link": "https://www.zhihu.com/question/1956988505679962112",
+      "title": "商务部公布对稀土相关技术实施出口管制的决定，稀土冶炼、生产线等技术不得出口，释放了哪些信息？",
+      "link": "https://www.zhihu.com/question/1959548926504990062",
       "heat": "56 万热度"
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "rank": "20",
-      "title": "《暗黑破坏神 2》里哪个职业最厉害？",
-      "link": "https://www.zhihu.com/question/27975695",
+      "title": "请已经读过研究生的人，给个是否要读研究生的建议？",
+      "link": "https://www.zhihu.com/question/1950833965633081827",
       "heat": "55 万热度"
     },
     {
@@ -130,26 +130,26 @@
     },
     {
       "rank": "22",
-      "title": "为什么在碳纤维自行车如此普及的今天，我们要选择骑一台钢架车？",
-      "link": "https://www.zhihu.com/question/1955241557625114910",
+      "title": "大学同学给介绍工作，要做同学的下属，工资也只有同学的 60%，这样的工作机会能去吗？",
+      "link": "https://www.zhihu.com/question/1955269914953778884",
       "heat": "55 万热度"
     },
     {
       "rank": "23",
-      "title": "如何看待马斯克放话要搞全 AI 生成游戏，2026 年上线，这将给游戏行业带来什么样的改变？",
-      "link": "https://www.zhihu.com/question/1959666233633907719",
+      "title": "孩子主动去做家务了，但是有时候做不好，甚至把事情搞砸了， 作为家长的你会忍不住去批评他吗？",
+      "link": "https://www.zhihu.com/question/1958797255474676787",
       "heat": "55 万热度"
     },
     {
       "rank": "24",
-      "title": "当悲伤、焦虑、愤怒等情绪来袭时，你会允许自己充分体验负面情绪吗？还是急于逃避？",
-      "link": "https://www.zhihu.com/question/1954508259152070471",
+      "title": "既然宋江选择了落草为寇，为什么又愿意招安？",
+      "link": "https://www.zhihu.com/question/1957640968506422390",
       "heat": "55 万热度"
     },
     {
       "rank": "25",
-      "title": "职场新人如何建立真正有价值的「人脉」，而不是流于表面的社交？",
-      "link": "https://www.zhihu.com/question/1956681472011374838",
+      "title": "下属犯错，管理者如何正确沟通？",
+      "link": "https://www.zhihu.com/question/599726942",
       "heat": "55 万热度"
     },
     {
@@ -160,44 +160,44 @@
     },
     {
       "rank": "27",
-      "title": "为什么要保护「凶猛的」食肉动物？",
-      "link": "https://www.zhihu.com/question/1955996087044247721",
+      "title": "黄金涨的这么疯狂，是代表了纸币飞速贬值还是已经商品化了？",
+      "link": "https://www.zhihu.com/question/1956626256213807947",
       "heat": "55 万热度"
     },
     {
       "rank": "28",
-      "title": "组织度是最大的暴力，为什么科幻奇幻作品中，组织度拉满的虫族总是干不赢人类？",
-      "link": "https://www.zhihu.com/question/1941954974356584396",
+      "title": "如何评价《三角洲行动》官方在 10 月 8 日发布的新公告？",
+      "link": "https://www.zhihu.com/question/1959344397247313860",
       "heat": "55 万热度"
     },
     {
       "rank": "29",
-      "title": "重型猎鹰存在的意义何在？",
-      "link": "https://www.zhihu.com/question/443757681",
+      "title": "上海明年有可能办沪超吗？",
+      "link": "https://www.zhihu.com/question/1959427732355134781",
       "heat": "55 万热度"
     },
     {
       "rank": "30",
-      "title": "在现实社会中，真的有怀才不遇的问题吗？",
-      "link": "https://www.zhihu.com/question/276351120",
+      "title": "如何评价女游客在江苏连云港花果山景区捡了一个板栗，被民宿老板娘诬陷偷盗索赔 2000 元？",
+      "link": "https://www.zhihu.com/question/1958579745437516649",
       "heat": "55 万热度"
     },
     {
       "rank": "31",
-      "title": "两名中国游客在马来西亚海边酒店失联多日，手机定位在海里，当地警方正搜寻，具体情况如何？",
-      "link": "https://www.zhihu.com/question/1958927948418606915",
+      "title": "「蜜雪冰城」多地门店柠檬水缺货，近一年柠檬市场价格已翻倍，为什么会这样？对蜜雪冰城影响有多大？",
+      "link": "https://www.zhihu.com/question/1951964274810392955",
       "heat": "55 万热度"
     },
     {
       "rank": "32",
-      "title": "美国有没有能力设计和生产歼 36 和歼 50 这级别的六代机?",
-      "link": "https://www.zhihu.com/question/1920406151960453978",
+      "title": "杭州出现 99 元假期「短托养老」，为老人提供一日三餐和日常照料，满足了哪些社会需求？会成为趋势吗？",
+      "link": "https://www.zhihu.com/question/1959533935722721546",
       "heat": "55 万热度"
     },
     {
       "rank": "33",
-      "title": "历史上有没有哪个大臣的仕途是比较平稳的?",
-      "link": "https://www.zhihu.com/question/926646587",
+      "title": "职场新人，老员工会教我一些方法，但我觉得自己的思路更好，该坚持己见吗，还是听取别人的建议？",
+      "link": "https://www.zhihu.com/question/664863231",
       "heat": "55 万热度"
     },
     {
@@ -214,20 +214,20 @@
     },
     {
       "rank": "36",
-      "title": "为什么互联网大厂给应届生的工资能高达 30 万，制造业公司永远达不到这个 level?",
-      "link": "https://www.zhihu.com/question/1954284181317219794",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "37",
       "title": "体检「血同」值偏高，报告上显示升高有什么危害？普通人如何及时干预呢？",
       "link": "https://www.zhihu.com/question/1952034107631591475",
       "heat": "55 万热度"
     },
     {
+      "rank": "37",
+      "title": "有调休调班需求时，怎样和领导、同事沟通最合适？交接工作需要注意什么？",
+      "link": "https://www.zhihu.com/question/1949838332017222854",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "38",
-      "title": "上海明年有可能办沪超吗？",
-      "link": "https://www.zhihu.com/question/1959427732355134781",
+      "title": "傣族的语言和泰国语言一样吗？",
+      "link": "https://www.zhihu.com/question/24867964",
       "heat": "55 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "黄金涨的这么疯狂，是代表了纸币飞速贬值还是已经商品化了？",
-      "link": "https://www.zhihu.com/question/1956626256213807947",
+      "title": "为什么优秀员工往往最先离职？",
+      "link": "https://www.zhihu.com/question/385026167",
       "heat": "55 万热度"
     },
     {
       "rank": "42",
-      "title": "《魔兽争霸》中不死族的农民为什么不能采木，为什么迟迟不能改成像其他三个一样全能的？",
-      "link": "https://www.zhihu.com/question/1943135883986464908",
+      "title": "历史上有没有哪个大臣的仕途是比较平稳的?",
+      "link": "https://www.zhihu.com/question/926646587",
       "heat": "55 万热度"
     },
     {
       "rank": "43",
-      "title": "如何评价女游客在江苏连云港花果山景区捡了一个板栗，被民宿老板娘诬陷偷盗索赔 2000 元？",
-      "link": "https://www.zhihu.com/question/1958579745437516649",
+      "title": "你知道什么奇怪的冷知识吗？",
+      "link": "https://www.zhihu.com/question/1912887155350569452",
       "heat": "55 万热度"
     },
     {
       "rank": "44",
-      "title": "下属犯错，管理者如何正确沟通？",
-      "link": "https://www.zhihu.com/question/599726942",
+      "title": "你对《三国的星空第一部》易中天对曹操的重新诠释满意吗，为什么？",
+      "link": "https://www.zhihu.com/question/1959311769643247020",
       "heat": "55 万热度"
     },
     {
       "rank": "45",
-      "title": "「蜜雪冰城」多地门店柠檬水缺货，近一年柠檬市场价格已翻倍，为什么会这样？对蜜雪冰城影响有多大？",
-      "link": "https://www.zhihu.com/question/1951964274810392955",
+      "title": "拿公司当资源，把上班当「投资」，为什么这届年轻人如此「精明」？如果投资思维让人疲惫，还有其他可能性吗？",
+      "link": "https://www.zhihu.com/question/1959235004799349706",
       "heat": "55 万热度"
     },
     {
       "rank": "46",
-      "title": "请已经读过研究生的人，给个是否要读研究生的建议？",
-      "link": "https://www.zhihu.com/question/1950833965633081827",
+      "title": "为什么现在我国大学都希望做大变成综合性大学，而再也不像苏联一样搞专业类大学了？",
+      "link": "https://www.zhihu.com/question/15435453421",
       "heat": "55 万热度"
     },
     {
       "rank": "47",
-      "title": "大学同学给介绍工作，要做同学的下属，工资也只有同学的 60%，这样的工作机会能去吗？",
-      "link": "https://www.zhihu.com/question/1955269914953778884",
+      "title": "为什么很多人认为一辆车开五六年就要换车？",
+      "link": "https://www.zhihu.com/question/37958506",
       "heat": "55 万热度"
     },
     {
       "rank": "48",
-      "title": "孩子主动去做家务了，但是有时候做不好，甚至把事情搞砸了， 作为家长的你会忍不住去批评他吗？",
-      "link": "https://www.zhihu.com/question/1958797255474676787",
+      "title": "为什么在碳纤维自行车如此普及的今天，我们要选择骑一台钢架车？",
+      "link": "https://www.zhihu.com/question/1955241557625114910",
       "heat": "55 万热度"
     },
     {
       "rank": "49",
-      "title": "既然宋江选择了落草为寇，为什么又愿意招安？",
-      "link": "https://www.zhihu.com/question/1957640968506422390",
+      "title": "击杀深蓝「付费吃屎」的游戏体验成为「共享监狱」的起因，它应该怎么平衡才能适应《三角洲行动》这款游戏？",
+      "link": "https://www.zhihu.com/question/1959563987646637640",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "如何评价《三角洲行动》官方在 10 月 8 日发布的新公告？",
-      "link": "https://www.zhihu.com/question/1959344397247313860",
+      "title": "怎样能让孩子从小热爱阅读？",
+      "link": "https://www.zhihu.com/question/1165150554",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-10-10 07:21:04"
+  "generated_at": "2025-10-10 07:39:13"
 }
