@@ -1,90 +1,90 @@
 {
-  "artifact_id": "8273d4e7-218f-4839-87b8-ae6c4fb9976c",
+  "artifact_id": "a6d8104a-b9e7-44fa-adeb-af6716d7441b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
       "link": "https://www.zhihu.com/question/1900495632873035271",
-      "heat": "213 万热度"
+      "heat": "227 万热度"
     },
     {
       "rank": "2",
       "title": "「蜜雪冰城」多地门店柠檬水缺货，近一年柠檬市场价格已翻倍，为什么会这样？对蜜雪冰城影响有多大？",
       "link": "https://www.zhihu.com/question/1951964274810392955",
-      "heat": "117 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "3",
-      "title": "如何评价《三角洲行动》官方在 10 月 8 日发布的新公告？",
-      "link": "https://www.zhihu.com/question/1959344397247313860",
-      "heat": "91 万热度"
+      "title": "明明知道开长途很累，为什么大家还是喜欢开车回家过年？",
+      "link": "https://www.zhihu.com/question/579246861",
+      "heat": "94 万热度"
     },
     {
       "rank": "4",
-      "title": "明明知道开长途很累，为什么大家还是喜欢开车回家过年？",
-      "link": "https://www.zhihu.com/question/579246861",
-      "heat": "85 万热度"
-    },
-    {
-      "rank": "5",
       "title": "你对《三国的星空第一部》易中天对曹操的重新诠释满意吗，为什么？",
       "link": "https://www.zhihu.com/question/1959311769643247020",
       "heat": "76 万热度"
     },
     {
-      "rank": "6",
-      "title": "如何看待 2025 年国庆档没有一部电影票房超过 5 亿？",
-      "link": "https://www.zhihu.com/question/1959433770315781410",
-      "heat": "61 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "现货黄金突破 4000 美元，续创历史新高，年内涨幅超 52%，黄金价格后续怎么走？",
-      "link": "https://www.zhihu.com/question/1959276928260379961",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "绝对零度为什么是零下 273.15 摄氏度？目前工程上能实现的最低温度是多少？",
-      "link": "https://www.zhihu.com/question/1945961005998895174",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "9",
+      "rank": "5",
       "title": "现在的车设计怀挡，把雨刷器位置占用了，算是反人类设计吗？",
       "link": "https://www.zhihu.com/question/660447120",
       "heat": "59 万热度"
     },
     {
-      "rank": "10",
-      "title": "如何看待马斯克放话要搞全 AI 生成游戏，2026 年上线，这将给游戏行业带来什么样的改变？",
-      "link": "https://www.zhihu.com/question/1959666233633907719",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "11",
+      "rank": "6",
       "title": "同事说他要空降到一家集团公司做高管年薪百万，我直觉判断这份工作做不长，我的这种想法有道理吗？",
       "link": "https://www.zhihu.com/question/1897381385003570216",
       "heat": "59 万热度"
     },
     {
-      "rank": "12",
-      "title": "商务部公布对稀土相关技术实施出口管制的决定，稀土冶炼、生产线等技术不得出口，释放了哪些信息？",
-      "link": "https://www.zhihu.com/question/1959548926504990062",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "13",
+      "rank": "7",
       "title": "《技能五子棋》里面，「你这个畜生」这句台词为什么让李诞他们笑成那样？",
       "link": "https://www.zhihu.com/question/1957383652037068562",
       "heat": "59 万热度"
     },
     {
-      "rank": "14",
+      "rank": "8",
+      "title": "如何看待 2025 年国庆档没有一部电影票房超过 5 亿？",
+      "link": "https://www.zhihu.com/question/1959433770315781410",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "9",
       "title": "顺丰的保价怎么算的，1000 的东西坏了，就直接赔 1000 吗？",
       "link": "https://www.zhihu.com/question/481541225",
       "heat": "59 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "现货黄金突破 4000 美元，续创历史新高，年内涨幅超 52%，黄金价格后续怎么走？",
+      "link": "https://www.zhihu.com/question/1959276928260379961",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "11",
+      "title": "如何评价《三角洲行动》官方在 10 月 8 日发布的新公告？",
+      "link": "https://www.zhihu.com/question/1959344397247313860",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "绝对零度为什么是零下 273.15 摄氏度？目前工程上能实现的最低温度是多少？",
+      "link": "https://www.zhihu.com/question/1945961005998895174",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "如何看待马斯克放话要搞全 AI 生成游戏，2026 年上线，这将给游戏行业带来什么样的改变？",
+      "link": "https://www.zhihu.com/question/1959666233633907719",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "商务部公布对稀土相关技术实施出口管制的决定，稀土冶炼、生产线等技术不得出口，释放了哪些信息？",
+      "link": "https://www.zhihu.com/question/1959548926504990062",
+      "heat": "58 万热度"
     },
     {
       "rank": "15",
@@ -136,20 +136,20 @@
     },
     {
       "rank": "23",
+      "title": "世界上什么品种的树最好看？",
+      "link": "https://www.zhihu.com/question/29165010",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "24",
       "title": "为什么「努力」成了职场最不值钱的标签？",
       "link": "https://www.zhihu.com/question/1949680667488154952",
       "heat": "56 万热度"
     },
     {
-      "rank": "24",
-      "title": "怎样能让孩子从小热爱阅读？",
-      "link": "https://www.zhihu.com/question/1165150554",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "25",
-      "title": "世界上什么品种的树最好看？",
-      "link": "https://www.zhihu.com/question/29165010",
+      "title": "公司高层明明不行，大老板为什么还不裁掉他们？",
+      "link": "https://www.zhihu.com/question/13633116099",
       "heat": "56 万热度"
     },
     {
@@ -166,20 +166,20 @@
     },
     {
       "rank": "28",
-      "title": "公司高层明明不行，大老板为什么还不裁掉他们？",
-      "link": "https://www.zhihu.com/question/13633116099",
+      "title": "怎样能让孩子从小热爱阅读？",
+      "link": "https://www.zhihu.com/question/1165150554",
       "heat": "56 万热度"
     },
     {
       "rank": "29",
-      "title": "上句李白下句杜甫能接出什么神对话？",
-      "link": "https://www.zhihu.com/question/1954507058012450838",
+      "title": "傣族的语言和泰国语言一样吗？",
+      "link": "https://www.zhihu.com/question/24867964",
       "heat": "56 万热度"
     },
     {
       "rank": "30",
-      "title": "傣族的语言和泰国语言一样吗？",
-      "link": "https://www.zhihu.com/question/24867964",
+      "title": "上句李白下句杜甫能接出什么神对话？",
+      "link": "https://www.zhihu.com/question/1954507058012450838",
       "heat": "56 万热度"
     },
     {
@@ -190,14 +190,14 @@
     },
     {
       "rank": "32",
-      "title": "为什么河南人都爱吃烩面？",
-      "link": "https://www.zhihu.com/question/1904191618422114182",
+      "title": "为什么感觉时间越来越快?",
+      "link": "https://www.zhihu.com/question/460759178",
       "heat": "56 万热度"
     },
     {
       "rank": "33",
-      "title": "《神探狄仁杰 3》中宗主死前所喊「我才是宗主」是什么意思？",
-      "link": "https://www.zhihu.com/question/372475603",
+      "title": "为什么河南人都爱吃烩面？",
+      "link": "https://www.zhihu.com/question/1904191618422114182",
       "heat": "56 万热度"
     },
     {
@@ -232,8 +232,8 @@
     },
     {
       "rank": "39",
-      "title": "大学同学给介绍工作，要做同学的下属，工资也只有同学的 60%，这样的工作机会能去吗？",
-      "link": "https://www.zhihu.com/question/1955269914953778884",
+      "title": "《神探狄仁杰 3》中宗主死前所喊「我才是宗主」是什么意思？",
+      "link": "https://www.zhihu.com/question/372475603",
       "heat": "56 万热度"
     },
     {
@@ -244,20 +244,20 @@
     },
     {
       "rank": "41",
+      "title": "大学同学给介绍工作，要做同学的下属，工资也只有同学的 60%，这样的工作机会能去吗？",
+      "link": "https://www.zhihu.com/question/1955269914953778884",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "42",
       "title": "为什么很多人认为一辆车开五六年就要换车？",
       "link": "https://www.zhihu.com/question/37958506",
       "heat": "56 万热度"
     },
     {
-      "rank": "42",
+      "rank": "43",
       "title": "美国有没有能力设计和生产歼 36 和歼 50 这级别的六代机?",
       "link": "https://www.zhihu.com/question/1920406151960453978",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "为什么感觉时间越来越快?",
-      "link": "https://www.zhihu.com/question/460759178",
       "heat": "56 万热度"
     },
     {
@@ -274,8 +274,8 @@
     },
     {
       "rank": "46",
-      "title": "击杀深蓝「付费吃屎」的游戏体验成为「共享监狱」的起因，它应该怎么平衡才能适应《三角洲行动》这款游戏？",
-      "link": "https://www.zhihu.com/question/1959563987646637640",
+      "title": "《三角洲行动》运营事故频发的当下，其他搜打撤游戏如《暗区突围》能吃到多少流量？",
+      "link": "https://www.zhihu.com/question/1958300776460947915",
       "heat": "56 万热度"
     },
     {
@@ -286,22 +286,22 @@
     },
     {
       "rank": "48",
-      "title": "《三角洲行动》运营事故频发的当下，其他搜打撤游戏如《暗区突围》能吃到多少流量？",
-      "link": "https://www.zhihu.com/question/1958300776460947915",
+      "title": "为什么现在我国大学都希望做大变成综合性大学，而再也不像苏联一样搞专业类大学了？",
+      "link": "https://www.zhihu.com/question/15435453421",
       "heat": "56 万热度"
     },
     {
       "rank": "49",
-      "title": "李云龙和赵刚关系铁还是跟丁伟关系铁？",
-      "link": "https://www.zhihu.com/question/301339731",
+      "title": "上海明年有可能办沪超吗？",
+      "link": "https://www.zhihu.com/question/1959427732355134781",
       "heat": "56 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么现在我国大学都希望做大变成综合性大学，而再也不像苏联一样搞专业类大学了？",
-      "link": "https://www.zhihu.com/question/15435453421",
+      "title": "为什么在碳纤维自行车如此普及的今天，我们要选择骑一台钢架车？",
+      "link": "https://www.zhihu.com/question/1955241557625114910",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-10-10 03:20:04"
+  "generated_at": "2025-10-10 03:39:23"
 }
