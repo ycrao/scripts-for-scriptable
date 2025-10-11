@@ -1,36 +1,36 @@
 {
-  "artifact_id": "4bcb1e83-936c-4333-ace1-55b7104c7b01",
+  "artifact_id": "48765d51-ccdb-4b5f-912c-b53b83b430b0",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "美国股债汇三杀，遭遇黑色星期五，原油跳水，黄金拉升，比特币暴跌，市场因何恐慌？是短期调整还是趋势反转?",
       "link": "https://www.zhihu.com/question/1960271540680627928",
-      "heat": "574 万热度"
+      "heat": "661 万热度"
     },
     {
       "rank": "2",
       "title": "每次去看艺术展，里面的一些艺术品看不懂是为什么？",
       "link": "https://www.zhihu.com/question/27272792",
-      "heat": "295 万热度"
+      "heat": "290 万热度"
     },
     {
       "rank": "3",
       "title": "济南趵突泉锦鲤胖成「猪鲤」，景区称游客爱投喂，鱼记忆又很短，意识不到自己饱了，真的是这样吗？怎么减肥？",
       "link": "https://www.zhihu.com/question/1960034949047482045",
-      "heat": "267 万热度"
+      "heat": "274 万热度"
     },
     {
       "rank": "4",
       "title": "影视飓风 Tim 对谈罗永浩，成长经历堪比现实版《抓娃娃》，父亲隐藏殷实家境鼓励其创业，如何看待两人对谈?",
       "link": "https://www.zhihu.com/question/1960031324615188732",
-      "heat": "260 万热度"
+      "heat": "251 万热度"
     },
     {
       "rank": "5",
       "title": "西贝有门店调整广告语，「莜面村」改成「我从草原来」，这一调整有助于西贝重塑品牌形象吗？",
       "link": "https://www.zhihu.com/question/1960043007970632354",
-      "heat": "151 万热度"
+      "heat": "136 万热度"
     },
     {
       "rank": "6",
@@ -42,144 +42,144 @@
       "rank": "7",
       "title": "影视飓风都不靠广告了，电商成营收最大业务，这是如何做到的？哪些商业经验值得借鉴？",
       "link": "https://www.zhihu.com/question/1959945847291736629",
-      "heat": "110 万热度"
+      "heat": "111 万热度"
     },
     {
       "rank": "8",
       "title": "宗馥莉推出娃小宗、宗泽后推出娃小智，这些品牌能成功占领市场吗？娃哈哈最终会消失吗？",
       "link": "https://www.zhihu.com/question/1960388115580548274",
-      "heat": "102 万热度"
+      "heat": "108 万热度"
     },
     {
       "rank": "9",
-      "title": "NASA 报告称地球正在「变暗」，反射太阳光能力显著下降，这意味着什么？",
-      "link": "https://www.zhihu.com/question/1959943120247547464",
-      "heat": "84 万热度"
+      "title": "《海贼王》1162 话漫画更新，加林圣是不是太菜了，被洛克斯轻松击败？",
+      "link": "https://www.zhihu.com/question/1959935664373073603",
+      "heat": "86 万热度"
     },
     {
       "rank": "10",
-      "title": "把某人的 DNA 序列作为输入，正面照片作为输出，丢到深度神经网络里面学习，可行吗？",
-      "link": "https://www.zhihu.com/question/363503176",
-      "heat": "79 万热度"
+      "title": "NASA 报告称地球正在「变暗」，反射太阳光能力显著下降，这意味着什么？",
+      "link": "https://www.zhihu.com/question/1959943120247547464",
+      "heat": "85 万热度"
     },
     {
       "rank": "11",
       "title": "如何看待日本公明党宣布退出联合执政？高市早苗还能当选首相吗？",
       "link": "https://www.zhihu.com/question/1959998504140272418",
-      "heat": "78 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "12",
-      "title": "如何看待新建地铁附近要求人口密度一般要达到 1.5 万人 / 平方公里？",
-      "link": "https://www.zhihu.com/question/1959931832490524801",
-      "heat": "77 万热度"
+      "title": "把某人的 DNA 序列作为输入，正面照片作为输出，丢到深度神经网络里面学习，可行吗？",
+      "link": "https://www.zhihu.com/question/363503176",
+      "heat": "79 万热度"
     },
     {
       "rank": "13",
-      "title": "健身房里，为什么大家都爬坡而不是跑步？",
-      "link": "https://www.zhihu.com/question/651094352",
-      "heat": "69 万热度"
+      "title": "如何看待新建地铁附近要求人口密度一般要达到 1.5 万人 / 平方公里？",
+      "link": "https://www.zhihu.com/question/1959931832490524801",
+      "heat": "78 万热度"
     },
     {
       "rank": "14",
+      "title": "健身房里，为什么大家都爬坡而不是跑步？",
+      "link": "https://www.zhihu.com/question/651094352",
+      "heat": "70 万热度"
+    },
+    {
+      "rank": "15",
       "title": "为什么纯电车没有备胎？",
       "link": "https://www.zhihu.com/question/1959911697608311315",
       "heat": "65 万热度"
     },
     {
-      "rank": "15",
+      "rank": "16",
       "title": "男性长期喝豆浆及吃大豆食品，真的会雌性激素过多吗？",
       "link": "https://www.zhihu.com/question/31006781",
       "heat": "64 万热度"
     },
     {
-      "rank": "16",
+      "rank": "17",
       "title": "70 多匹马下山时被绑一条前腿，马主称「防止它们结群逃跑」，绑腿对马会带来哪些伤害？还有更好的办法吗？",
       "link": "https://www.zhihu.com/question/1959028139989627071",
       "heat": "59 万热度"
     },
     {
-      "rank": "17",
+      "rank": "18",
       "title": "胖东来不是上市公司，为何要定期公布销售数据？",
       "link": "https://www.zhihu.com/question/1959916142819767874",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
-      "rank": "18",
+      "rank": "19",
       "title": "女子半夜上厕所发现马桶内有一条蛇，蛇可能从下水道进入家中吗？应该怎样应对？",
       "link": "https://www.zhihu.com/question/1950319037880952520",
       "heat": "57 万热度"
     },
     {
-      "rank": "19",
-      "title": "谍战剧《沉默的荣耀》中，你最佩服谁的演技？",
-      "link": "https://www.zhihu.com/question/1957215030438236779",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "20",
       "title": "为什么美国建国 250 年仅 11 艘航母，而中国建国仅 76 年就有 3 艘？",
       "link": "https://www.zhihu.com/question/1959719789388883834",
-      "heat": "56 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "21",
       "title": "大连森林动物园回应「有老虎被观光车压碎下巴」，称没有发现重大伤情，具体情况如何？园区存在哪些问题？",
       "link": "https://www.zhihu.com/question/1959375073761781224",
-      "heat": "56 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "22",
+      "title": "谍战剧《沉默的荣耀》中，你最佩服谁的演技？",
+      "link": "https://www.zhihu.com/question/1957215030438236779",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "23",
       "title": "我们该如何预防心血管疾病？",
       "link": "https://www.zhihu.com/question/361778585",
       "heat": "56 万热度"
     },
     {
-      "rank": "23",
+      "rank": "24",
       "title": "为什么考不进清华北大的老师却能教出考进清华北大的学生？",
       "link": "https://www.zhihu.com/question/1959726943869044034",
       "heat": "56 万热度"
     },
     {
-      "rank": "24",
+      "rank": "25",
       "title": "《战锤 40k》里面明明帝皇本身甚至帝国的根基是一个谎言，为什么还有那么多人忠诚于帝皇？",
       "link": "https://www.zhihu.com/question/442720645",
       "heat": "56 万热度"
     },
     {
-      "rank": "25",
-      "title": "为什么所有竞技游戏在死亡等待复活的过程中不给玩家找点事情做？",
-      "link": "https://www.zhihu.com/question/1958901673666810176",
+      "rank": "26",
+      "title": "大家觉得青海的西宁好玩吗？",
+      "link": "https://www.zhihu.com/question/1923126295396619828",
       "heat": "56 万热度"
     },
     {
-      "rank": "26",
+      "rank": "27",
       "title": "2025 年 ASI 亚洲邀请赛  败者组淘汰赛  WBG 0:2 BFX，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1960392071027360943",
       "heat": "56 万热度"
     },
     {
-      "rank": "27",
-      "title": "《英雄联盟》永恩的 E 技能如果改成不再次施放就不用回去，是什么强度？",
-      "link": "https://www.zhihu.com/question/2459654230",
-      "heat": "55 万热度"
+      "rank": "28",
+      "title": "在日本人看来，女孩子自称「僕」真的很粗鲁吗？",
+      "link": "https://www.zhihu.com/question/439090326",
+      "heat": "56 万热度"
     },
     {
-      "rank": "28",
+      "rank": "29",
       "title": "《仙剑奇侠传》里的女娲后人，如果未生育就被杀会怎么样？",
       "link": "https://www.zhihu.com/question/653541194",
       "heat": "55 万热度"
     },
     {
-      "rank": "29",
-      "title": "大家觉得青海的西宁好玩吗？",
-      "link": "https://www.zhihu.com/question/1923126295396619828",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "30",
-      "title": "在日本人看来，女孩子自称「僕」真的很粗鲁吗？",
-      "link": "https://www.zhihu.com/question/439090326",
+      "title": "《英雄联盟》永恩的 E 技能如果改成不再次施放就不用回去，是什么强度？",
+      "link": "https://www.zhihu.com/question/2459654230",
       "heat": "55 万热度"
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "rank": "36",
-      "title": "具备什么能力才能学会编程?",
-      "link": "https://www.zhihu.com/question/1958972520318361657",
+      "title": "如何评价《凡人修仙传》动画第 164 集？",
+      "link": "https://www.zhihu.com/question/1950176601183613190",
       "heat": "55 万热度"
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "rank": "38",
-      "title": "为什么被欺凌的人，有一些选择不说出来？怎样发现自己的孩子遇到困难了？",
-      "link": "https://www.zhihu.com/question/1951701578395390910",
+      "title": "具备什么能力才能学会编程?",
+      "link": "https://www.zhihu.com/question/1958972520318361657",
       "heat": "55 万热度"
     },
     {
       "rank": "39",
+      "title": "为什么所有竞技游戏在死亡等待复活的过程中不给玩家找点事情做？",
+      "link": "https://www.zhihu.com/question/1958901673666810176",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "40",
       "title": "如果小霸王游戏机上的游戏进行高清复刻能迎合如今的游戏市场吗？",
       "link": "https://www.zhihu.com/question/1939645031976763940",
       "heat": "55 万热度"
     },
     {
-      "rank": "40",
-      "title": "如何评价《凡人修仙传》动画第 164 集？",
-      "link": "https://www.zhihu.com/question/1950176601183613190",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "41",
-      "title": "孩子全省前 50，该选复旦经济学还是北大越南语?",
-      "link": "https://www.zhihu.com/question/1957110499729704380",
+      "title": "为什么被欺凌的人，有一些选择不说出来？怎样发现自己的孩子遇到困难了？",
+      "link": "https://www.zhihu.com/question/1951701578395390910",
       "heat": "55 万热度"
     },
     {
       "rank": "42",
-      "title": "你是如何度过生活中的艰难时刻的？",
-      "link": "https://www.zhihu.com/question/1951699449547024290",
+      "title": "孩子全省前 50，该选复旦经济学还是北大越南语?",
+      "link": "https://www.zhihu.com/question/1957110499729704380",
       "heat": "55 万热度"
     },
     {
@@ -262,26 +262,26 @@
     },
     {
       "rank": "44",
-      "title": "从繁殖的角度来看，生物为什么需要进化出两性？",
-      "link": "https://www.zhihu.com/question/22052317",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "45",
       "title": "如何评价「崩坏 3」8.5 版本主线「于信仰之光下重逢」？",
       "link": "https://www.zhihu.com/question/1959653213444763991",
       "heat": "55 万热度"
     },
     {
+      "rank": "45",
+      "title": "你是如何度过生活中的艰难时刻的？",
+      "link": "https://www.zhihu.com/question/1951699449547024290",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "46",
-      "title": "《三角洲行动》将绝密入场费并入狗牌价值是否可以平衡猛攻与老鼠?",
-      "link": "https://www.zhihu.com/question/1958521974742549859",
+      "title": "从繁殖的角度来看，生物为什么需要进化出两性？",
+      "link": "https://www.zhihu.com/question/22052317",
       "heat": "55 万热度"
     },
     {
       "rank": "47",
-      "title": "2026 年巴黎马拉松补给站将不提供水杯 / 水瓶，跑者需自备水容器，如何看待这项举措？",
-      "link": "https://www.zhihu.com/question/1959978829520044777",
+      "title": "为什么负数要以补码的形式存储？",
+      "link": "https://www.zhihu.com/question/335614901",
       "heat": "55 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "在股票交易中，哪个指标或数据是庄家做不了假的？",
-      "link": "https://www.zhihu.com/question/361274453",
+      "title": "2026 年巴黎马拉松补给站将不提供水杯 / 水瓶，跑者需自备水容器，如何看待这项举措？",
+      "link": "https://www.zhihu.com/question/1959978829520044777",
       "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "如何评价舒淇、李心洁主演的悬疑复仇台剧《回魂计》？",
-      "link": "https://www.zhihu.com/question/1959660710679249992",
+      "title": "LCK 这 9 个 S 赛冠军，哪个最有含金量？",
+      "link": "https://www.zhihu.com/question/1959761043694793771",
       "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-10-12 03:53:03"
+  "generated_at": "2025-10-12 04:23:08"
 }
