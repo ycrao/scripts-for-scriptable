@@ -1,307 +1,307 @@
 {
-  "artifact_id": "e517d953-3d6b-44d2-9b73-a5c2969816ee",
+  "artifact_id": "d9e4b263-5298-4729-8ba3-af440c76d86b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "美股遭遇「黑色星期五」，纳指暴跌 3.56%，如何看待 10 月 10 日美股走势？",
-      "link": "https://www.zhihu.com/question/1960156890869798671",
-      "heat": "400 万热度"
+      "title": "是现在的博士更难读还是二三十年前的博士更难读？",
+      "link": "https://www.zhihu.com/question/1959389998236309344",
+      "heat": "423 万热度"
     },
     {
       "rank": "2",
-      "title": "是现在的博士更难读还是二三十年前的博士更难读？",
-      "link": "https://www.zhihu.com/question/1959389998236309344",
-      "heat": "362 万热度"
+      "title": "飞机每天连续运作十来个小时，真的不需要让发动机休息一下吗？",
+      "link": "https://www.zhihu.com/question/32703537",
+      "heat": "328 万热度"
     },
     {
       "rank": "3",
-      "title": "飞机每天连续运作十来个小时，真的不需要让发动机休息一下吗？",
-      "link": "https://www.zhihu.com/question/32703537",
-      "heat": "302 万热度"
+      "title": "多地推出政策遴选小学老师转入初中乃至高中任教，为何会出现跨学段任教？如何看待这一现象？",
+      "link": "https://www.zhihu.com/question/1959621544079762799",
+      "heat": "204 万热度"
     },
     {
       "rank": "4",
-      "title": "多地推出政策遴选小学老师转入初中乃至高中任教，为何会出现跨学段任教？如何看待这一现象？",
-      "link": "https://www.zhihu.com/question/1959621544079762799",
-      "heat": "210 万热度"
+      "title": "领导说「你能干就干，不能干就滚」，你咋回？",
+      "link": "https://www.zhihu.com/question/1910721666759230722",
+      "heat": "199 万热度"
     },
     {
       "rank": "5",
-      "title": "领导说「你能干就干，不能干就滚」，你咋回？",
-      "link": "https://www.zhihu.com/question/1910721666759230722",
-      "heat": "186 万热度"
+      "title": "女子半夜上厕所发现马桶内有一条蛇，蛇可能从下水道进入家中吗？应该怎样应对？",
+      "link": "https://www.zhihu.com/question/1950319037880952520",
+      "heat": "156 万热度"
     },
     {
       "rank": "6",
-      "title": "女子半夜上厕所发现马桶内有一条蛇，蛇可能从下水道进入家中吗？应该怎样应对？",
-      "link": "https://www.zhihu.com/question/1950319037880952520",
-      "heat": "111 万热度"
+      "title": "美股遭遇「黑色星期五」，纳指暴跌 3.56%，如何看待 10 月 10 日美股走势？",
+      "link": "https://www.zhihu.com/question/1960156890869798671",
+      "heat": "156 万热度"
     },
     {
       "rank": "7",
       "title": "如何看待日本公明党宣布退出联合执政？高市早苗还能当选首相吗？",
       "link": "https://www.zhihu.com/question/1959998504140272418",
-      "heat": "106 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "8",
-      "title": "孩子全省前 50，该选复旦经济学还是北大越南语?",
-      "link": "https://www.zhihu.com/question/1957110499729704380",
-      "heat": "101 万热度"
+      "title": "极氪科技 CBO 关海涛确认将离职，如何看待他的选择？可能会对公司运营产生哪些影响？",
+      "link": "https://www.zhihu.com/question/1960004447263522847",
+      "heat": "155 万热度"
     },
     {
       "rank": "9",
-      "title": "男性长期喝豆浆及吃大豆食品，真的会雌性激素过多吗？",
-      "link": "https://www.zhihu.com/question/31006781",
-      "heat": "84 万热度"
+      "title": "孩子全省前 50，该选复旦经济学还是北大越南语?",
+      "link": "https://www.zhihu.com/question/1957110499729704380",
+      "heat": "122 万热度"
     },
     {
       "rank": "10",
-      "title": "从 2025 年来看，AI 泡沫是否会在一两年内破灭？",
-      "link": "https://www.zhihu.com/question/1943070667252670985",
-      "heat": "73 万热度"
+      "title": "男性长期喝豆浆及吃大豆食品，真的会雌性激素过多吗？",
+      "link": "https://www.zhihu.com/question/31006781",
+      "heat": "122 万热度"
     },
     {
       "rank": "11",
-      "title": "知情人称宗馥莉辞职是因为商标使用「不合规」，她决定经营自己的品牌「娃小宗」，娃小宗的商业前景如何？",
-      "link": "https://www.zhihu.com/question/1960113850692105934",
-      "heat": "72 万热度"
+      "title": "如何看待王世坚歌曲《没出息》爆红？",
+      "link": "https://www.zhihu.com/question/1959211197191656242",
+      "heat": "104 万热度"
     },
     {
       "rank": "12",
-      "title": "浙江在全省推行中小学春秋假制度，多数地市今年秋假安排在 11 月不同时间，可能带来哪些影响？能推广吗？",
-      "link": "https://www.zhihu.com/question/1959987813903762050",
-      "heat": "72 万热度"
+      "title": "为什么《水浒传》中，王婆宁愿冒着被活剐的风险，也要去促成西门庆和潘金莲？",
+      "link": "https://www.zhihu.com/question/597538262",
+      "heat": "96 万热度"
     },
     {
       "rank": "13",
-      "title": "带孩子出去，你会不会说这个贵，我在网上给你买？",
-      "link": "https://www.zhihu.com/question/15140886914",
-      "heat": "71 万热度"
+      "title": "育碧取消黑人《刺客信条》新作遭玩家怒斥，这不比弥助合理？对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1959620608691274682",
+      "heat": "88 万热度"
     },
     {
       "rank": "14",
-      "title": "哪种个人能力是积累财富的最佳杠杆？",
-      "link": "https://www.zhihu.com/question/1957253028810829841",
-      "heat": "71 万热度"
+      "title": "带孩子出去，你会不会说这个贵，我在网上给你买？",
+      "link": "https://www.zhihu.com/question/15140886914",
+      "heat": "88 万热度"
     },
     {
       "rank": "15",
-      "title": "目前大环境下，面临工作压榨，要不要辞职？",
-      "link": "https://www.zhihu.com/question/1937712019089388946",
-      "heat": "69 万热度"
+      "title": "参加知乎吾辈问答 10.10 精神卫生日特别策划「没事，有点问题才正常」主题盐沙龙是一种怎样的体验？",
+      "link": "https://www.zhihu.com/question/1959938875293135033",
+      "heat": "79 万热度"
     },
     {
       "rank": "16",
-      "title": "30 岁一事无成，开始写小说来得及吗？",
-      "link": "https://www.zhihu.com/question/1916185364269373242",
-      "heat": "68 万热度"
+      "title": "哪种个人能力是积累财富的最佳杠杆？",
+      "link": "https://www.zhihu.com/question/1957253028810829841",
+      "heat": "78 万热度"
     },
     {
       "rank": "17",
-      "title": "美国政府既然可以停摆，民众能接受得了，为什么不一直停摆下去？",
-      "link": "https://www.zhihu.com/question/1957262817712387280",
-      "heat": "68 万热度"
+      "title": "目前大环境下，面临工作压榨，要不要辞职？",
+      "link": "https://www.zhihu.com/question/1937712019089388946",
+      "heat": "75 万热度"
     },
     {
       "rank": "18",
-      "title": "如果科比在 08 年或是 11 年成功拿下总冠军，实现第二个三连冠，他的历史地位可以排到什么位置？",
-      "link": "https://www.zhihu.com/question/398634410",
-      "heat": "68 万热度"
+      "title": "去新疆自驾游是一种怎样的体验？",
+      "link": "https://www.zhihu.com/question/621954617",
+      "heat": "71 万热度"
     },
     {
       "rank": "19",
-      "title": "有什么日本很火，但是在国内没什么热度的日本动画?",
-      "link": "https://www.zhihu.com/question/1935815486211364018",
-      "heat": "57 万热度"
+      "title": "如果科比在 08 年或是 11 年成功拿下总冠军，实现第二个三连冠，他的历史地位可以排到什么位置？",
+      "link": "https://www.zhihu.com/question/398634410",
+      "heat": "71 万热度"
     },
     {
       "rank": "20",
-      "title": "是什么力量帮助朱棣完成靖难之役？",
-      "link": "https://www.zhihu.com/question/475722934",
-      "heat": "56 万热度"
+      "title": "知情人称宗馥莉辞职是因为商标使用「不合规」，她决定经营自己的品牌「娃小宗」，娃小宗的商业前景如何？",
+      "link": "https://www.zhihu.com/question/1960113850692105934",
+      "heat": "66 万热度"
     },
     {
       "rank": "21",
+      "title": "为什么有的大学生选择假期留在学校？他们都在做什么？",
+      "link": "https://www.zhihu.com/question/1955980537496855045",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "浙江在全省推行中小学春秋假制度，多数地市今年秋假安排在 11 月不同时间，可能带来哪些影响？能推广吗？",
+      "link": "https://www.zhihu.com/question/1959987813903762050",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "现实中像许三多这样的人在部队能吃得开吗？",
+      "link": "https://www.zhihu.com/question/658349360",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "美国政府既然可以停摆，民众能接受得了，为什么不一直停摆下去？",
+      "link": "https://www.zhihu.com/question/1957262817712387280",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "从 2025 年来看，AI 泡沫是否会在一两年内破灭？",
+      "link": "https://www.zhihu.com/question/1943070667252670985",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "26",
       "title": "官方发文对超硬材料、锂电池和人造石墨负极材料、部分中重稀土、部分稀土设备和原辅料出口管制，如何解读？",
       "link": "https://www.zhihu.com/question/1959666979246933560",
       "heat": "55 万热度"
     },
     {
-      "rank": "22",
-      "title": "苏超有可能建立起自己的青训体系吗？",
-      "link": "https://www.zhihu.com/question/1948280236794971291",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "2025 年 ASI 亚洲邀请赛淘汰赛 WBG 1-2 不敌 NS，掉入败者组，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1960031972660319792",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "现实中像许三多这样的人在部队能吃得开吗？",
-      "link": "https://www.zhihu.com/question/658349360",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "同事离职的征兆有哪些？",
-      "link": "https://www.zhihu.com/question/660415609",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "一个物体从无穷远的地方自由落体到地球，速度会超光速吗？",
-      "link": "https://www.zhihu.com/question/658878966",
-      "heat": "55 万热度"
-    },
-    {
       "rank": "27",
-      "title": "混沌星际战士会怀念和帝皇一起的大远征吗？",
-      "link": "https://www.zhihu.com/question/664119203",
+      "title": "30 岁一事无成，开始写小说来得及吗？",
+      "link": "https://www.zhihu.com/question/1916185364269373242",
       "heat": "55 万热度"
     },
     {
       "rank": "28",
-      "title": "2025 年国庆档电影总票房 18.35 亿元，观影人次 5007 万，如何评价此成绩？你最喜欢哪部？",
-      "link": "https://www.zhihu.com/question/1959555215436002691",
-      "heat": "55 万热度"
+      "title": "心理咨询师是否曾经大多数都有过创伤？",
+      "link": "https://www.zhihu.com/question/1940159616534188168",
+      "heat": "54 万热度"
     },
     {
       "rank": "29",
-      "title": "如何评价《三角洲行动》针对共享家园的整改公告?",
-      "link": "https://www.zhihu.com/question/1958237119492366443",
-      "heat": "55 万热度"
+      "title": "都 2025 年了，为什么国产安卓手机厂商还在死磕系统流畅？",
+      "link": "https://www.zhihu.com/question/1959941266411332932",
+      "heat": "54 万热度"
     },
     {
       "rank": "30",
-      "title": "俄罗斯一废弃气象站被北极熊「占领」，为什么会出现这种现象？背后有哪些生态警示？",
-      "link": "https://www.zhihu.com/question/1955357702835380937",
-      "heat": "55 万热度"
+      "title": "如何看待字节跳动将为因组织调整离职的员工提供过渡性补贴，最高可得 7.2 万？",
+      "link": "https://www.zhihu.com/question/1959985836440380446",
+      "heat": "54 万热度"
     },
     {
       "rank": "31",
       "title": "我国城市高层建筑遍布，这些建筑寿命期到的时侯怎么处理？",
       "link": "https://www.zhihu.com/question/5039096982",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "32",
-      "title": "怎么可以做一个更好的管理者？",
-      "link": "https://www.zhihu.com/question/465013421",
-      "heat": "55 万热度"
+      "title": "AI 绘画会有开心感成就感吗？",
+      "link": "https://www.zhihu.com/question/11986618897",
+      "heat": "54 万热度"
     },
     {
       "rank": "33",
       "title": "为什么湖北菜在省外的存在感很低？",
       "link": "https://www.zhihu.com/question/432822345",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "34",
-      "title": "生物界还有哪些类似银杏这种没有近亲的独苗生物？",
-      "link": "https://www.zhihu.com/question/633764905",
-      "heat": "55 万热度"
+      "title": "如何看待在阿根廷、尼日利亚、越南等国家一些普通人宁愿用稳定币也不用本国货币的现象？",
+      "link": "https://www.zhihu.com/question/1959565378578510265",
+      "heat": "54 万热度"
     },
     {
       "rank": "35",
       "title": "今年双十一的优惠力度如何？还能叠加国补吗？是选购空调的好时机吗？",
       "link": "https://www.zhihu.com/question/1956356853689721356",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "36",
-      "title": "如果有朋友天天找你倾诉，说这不好，那又不好，你会觉得烦吗？",
-      "link": "https://www.zhihu.com/question/1956629827877602269",
-      "heat": "55 万热度"
+      "title": "孩子有心理障碍，是选择心理咨询还是去看心理医生？",
+      "link": "https://www.zhihu.com/question/1953233361674957384",
+      "heat": "54 万热度"
     },
     {
       "rank": "37",
       "title": "空调直吹久会头痛、极端气温空调罢工，反复清理异味依旧不断，这些痛点能否通过科技全面解决？",
       "link": "https://www.zhihu.com/question/1958924915060246196",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "38",
-      "title": "量化策略因子研究怎么样算研究得深入细致？",
-      "link": "https://www.zhihu.com/question/552012526",
-      "heat": "55 万热度"
+      "title": "有什么比较好吃又不难做的家常菜？",
+      "link": "https://www.zhihu.com/question/582931621",
+      "heat": "54 万热度"
     },
     {
       "rank": "39",
-      "title": "如何评价檀健次在电影《震耳欲聋》中的演技？",
-      "link": "https://www.zhihu.com/question/1957900273218483652",
-      "heat": "55 万热度"
+      "title": "如何评价最新发布的 OriginOS6，在 iOS 和鸿蒙的博弈下，安卓迭代还有哪些亮点值得关注？",
+      "link": "https://www.zhihu.com/question/1959939480254407950",
+      "heat": "54 万热度"
     },
     {
       "rank": "40",
       "title": "体检「血同」值偏高，报告上显示升高有什么危害？普通人如何及时干预呢？",
       "link": "https://www.zhihu.com/question/1952034107631591475",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "41",
       "title": "友望新品「扫地僧」吸尘器的扫震地刷，有没有可能颠覆吸尘器行业？",
       "link": "https://www.zhihu.com/question/1960042061534335046",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "42",
-      "title": "学习 Java 编程，《Java 编程思想》这本书适合看吗？",
-      "link": "https://www.zhihu.com/question/381025755",
-      "heat": "55 万热度"
+      "title": "发电的大风车叶片旋转平面为什么要垂直于地面？",
+      "link": "https://www.zhihu.com/question/1959988489253814332",
+      "heat": "54 万热度"
     },
     {
       "rank": "43",
-      "title": "如何评价绝区零卢西娅角色展示《鉴定绳网热门以骸》？",
-      "link": "https://www.zhihu.com/question/1959957414758581335",
-      "heat": "55 万热度"
+      "title": "同事离职的征兆有哪些？",
+      "link": "https://www.zhihu.com/question/660415609",
+      "heat": "54 万热度"
     },
     {
       "rank": "44",
-      "title": "为什么我每天都玩 dota2 玩了好几年了，还是那么菜 ？",
-      "link": "https://www.zhihu.com/question/377608398",
-      "heat": "55 万热度"
+      "title": "高鹗为什么不照着脂批透漏的情节去写后四十回？",
+      "link": "https://www.zhihu.com/question/658120759",
+      "heat": "54 万热度"
     },
     {
       "rank": "45",
-      "title": "《刺杀小说家 2》对比第一部拍得如何？",
-      "link": "https://www.zhihu.com/question/1956673658106897150",
-      "heat": "55 万热度"
+      "title": "网传「抑郁症多半心脏有问题」，这一说法有科学依据吗？如何从医学角度解读？",
+      "link": "https://www.zhihu.com/question/1959654750619394282",
+      "heat": "54 万热度"
     },
     {
       "rank": "46",
-      "title": "健身健美领域为什么会催生出用药健身这条「歪路」？",
-      "link": "https://www.zhihu.com/question/11922803517",
-      "heat": "55 万热度"
+      "title": "为什么大部分种田类游戏都一股子星露谷物语味，这个游戏类型还有创新空间吗？",
+      "link": "https://www.zhihu.com/question/10473783248",
+      "heat": "54 万热度"
     },
     {
       "rank": "47",
-      "title": "一个公司管理混乱为什么还能生存下去？",
-      "link": "https://www.zhihu.com/question/57748255",
-      "heat": "55 万热度"
+      "title": "为什么磁铁两极被称为南北极，而不是东西极？",
+      "link": "https://www.zhihu.com/question/1912301381634749523",
+      "heat": "54 万热度"
     },
     {
       "rank": "48",
-      "title": "如何看待在阿根廷、尼日利亚、越南等国家一些普通人宁愿用稳定币也不用本国货币的现象？",
-      "link": "https://www.zhihu.com/question/1959565378578510265",
-      "heat": "55 万热度"
+      "title": "家里的哪一平米角落对你来说最不可或缺？",
+      "link": "https://www.zhihu.com/question/1954231398555678080",
+      "heat": "54 万热度"
     },
     {
       "rank": "49",
-      "title": "大家总说「为母则刚」，独抚母亲（单亲妈妈）如何面对「其实我也想脆弱」的真实情绪？",
-      "link": "https://www.zhihu.com/question/1949046769741702937",
-      "heat": "55 万热度"
+      "title": "如何评价综艺《喜人奇妙夜》第二季的第三期？",
+      "link": "https://www.zhihu.com/question/1959939808513230006",
+      "heat": "54 万热度"
     },
     {
       "rank": "50",
-      "title": "当你在日常生活中，遇到残障人士，你会给予力所能及的帮助吗？",
-      "link": "https://www.zhihu.com/question/1955907104339652856",
-      "heat": "55 万热度"
+      "title": "在足球比赛中，主场球队所谓的「主场优势」体现在哪些方面?",
+      "link": "https://www.zhihu.com/question/1955411613797585631",
+      "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-10-11 09:47:46"
+  "generated_at": "2025-10-11 10:57:04"
 }
