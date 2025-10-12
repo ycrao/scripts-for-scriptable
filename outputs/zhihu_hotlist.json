@@ -1,66 +1,66 @@
 {
-  "artifact_id": "6a4e074e-94b0-4d83-84b6-d49350cf96cb",
+  "artifact_id": "3021d621-5ea5-4c72-b1ac-5de756b1aa8e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "影视飓风都不靠广告了，电商成营收最大业务，这是如何做到的？哪些商业经验值得借鉴？",
       "link": "https://www.zhihu.com/question/1959945847291736629",
-      "heat": "360 万热度"
+      "heat": "366 万热度"
     },
     {
       "rank": "2",
       "title": "中国从秦到唐时期中国古代建筑真的很好看 到了明为什么中国建筑就这么难看了？",
       "link": "https://www.zhihu.com/question/291487826",
-      "heat": "293 万热度"
+      "heat": "300 万热度"
     },
     {
       "rank": "3",
       "title": "如何看待《葬送的芙莉莲》宣布长期休刊？",
       "link": "https://www.zhihu.com/question/1960371235205658565",
-      "heat": "288 万热度"
+      "heat": "295 万热度"
     },
     {
       "rank": "4",
       "title": "驴友爬山捡到小蛇后轮流抚摸，专家称是短尾蝮蛇有剧毒，小蛇的毒性会更弱吗？如果被咬该怎么办？",
       "link": "https://www.zhihu.com/question/1960382654441547248",
-      "heat": "283 万热度"
+      "heat": "289 万热度"
     },
     {
       "rank": "5",
       "title": "商务部回应美国将对中方加征 100% 关税，有哪些信息值得关注？如何解读？",
       "link": "https://www.zhihu.com/question/1960651086370141668",
-      "heat": "253 万热度"
+      "heat": "244 万热度"
     },
     {
       "rank": "6",
       "title": "中国离不开富士康，还是富士康离不开中国?",
       "link": "https://www.zhihu.com/question/473873211",
-      "heat": "224 万热度"
+      "heat": "199 万热度"
     },
     {
       "rank": "7",
       "title": "如果祁同伟在最后对侯亮平开枪了剧情该怎么发展？",
       "link": "https://www.zhihu.com/question/59238255",
-      "heat": "205 万热度"
+      "heat": "193 万热度"
     },
     {
       "rank": "8",
       "title": "许家印家族 33 家公司、多个境外银行账户被接管或冻结，涉及资产高达 77 亿美元，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1960065666854945778",
-      "heat": "196 万热度"
+      "heat": "190 万热度"
     },
     {
       "rank": "9",
       "title": "NASA 报告称地球正在「变暗」，反射太阳光能力显著下降，这意味着什么？",
       "link": "https://www.zhihu.com/question/1959943120247547464",
-      "heat": "186 万热度"
+      "heat": "187 万热度"
     },
     {
       "rank": "10",
       "title": "把某人的 DNA 序列作为输入，正面照片作为输出，丢到深度神经网络里面学习，可行吗？",
       "link": "https://www.zhihu.com/question/363503176",
-      "heat": "181 万热度"
+      "heat": "182 万热度"
     },
     {
       "rank": "11",
@@ -72,13 +72,13 @@
       "rank": "12",
       "title": "网友称麻辣香锅已成价格刺客，荤菜近 50 元 / 斤，素菜 25 元 / 斤，为什么变得这么贵？你还会去吃吗？",
       "link": "https://www.zhihu.com/question/1960399215340513069",
-      "heat": "145 万热度"
+      "heat": "154 万热度"
     },
     {
       "rank": "13",
       "title": "如何看待新建地铁附近要求人口密度一般要达到 1.5 万人 / 平方公里？",
       "link": "https://www.zhihu.com/question/1959931832490524801",
-      "heat": "119 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "14",
@@ -88,21 +88,21 @@
     },
     {
       "rank": "15",
-      "title": "《大决战》杜聿明对刘峙毕恭毕敬，为什么对卫立煌如此无礼？",
-      "link": "https://www.zhihu.com/question/6913731781",
-      "heat": "102 万热度"
-    },
-    {
-      "rank": "16",
       "title": "一家 6 口食用皮蛋 4 人中毒，医生称皮蛋食用前需加热，是这样吗？日常生活中如何避免类似食物中毒？",
       "link": "https://www.zhihu.com/question/1959653519041761884",
       "heat": "101 万热度"
     },
     {
+      "rank": "16",
+      "title": "《大决战》杜聿明对刘峙毕恭毕敬，为什么对卫立煌如此无礼？",
+      "link": "https://www.zhihu.com/question/6913731781",
+      "heat": "92 万热度"
+    },
+    {
       "rank": "17",
       "title": "如果《GTA6》定价到达 100 美元，你还会为此买单吗？",
       "link": "https://www.zhihu.com/question/1960057663476983533",
-      "heat": "86 万热度"
+      "heat": "87 万热度"
     },
     {
       "rank": "18",
@@ -112,98 +112,98 @@
     },
     {
       "rank": "19",
-      "title": "中年男性突然开始频繁出去跑步说明了什么？",
-      "link": "https://www.zhihu.com/question/1952025381260493517",
-      "heat": "76 万热度"
+      "title": "现在中国为什么出不了像刘翔，姚明影响力这么大的运动员了？",
+      "link": "https://www.zhihu.com/question/1936364801015120643",
+      "heat": "80 万热度"
     },
     {
       "rank": "20",
-      "title": "有什么关于合肥的冷知识？",
-      "link": "https://www.zhihu.com/question/52796963",
-      "heat": "74 万热度"
+      "title": "中年男性突然开始频繁出去跑步说明了什么？",
+      "link": "https://www.zhihu.com/question/1952025381260493517",
+      "heat": "80 万热度"
     },
     {
       "rank": "21",
-      "title": "你家的狗狗有多幸福？能否发一张图片看看？",
-      "link": "https://www.zhihu.com/question/1944403772618020633",
-      "heat": "73 万热度"
+      "title": "有什么关于合肥的冷知识？",
+      "link": "https://www.zhihu.com/question/52796963",
+      "heat": "76 万热度"
     },
     {
       "rank": "22",
-      "title": "美国股债汇三杀，遭遇黑色星期五，原油跳水，黄金拉升，比特币暴跌，市场因何恐慌？是短期调整还是趋势反转?",
-      "link": "https://www.zhihu.com/question/1960271540680627928",
-      "heat": "73 万热度"
+      "title": "仅就国内而言，足球球盲和相对懂球的人，在哪方面的足球认知是差别最大的?",
+      "link": "https://www.zhihu.com/question/1957584250288210187",
+      "heat": "75 万热度"
     },
     {
       "rank": "23",
-      "title": "仅就国内而言，足球球盲和相对懂球的人，在哪方面的足球认知是差别最大的?",
-      "link": "https://www.zhihu.com/question/1957584250288210187",
+      "title": "你家的狗狗有多幸福？能否发一张图片看看？",
+      "link": "https://www.zhihu.com/question/1944403772618020633",
       "heat": "73 万热度"
     },
     {
       "rank": "24",
       "title": "为什么纯电车没有备胎？",
       "link": "https://www.zhihu.com/question/1959911697608311315",
-      "heat": "72 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "25",
-      "title": "工作中要和领导打好关系吗？",
-      "link": "https://www.zhihu.com/question/667901541",
-      "heat": "68 万热度"
+      "title": "如果你有一个女儿，你觉得哪方面的教育最重要？",
+      "link": "https://www.zhihu.com/question/1951980786367567861",
+      "heat": "69 万热度"
     },
     {
       "rank": "26",
-      "title": "如果一枚弹珠那么大的中子星物质落在了地球上，会发生什么事？",
-      "link": "https://www.zhihu.com/question/448238634",
-      "heat": "67 万热度"
+      "title": "工作中要和领导打好关系吗？",
+      "link": "https://www.zhihu.com/question/667901541",
+      "heat": "69 万热度"
     },
     {
       "rank": "27",
-      "title": "如果你有一个女儿，你觉得哪方面的教育最重要？",
-      "link": "https://www.zhihu.com/question/1951980786367567861",
-      "heat": "67 万热度"
+      "title": "如果一枚弹珠那么大的中子星物质落在了地球上，会发生什么事？",
+      "link": "https://www.zhihu.com/question/448238634",
+      "heat": "68 万热度"
     },
     {
       "rank": "28",
-      "title": "现在中国为什么出不了像刘翔，姚明影响力这么大的运动员了？",
-      "link": "https://www.zhihu.com/question/1936364801015120643",
-      "heat": "66 万热度"
+      "title": "自己的工作干不完，领导还要给添加工作，怎么办？",
+      "link": "https://www.zhihu.com/question/1915858592885641273",
+      "heat": "61 万热度"
     },
     {
       "rank": "29",
       "title": "哪些游戏中存在「看上去没用，但实际上很有用」的东西？",
       "link": "https://www.zhihu.com/question/500981525",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "30",
-      "title": "如何评价《万历十五年》？",
-      "link": "https://www.zhihu.com/question/20469911",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "​游戏主角颜值是否会影响剧情代入感？若主角长得人畜不分，会让游戏体验下降吗？",
-      "link": "https://www.zhihu.com/question/1959178554907526465",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "如何看待智界 R7 多位车发帖称延期交付，只给价值一千元的礼品补偿？具体情况如何？",
-      "link": "https://www.zhihu.com/question/1958942473192715007",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "33",
       "title": "西贝有门店调整广告语，「莜面村」改成「我从草原来」，这一调整有助于西贝重塑品牌形象吗？",
       "link": "https://www.zhihu.com/question/1960043007970632354",
       "heat": "58 万热度"
     },
     {
-      "rank": "34",
+      "rank": "31",
       "title": "健身房里，为什么大家都爬坡而不是跑步？",
       "link": "https://www.zhihu.com/question/651094352",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "如何评价《万历十五年》？",
+      "link": "https://www.zhihu.com/question/20469911",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "​游戏主角颜值是否会影响剧情代入感？若主角长得人畜不分，会让游戏体验下降吗？",
+      "link": "https://www.zhihu.com/question/1959178554907526465",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "朱元璋为何不改立朱棣为太子？",
+      "link": "https://www.zhihu.com/question/566742077",
       "heat": "58 万热度"
     },
     {
@@ -214,44 +214,44 @@
     },
     {
       "rank": "36",
-      "title": "朱元璋为何不改立朱棣为太子？",
-      "link": "https://www.zhihu.com/question/566742077",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "37",
       "title": "为什么美国建国 250 年仅 11 艘航母，而中国建国仅 76 年就有 3 艘？",
       "link": "https://www.zhihu.com/question/1959719789388883834",
       "heat": "58 万热度"
     },
     {
-      "rank": "38",
-      "title": "不追星只听歌，有必要去演唱会吗？",
-      "link": "https://www.zhihu.com/question/661232498",
-      "heat": "57 万热度"
+      "rank": "37",
+      "title": "如何看待智界 R7 多位车发帖称延期交付，只给价值一千元的礼品补偿？具体情况如何？",
+      "link": "https://www.zhihu.com/question/1958942473192715007",
+      "heat": "58 万热度"
     },
     {
-      "rank": "39",
+      "rank": "38",
       "title": "能力强的员工，为什么离开，为什么留不住？",
       "link": "https://www.zhihu.com/question/611877325",
       "heat": "57 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "1/2 阶导数是什么？",
       "link": "https://www.zhihu.com/question/493433132",
       "heat": "57 万热度"
     },
     {
-      "rank": "41",
+      "rank": "40",
       "title": "影视飓风 Tim 对谈罗永浩，成长经历堪比现实版《抓娃娃》，父亲隐藏殷实家境鼓励其创业，如何看待两人对谈?",
       "link": "https://www.zhihu.com/question/1960031324615188732",
       "heat": "57 万热度"
     },
     {
-      "rank": "42",
+      "rank": "41",
       "title": "六天 5w 份销量好评如潮的《魔法少女的魔女审判》，大家体验如何？",
       "link": "https://www.zhihu.com/question/1932851306642518262",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "不追星只听歌，有必要去演唱会吗？",
+      "link": "https://www.zhihu.com/question/661232498",
       "heat": "57 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-10-12 12:43:42"
+  "generated_at": "2025-10-12 12:56:33"
 }
