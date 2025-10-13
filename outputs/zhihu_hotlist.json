@@ -1,95 +1,95 @@
 {
-  "artifact_id": "a60606b1-6dad-447e-8164-d79345047747",
+  "artifact_id": "09fc84d3-ca2e-4db2-a7db-6fe475e307e6",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
       "link": "https://www.zhihu.com/question/1961110110400116359",
-      "heat": "335 万热度"
+      "heat": "403 万热度"
     },
     {
       "rank": "2",
       "title": "本科生「回炉」上技校越来越香了，多地支持技校面向大学生开设技师班，如何看待这一现象？",
       "link": "https://www.zhihu.com/question/1961004741380240135",
-      "heat": "223 万热度"
+      "heat": "242 万热度"
     },
     {
       "rank": "3",
-      "title": "加热铁能得到铁水，加热石头能得到岩浆，那么把木头加热会得到液态的木头吗？",
-      "link": "https://www.zhihu.com/question/1955607951676014901",
-      "heat": "117 万热度"
+      "title": "美国田纳西州一军用炸药厂发生爆炸并导致 19 人失踪，目前事故原因调查进展如何？",
+      "link": "https://www.zhihu.com/question/1960306881747715598",
+      "heat": "140 万热度"
     },
     {
       "rank": "4",
-      "title": "美国田纳西州一军用炸药厂发生爆炸并导致 19 人失踪，目前事故原因调查进展如何？",
-      "link": "https://www.zhihu.com/question/1960306881747715598",
-      "heat": "112 万热度"
+      "title": "加热铁能得到铁水，加热石头能得到岩浆，那么把木头加热会得到液态的木头吗？",
+      "link": "https://www.zhihu.com/question/1955607951676014901",
+      "heat": "132 万热度"
     },
     {
       "rank": "5",
+      "title": "目前的金价，你还敢追吗？",
+      "link": "https://www.zhihu.com/question/1960053472419378672",
+      "heat": "113 万热度"
+    },
+    {
+      "rank": "6",
+      "title": "西班牙的「午睡」文化，在现代社会中是智慧还是阻碍？",
+      "link": "https://www.zhihu.com/question/1953804982806647631",
+      "heat": "98 万热度"
+    },
+    {
+      "rank": "7",
       "title": "浙江一居民楼出现空心菜「瀑布」，空心菜怎么能长这么长？会不会有什么安全隐患？",
       "link": "https://www.zhihu.com/question/1960616327707324473",
       "heat": "97 万热度"
     },
     {
-      "rank": "6",
-      "title": "目前的金价，你还敢追吗？",
-      "link": "https://www.zhihu.com/question/1960053472419378672",
-      "heat": "93 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "西班牙的「午睡」文化，在现代社会中是智慧还是阻碍？",
-      "link": "https://www.zhihu.com/question/1953804982806647631",
-      "heat": "93 万热度"
-    },
-    {
       "rank": "8",
-      "title": "哈马斯开始释放以方被扣押人质，加沙停火会如约实现吗？",
-      "link": "https://www.zhihu.com/question/1961056368485164946",
+      "title": "如何评价由邓紫棋演唱的《英雄联盟》2025 全球总决赛主题曲《SACRIFICE 牺牲》？",
+      "link": "https://www.zhihu.com/question/1961174616648185296",
       "heat": "84 万热度"
     },
     {
       "rank": "9",
       "title": "如果再给你一次机会，你会买油车？还是混动？纯电？",
       "link": "https://www.zhihu.com/question/642796881",
-      "heat": "78 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "10",
-      "title": "如何评价由邓紫棋演唱的《英雄联盟》2025 全球总决赛主题曲《SACRIFICE 牺牲》？",
-      "link": "https://www.zhihu.com/question/1961174616648185296",
-      "heat": "77 万热度"
+      "title": "想知道特斯拉电耗低的主要原因有哪些呢？",
+      "link": "https://www.zhihu.com/question/662242577",
+      "heat": "79 万热度"
     },
     {
       "rank": "11",
-      "title": "小屏机曾多年「投票没输过，销量没赢过」，vivo X300 为什么成了小屏旗舰？",
-      "link": "https://www.zhihu.com/question/1961031108226424900",
-      "heat": "75 万热度"
+      "title": "哈马斯开始释放以方被扣押人质，加沙停火会如约实现吗？",
+      "link": "https://www.zhihu.com/question/1961056368485164946",
+      "heat": "74 万热度"
     },
     {
       "rank": "12",
-      "title": "想知道特斯拉电耗低的主要原因有哪些呢？",
-      "link": "https://www.zhihu.com/question/662242577",
+      "title": "博主修复哈密戈壁的「为人民服务」地标，此前被漂移炫技者破坏，这些字为何在强风沙下保存半个世纪不消失？",
+      "link": "https://www.zhihu.com/question/1960429252865425914",
       "heat": "72 万热度"
     },
     {
       "rank": "13",
-      "title": "博主修复哈密戈壁的「为人民服务」地标，此前被漂移炫技者破坏，这些字为何在强风沙下保存半个世纪不消失？",
-      "link": "https://www.zhihu.com/question/1960429252865425914",
+      "title": "三月七认为翁法罗斯角色和活生生的人没有区别，而长夜月认为它们是冰冷数字，如何评价双方的认知和伦理态度？",
+      "link": "https://www.zhihu.com/question/1955802365895614918",
       "heat": "71 万热度"
     },
     {
       "rank": "14",
-      "title": "三月七认为翁法罗斯角色和活生生的人没有区别，而长夜月认为它们是冰冷数字，如何评价双方的认知和伦理态度？",
-      "link": "https://www.zhihu.com/question/1955802365895614918",
-      "heat": "70 万热度"
+      "title": "如何看待《三角洲行动》一直玩大坝和长弓的玩家？",
+      "link": "https://www.zhihu.com/question/1960002157282551290",
+      "heat": "68 万热度"
     },
     {
       "rank": "15",
-      "title": "如何看待《三角洲行动》一直玩大坝和长弓的玩家？",
-      "link": "https://www.zhihu.com/question/1960002157282551290",
+      "title": "儿童近视 100 多度有希望恢复吗? 可以不戴眼镜吗?",
+      "link": "https://www.zhihu.com/question/639873843",
       "heat": "68 万热度"
     },
     {
@@ -100,21 +100,21 @@
     },
     {
       "rank": "17",
-      "title": "儿童近视 100 多度有希望恢复吗? 可以不戴眼镜吗?",
-      "link": "https://www.zhihu.com/question/639873843",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "18",
       "title": "那些游戏体验不足一小时，开发却用了一两年的小众独立游戏，价值到底是什么？",
       "link": "https://www.zhihu.com/question/1910738964547081979",
       "heat": "66 万热度"
     },
     {
-      "rank": "19",
+      "rank": "18",
       "title": "为什么现在的 llm 大模型主要都是用 RoPE 位置编码而非其他？",
       "link": "https://www.zhihu.com/question/1821771428",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "小屏机曾多年「投票没输过，销量没赢过」，vivo X300 为什么成了小屏旗舰？",
+      "link": "https://www.zhihu.com/question/1961031108226424900",
+      "heat": "64 万热度"
     },
     {
       "rank": "20",
@@ -126,84 +126,84 @@
       "rank": "21",
       "title": "高速上开到多少速度才是安全并且舒服的？",
       "link": "https://www.zhihu.com/question/663907394",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "22",
-      "title": "数学系和物理系学生有什么差别？",
-      "link": "https://www.zhihu.com/question/24127370",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "凯里欧文天赋那么高，尤其在过人方面在我心目中属于顶级的存在，如今的生涯成就算不算没兑现天赋？",
-      "link": "https://www.zhihu.com/question/1953176526674728514",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "人工智能领域有哪些精妙的数学原理？",
-      "link": "https://www.zhihu.com/question/508649281",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
       "title": "如何看待最新发布的 vivo X300 系列，影像大小王都有哪些亮点值得关注？",
       "link": "https://www.zhihu.com/question/1961025670319706312",
       "heat": "58 万热度"
     },
     {
+      "rank": "23",
+      "title": "为什么很多人吐槽苏州、无锡的菜甜，甚至难以下咽，却没有多少不爱吃辣的人吐槽重庆、长沙吃得太辣？",
+      "link": "https://www.zhihu.com/question/1953473029112849725",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "你见过的最震惊的文物是什么？",
+      "link": "https://www.zhihu.com/question/659619460",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "西安有哪些深藏不露的餐馆？",
+      "link": "https://www.zhihu.com/question/24706453",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "26",
-      "title": "如果让你选择你是喜欢上班还是上学？",
-      "link": "https://www.zhihu.com/question/1960281892029957848",
-      "heat": "58 万热度"
+      "title": "数学系和物理系学生有什么差别？",
+      "link": "https://www.zhihu.com/question/24127370",
+      "heat": "57 万热度"
     },
     {
       "rank": "27",
-      "title": "2025 乒乓球亚锦赛团体赛，中国 vs 伊朗第一局中，林诗栋 2-3 不敌本雅明，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1961149420411281890",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "你经历过孕吐吗？",
-      "link": "https://www.zhihu.com/question/1915709523395606194",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "什么样的行为极大的改善了你的心理健康？",
-      "link": "https://www.zhihu.com/question/1937991623154852740",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "去旅游，你对住宿有要求吗？",
-      "link": "https://www.zhihu.com/question/1960283796566934570",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "如何评价《英雄联盟》S15 总决赛 MV？",
-      "link": "https://www.zhihu.com/question/1960979389513729760",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "32",
       "title": "小县城的消费是不是已经和一线城市不相上下？",
       "link": "https://www.zhihu.com/question/22799152",
       "heat": "57 万热度"
     },
     {
-      "rank": "33",
+      "rank": "28",
+      "title": "如何评价《英雄联盟》S15 总决赛 MV？",
+      "link": "https://www.zhihu.com/question/1960979389513729760",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "凯里欧文天赋那么高，尤其在过人方面在我心目中属于顶级的存在，如今的生涯成就算不算没兑现天赋？",
+      "link": "https://www.zhihu.com/question/1953176526674728514",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "人工智能领域有哪些精妙的数学原理？",
+      "link": "https://www.zhihu.com/question/508649281",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "31",
       "title": "既然内存条已经国产化了，为什么还会出现产能不足？",
       "link": "https://www.zhihu.com/question/1957356579776082164",
       "heat": "57 万热度"
     },
     {
+      "rank": "32",
+      "title": "如何看待「小学没毕业，初二课程已学完」的现象？家长深陷「囚徒困境」，超前学习真的能赢在终点吗？",
+      "link": "https://www.zhihu.com/question/1961112511655941896",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "如果让你选择你是喜欢上班还是上学？",
+      "link": "https://www.zhihu.com/question/1960281892029957848",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "34",
-      "title": "为什么很多人吐槽苏州、无锡的菜甜，甚至难以下咽，却没有多少不爱吃辣的人吐槽重庆、长沙吃得太辣？",
-      "link": "https://www.zhihu.com/question/1953473029112849725",
+      "title": "去旅游，你对住宿有要求吗？",
+      "link": "https://www.zhihu.com/question/1960283796566934570",
       "heat": "57 万热度"
     },
     {
@@ -214,32 +214,32 @@
     },
     {
       "rank": "36",
-      "title": "西安有哪些深藏不露的餐馆？",
-      "link": "https://www.zhihu.com/question/24706453",
+      "title": "你经历过孕吐吗？",
+      "link": "https://www.zhihu.com/question/1915709523395606194",
       "heat": "57 万热度"
     },
     {
       "rank": "37",
-      "title": "你见过的最震惊的文物是什么？",
-      "link": "https://www.zhihu.com/question/659619460",
+      "title": "什么样的行为极大的改善了你的心理健康？",
+      "link": "https://www.zhihu.com/question/1937991623154852740",
       "heat": "57 万热度"
     },
     {
       "rank": "38",
-      "title": "如何看待「小学没毕业，初二课程已学完」的现象？家长深陷「囚徒困境」，超前学习真的能赢在终点吗？",
-      "link": "https://www.zhihu.com/question/1961112511655941896",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "39",
       "title": "男子用垃圾袋自制扰流球「防台风」，自称可以保护门窗玻璃，从科学角度看，这有用吗？",
       "link": "https://www.zhihu.com/question/1959261758339375584",
       "heat": "56 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "有什么是你去了广西才知道的？",
       "link": "https://www.zhihu.com/question/292856203",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "2025 乒乓球亚锦赛团体赛，中国 vs 伊朗第一局中，林诗栋 2-3 不敌本雅明，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1961149420411281890",
       "heat": "56 万热度"
     },
     {
@@ -256,27 +256,27 @@
     },
     {
       "rank": "43",
-      "title": "天玑 9500「硬化集成」vivo V3+ 芯片，是否意味着「联发科调校看某厂」的争论结束了？",
-      "link": "https://www.zhihu.com/question/1961028837484769453",
+      "title": "2025 NBA 中国赛，篮网 vs 太阳 G2，曾凡博未获出场机会，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1960806822790304836",
       "heat": "55 万热度"
     },
     {
       "rank": "44",
-      "title": "2025 NBA 中国赛，篮网 vs 太阳 G2，曾凡博未获出场机会，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1960806822790304836",
+      "title": "拼多多 10 岁了，你的生活因拼多多发生了哪些微小而真实的改变？",
+      "link": "https://www.zhihu.com/question/1961061907587891362",
       "heat": "55 万热度"
     },
     {
       "rank": "45",
       "title": "无痕中国倡导生态赏鸟，强调从观察和记录身边的「菜鸟」等开始。你希望怎么快速地开启你的寻鸟之路？",
       "link": "https://www.zhihu.com/question/1949031988326557535",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "46",
-      "title": "拼多多 10 岁了，你的生活因拼多多发生了哪些微小而真实的改变？",
-      "link": "https://www.zhihu.com/question/1961061907587891362",
-      "heat": "55 万热度"
+      "title": "天玑 9500「硬化集成」vivo V3+ 芯片，是否意味着「联发科调校看某厂」的争论结束了？",
+      "link": "https://www.zhihu.com/question/1961028837484769453",
+      "heat": "54 万热度"
     },
     {
       "rank": "47",
@@ -303,5 +303,5 @@
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-10-14 06:40:42"
+  "generated_at": "2025-10-14 06:53:33"
 }
