@@ -1,239 +1,239 @@
 {
-  "artifact_id": "62eba38a-cb2e-42c5-ae65-09fa6d749f5b",
+  "artifact_id": "76f798f2-d46e-4883-b7a2-fa288816d01f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "我国在固态锂电池领域取得突破，研究出可弯折 20000 次柔性电池，这一突破有哪些意义？",
       "link": "https://www.zhihu.com/question/1958843402075468784",
-      "heat": "331 万热度"
+      "heat": "220 万热度"
     },
     {
       "rank": "2",
-      "title": "胖东来 12 年老员工未及时迎客被开除，公司这一处罚是否过重？服务标准与员工权益该如何平衡？",
-      "link": "https://www.zhihu.com/question/1961893774432101786",
-      "heat": "313 万热度"
+      "title": "广州一小区蛇患频发，已抓超 60 条仍未找到蛇窝，后续究竟该采取怎样更有效的措施来彻底解决这一问题？",
+      "link": "https://www.zhihu.com/question/1961367561091417958",
+      "heat": "214 万热度"
     },
     {
       "rank": "3",
-      "title": "广东一对夫妻长「复制粘贴脸」走红， 专家称「夫妻相」确实存在，真的是这样吗？有哪些科学依据？",
-      "link": "https://www.zhihu.com/question/1960397739444630502",
-      "heat": "285 万热度"
-    },
-    {
-      "rank": "4",
-      "title": "广州一小区蛇患频发，已抓超 60 条仍未找到蛇窝，后续究竟该采取怎样更有效的措施来彻底解决这一问题？",
-      "link": "https://www.zhihu.com/question/1961367561091417958",
-      "heat": "203 万热度"
-    },
-    {
-      "rank": "5",
-      "title": "「南天门计划」新机型紫火概念战机首次亮相，有哪些值得关注的亮点？",
-      "link": "https://www.zhihu.com/question/1961847267095966369",
+      "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1962192375641277780",
       "heat": "202 万热度"
     },
     {
+      "rank": "4",
+      "title": "「南天门计划」新机型紫火概念战机首次亮相，有哪些值得关注的亮点？",
+      "link": "https://www.zhihu.com/question/1961847267095966369",
+      "heat": "201 万热度"
+    },
+    {
+      "rank": "5",
+      "title": "广东一对夫妻长「复制粘贴脸」走红， 专家称「夫妻相」确实存在，真的是这样吗？有哪些科学依据？",
+      "link": "https://www.zhihu.com/question/1960397739444630502",
+      "heat": "156 万热度"
+    },
+    {
       "rank": "6",
-      "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1962192375641277780",
-      "heat": "191 万热度"
+      "title": "女子为改善睡眠踩指压板 20 分钟脚底喷血，踩指压板真的有用吗？有哪些注意事项？",
+      "link": "https://www.zhihu.com/question/1961355416597393962",
+      "heat": "151 万热度"
     },
     {
       "rank": "7",
-      "title": "徐娇卖 1850 元化纤马面裙却宣称「绫罗绸缎」，其回应罗不是材料是织法，是这样吗？「罗」到底是指什么？",
-      "link": "https://www.zhihu.com/question/1962151228646584575",
-      "heat": "128 万热度"
+      "title": "S15 瑞士轮次日 GEN 0:1 不敌 AL，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1962192401041961375",
+      "heat": "142 万热度"
     },
     {
       "rank": "8",
-      "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
-      "link": "https://www.zhihu.com/question/1952307688965936581",
-      "heat": "128 万热度"
+      "title": "徐娇卖 1850 元化纤马面裙却宣称「绫罗绸缎」，其回应罗不是材料是织法，是这样吗？「罗」到底是指什么？",
+      "link": "https://www.zhihu.com/question/1962151228646584575",
+      "heat": "139 万热度"
     },
     {
       "rank": "9",
-      "title": "女子为改善睡眠踩指压板 20 分钟脚底喷血，踩指压板真的有用吗？有哪些注意事项？",
-      "link": "https://www.zhihu.com/question/1961355416597393962",
-      "heat": "121 万热度"
+      "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
+      "link": "https://www.zhihu.com/question/1952307688965936581",
+      "heat": "135 万热度"
     },
     {
       "rank": "10",
       "title": "为什么说「竟然」的只说「竟然」，说「居然」的只说「居然」?",
       "link": "https://www.zhihu.com/question/1910119129999971495",
-      "heat": "117 万热度"
+      "heat": "127 万热度"
     },
     {
       "rank": "11",
       "title": "如何看待中国探月工程三期总设计师、嫦娥六号任务总设计师胡浩说「火星移民意义不大」？",
       "link": "https://www.zhihu.com/question/1961744866544451737",
-      "heat": "113 万热度"
+      "heat": "118 万热度"
     },
     {
       "rank": "12",
       "title": "两个领导临走前都暗示公司想干掉我，让我小心，结果新领导一上任就故意整我人，该怎么处理？",
       "link": "https://www.zhihu.com/question/1960524449221681657",
-      "heat": "109 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "13",
-      "title": "S15 瑞士轮次日 GEN 0:1 不敌 AL，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1962192401041961375",
-      "heat": "107 万热度"
+      "title": "胖东来 12 年老员工未及时迎客被开除，公司这一处罚是否过重？服务标准与员工权益该如何平衡？",
+      "link": "https://www.zhihu.com/question/1961893774432101786",
+      "heat": "93 万热度"
     },
     {
       "rank": "14",
+      "title": "《沉默的荣耀》中谷正文是不是被神化了？",
+      "link": "https://www.zhihu.com/question/1961150405208663170",
+      "heat": "93 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "如何评价 2025 年 10 月米哈游《崩坏星穹铁道》3.6 版本下半卡池，丹恒腾荒，那刻夏？",
+      "link": "https://www.zhihu.com/question/1961469241388692602",
+      "heat": "89 万热度"
+    },
+    {
+      "rank": "16",
       "title": "中国球员曾凡博被曝已被篮网裁掉，原因可能是什么？如何评价他在球队的表现？",
       "link": "https://www.zhihu.com/question/1961925515414828304",
       "heat": "86 万热度"
     },
     {
-      "rank": "15",
-      "title": "研究称南极地区海底甲烷渗出速度惊人，原因可能是什么？会带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1960623556300858661",
-      "heat": "81 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "研究称 O 型血可能更容易得痔疮，依据是什么？痔疮的核心诱因有哪些？",
-      "link": "https://www.zhihu.com/question/1959574289805173757",
-      "heat": "76 万热度"
-    },
-    {
       "rank": "17",
-      "title": "前几年都说鸭翼不影响隐身，为什么歼 36 、歼 35 还要取消鸭翼?",
-      "link": "https://www.zhihu.com/question/1961727090811450797",
-      "heat": "73 万热度"
+      "title": "为什么中国文化如此强调谦虚和低调的思想？",
+      "link": "https://www.zhihu.com/question/53053454",
+      "heat": "84 万热度"
     },
     {
       "rank": "18",
-      "title": "长沙家长发文投诉，建议取消「家长护学岗」，教育局回应按照自愿原则，「自愿」会变成隐形强制吗？你怎么看？",
-      "link": "https://www.zhihu.com/question/1961877787154552696",
-      "heat": "70 万热度"
+      "title": "研究称南极地区海底甲烷渗出速度惊人，原因可能是什么？会带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1960623556300858661",
+      "heat": "83 万热度"
     },
     {
       "rank": "19",
-      "title": "给 3 岁小孩买一部手机，随便他玩，长大后是不是就不会玩手机成瘾？",
-      "link": "https://www.zhihu.com/question/1958514569317192463",
-      "heat": "70 万热度"
+      "title": "怎么样把一个 900 种族值的宝可梦设计的特别弱？",
+      "link": "https://www.zhihu.com/question/1961791756057179803",
+      "heat": "77 万热度"
     },
     {
       "rank": "20",
-      "title": "如何评价《三角洲行动》AS Val 这把枪？",
-      "link": "https://www.zhihu.com/question/14656263450",
-      "heat": "67 万热度"
+      "title": "研究称 O 型血可能更容易得痔疮，依据是什么？痔疮的核心诱因有哪些？",
+      "link": "https://www.zhihu.com/question/1959574289805173757",
+      "heat": "77 万热度"
     },
     {
       "rank": "21",
       "title": "如何看待荣耀发布「ROBOT PHONE」？AI 机器人与影像融合，会是手机终极形态吗？",
       "link": "https://www.zhihu.com/question/1962187888750989906",
-      "heat": "66 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么计算机组成原理在教学时不从人的认识顺序出发？",
-      "link": "https://www.zhihu.com/question/1956119936310178453",
-      "heat": "65 万热度"
+      "title": "《崩坏：星穹铁道》中最令你印象深刻的瞬间是哪个画面？",
+      "link": "https://www.zhihu.com/question/1960739552823084885",
+      "heat": "77 万热度"
     },
     {
       "rank": "23",
-      "title": "《游戏王》限禁卡有哪些一辈子不可能出狱?",
-      "link": "https://www.zhihu.com/question/51567825",
-      "heat": "65 万热度"
+      "title": "前几年都说鸭翼不影响隐身，为什么歼 36 、歼 35 还要取消鸭翼?",
+      "link": "https://www.zhihu.com/question/1961727090811450797",
+      "heat": "75 万热度"
     },
     {
       "rank": "24",
-      "title": "「如果连父母的委屈都受不了，那社会上的委屈怎么受得了」如何反驳这一观点呢？",
-      "link": "https://www.zhihu.com/question/1961888889967981727",
-      "heat": "64 万热度"
+      "title": "给 3 岁小孩买一部手机，随便他玩，长大后是不是就不会玩手机成瘾？",
+      "link": "https://www.zhihu.com/question/1958514569317192463",
+      "heat": "71 万热度"
     },
     {
       "rank": "25",
       "title": "为什么国内 35 岁以上的程序员似乎「消失了」？他们最终都去了哪里？",
       "link": "https://www.zhihu.com/question/1911556351026529449",
-      "heat": "64 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "26",
-      "title": "每天喝茶 vs 每天喝咖啡哪个更健康？不同体质应该怎么选？",
-      "link": "https://www.zhihu.com/question/1958906559703770718",
-      "heat": "64 万热度"
+      "title": "一代人有一代人的「破烂儿」，当下年轻人收集的「无用之物」反映了怎样的消费观与情感寄托？",
+      "link": "https://www.zhihu.com/question/1955001947754029332",
+      "heat": "69 万热度"
     },
     {
       "rank": "27",
-      "title": "一代人有一代人的「破烂儿」，当下年轻人收集的「无用之物」反映了怎样的消费观与情感寄托？",
-      "link": "https://www.zhihu.com/question/1955001947754029332",
-      "heat": "64 万热度"
+      "title": "如何评价《三角洲行动》AS Val 这把枪？",
+      "link": "https://www.zhihu.com/question/14656263450",
+      "heat": "67 万热度"
     },
     {
       "rank": "28",
-      "title": "没了心气是怎么恢复的?",
-      "link": "https://www.zhihu.com/question/10378385100",
-      "heat": "64 万热度"
+      "title": "《游戏王》限禁卡有哪些一辈子不可能出狱?",
+      "link": "https://www.zhihu.com/question/51567825",
+      "heat": "66 万热度"
     },
     {
       "rank": "29",
-      "title": "如果 3i/atlas 被证实是外星飞船会发生什么？",
-      "link": "https://www.zhihu.com/question/1950664183734592472",
-      "heat": "64 万热度"
+      "title": "「如果连父母的委屈都受不了，那社会上的委屈怎么受得了」如何反驳这一观点呢？",
+      "link": "https://www.zhihu.com/question/1961888889967981727",
+      "heat": "66 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么 CPU 设计了三级缓存，GPU 只设计两级缓存？",
-      "link": "https://www.zhihu.com/question/1901008279548727378",
-      "heat": "64 万热度"
+      "title": "为什么计算机组成原理在教学时不从人的认识顺序出发？",
+      "link": "https://www.zhihu.com/question/1956119936310178453",
+      "heat": "66 万热度"
     },
     {
       "rank": "31",
-      "title": "怎么样把一个 900 种族值的宝可梦设计的特别弱？",
-      "link": "https://www.zhihu.com/question/1961791756057179803",
+      "title": "孙继海说他当年踢球那会能轻松防住如今的王钰栋，王钰栋应该去高水平联赛历练，这话对吗?",
+      "link": "https://www.zhihu.com/question/1961168839384466842",
       "heat": "64 万热度"
     },
     {
       "rank": "32",
-      "title": "孙继海说他当年踢球那会能轻松防住如今的王钰栋，王钰栋应该去高水平联赛历练，这话对吗?",
-      "link": "https://www.zhihu.com/question/1961168839384466842",
+      "title": "为什么 CPU 设计了三级缓存，GPU 只设计两级缓存？",
+      "link": "https://www.zhihu.com/question/1901008279548727378",
       "heat": "64 万热度"
     },
     {
       "rank": "33",
       "title": "父亲今年 5 月份去世，我对后续的烧七、烧百天、烧生日、烧周年很不耐烦，是不是不孝？",
       "link": "https://www.zhihu.com/question/667394283",
-      "heat": "63 万热度"
+      "heat": "64 万热度"
     },
     {
       "rank": "34",
       "title": "如何评价原神·空月之歌 / 挪德卡莱 / 月之一 /6.0 的深境螺旋 / 深渊（更新日期：20251016）？",
       "link": "https://www.zhihu.com/question/1962069700604323613",
-      "heat": "63 万热度"
+      "heat": "64 万热度"
     },
     {
       "rank": "35",
       "title": "印度 3A 游戏《释放阿凡达》明明画面糙，纯靠动作耍帅，为啥大家包容度那么高？",
       "link": "https://www.zhihu.com/question/1961712261287645379",
-      "heat": "63 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "36",
+      "title": "如果你不缺钱，你还会选择每天上班吗？",
+      "link": "https://www.zhihu.com/question/1961842078561604206",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "37",
       "title": "当领导的为什么不能把话说明白？",
       "link": "https://www.zhihu.com/question/1950114400242501456",
       "heat": "61 万热度"
     },
     {
-      "rank": "37",
-      "title": "如果你不缺钱，你还会选择每天上班吗？",
-      "link": "https://www.zhihu.com/question/1961842078561604206",
-      "heat": "61 万热度"
-    },
-    {
       "rank": "38",
-      "title": "炒股炒的心情焦虑，该如何解决？",
-      "link": "https://www.zhihu.com/question/1962066709688092384",
+      "title": "你还记得你的第一份工资是多少钱吗？",
+      "link": "https://www.zhihu.com/question/1955738327421546970",
       "heat": "61 万热度"
     },
     {
       "rank": "39",
-      "title": "你还记得你的第一份工资是多少钱吗？",
-      "link": "https://www.zhihu.com/question/1955738327421546970",
+      "title": "炒股炒的心情焦虑，该如何解决？",
+      "link": "https://www.zhihu.com/question/1962066709688092384",
       "heat": "61 万热度"
     },
     {
@@ -250,58 +250,58 @@
     },
     {
       "rank": "42",
-      "title": "古代太监传皇帝口谕时有没有乱传害人的情况发生，有什么手续依据一定是皇帝说的呢？",
-      "link": "https://www.zhihu.com/question/575593552",
+      "title": "为什么现在很多不富裕的家庭也要带孩子出去旅游？",
+      "link": "https://www.zhihu.com/question/1941110078389351653",
       "heat": "60 万热度"
     },
     {
       "rank": "43",
+      "title": "古代太监传皇帝口谕时有没有乱传害人的情况发生，有什么手续依据一定是皇帝说的呢？",
+      "link": "https://www.zhihu.com/question/575593552",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "44",
       "title": "如何理解《万箭穿心》里面的那句：「马主任是个很好的人，可惜不太懂女人」？",
       "link": "https://www.zhihu.com/question/21906446",
       "heat": "59 万热度"
     },
     {
-      "rank": "44",
-      "title": "中国有多少大学能以「x 大」简称？",
-      "link": "https://www.zhihu.com/question/1959740618570994732",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "45",
-      "title": "跑腿骑手取走万元手机后失联，店主报警却无法立案，为什么无法立案？店主该怎么办？跑腿平台应该承担责任吗？",
-      "link": "https://www.zhihu.com/question/1961723527272030609",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "46",
       "title": "第七届天津直升机博览会开幕，直 20 突击型直升机首次亮相，对国产直升机，你还有哪些期待？",
       "link": "https://www.zhihu.com/question/1961393714502008987",
       "heat": "59 万热度"
     },
     {
+      "rank": "46",
+      "title": "中国有多少大学能以「x 大」简称？",
+      "link": "https://www.zhihu.com/question/1959740618570994732",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "47",
+      "title": "跑腿骑手取走万元手机后失联，店主报警却无法立案，为什么无法立案？店主该怎么办？跑腿平台应该承担责任吗？",
+      "link": "https://www.zhihu.com/question/1961723527272030609",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "48",
       "title": "蒸汽机为什么不用蜂窝煤？",
       "link": "https://www.zhihu.com/question/305450817",
       "heat": "59 万热度"
     },
     {
-      "rank": "48",
-      "title": "你后悔买电子书阅读器吗？",
-      "link": "https://www.zhihu.com/question/300173600",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "49",
-      "title": "Shams 报道自由球员威斯布鲁克已同意与国王签约，如何看待威少这笔签约？",
-      "link": "https://www.zhihu.com/question/1961950193869100270",
+      "title": "2025 年双十一，有哪些「风不吹人」「智能省电」的好空调值得推荐？",
+      "link": "https://www.zhihu.com/question/1961860474447590730",
       "heat": "59 万热度"
     },
     {
       "rank": "50",
-      "title": "如何评价《命悬一生》李庚希扮演的吴细妹这个人？她的演技如何？",
-      "link": "https://www.zhihu.com/question/1960828208736875321",
+      "title": "如何评价勇哥说餐饮?",
+      "link": "https://www.zhihu.com/question/1928031858928646088",
       "heat": "59 万热度"
     }
   ],
-  "generated_at": "2025-10-16 20:53:33"
+  "generated_at": "2025-10-16 21:35:51"
 }
