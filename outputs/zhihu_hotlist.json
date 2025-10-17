@@ -1,78 +1,78 @@
 {
-  "artifact_id": "4adf2272-e254-4e22-a29e-0c4432d3aa91",
+  "artifact_id": "fafe5ac5-aa8e-4712-854e-85eba8f0ebb1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "年满 45 周岁的姚明开始领 NBA 养老金，如何评价 NBA 的养老金体系？",
       "link": "https://www.zhihu.com/question/1960979697056875484",
-      "heat": "355 万热度"
+      "heat": "436 万热度"
     },
     {
       "rank": "2",
-      "title": "S15 瑞士轮出线战 KT 2:0 击败 TES 率先晋级八强赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1962533608293110258",
-      "heat": "354 万热度"
+      "title": "黄仁勋称英伟达中国市场已份额从 95% 降到 0%，对英伟达影响有多大？市场会面临哪些变化？",
+      "link": "https://www.zhihu.com/question/1962618340980777392",
+      "heat": "392 万热度"
     },
     {
       "rank": "3",
-      "title": "黄仁勋称英伟达中国市场已份额从 95% 降到 0%，对英伟达影响有多大？市场会面临哪些变化？",
-      "link": "https://www.zhihu.com/question/1962618340980777392",
-      "heat": "277 万热度"
+      "title": "S15 瑞士轮出线战 KT 2:0 击败 TES 率先晋级八强赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1962533608293110258",
+      "heat": "288 万热度"
     },
     {
       "rank": "4",
       "title": "黄金还能不能跌回 900?",
       "link": "https://www.zhihu.com/question/1962162767436965331",
-      "heat": "251 万热度"
+      "heat": "283 万热度"
     },
     {
       "rank": "5",
       "title": "背包客兜里仅剩 2 元钱，路过火锅店被东北老板免费盛情招待，如何看待此事？为什么东北人总是很热心肠？",
       "link": "https://www.zhihu.com/question/1961908188455601630",
-      "heat": "208 万热度"
+      "heat": "223 万热度"
     },
     {
       "rank": "6",
       "title": "比亚迪宣布召回部分唐和元 Pro 汽车，此次召回将给品牌后期销量带来哪些影响？",
       "link": "https://www.zhihu.com/question/1962472359094118354",
-      "heat": "164 万热度"
+      "heat": "163 万热度"
     },
     {
       "rank": "7",
-      "title": "S15 瑞士轮首轮出线战 AL 2:1 击败 CFO 晋级八强赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1962571558649329334",
-      "heat": "157 万热度"
+      "title": "如何看待韩企造船烂尾后，新西兰选择中国船厂？ 中国现在的造船能力是什么水平？",
+      "link": "https://www.zhihu.com/question/1962482340447131415",
+      "heat": "162 万热度"
     },
     {
       "rank": "8",
-      "title": "如何看待韩企造船烂尾后，新西兰选择中国船厂？ 中国现在的造船能力是什么水平？",
-      "link": "https://www.zhihu.com/question/1962482340447131415",
-      "heat": "157 万热度"
+      "title": "S15 瑞士轮首轮出线战 AL 2:1 击败 CFO 晋级八强赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1962571558649329334",
+      "heat": "149 万热度"
     },
     {
       "rank": "9",
-      "title": "美团核心本地商业 CEO 王莆中表示，餐饮行业堂食的客单价已接近 2015 年，背后的原因是什么？",
-      "link": "https://www.zhihu.com/question/1962251649381795012",
-      "heat": "132 万热度"
+      "title": "如何评价电视剧《沉默的荣耀》大结局？",
+      "link": "https://www.zhihu.com/question/1961103058923664584",
+      "heat": "145 万热度"
     },
     {
       "rank": "10",
       "title": "王健林及万达集团被起诉，目前万达集团经营状况如何？万达为何走到今天这一步？",
       "link": "https://www.zhihu.com/question/1962147446651057170",
-      "heat": "131 万热度"
+      "heat": "141 万热度"
     },
     {
       "rank": "11",
-      "title": "如何评价电视剧《沉默的荣耀》大结局？",
-      "link": "https://www.zhihu.com/question/1961103058923664584",
-      "heat": "131 万热度"
+      "title": "美团核心本地商业 CEO 王莆中表示，餐饮行业堂食的客单价已接近 2015 年，背后的原因是什么？",
+      "link": "https://www.zhihu.com/question/1962251649381795012",
+      "heat": "138 万热度"
     },
     {
       "rank": "12",
       "title": "如何评价小李子新电影《一战再战》？",
       "link": "https://www.zhihu.com/question/1959531527735079332",
-      "heat": "130 万热度"
+      "heat": "134 万热度"
     },
     {
       "rank": "13",
@@ -90,73 +90,73 @@
       "rank": "15",
       "title": "刘慈欣小说《赡养上帝》电影版立项，网传导演为韩杰，曾执导《Hello！树先生》，你看好吗？",
       "link": "https://www.zhihu.com/question/1962246338658924239",
-      "heat": "93 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "16",
       "title": "如何评价 2025 城市综合发展指数报告中，最宜居城市济南仅次于北京位居第二，综合排名位居第五？",
       "link": "https://www.zhihu.com/question/1962084164506486700",
-      "heat": "91 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "17",
+      "title": "如何看待兰州一家医院员工发「喜报」庆祝单月门诊人数 7577 人？公布诊疗数据怎么表达更合适？",
+      "link": "https://www.zhihu.com/question/1962123412483847470",
+      "heat": "92 万热度"
+    },
+    {
+      "rank": "18",
+      "title": "日本前首相村山富市去世，他留下的「村山谈话」对日本当下有何意义？",
+      "link": "https://www.zhihu.com/question/1962496948725616893",
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "19",
       "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
       "link": "https://www.zhihu.com/question/1962439324869047516",
       "heat": "88 万热度"
     },
     {
-      "rank": "18",
-      "title": "如何看待兰州一家医院员工发「喜报」庆祝单月门诊人数 7577 人？公布诊疗数据怎么表达更合适？",
-      "link": "https://www.zhihu.com/question/1962123412483847470",
-      "heat": "85 万热度"
+      "rank": "20",
+      "title": "机构称 2024 年发 13 万篇论文挣 8000 万，究竟是谁为了什么，愿意花这笔钱？会有什么影响？",
+      "link": "https://www.zhihu.com/question/1961377890382905915",
+      "heat": "86 万热度"
     },
     {
-      "rank": "19",
+      "rank": "21",
       "title": "人到中年，你会有什么感悟？",
       "link": "https://www.zhihu.com/question/608312323",
       "heat": "84 万热度"
     },
     {
-      "rank": "20",
-      "title": "机构称 2024 年发 13 万篇论文挣 8000 万，究竟是谁为了什么，愿意花这笔钱？会有什么影响？",
-      "link": "https://www.zhihu.com/question/1961377890382905915",
-      "heat": "82 万热度"
-    },
-    {
-      "rank": "21",
+      "rank": "22",
       "title": "「嘎子」谢孟伟被执行超 1400 万，具体是怎么回事？这对他影响有多大？",
       "link": "https://www.zhihu.com/question/1961203143158232668",
       "heat": "81 万热度"
     },
     {
-      "rank": "22",
-      "title": "如何看待「榜一大哥」正式起诉旺仔小乔，要求全额返还 80 万打赏？",
-      "link": "https://www.zhihu.com/question/1962162415606129498",
-      "heat": "77 万热度"
-    },
-    {
       "rank": "23",
       "title": "如果 S15 全球总决赛最终对决是韩国内战，那么《英雄联盟》在中国应该 GG 了吧？",
       "link": "https://www.zhihu.com/question/1961091429242758735",
-      "heat": "77 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "24",
       "title": "如何评价电视剧《命悬一生》大结局？",
       "link": "https://www.zhihu.com/question/1961385498573509279",
-      "heat": "77 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "25",
-      "title": "日本前首相村山富市去世，他留下的「村山谈话」对日本当下有何意义？",
-      "link": "https://www.zhihu.com/question/1962496948725616893",
-      "heat": "74 万热度"
+      "title": "如何看待「榜一大哥」正式起诉旺仔小乔，要求全额返还 80 万打赏？",
+      "link": "https://www.zhihu.com/question/1962162415606129498",
+      "heat": "77 万热度"
     },
     {
       "rank": "26",
       "title": "为什么小孩子明明什么都会，考试却不理想?",
       "link": "https://www.zhihu.com/question/1960240691310490959",
-      "heat": "67 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "27",
@@ -178,14 +178,14 @@
     },
     {
       "rank": "30",
-      "title": "把新概念英语 1 学完，相当于哪个水平？",
-      "link": "https://www.zhihu.com/question/356089442",
+      "title": "为什么旅游会很累人呀？",
+      "link": "https://www.zhihu.com/question/1961732299386259111",
       "heat": "57 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么旅游会很累人呀？",
-      "link": "https://www.zhihu.com/question/1961732299386259111",
+      "title": "把新概念英语 1 学完，相当于哪个水平？",
+      "link": "https://www.zhihu.com/question/356089442",
       "heat": "57 万热度"
     },
     {
@@ -250,14 +250,14 @@
     },
     {
       "rank": "42",
-      "title": "父亲今年 5 月份去世，我对后续的烧七、烧百天、烧生日、烧周年很不耐烦，是不是不孝？",
-      "link": "https://www.zhihu.com/question/667394283",
+      "title": "如何评价苹果于 2025 年 10 月 15 日发布的 MacBook Pro M5？",
+      "link": "https://www.zhihu.com/question/1961903132482187442",
       "heat": "56 万热度"
     },
     {
       "rank": "43",
-      "title": "如何评价苹果于 2025 年 10 月 15 日发布的 MacBook Pro M5？",
-      "link": "https://www.zhihu.com/question/1961903132482187442",
+      "title": "父亲今年 5 月份去世，我对后续的烧七、烧百天、烧生日、烧周年很不耐烦，是不是不孝？",
+      "link": "https://www.zhihu.com/question/667394283",
       "heat": "56 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "为什么维特根斯坦说世界的意义在世界之外？",
-      "link": "https://www.zhihu.com/question/1957321256027288259",
+      "title": "第七届天津直升机博览会开幕，直 20 突击型直升机首次亮相，对国产直升机，你还有哪些期待？",
+      "link": "https://www.zhihu.com/question/1961393714502008987",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-10-18 04:26:54"
+  "generated_at": "2025-10-18 04:42:42"
 }
