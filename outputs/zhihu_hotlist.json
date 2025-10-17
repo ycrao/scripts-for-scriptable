@@ -1,90 +1,90 @@
 {
-  "artifact_id": "264c522c-2b07-4409-be98-9114399a172b",
+  "artifact_id": "bbc5d745-3b8f-490a-ae55-c5d1017c4652",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
       "link": "https://www.zhihu.com/question/1961867297695166783",
-      "heat": "648 万热度"
+      "heat": "753 万热度"
     },
     {
       "rank": "2",
       "title": "博主去东莞菜市场，发现主力叶子菜就三个科植物，你在自己城市的市场有同感吗？仅依赖少数几种作物有何风险？",
       "link": "https://www.zhihu.com/question/1961457707665024413",
-      "heat": "400 万热度"
+      "heat": "439 万热度"
     },
     {
       "rank": "3",
       "title": "高速服务区现「野人小孩」，赤身裸体爬行奔跑，家人称教育方式不一样，怎样看待这种教育方式？",
       "link": "https://www.zhihu.com/question/1962179574336030563",
-      "heat": "321 万热度"
+      "heat": "370 万热度"
     },
     {
       "rank": "4",
       "title": "南航宣布本科生不写论文也能毕业，可用高水平竞赛获奖、创新实践项目结题等代替，怎样看待这一规定？",
       "link": "https://www.zhihu.com/question/1962258770022327306",
-      "heat": "233 万热度"
+      "heat": "269 万热度"
     },
     {
       "rank": "5",
       "title": "苏州「我听交警的」事件迎来新进展，逆行且诬告的涉事女子被行拘，怎么评价小伙的教科书式操作？",
       "link": "https://www.zhihu.com/question/1962186287193755710",
-      "heat": "173 万热度"
+      "heat": "196 万热度"
     },
     {
       "rank": "6",
       "title": "三大外卖平台官宣试点取消骑手超时罚款，启用服务分管理机制，对骑手群体影响有多大？订单超时现象会增加吗？",
       "link": "https://www.zhihu.com/question/1962180848703991927",
-      "heat": "114 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "7",
-      "title": "旅行者飞船降落在挪德卡莱，为什么我们第一幕醒来是在蒙德？",
-      "link": "https://www.zhihu.com/question/1961549240540070247",
-      "heat": "106 万热度"
+      "title": "中国这轮对稀土出口管制，为何美国反应如此强烈？稀土到底卡住了什么？",
+      "link": "https://www.zhihu.com/question/1961081953437594122",
+      "heat": "118 万热度"
     },
     {
       "rank": "8",
-      "title": "中国这轮对稀土出口管制，为何美国反应如此强烈？稀土到底卡住了什么？",
-      "link": "https://www.zhihu.com/question/1961081953437594122",
-      "heat": "105 万热度"
+      "title": "如何看待刘慈欣点评《三体》电视剧改编，对腾讯版和网飞版都很满意？你对《三体》更多的影视化作品有何期待？",
+      "link": "https://www.zhihu.com/question/1961398675919037176",
+      "heat": "112 万热度"
     },
     {
       "rank": "9",
       "title": "「嘎子」谢孟伟被执行超 1400 万，具体是怎么回事？这对他影响有多大？",
       "link": "https://www.zhihu.com/question/1961203143158232668",
-      "heat": "105 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "10",
-      "title": "如何看待刘慈欣点评《三体》电视剧改编，对腾讯版和网飞版都很满意？你对《三体》更多的影视化作品有何期待？",
-      "link": "https://www.zhihu.com/question/1961398675919037176",
-      "heat": "105 万热度"
+      "title": "何炅自曝精力大不如前，「如何停止衰老」成最大困惑，我们为什么会有衰老焦虑？该怎么接受自己衰老？",
+      "link": "https://www.zhihu.com/question/1962179114980041369",
+      "heat": "111 万热度"
     },
     {
       "rank": "11",
       "title": "如何看待「榜一大哥」正式起诉旺仔小乔，要求全额返还 80 万打赏？",
       "link": "https://www.zhihu.com/question/1962162415606129498",
-      "heat": "103 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "12",
-      "title": "何炅自曝精力大不如前，「如何停止衰老」成最大困惑，我们为什么会有衰老焦虑？该怎么接受自己衰老？",
-      "link": "https://www.zhihu.com/question/1962179114980041369",
-      "heat": "100 万热度"
+      "title": "如何看待越来越多高校开新生家长会、建家长群？教师称「主要缓解家长焦虑，对学生几乎没意义」，是这样吗？",
+      "link": "https://www.zhihu.com/question/1962134385743623032",
+      "heat": "97 万热度"
     },
     {
       "rank": "13",
       "title": "人民币中间价年内大涨近 900 点，收复 7.1 关口，背后主要原因是什么？年底能否破 7 ？",
       "link": "https://www.zhihu.com/question/1962123205557876707",
-      "heat": "92 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "14",
-      "title": "杨过一直叫陆无双媳妇儿是怎样的一种心理？",
-      "link": "https://www.zhihu.com/question/50777064",
-      "heat": "88 万热度"
+      "title": "除了杨瀚森，像赵维伦，王俊杰，林葳，小曾，是否能在这两年得到 NBA 的机会？",
+      "link": "https://www.zhihu.com/question/1906665251824440614",
+      "heat": "94 万热度"
     },
     {
       "rank": "15",
@@ -96,102 +96,102 @@
       "rank": "16",
       "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
       "link": "https://www.zhihu.com/question/1952307688965936581",
-      "heat": "79 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "17",
-      "title": "有哪些堪称 \" 草蛇灰线，伏脉千里”的作品？",
-      "link": "https://www.zhihu.com/question/349567165",
-      "heat": "79 万热度"
+      "title": "杨过一直叫陆无双媳妇儿是怎样的一种心理？",
+      "link": "https://www.zhihu.com/question/50777064",
+      "heat": "77 万热度"
     },
     {
       "rank": "18",
-      "title": "如何评价原神 10 月 16 日深渊?",
-      "link": "https://www.zhihu.com/question/1962261772875601374",
-      "heat": "64 万热度"
+      "title": "公司一边不批准加班申请，一面要求不要影响工作进度，这就是赤裸裸的想要白嫖吧，要怎么应对？",
+      "link": "https://www.zhihu.com/question/1958906426337502414",
+      "heat": "72 万热度"
     },
     {
       "rank": "19",
-      "title": "国际团队发布重磅报告称，世界达到第一个气候临界点，这意味着什么？将对地球生态带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1962083404083324525",
-      "heat": "62 万热度"
+      "title": "格力的空调不错，听说最近开始做洗衣机、热水器和净水器了，有用过的分享下值得入手吗？",
+      "link": "https://www.zhihu.com/question/1962245355539243280",
+      "heat": "71 万热度"
     },
     {
       "rank": "20",
-      "title": "两个领导临走前都暗示公司想干掉我，让我小心，结果新领导一上任就故意整我人，该怎么处理？",
-      "link": "https://www.zhihu.com/question/1960524449221681657",
-      "heat": "62 万热度"
+      "title": "领导会讨厌送礼的下属吗？",
+      "link": "https://www.zhihu.com/question/5693921892",
+      "heat": "70 万热度"
     },
     {
       "rank": "21",
-      "title": "印度 3A 游戏《释放阿凡达》明明画面糙，纯靠动作耍帅，为啥大家包容度那么高？",
-      "link": "https://www.zhihu.com/question/1961712261287645379",
-      "heat": "59 万热度"
+      "title": "国际团队发布重磅报告称，世界达到第一个气候临界点，这意味着什么？将对地球生态带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1962083404083324525",
+      "heat": "63 万热度"
     },
     {
       "rank": "22",
-      "title": "魏和尚被杀事件中，如果是政委来求情，李云龙还敢不敢不买账？",
-      "link": "https://www.zhihu.com/question/5550040265",
-      "heat": "58 万热度"
+      "title": "旅行者飞船降落在挪德卡莱，为什么我们第一幕醒来是在蒙德？",
+      "link": "https://www.zhihu.com/question/1961549240540070247",
+      "heat": "62 万热度"
     },
     {
       "rank": "23",
       "title": "诺基亚失败的本质原因是什么？",
       "link": "https://www.zhihu.com/question/279795246",
-      "heat": "57 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "24",
-      "title": "对于大学教授来说，教学重要还是科研重要？",
-      "link": "https://www.zhihu.com/question/27329957",
-      "heat": "56 万热度"
+      "title": "两个领导临走前都暗示公司想干掉我，让我小心，结果新领导一上任就故意整我人，该怎么处理？",
+      "link": "https://www.zhihu.com/question/1960524449221681657",
+      "heat": "62 万热度"
     },
     {
       "rank": "25",
-      "title": "在炮弹，手榴弹中加入钢珠的设计为什么没有被推广？",
-      "link": "https://www.zhihu.com/question/417657769",
-      "heat": "56 万热度"
+      "title": "印度 3A 游戏《释放阿凡达》明明画面糙，纯靠动作耍帅，为啥大家包容度那么高？",
+      "link": "https://www.zhihu.com/question/1961712261287645379",
+      "heat": "59 万热度"
     },
     {
       "rank": "26",
       "title": "心肌梗塞是一种什么样的体验？",
       "link": "https://www.zhihu.com/question/41993162",
-      "heat": "56 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "27",
-      "title": "我国在固态锂电池领域取得突破，研究出可弯折 20000 次柔性电池，这一突破有哪些意义？",
-      "link": "https://www.zhihu.com/question/1958843402075468784",
-      "heat": "56 万热度"
+      "title": "有哪些堪称 \" 草蛇灰线，伏脉千里”的作品？",
+      "link": "https://www.zhihu.com/question/349567165",
+      "heat": "59 万热度"
     },
     {
       "rank": "28",
-      "title": "格罗滕迪克没有受过正统的数学教育，他的数学知识是从哪来的？",
-      "link": "https://www.zhihu.com/question/649775133",
-      "heat": "56 万热度"
+      "title": "如何评价原神 10 月 16 日深渊?",
+      "link": "https://www.zhihu.com/question/1962261772875601374",
+      "heat": "58 万热度"
     },
     {
       "rank": "29",
-      "title": "为什么计算机组成原理在教学时不从人的认识顺序出发？",
-      "link": "https://www.zhihu.com/question/1956119936310178453",
-      "heat": "56 万热度"
+      "title": "魏和尚被杀事件中，如果是政委来求情，李云龙还敢不敢不买账？",
+      "link": "https://www.zhihu.com/question/5550040265",
+      "heat": "58 万热度"
     },
     {
       "rank": "30",
-      "title": "于东来称公司账上资金 41 亿，无贷款，自嘲胖东来是「怪胎」，进门需要铁栏杆，胖东来模式为何难被复制？",
-      "link": "https://www.zhihu.com/question/1961808300275397614",
+      "title": "如何评价《一人之下》漫画第 737（781）话？",
+      "link": "https://www.zhihu.com/question/1962271721311696418",
       "heat": "56 万热度"
     },
     {
       "rank": "31",
-      "title": "如何评价《三角洲行动》AS Val 这把枪？",
-      "link": "https://www.zhihu.com/question/14656263450",
+      "title": "广州一小区蛇患频发，已抓超 60 条仍未找到蛇窝，后续究竟该采取怎样更有效的措施来彻底解决这一问题？",
+      "link": "https://www.zhihu.com/question/1961367561091417958",
       "heat": "56 万热度"
     },
     {
       "rank": "32",
-      "title": "为什么 CPU 设计了三级缓存，GPU 只设计两级缓存？",
-      "link": "https://www.zhihu.com/question/1901008279548727378",
+      "title": "如何理解《万箭穿心》里面的那句：「马主任是个很好的人，可惜不太懂女人」？",
+      "link": "https://www.zhihu.com/question/21906446",
       "heat": "56 万热度"
     },
     {
@@ -208,100 +208,100 @@
     },
     {
       "rank": "35",
-      "title": "如果 3i/atlas 被证实是外星飞船会发生什么？",
-      "link": "https://www.zhihu.com/question/1950664183734592472",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
-      "link": "https://www.zhihu.com/question/1961742940717146685",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "为何在空轨中卡西乌斯·布莱特为什么几乎没有亲自出场，却能被称为「轨迹系列最强者之一」？",
-      "link": "https://www.zhihu.com/question/1960009851318035154",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如何理解《万箭穿心》里面的那句：「马主任是个很好的人，可惜不太懂女人」？",
-      "link": "https://www.zhihu.com/question/21906446",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "39",
       "title": "研究称 O 型血可能更容易得痔疮，依据是什么？痔疮的核心诱因有哪些？",
       "link": "https://www.zhihu.com/question/1959574289805173757",
       "heat": "56 万热度"
     },
     {
-      "rank": "40",
+      "rank": "36",
       "title": "如何看待荣耀发布「ROBOT PHONE」？AI 机器人与影像融合，会是手机终极形态吗？",
       "link": "https://www.zhihu.com/question/1962187888750989906",
       "heat": "56 万热度"
     },
     {
-      "rank": "41",
+      "rank": "37",
       "title": "第七届天津直升机博览会开幕，直 20 突击型直升机首次亮相，对国产直升机，你还有哪些期待？",
       "link": "https://www.zhihu.com/question/1961393714502008987",
       "heat": "56 万热度"
     },
     {
-      "rank": "42",
-      "title": "广州一小区蛇患频发，已抓超 60 条仍未找到蛇窝，后续究竟该采取怎样更有效的措施来彻底解决这一问题？",
-      "link": "https://www.zhihu.com/question/1961367561091417958",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "43",
+      "rank": "38",
       "title": "安东尼称在曼联遭不尊重，甚至「没教养」，这反映了球队怎样的内部文化？",
       "link": "https://www.zhihu.com/question/1958137351424439374",
       "heat": "56 万热度"
     },
     {
-      "rank": "44",
+      "rank": "39",
       "title": "孙继海说他当年踢球那会能轻松防住如今的王钰栋，王钰栋应该去高水平联赛历练，这话对吗?",
       "link": "https://www.zhihu.com/question/1961168839384466842",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
+      "rank": "40",
       "title": "如何看待中国探月工程三期总设计师、嫦娥六号任务总设计师胡浩说「火星移民意义不大」？",
       "link": "https://www.zhihu.com/question/1961744866544451737",
       "heat": "56 万热度"
     },
     {
-      "rank": "46",
+      "rank": "41",
       "title": "为什么会有人觉得日语很简单？",
       "link": "https://www.zhihu.com/question/667375943",
       "heat": "56 万热度"
     },
     {
-      "rank": "47",
+      "rank": "42",
       "title": "《三角洲行动》宣发不断宣传「鼠鼠文化」而策划层面不断往竞技化改动，这是否说明其项目组内部管理十分混乱？",
       "link": "https://www.zhihu.com/question/1961350907687076816",
       "heat": "56 万热度"
     },
     {
-      "rank": "48",
+      "rank": "43",
       "title": "2025 年双十一，有哪些「风不吹人」「智能省电」的好空调值得推荐？",
       "link": "https://www.zhihu.com/question/1961860474447590730",
       "heat": "56 万热度"
     },
     {
-      "rank": "49",
+      "rank": "44",
       "title": "每天喝茶 vs 每天喝咖啡哪个更健康？不同体质应该怎么选？",
       "link": "https://www.zhihu.com/question/1958906559703770718",
       "heat": "56 万热度"
     },
     {
-      "rank": "50",
+      "rank": "45",
       "title": "什么样工作可以使人快乐上班？",
       "link": "https://www.zhihu.com/question/626678254",
       "heat": "56 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "在描述日本的生活水平时，「便利店打工都能养活自己」和「70 岁的老头还要开出租车」这两点是否矛盾冲突？",
+      "link": "https://www.zhihu.com/question/7449566205",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "给 3 岁小孩买一部手机，随便他玩，长大后是不是就不会玩手机成瘾？",
+      "link": "https://www.zhihu.com/question/1958514569317192463",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "姜文《鬼子来了》思想性和艺术性怎么样？",
+      "link": "https://www.zhihu.com/question/1946480873856795151",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "曾开发过《死或生》、《忍者龙剑传》的游戏制作人板垣伴信去世，如何评价他的一生？",
+      "link": "https://www.zhihu.com/question/1962186508397148136",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "入职后，发现同事总把自己的工作推给我，拒绝怕影响关系，不拒绝又内耗，该怎么体面又高效地解决这个问题？",
+      "link": "https://www.zhihu.com/question/1942318197509428519",
+      "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-10-17 12:30:51"
+  "generated_at": "2025-10-17 12:53:20"
 }
