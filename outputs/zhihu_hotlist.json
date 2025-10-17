@@ -1,60 +1,60 @@
 {
-  "artifact_id": "18c546a3-7d0f-46e4-b36b-a575a9c62ebb",
+  "artifact_id": "6f14e305-427b-4c8b-8c3d-e8201af19c1e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
       "link": "https://www.zhihu.com/question/1961867297695166783",
-      "heat": "745 万热度"
+      "heat": "730 万热度"
     },
     {
       "rank": "2",
       "title": "高速服务区现「野人小孩」，赤身裸体爬行奔跑，家人称教育方式不一样，怎样看待这种教育方式？",
       "link": "https://www.zhihu.com/question/1962179574336030563",
-      "heat": "465 万热度"
+      "heat": "461 万热度"
     },
     {
       "rank": "3",
       "title": "父母做菜好吃是怎样的体验？",
       "link": "https://www.zhihu.com/question/51651496",
-      "heat": "153 万热度"
+      "heat": "156 万热度"
     },
     {
       "rank": "4",
-      "title": "公司一边不批准加班申请，一面要求不要影响工作进度，这就是赤裸裸的想要白嫖吧，要怎么应对？",
-      "link": "https://www.zhihu.com/question/1958906426337502414",
-      "heat": "129 万热度"
+      "title": "S15 瑞士轮出线战 KT 2:0 击败 TES 率先晋级八强赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1962533608293110258",
+      "heat": "126 万热度"
     },
     {
       "rank": "5",
-      "title": "养在鱼缸里的鱼感觉已经够精心的了，为什么它们还是活不长？",
-      "link": "https://www.zhihu.com/question/11398853938",
-      "heat": "118 万热度"
+      "title": "未来外版 iPhone 是否可以写入国内 eSIM？",
+      "link": "https://www.zhihu.com/question/1961461197447595662",
+      "heat": "103 万热度"
     },
     {
       "rank": "6",
-      "title": "S15 瑞士轮出线战 KT 2:0 击败 TES 率先晋级八强赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1962533608293110258",
-      "heat": "108 万热度"
+      "title": "海底捞和西贝开始「抢娃」了，从「吃饱」到「遛娃」，餐饮巨头为啥都扎堆抢做亲子生意？",
+      "link": "https://www.zhihu.com/question/1962167976791905618",
+      "heat": "96 万热度"
     },
     {
       "rank": "7",
       "title": "中国这轮对稀土出口管制，为何美国反应如此强烈？稀土到底卡住了什么？",
       "link": "https://www.zhihu.com/question/1961081953437594122",
-      "heat": "95 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "8",
       "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
       "link": "https://www.zhihu.com/question/1957708491813783087",
-      "heat": "88 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "9",
       "title": "「嘎子」谢孟伟被执行超 1400 万，具体是怎么回事？这对他影响有多大？",
       "link": "https://www.zhihu.com/question/1961203143158232668",
-      "heat": "85 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "10",
@@ -88,146 +88,146 @@
     },
     {
       "rank": "15",
-      "title": "何炅自曝精力大不如前，「如何停止衰老」成最大困惑，我们为什么会有衰老焦虑？该怎么接受自己衰老？",
-      "link": "https://www.zhihu.com/question/1962179114980041369",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "如何评价 2025 城市综合发展指数报告中，最宜居城市济南仅次于北京位居第二，综合排名位居第五？",
-      "link": "https://www.zhihu.com/question/1962084164506486700",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "17",
       "title": "如何评价综艺《喜人奇妙夜》第二季的第四期（上）？",
       "link": "https://www.zhihu.com/question/1962488029471045079",
       "heat": "78 万热度"
     },
     {
+      "rank": "16",
+      "title": "公司一边不批准加班申请，一面要求不要影响工作进度，这就是赤裸裸的想要白嫖吧，要怎么应对？",
+      "link": "https://www.zhihu.com/question/1958906426337502414",
+      "heat": "77 万热度"
+    },
+    {
+      "rank": "17",
+      "title": "如何评价 2025 城市综合发展指数报告中，最宜居城市济南仅次于北京位居第二，综合排名位居第五？",
+      "link": "https://www.zhihu.com/question/1962084164506486700",
+      "heat": "76 万热度"
+    },
+    {
       "rank": "18",
-      "title": "如何辨别一个人是在「滋养」你，还是在「消耗」你？",
-      "link": "https://www.zhihu.com/question/1958526176608904723",
-      "heat": "71 万热度"
+      "title": "何炅自曝精力大不如前，「如何停止衰老」成最大困惑，我们为什么会有衰老焦虑？该怎么接受自己衰老？",
+      "link": "https://www.zhihu.com/question/1962179114980041369",
+      "heat": "74 万热度"
     },
     {
       "rank": "19",
+      "title": "如何辨别一个人是在「滋养」你，还是在「消耗」你？",
+      "link": "https://www.zhihu.com/question/1958526176608904723",
+      "heat": "72 万热度"
+    },
+    {
+      "rank": "20",
       "title": "《数码宝贝》这个 IP 现在怎么做才能起死回生？",
       "link": "https://www.zhihu.com/question/322062052",
       "heat": "71 万热度"
     },
     {
-      "rank": "20",
+      "rank": "21",
+      "title": "为什么战略游戏后期往往会感觉无聊？",
+      "link": "https://www.zhihu.com/question/1900868827702630148",
+      "heat": "68 万热度"
+    },
+    {
+      "rank": "22",
       "title": "有没有谁更新了 Windows11 25H2，好用不，稳定吗？",
       "link": "https://www.zhihu.com/question/1960021085694165208",
       "heat": "67 万热度"
     },
     {
-      "rank": "21",
-      "title": "国家发改委等部门「到 2027 年底，全国范围内建成 2800 万个充电设施」，能否满足充电需求缓解充电焦虑？",
-      "link": "https://www.zhihu.com/question/1961854762564674735",
-      "heat": "67 万热度"
-    },
-    {
-      "rank": "22",
+      "rank": "23",
       "title": "对于程序员是全栈好？还是专注一个领域好？",
       "link": "https://www.zhihu.com/question/40148516",
       "heat": "66 万热度"
     },
     {
-      "rank": "23",
+      "rank": "24",
       "title": "你从哪一刻感到自己的贫穷？",
       "link": "https://www.zhihu.com/question/424412486",
       "heat": "64 万热度"
     },
     {
-      "rank": "24",
-      "title": "变电站工作怎么样？",
-      "link": "https://www.zhihu.com/question/661637552",
+      "rank": "25",
+      "title": "养在鱼缸里的鱼感觉已经够精心的了，为什么它们还是活不长？",
+      "link": "https://www.zhihu.com/question/11398853938",
       "heat": "60 万热度"
     },
     {
-      "rank": "25",
+      "rank": "26",
       "title": "如果文字的作用只能选一个的话，你选「传情」还是「达意」？",
       "link": "https://www.zhihu.com/question/1958158074050220337",
       "heat": "60 万热度"
     },
     {
-      "rank": "26",
+      "rank": "27",
       "title": "你在用哪种方式，对抗「读不完一本书」的焦虑？",
       "link": "https://www.zhihu.com/question/1954241977580262438",
       "heat": "60 万热度"
     },
     {
-      "rank": "27",
-      "title": "如何看待《再见爱人 5》路行认为邓莎事业上的牺牲只是假设和概率？",
-      "link": "https://www.zhihu.com/question/1962156228651217287",
-      "heat": "59 万热度"
-    },
-    {
       "rank": "28",
-      "title": "2025 年双十一，哪些东西的「囤货」已经算不上冲动，而是一种「消费智慧」？",
-      "link": "https://www.zhihu.com/question/1954879267033810111",
+      "title": "变电站工作怎么样？",
+      "link": "https://www.zhihu.com/question/661637552",
       "heat": "59 万热度"
     },
     {
       "rank": "29",
-      "title": "南航宣布本科生不写论文也能毕业，可用高水平竞赛获奖、创新实践项目结题等代替，怎样看待这一规定？",
-      "link": "https://www.zhihu.com/question/1962258770022327306",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "怎么评价国乒在印度亚锦赛的表现？",
-      "link": "https://www.zhihu.com/question/1961906198895891503",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "有哪些艺术中的概念，可以用科学来解释？",
-      "link": "https://www.zhihu.com/question/1953009991599517999",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "32",
       "title": "公司现在能招完全没经验的程序员让他们用 AI 干活吗？",
       "link": "https://www.zhihu.com/question/1953941034875720179",
       "heat": "58 万热度"
     },
     {
-      "rank": "33",
-      "title": "如果把《三国演义》里的金戈铁马、沙场征战进行删减，改成一部主要讲儿女情长的文学作品，会成啥样子？",
-      "link": "https://www.zhihu.com/question/1953548405851813512",
+      "rank": "30",
+      "title": "国家发改委等部门「到 2027 年底，全国范围内建成 2800 万个充电设施」，能否满足充电需求缓解充电焦虑？",
+      "link": "https://www.zhihu.com/question/1961854762564674735",
       "heat": "58 万热度"
     },
     {
-      "rank": "34",
+      "rank": "31",
+      "title": "有哪些艺术中的概念，可以用科学来解释？",
+      "link": "https://www.zhihu.com/question/1953009991599517999",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "32",
       "title": "当情绪剧烈波动，如何让自己迅速平稳下来？",
       "link": "https://www.zhihu.com/question/1959623085889134809",
       "heat": "58 万热度"
     },
     {
-      "rank": "35",
+      "rank": "33",
       "title": "作家如何保持痛苦？",
       "link": "https://www.zhihu.com/question/1958884135230768354",
       "heat": "58 万热度"
     },
     {
-      "rank": "36",
+      "rank": "34",
       "title": "你为什么要开始写小说？没有人看的意义，究竟在哪里？",
       "link": "https://www.zhihu.com/question/1952698335824676766",
       "heat": "58 万热度"
     },
     {
-      "rank": "37",
+      "rank": "35",
+      "title": "如何看待《再见爱人 5》路行认为邓莎事业上的牺牲只是假设和概率？",
+      "link": "https://www.zhihu.com/question/1962156228651217287",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "36",
       "title": "人民币中间价年内大涨近 900 点，收复 7.1 关口，背后主要原因是什么？年底能否破 7 ？",
       "link": "https://www.zhihu.com/question/1962123205557876707",
       "heat": "58 万热度"
     },
     {
-      "rank": "38",
+      "rank": "37",
       "title": "推荐青少年阅读的书籍有哪些？",
       "link": "https://www.zhihu.com/question/1957015058489012682",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "给出怎样的补偿，才能让你接受《三角洲行动》近期的烽火模式调整？",
+      "link": "https://www.zhihu.com/question/1960099150927499778",
       "heat": "58 万热度"
     },
     {
@@ -244,8 +244,8 @@
     },
     {
       "rank": "41",
-      "title": "给出怎样的补偿，才能让你接受《三角洲行动》近期的烽火模式调整？",
-      "link": "https://www.zhihu.com/question/1960099150927499778",
+      "title": "南航宣布本科生不写论文也能毕业，可用高水平竞赛获奖、创新实践项目结题等代替，怎样看待这一规定？",
+      "link": "https://www.zhihu.com/question/1962258770022327306",
       "heat": "58 万热度"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "rank": "45",
-      "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
-      "link": "https://www.zhihu.com/question/1952307688965936581",
+      "title": "2025 年双十一，哪些东西的「囤货」已经算不上冲动，而是一种「消费智慧」？",
+      "link": "https://www.zhihu.com/question/1954879267033810111",
       "heat": "58 万热度"
     },
     {
@@ -280,28 +280,28 @@
     },
     {
       "rank": "47",
+      "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
+      "link": "https://www.zhihu.com/question/1952307688965936581",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "48",
       "title": "两个领导临走前都暗示公司想干掉我，让我小心，结果新领导一上任就故意整我人，该怎么处理？",
       "link": "https://www.zhihu.com/question/1960524449221681657",
       "heat": "58 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "怎么评价李明同学的书法以及书法名家对他的批评？",
       "link": "https://www.zhihu.com/question/1960481004776060216",
       "heat": "58 万热度"
     },
     {
-      "rank": "49",
+      "rank": "50",
       "title": "如何成为一名哲学爱好者？",
       "link": "https://www.zhihu.com/question/1956518578586096547",
       "heat": "58 万热度"
-    },
-    {
-      "rank": "50",
-      "title": "广州一小区蛇患频发，已抓超 60 条仍未找到蛇窝，后续究竟该采取怎样更有效的措施来彻底解决这一问题？",
-      "link": "https://www.zhihu.com/question/1961367561091417958",
-      "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-10-17 18:44:25"
+  "generated_at": "2025-10-17 18:57:14"
 }
