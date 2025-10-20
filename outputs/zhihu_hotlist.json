@@ -1,42 +1,42 @@
 {
-  "artifact_id": "d7ced900-750e-41f3-b243-3f79d51eca71",
+  "artifact_id": "4c10f517-4d94-4d3a-a8e7-8bb7607685d9",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "澳大利亚军机非法侵入西沙领空，解放军正告澳方立即停止侵权挑衅，哪些细节值得关注？",
       "link": "https://www.zhihu.com/question/1963709585236911809",
-      "heat": "322 万热度"
+      "heat": "355 万热度"
     },
     {
       "rank": "2",
       "title": "「月亮姐姐」宣布离开央视少儿频道，加入央视频成立个人工作室，如何看待她的选择？",
       "link": "https://www.zhihu.com/question/1962974996071686352",
-      "heat": "178 万热度"
+      "heat": "166 万热度"
     },
     {
       "rank": "3",
       "title": "新能源车成酒店 「圈外对手」，国庆服务区睡车游客激增，千元酒店房间遇冷，这会颠覆传统旅游住宿格局吗？",
       "link": "https://www.zhihu.com/question/1962302193932698815",
-      "heat": "167 万热度"
+      "heat": "158 万热度"
     },
     {
       "rank": "4",
       "title": "媒体报道周杰伦好友蔡威泽代其投资比特币后人间蒸发，涉及金额高达上亿新台币，具体情况如何？",
       "link": "https://www.zhihu.com/question/1963540491279754403",
-      "heat": "165 万热度"
+      "heat": "148 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待亚马逊网络服务（AWS）于 2025 年 10 月 20 日突发崩溃？可能是什么原因导致的？",
-      "link": "https://www.zhihu.com/question/1963630004832274186",
-      "heat": "164 万热度"
+      "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+      "link": "https://www.zhihu.com/question/1963528380650614990",
+      "heat": "138 万热度"
     },
     {
       "rank": "6",
-      "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-      "link": "https://www.zhihu.com/question/1963528380650614990",
-      "heat": "146 万热度"
+      "title": "如何看待亚马逊网络服务（AWS）于 2025 年 10 月 20 日突发崩溃？可能是什么原因导致的？",
+      "link": "https://www.zhihu.com/question/1963630004832274186",
+      "heat": "134 万热度"
     },
     {
       "rank": "7",
@@ -54,7 +54,7 @@
       "rank": "9",
       "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
       "link": "https://www.zhihu.com/question/1963642369963426172",
-      "heat": "99 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "10",
@@ -66,7 +66,7 @@
       "rank": "11",
       "title": "如何评价《再见爱人 5》路行觉得邓莎对家庭最大的付出是生儿子，「跟儿子关系这么好你还有什么不满足」？",
       "link": "https://www.zhihu.com/question/1962194183751205202",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "12",
@@ -76,21 +76,21 @@
     },
     {
       "rank": "13",
-      "title": "在游戏过程中，哪一刻让你与游戏中的角色产生了深刻的情感共鸣？",
-      "link": "https://www.zhihu.com/question/1888733148738725675",
-      "heat": "67 万热度"
+      "title": "你认为教师在学生的成长过程中扮演着怎样的角色？",
+      "link": "https://www.zhihu.com/question/657878655",
+      "heat": "70 万热度"
     },
     {
       "rank": "14",
-      "title": "你们会每个月去购买 gpt 吗？多少钱买呢？",
-      "link": "https://www.zhihu.com/question/1939103554515244122",
-      "heat": "66 万热度"
+      "title": "在游戏过程中，哪一刻让你与游戏中的角色产生了深刻的情感共鸣？",
+      "link": "https://www.zhihu.com/question/1888733148738725675",
+      "heat": "68 万热度"
     },
     {
       "rank": "15",
-      "title": "为什么职场中，员工普遍认为 HR 不为员工考虑，只站在老板那边？",
-      "link": "https://www.zhihu.com/question/1952693464056698724",
-      "heat": "59 万热度"
+      "title": "你们会每个月去购买 gpt 吗？多少钱买呢？",
+      "link": "https://www.zhihu.com/question/1939103554515244122",
+      "heat": "67 万热度"
     },
     {
       "rank": "16",
@@ -100,8 +100,8 @@
     },
     {
       "rank": "17",
-      "title": "有哪些鲜为人知，但是很有意思的网站？",
-      "link": "https://www.zhihu.com/question/26009615",
+      "title": "高分进口电影《一战再战》于 10 月 17 日在国内上映，为何这部电影在国内会遭遇两极化的评价？",
+      "link": "https://www.zhihu.com/question/1962518378678846821",
       "heat": "58 万热度"
     },
     {
@@ -112,98 +112,98 @@
     },
     {
       "rank": "19",
-      "title": "你有哪些长期坚持的养生习惯？",
-      "link": "https://www.zhihu.com/question/490609326",
-      "heat": "58 万热度"
+      "title": "何炅自曝精力大不如前，「如何停止衰老」成最大困惑，我们为什么会有衰老焦虑？该怎么接受自己衰老？",
+      "link": "https://www.zhihu.com/question/1962179114980041369",
+      "heat": "57 万热度"
     },
     {
       "rank": "20",
-      "title": "高分进口电影《一战再战》于 10 月 17 日在国内上映，为何这部电影在国内会遭遇两极化的评价？",
-      "link": "https://www.zhihu.com/question/1962518378678846821",
-      "heat": "58 万热度"
+      "title": "为什么职场中，员工普遍认为 HR 不为员工考虑，只站在老板那边？",
+      "link": "https://www.zhihu.com/question/1952693464056698724",
+      "heat": "57 万热度"
     },
     {
       "rank": "21",
       "title": "男子 PPT 举报妻子出轨华南理工博士，该博士生已被解除公派留学，怎样看待这一处理结果？",
       "link": "https://www.zhihu.com/question/1962979039363949108",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "何炅自曝精力大不如前，「如何停止衰老」成最大困惑，我们为什么会有衰老焦虑？该怎么接受自己衰老？",
-      "link": "https://www.zhihu.com/question/1962179114980041369",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "过度吸收他人「二手人生经验」，用悲观的既定认知替代自己的亲身体验，导致认知与年龄脱节怎么办？",
-      "link": "https://www.zhihu.com/question/1962946019550541650",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "为什么贾雨村知道了英莲被卖却不救？",
-      "link": "https://www.zhihu.com/question/318270997",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "某农商行员工爆料称被要求退回三年过节费，怎么回事？公司这种要求合理吗？",
-      "link": "https://www.zhihu.com/question/1963304057251783524",
       "heat": "57 万热度"
     },
     {
+      "rank": "22",
+      "title": "有哪些鲜为人知，但是很有意思的网站？",
+      "link": "https://www.zhihu.com/question/26009615",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "你有哪些长期坚持的养生习惯？",
+      "link": "https://www.zhihu.com/question/490609326",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "过度吸收他人「二手人生经验」，用悲观的既定认知替代自己的亲身体验，导致认知与年龄脱节怎么办？",
+      "link": "https://www.zhihu.com/question/1962946019550541650",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "为什么贾雨村知道了英莲被卖却不救？",
+      "link": "https://www.zhihu.com/question/318270997",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "26",
-      "title": "安卓（Android）是否有一些冷门但却逆天的手机应用（App）呢？",
-      "link": "https://www.zhihu.com/question/55701954",
+      "title": "某农商行员工爆料称被要求退回三年过节费，怎么回事？公司这种要求合理吗？",
+      "link": "https://www.zhihu.com/question/1963304057251783524",
       "heat": "56 万热度"
     },
     {
       "rank": "27",
-      "title": "如何看待有网友质疑 S15 瑞士轮 Crisp 抽签疑似作弊？所谓「冷热球」能实现吗？",
-      "link": "https://www.zhihu.com/question/1963570455475614090",
+      "title": "安卓（Android）是否有一些冷门但却逆天的手机应用（App）呢？",
+      "link": "https://www.zhihu.com/question/55701954",
       "heat": "56 万热度"
     },
     {
       "rank": "28",
       "title": "如何看待最新发布的 iQOO 15，蓝厂「跨代旗舰」都有哪些亮点值得关注？",
       "link": "https://www.zhihu.com/question/1963567581458827171",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "为什么「端手互通」的游戏，从 PC 换到手机玩就像换了一个游戏？",
-      "link": "https://www.zhihu.com/question/1963568710255085003",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "「屏幕通透」到底是指什么？什么样的手机屏幕才能「一眼通透」？",
-      "link": "https://www.zhihu.com/question/1963568143134888768",
       "heat": "55 万热度"
     },
     {
-      "rank": "31",
+      "rank": "29",
+      "title": "如何看待有网友质疑 S15 瑞士轮 Crisp 抽签疑似作弊？所谓「冷热球」能实现吗？",
+      "link": "https://www.zhihu.com/question/1963570455475614090",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "30",
       "title": "如何看待拉瑞安宣布脱离 DND IP，不再开发《博德之门 4》？",
       "link": "https://www.zhihu.com/question/1961719335828554241",
       "heat": "55 万热度"
     },
     {
+      "rank": "31",
+      "title": "为什么「端手互通」的游戏，从 PC 换到手机玩就像换了一个游戏？",
+      "link": "https://www.zhihu.com/question/1963568710255085003",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "32",
+      "title": "「屏幕通透」到底是指什么？什么样的手机屏幕才能「一眼通透」？",
+      "link": "https://www.zhihu.com/question/1963568143134888768",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "33",
       "title": "宋朝的文明水平是被低估了吗？为什么？",
       "link": "https://www.zhihu.com/question/20158212",
       "heat": "54 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "为啥只有剑盾战士，没有剑盾法师？",
       "link": "https://www.zhihu.com/question/11759957547",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "没有 WiFi 的童年，你最大的快乐来源是什么？",
-      "link": "https://www.zhihu.com/question/1957761029762167164",
       "heat": "54 万热度"
     },
     {
@@ -214,20 +214,20 @@
     },
     {
       "rank": "36",
+      "title": "没有 WiFi 的童年，你最大的快乐来源是什么？",
+      "link": "https://www.zhihu.com/question/1957761029762167164",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "37",
       "title": "精心做的饭菜，孩子不吃，该不该生气？",
       "link": "https://www.zhihu.com/question/1959908145641033779",
       "heat": "54 万热度"
     },
     {
-      "rank": "37",
+      "rank": "38",
       "title": "厨房小白且不喜欢油烟，有电饭煲的情况下再搭配何种电器比较合适？微波炉空气炸锅等哪个更能囊括日常所需？",
       "link": "https://www.zhihu.com/question/1943995251946661784",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "无大算力时，作为学生，LLM 还有哪些值得做的研究？",
-      "link": "https://www.zhihu.com/question/1936111519252349787",
       "heat": "54 万热度"
     },
     {
@@ -256,14 +256,14 @@
     },
     {
       "rank": "43",
-      "title": "数学中有哪些有趣的构造性证明？",
-      "link": "https://www.zhihu.com/question/1955782805951873526",
+      "title": "明明告诉孩子的都是为了她好，为什么他还是不愿意听呢？",
+      "link": "https://www.zhihu.com/question/1941791785295774685",
       "heat": "54 万热度"
     },
     {
       "rank": "44",
-      "title": "明明告诉孩子的都是为了她好，为什么他还是不愿意听呢？",
-      "link": "https://www.zhihu.com/question/1941791785295774685",
+      "title": "数学中有哪些有趣的构造性证明？",
+      "link": "https://www.zhihu.com/question/1955782805951873526",
       "heat": "54 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "作为青年科研工作者，你从杨振宁先生的成长和研究经历获得了哪些启示？",
-      "link": "https://www.zhihu.com/question/1962895156664558039",
+      "title": "杨振宁院士去世，他对物理学领域发展有哪些影响？",
+      "link": "https://www.zhihu.com/question/1962858816258406249",
       "heat": "54 万热度"
     },
     {
       "rank": "50",
-      "title": "杨振宁院士去世，他对物理学领域发展有哪些影响？",
-      "link": "https://www.zhihu.com/question/1962858816258406249",
+      "title": "无大算力时，作为学生，LLM 还有哪些值得做的研究？",
+      "link": "https://www.zhihu.com/question/1936111519252349787",
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-10-21 06:22:49"
+  "generated_at": "2025-10-21 06:41:39"
 }
