@@ -1,30 +1,30 @@
 {
-  "artifact_id": "2ec11b83-8e4e-4fc5-9d5b-476dfce8e528",
+  "artifact_id": "5740ff4f-9440-42e1-b6c4-0700654cb3c9",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "投保 52 万奔驰被追尾几乎报废，保司只赔 24 万，称按二手车实际价值评估，这一赔付方法合理吗？",
       "link": "https://www.zhihu.com/question/1963897657316565648",
-      "heat": "267 万热度"
+      "heat": "245 万热度"
     },
     {
       "rank": "2",
-      "title": "高市早苗当选日本首相，成为日本首位女首相，她的执政前景如何？会给日本政局带来哪些变化？",
-      "link": "https://www.zhihu.com/question/1963949381360252476",
-      "heat": "191 万热度"
+      "title": "徐悲鸿《奔马图》起拍价 4762 万暂无人出价，这反映了艺术品市场哪些现状？",
+      "link": "https://www.zhihu.com/question/1963621900581311113",
+      "heat": "185 万热度"
     },
     {
       "rank": "3",
-      "title": "徐悲鸿《奔马图》起拍价 4762 万暂无人出价，这反映了艺术品市场哪些现状？",
-      "link": "https://www.zhihu.com/question/1963621900581311113",
-      "heat": "189 万热度"
+      "title": "高市早苗当选日本首相，成为日本首位女首相，她的执政前景如何？会给日本政局带来哪些变化？",
+      "link": "https://www.zhihu.com/question/1963949381360252476",
+      "heat": "160 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待王天一在公开致歉信中说自己是屠龙少年成恶龙，并称「部分对手借机推卸责任、反咬他人」？",
       "link": "https://www.zhihu.com/question/1964018721539454338",
-      "heat": "150 万热度"
+      "heat": "157 万热度"
     },
     {
       "rank": "5",
@@ -36,7 +36,7 @@
       "rank": "6",
       "title": "过二三十年后，哈麻斯会被清北超越吗？",
       "link": "https://www.zhihu.com/question/1962154418226066627",
-      "heat": "87 万热度"
+      "heat": "91 万热度"
     },
     {
       "rank": "7",
@@ -46,21 +46,21 @@
     },
     {
       "rank": "8",
-      "title": "职场中怎么避免小人？",
-      "link": "https://www.zhihu.com/question/657786224",
-      "heat": "67 万热度"
+      "title": "苹果生态真的让用户离不开吗？",
+      "link": "https://www.zhihu.com/question/1962119480399331830",
+      "heat": "66 万热度"
     },
     {
       "rank": "9",
-      "title": "为什么《余生有涯》为了让叶思北回老家当扶弟魔，她妈能做到害她丢工作这种程度？",
-      "link": "https://www.zhihu.com/question/1962490894465872832",
-      "heat": "63 万热度"
+      "title": "职场中怎么避免小人？",
+      "link": "https://www.zhihu.com/question/657786224",
+      "heat": "66 万热度"
     },
     {
       "rank": "10",
-      "title": "苹果生态真的让用户离不开吗？",
-      "link": "https://www.zhihu.com/question/1962119480399331830",
-      "heat": "62 万热度"
+      "title": "为什么《余生有涯》为了让叶思北回老家当扶弟魔，她妈能做到害她丢工作这种程度？",
+      "link": "https://www.zhihu.com/question/1962490894465872832",
+      "heat": "63 万热度"
     },
     {
       "rank": "11",
@@ -118,14 +118,14 @@
     },
     {
       "rank": "20",
-      "title": "是你轻松了才爱运动，还是运动后使你轻松?",
-      "link": "https://www.zhihu.com/question/1954594695926745043",
+      "title": "多所高校已开始压减「水课」，缩减毕业所需的总学分，如何看待这一变化？",
+      "link": "https://www.zhihu.com/question/1963996051401863493",
       "heat": "53 万热度"
     },
     {
       "rank": "21",
-      "title": "多所高校已开始压减「水课」，缩减毕业所需的总学分，如何看待这一变化？",
-      "link": "https://www.zhihu.com/question/1963996051401863493",
+      "title": "是你轻松了才爱运动，还是运动后使你轻松?",
+      "link": "https://www.zhihu.com/question/1954594695926745043",
       "heat": "53 万热度"
     },
     {
@@ -136,20 +136,20 @@
     },
     {
       "rank": "23",
+      "title": "既然 redis 那么快，为什么不用它做主数据库，只用它做缓存？",
+      "link": "https://www.zhihu.com/question/384184784",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "24",
       "title": "年轻人把沙县吃成减肥餐，12 元鸡腿饭火了，这个套餐的营养价值怎么样？真的适合减肥吗？",
       "link": "https://www.zhihu.com/question/1963247523750704912",
       "heat": "50 万热度"
     },
     {
-      "rank": "24",
+      "rank": "25",
       "title": "如何解读真可爱呆团队发表的关于类 LK99 体系的新论文《Pb-Cu-P-S-O 磷灰石中的物理动物园》？",
       "link": "https://www.zhihu.com/question/1963345292473668312",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "既然 redis 那么快，为什么不用它做主数据库，只用它做缓存？",
-      "link": "https://www.zhihu.com/question/384184784",
       "heat": "50 万热度"
     },
     {
@@ -250,20 +250,20 @@
     },
     {
       "rank": "42",
+      "title": "什么样的人才能称得上物理学天才？",
+      "link": "https://www.zhihu.com/question/661221132",
+      "heat": "49 万热度"
+    },
+    {
+      "rank": "43",
       "title": "当领导对你说，公司离了谁都会转，别把自己太当会事，要如何回答？",
       "link": "https://www.zhihu.com/question/1960954294573463036",
       "heat": "49 万热度"
     },
     {
-      "rank": "43",
+      "rank": "44",
       "title": "如何看待「职场斜方肌」角色？为什么总有一些人会「自动」承担团队里擦屁股、干杂活、啃硬骨头的「斜方肌」？",
       "link": "https://www.zhihu.com/question/1960068721314850315",
-      "heat": "49 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "什么样的人才能称得上物理学天才？",
-      "link": "https://www.zhihu.com/question/661221132",
       "heat": "49 万热度"
     },
     {
@@ -280,14 +280,14 @@
     },
     {
       "rank": "47",
-      "title": "为什么我国普遍的中老年人都非常固执，不愿意改变呢？",
-      "link": "https://www.zhihu.com/question/533688949",
+      "title": "石宇奇 1-2 遭乔纳坦逆转，收获丹麦羽毛球公开赛亚军，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1963556563844298070",
       "heat": "49 万热度"
     },
     {
       "rank": "48",
-      "title": "石宇奇 1-2 遭乔纳坦逆转，收获丹麦羽毛球公开赛亚军，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1963556563844298070",
+      "title": "为什么我国普遍的中老年人都非常固执，不愿意改变呢？",
+      "link": "https://www.zhihu.com/question/533688949",
       "heat": "49 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "你有哪些长期坚持的养生习惯？",
-      "link": "https://www.zhihu.com/question/490609326",
+      "title": "为什么那么多人说大数据只是写 SQL?",
+      "link": "https://www.zhihu.com/question/535922543",
       "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-10-22 03:52:55"
+  "generated_at": "2025-10-22 04:28:31"
 }
