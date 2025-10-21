@@ -1,42 +1,42 @@
 {
-  "artifact_id": "5f896e33-58da-427b-95c6-88330f09ac83",
+  "artifact_id": "8d99cc30-dba9-47b2-ade5-8056d362a1c1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "投保 52 万奔驰被追尾几乎报废，保司只赔 24 万，称按二手车实际价值评估，这一赔付方法合理吗？",
       "link": "https://www.zhihu.com/question/1963897657316565648",
-      "heat": "447 万热度"
+      "heat": "451 万热度"
     },
     {
       "rank": "2",
       "title": "徐悲鸿《奔马图》起拍价 4762 万暂无人出价，这反映了艺术品市场哪些现状？",
       "link": "https://www.zhihu.com/question/1963621900581311113",
-      "heat": "298 万热度"
+      "heat": "299 万热度"
     },
     {
       "rank": "3",
       "title": "多所高校已开始压减「水课」，缩减毕业所需的总学分，如何看待这一变化？",
       "link": "https://www.zhihu.com/question/1963996051401863493",
-      "heat": "87 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待王天一在公开致歉信中说自己是屠龙少年成恶龙，并称「部分对手借机推卸责任、反咬他人」？",
       "link": "https://www.zhihu.com/question/1964018721539454338",
-      "heat": "83 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "5",
       "title": "苹果生态真的让用户离不开吗？",
       "link": "https://www.zhihu.com/question/1962119480399331830",
-      "heat": "80 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "6",
       "title": "高市早苗当选日本首相，成为日本首位女首相，她的执政前景如何？会给日本政局带来哪些变化？",
       "link": "https://www.zhihu.com/question/1963949381360252476",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "7",
@@ -48,19 +48,19 @@
       "rank": "8",
       "title": "过二三十年后，哈麻斯会被清北超越吗？",
       "link": "https://www.zhihu.com/question/1962154418226066627",
-      "heat": "67 万热度"
+      "heat": "68 万热度"
     },
     {
       "rank": "9",
-      "title": "有哪些你以为是常识，其实是常识性错误的知识？",
-      "link": "https://www.zhihu.com/question/304557536",
-      "heat": "59 万热度"
+      "title": "是你轻松了才爱运动，还是运动后使你轻松?",
+      "link": "https://www.zhihu.com/question/1954594695926745043",
+      "heat": "61 万热度"
     },
     {
       "rank": "10",
-      "title": "如何评价 zig 这门编程语言？",
-      "link": "https://www.zhihu.com/question/1906141234357077760",
-      "heat": "58 万热度"
+      "title": "有哪些你以为是常识，其实是常识性错误的知识？",
+      "link": "https://www.zhihu.com/question/304557536",
+      "heat": "59 万热度"
     },
     {
       "rank": "11",
@@ -76,110 +76,110 @@
     },
     {
       "rank": "13",
+      "title": "如何评价 zig 这门编程语言？",
+      "link": "https://www.zhihu.com/question/1906141234357077760",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "14",
       "title": "最能代表上海的第一菜是什么？",
       "link": "https://www.zhihu.com/question/1961781241423594917",
       "heat": "57 万热度"
     },
     {
-      "rank": "14",
+      "rank": "15",
       "title": "既然 redis 那么快，为什么不用它做主数据库，只用它做缓存？",
       "link": "https://www.zhihu.com/question/384184784",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "如何解读真可爱呆团队发表的关于类 LK99 体系的新论文《Pb-Cu-P-S-O 磷灰石中的物理动物园》？",
-      "link": "https://www.zhihu.com/question/1963345292473668312",
       "heat": "56 万热度"
     },
     {
       "rank": "16",
       "title": "沙溢自爆曾误食狗吃剩的饭发烧三天，吃狗吃过的剩饭有什么风险？",
       "link": "https://www.zhihu.com/question/1963300171711509535",
-      "heat": "55 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "17",
+      "title": "如何解读真可爱呆团队发表的关于类 LK99 体系的新论文《Pb-Cu-P-S-O 磷灰石中的物理动物园》？",
+      "link": "https://www.zhihu.com/question/1963345292473668312",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "18",
       "title": "成都一卡通煎饼摊走红，顾客排队 5 小时花 65 元买一个煎饼舍不得吃，如何看待这一现象？",
       "link": "https://www.zhihu.com/question/1963603085239739101",
       "heat": "54 万热度"
     },
     {
-      "rank": "18",
+      "rank": "19",
       "title": "石宇奇 1-2 遭乔纳坦逆转，收获丹麦羽毛球公开赛亚军，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1963556563844298070",
       "heat": "52 万热度"
     },
     {
-      "rank": "19",
-      "title": "为什么那么多人说大数据只是写 SQL?",
-      "link": "https://www.zhihu.com/question/535922543",
-      "heat": "52 万热度"
-    },
-    {
       "rank": "20",
-      "title": "为什么编程语言还有运行速度快慢之分，难道不能直接把程序写好后一键转成汇编后再运行？",
-      "link": "https://www.zhihu.com/question/1904275450802475528",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
-      "link": "https://www.zhihu.com/question/1962280864101701480",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "为什么哺乳动物在海洋里很成功，但是在淡水里干不过鳄鱼，但鳄鱼在海里却不太行？",
-      "link": "https://www.zhihu.com/question/1951236684957067078",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "是科研更需要研究生，还是研究生更需要科研？",
-      "link": "https://www.zhihu.com/question/1955567137922970324",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "如何看待有网友质疑 S15 瑞士轮 Crisp 抽签疑似作弊？所谓「冷热球」能实现吗？",
-      "link": "https://www.zhihu.com/question/1963570455475614090",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "孩子不爱大量阅读怎么办？",
-      "link": "https://www.zhihu.com/question/1961327975027946578",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "有哪些在现实中被印证、研究的大富翁游戏的元素？",
-      "link": "https://www.zhihu.com/question/24515963",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "27",
       "title": "如何看 Anthropic 最新发布的 Claude Skills？会替代 MCP 吗？",
       "link": "https://www.zhihu.com/question/1962512846630941008",
       "heat": "51 万热度"
     },
     {
-      "rank": "28",
+      "rank": "21",
+      "title": "孩子不爱大量阅读怎么办？",
+      "link": "https://www.zhihu.com/question/1961327975027946578",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "22",
       "title": "有没有可能以后飞机也是用电，不是用油？",
       "link": "https://www.zhihu.com/question/1956648630585890412",
       "heat": "51 万热度"
     },
     {
-      "rank": "29",
+      "rank": "23",
       "title": "为什么猩猩和人类基因这么相似但是差距非常之大?",
       "link": "https://www.zhihu.com/question/52879089",
       "heat": "51 万热度"
     },
     {
-      "rank": "30",
+      "rank": "24",
       "title": "法国不到一年内被三次下调信用评级，对欧盟、法国经济以及欧债有何影响？",
       "link": "https://www.zhihu.com/question/1963529333424514319",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "为什么贾雨村知道了英莲被卖却不救？",
+      "link": "https://www.zhihu.com/question/318270997",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "2026 年广东省考公告发布，笔试时间较往年提前约 3 个月，报考年龄放宽，你准备得怎么样？",
+      "link": "https://www.zhihu.com/question/1963300987172254722",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "如何评价龚俊主演的电视剧《暗河传》？",
+      "link": "https://www.zhihu.com/question/1963574948338557497",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "为什么日本一提到中餐第一个总是想到麻婆豆腐？",
+      "link": "https://www.zhihu.com/question/570471673",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "飞机在降落时为什么轮子不提前转动?",
+      "link": "https://www.zhihu.com/question/2492365578",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "黄枫谷都有人界顶级修士向之礼，为何还被其他门派攻入进来，并且差一点精英尽毁？",
+      "link": "https://www.zhihu.com/question/510453559",
       "heat": "51 万热度"
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "rank": "32",
-      "title": "为什么贾雨村知道了英莲被卖却不救？",
-      "link": "https://www.zhihu.com/question/318270997",
+      "title": "有没有高速开车非常解困的办法？",
+      "link": "https://www.zhihu.com/question/1957083271730018013",
       "heat": "51 万热度"
     },
     {
@@ -202,13 +202,13 @@
     },
     {
       "rank": "34",
-      "title": "2026 年广东省考公告发布，笔试时间较往年提前约 3 个月，报考年龄放宽，你准备得怎么样？",
-      "link": "https://www.zhihu.com/question/1963300987172254722",
+      "title": "全职高手中兴欣拿冠军的真正原因是什么？",
+      "link": "https://www.zhihu.com/question/63312070",
       "heat": "51 万热度"
     },
     {
       "rank": "35",
-      "title": "如果让你一个人在岛上生活1年，允许在电脑上下载10G游戏，你会选哪个（些）游戏?",
+      "title": "如果让你一个人在岛上生活 1 年，允许在电脑上下载 10G 游戏，你会选哪个（些）游戏?",
       "link": "https://www.zhihu.com/question/1962861680502485002",
       "heat": "51 万热度"
     },
@@ -226,82 +226,82 @@
     },
     {
       "rank": "38",
-      "title": "如何看待《星际争霸 2》国服 10 月 28 日回归？",
-      "link": "https://www.zhihu.com/question/1962972723929150308",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "如何评价龚俊主演的电视剧《暗河传》？",
-      "link": "https://www.zhihu.com/question/1963574948338557497",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "旅游你喜欢在淡季还是旺季？",
-      "link": "https://www.zhihu.com/question/1962993073870075690",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "为什么「端手互通」的游戏，从 PC 换到手机玩就像换了一个游戏？",
-      "link": "https://www.zhihu.com/question/1963568710255085003",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "飞机在降落时为什么轮子不提前转动?",
-      "link": "https://www.zhihu.com/question/2492365578",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "假如游科要做一款名为《黑神话·关羽》3A 单机大作，这个游戏可能会是什么样子？",
-      "link": "https://www.zhihu.com/question/1963586121238835596",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "何炅自曝又近视又老花，有人说近视和老花可「互相抵消」，还有人说成年人近视度数不会涨，这些说法是真的吗？",
-      "link": "https://www.zhihu.com/question/1962186576646857509",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "有没有高速开车非常解困的办法？",
-      "link": "https://www.zhihu.com/question/1957083271730018013",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "全职高手中兴欣拿冠军的真正原因是什么？",
-      "link": "https://www.zhihu.com/question/63312070",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "47",
       "title": "孩子上小学就送去寄宿学校，只有周末回家，是否能让孩子更容易独立呢？",
       "link": "https://www.zhihu.com/question/1961260634722244432",
       "heat": "51 万热度"
     },
     {
-      "rank": "48",
-      "title": "为什么日本一提到中餐第一个总是想到麻婆豆腐？",
-      "link": "https://www.zhihu.com/question/570471673",
+      "rank": "39",
+      "title": "如何看待有网友质疑 S15 瑞士轮 Crisp 抽签疑似作弊？所谓「冷热球」能实现吗？",
+      "link": "https://www.zhihu.com/question/1963570455475614090",
       "heat": "51 万热度"
     },
     {
-      "rank": "49",
+      "rank": "40",
+      "title": "经常做饭的人，都有哪些「用过后就无法失去」的小厨电？",
+      "link": "https://www.zhihu.com/question/1906047826716267956",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "41",
       "title": "为什么我国普遍的中老年人都非常固执，不愿意改变呢？",
       "link": "https://www.zhihu.com/question/533688949",
       "heat": "51 万热度"
     },
     {
+      "rank": "42",
+      "title": "《三国杀》蚀心入魔，贪嗔痴三包的魔武将会是谁？",
+      "link": "https://www.zhihu.com/question/1962476639104512180",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "杨志精明睿智，为什么还会失陷生辰纲？",
+      "link": "https://www.zhihu.com/question/586698889",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "如何评价《崩坏：星穹铁道》天外卫星通信发布的新角色「大丽花」?",
+      "link": "https://www.zhihu.com/question/1963939559130788358",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "「屏幕通透」到底是指什么？什么样的手机屏幕才能「一眼通透」？",
+      "link": "https://www.zhihu.com/question/1963568143134888768",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "为什么有的影视剧中反派的魅力比正派还要高？",
+      "link": "https://www.zhihu.com/question/406568325",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "为什么那么多人说大数据只是写 SQL?",
+      "link": "https://www.zhihu.com/question/535922543",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "宋朝的文明水平是被低估了吗？为什么？",
+      "link": "https://www.zhihu.com/question/20158212",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "T1 这次能挺过瑞士轮吗？",
+      "link": "https://www.zhihu.com/question/1963223170988351862",
+      "heat": "51 万热度"
+    },
+    {
       "rank": "50",
-      "title": "经常做饭的人，都有哪些「用过后就无法失去」的小厨电？",
-      "link": "https://www.zhihu.com/question/1906047826716267956",
+      "title": "木纹砖是实木地板的「平替」吗，装修时想全屋通铺木纹砖是否可行？",
+      "link": "https://www.zhihu.com/question/665982288",
       "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-10-21 22:45:13"
+  "generated_at": "2025-10-21 22:57:51"
 }
