@@ -1,30 +1,30 @@
 {
-  "artifact_id": "84e963d3-25b1-4fef-be13-36ead076a682",
+  "artifact_id": "206bfaf2-a8ff-4940-a031-ded62e04eb8c",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "二十届四中全会公报发布，全文有哪些亮点？哪些产业行业可能有新机会？",
       "link": "https://www.zhihu.com/question/1964738456631632783",
-      "heat": "1212 万热度"
+      "heat": "1301 万热度"
     },
     {
       "rank": "2",
       "title": "奔驰被曝大规模裁员，目标 3 万人离职，资深管理人员最高可获 50 万欧补偿金，此次裁员原因有哪些？",
       "link": "https://www.zhihu.com/question/1964349731217056404",
-      "heat": "627 万热度"
+      "heat": "450 万热度"
     },
     {
       "rank": "3",
       "title": "S15 瑞士轮 GEN 2:0 击败 TES 晋级八强赛，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1964763635097269247",
-      "heat": "233 万热度"
+      "heat": "244 万热度"
     },
     {
       "rank": "4",
       "title": "王自如自曝负债 1 个亿，具体情况如何？其是否会效仿罗永浩的「真还传」？",
       "link": "https://www.zhihu.com/question/1964632545162392864",
-      "heat": "130 万热度"
+      "heat": "138 万热度"
     },
     {
       "rank": "5",
@@ -36,91 +36,91 @@
       "rank": "6",
       "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
       "link": "https://www.zhihu.com/question/1964624412641833840",
-      "heat": "127 万热度"
+      "heat": "124 万热度"
     },
     {
       "rank": "7",
-      "title": "如何评价「搜打撤」游戏《逃离鸭科夫》？为什么很多玩家说非常上头，它好玩的点到底在哪？",
-      "link": "https://www.zhihu.com/question/1962209421888295900",
-      "heat": "126 万热度"
+      "title": "黑熊闯黑龙江一县城闹市区，警方连开 10 多枪击毙，如何看待此事？黑熊闯入城区有哪些更好的驱赶办法？",
+      "link": "https://www.zhihu.com/question/1964677398587990648",
+      "heat": "119 万热度"
     },
     {
       "rank": "8",
       "title": "如何看待深圳「卷尺哥」多次反映城市问题走红？为什么深圳能「秒整改」而其他城市难？",
       "link": "https://www.zhihu.com/question/1964367992197482135",
-      "heat": "117 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "9",
-      "title": "黑熊闯黑龙江一县城闹市区，警方连开 10 多枪击毙，如何看待此事？黑熊闯入城区有哪些更好的驱赶办法？",
-      "link": "https://www.zhihu.com/question/1964677398587990648",
-      "heat": "109 万热度"
+      "title": "如何评价「搜打撤」游戏《逃离鸭科夫》？为什么很多玩家说非常上头，它好玩的点到底在哪？",
+      "link": "https://www.zhihu.com/question/1962209421888295900",
+      "heat": "119 万热度"
     },
     {
       "rank": "10",
       "title": "如何只通过计算证明「两点之间，线段最短」？",
       "link": "https://www.zhihu.com/question/355602892",
-      "heat": "98 万热度"
+      "heat": "113 万热度"
     },
     {
       "rank": "11",
       "title": "如何看待现在互联网的「傻子共振」？你所知道的「傻子共振」导致的现象有哪些？",
       "link": "https://www.zhihu.com/question/1918633613936812099",
-      "heat": "93 万热度"
+      "heat": "110 万热度"
     },
     {
       "rank": "12",
       "title": "如何评价 10 月 23 日发布的 REDMI K90 系列手机，2599 元起，有哪些亮点值得关注？",
       "link": "https://www.zhihu.com/question/1964716672888824352",
-      "heat": "88 万热度"
+      "heat": "107 万热度"
     },
     {
       "rank": "13",
-      "title": "如何评价 10 月 23 日发布的 REDMI K90 系列手机，2599 元起，有哪些亮点值得关注？",
-      "link": "https://www.zhihu.com/question/1964767970086584960",
-      "heat": "85 万热度"
+      "title": "如何看待新加坡首艘无人机母舰下水？作战能力如何？",
+      "link": "https://www.zhihu.com/question/1964364881265390990",
+      "heat": "81 万热度"
     },
     {
       "rank": "14",
-      "title": "如何看待新加坡首艘无人机母舰下水？作战能力如何？",
-      "link": "https://www.zhihu.com/question/1964364881265390990",
-      "heat": "80 万热度"
-    },
-    {
-      "rank": "15",
       "title": "有没有像香蕉一样吃起来很方便的水果？",
       "link": "https://www.zhihu.com/question/415945540",
       "heat": "79 万热度"
     },
     {
-      "rank": "16",
-      "title": "《CS2》10 月 23 日上线「汰换系统」将支持玩家汰换刀具或手套皮肤，这将对饰品交易带来多大冲击？",
-      "link": "https://www.zhihu.com/question/1964632386806478292",
+      "rank": "15",
+      "title": "为什么古代进入川蜀地区不走长江三峡的水道，而要走道路崎岖的山路呢？",
+      "link": "https://www.zhihu.com/question/350612324",
       "heat": "78 万热度"
     },
     {
-      "rank": "17",
-      "title": "为什么古代进入川蜀地区不走长江三峡的水道，而要走道路崎岖的山路呢？",
-      "link": "https://www.zhihu.com/question/350612324",
+      "rank": "16",
+      "title": "《CS2》10 月 23 日上线「汰换系统」将支持玩家汰换刀具或手套皮肤，这将对饰品交易带来多大冲击？",
+      "link": "https://www.zhihu.com/question/1964632386806478292",
       "heat": "77 万热度"
     },
     {
-      "rank": "18",
+      "rank": "17",
       "title": "你觉得天空是什么颜色？",
       "link": "https://www.zhihu.com/question/618892231",
-      "heat": "75 万热度"
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "18",
+      "title": "清醒的人越来越痛苦，糊涂的人反而越来越顺，这到底是成长的代价? 还是认知的错觉？",
+      "link": "https://www.zhihu.com/question/1963086098117948048",
+      "heat": "73 万热度"
     },
     {
       "rank": "19",
-      "title": "清醒的人越来越痛苦，糊涂的人反而越来越顺，这到底是成长的代价? 还是认知的错觉？",
-      "link": "https://www.zhihu.com/question/1963086098117948048",
-      "heat": "71 万热度"
+      "title": "广东省考怎么准备？",
+      "link": "https://www.zhihu.com/question/484480160",
+      "heat": "68 万热度"
     },
     {
       "rank": "20",
       "title": "工程师的技术来源是什么?",
       "link": "https://www.zhihu.com/question/1931389269462750043",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "21",
@@ -142,44 +142,44 @@
     },
     {
       "rank": "24",
-      "title": "寒武纪第三季度业绩暴增，净利润 5.67 亿，为何寒武纪第三季度营收大涨？",
-      "link": "https://www.zhihu.com/question/1962623786034624393",
-      "heat": "58 万热度"
+      "title": "2526 赛季 NBA 常规赛快船 108:129 爵士，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1964623473960813632",
+      "heat": "57 万热度"
     },
     {
       "rank": "25",
-      "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
-      "link": "https://www.zhihu.com/question/1964629313476358315",
-      "heat": "58 万热度"
+      "title": "如何看待巴曙松「全球原有的经济增长模式已无法持续，资产配置基本逻辑发生改变」的观点？",
+      "link": "https://www.zhihu.com/question/1964357892892221590",
+      "heat": "57 万热度"
     },
     {
       "rank": "26",
-      "title": "两岁宝宝叫了她爸的名字，被奶奶骂没教养，是谁有问题?",
-      "link": "https://www.zhihu.com/question/1959312116222767806",
-      "heat": "58 万热度"
+      "title": "数学到底在哪里支撑着编程？",
+      "link": "https://www.zhihu.com/question/543816700",
+      "heat": "57 万热度"
     },
     {
       "rank": "27",
-      "title": "大神们怎么找期货起爆点呀？",
-      "link": "https://www.zhihu.com/question/484061328",
-      "heat": "58 万热度"
+      "title": "如果你做游戏人设，如何区别马超和赵云，让玩家一眼就能认出来？",
+      "link": "https://www.zhihu.com/question/300111682",
+      "heat": "57 万热度"
     },
     {
       "rank": "28",
-      "title": "金箍棒「碗来粗细」会不会太粗不方便使用？",
-      "link": "https://www.zhihu.com/question/38025598",
-      "heat": "58 万热度"
+      "title": "《dota2》中哪些三号位和一号位克制美杜莎？",
+      "link": "https://www.zhihu.com/question/1876744479",
+      "heat": "57 万热度"
     },
     {
       "rank": "29",
-      "title": "S15 瑞士轮 2-1 组 TES 打赢 GEN 率先晋级有戏吗？",
-      "link": "https://www.zhihu.com/question/1963550459806576892",
-      "heat": "58 万热度"
+      "title": "插混 55km 续航存在的意义是什么？",
+      "link": "https://www.zhihu.com/question/1963991654424905474",
+      "heat": "57 万热度"
     },
     {
       "rank": "30",
-      "title": "面对职场上的不公平或压力，应该如何有效管理自己的愤怒和沮丧情绪？",
-      "link": "https://www.zhihu.com/question/1961391537779876459",
+      "title": "2526 赛季 NBA 常规赛，马刺 125:92 独行侠，文班亚马 40 分 15 篮板，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1964629763839746525",
       "heat": "57 万热度"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "rank": "33",
-      "title": "三体人不理解虚构的事物，如果请他们看很多很多电影，并通过不断学习，他们最终能理解人类的艺术与谎言吗？",
-      "link": "https://www.zhihu.com/question/1963617039676581603",
+      "title": "为什么说「家有三米看百吋」？用了百吋电视后，哪些体验让你感觉「再也回不去了」？",
+      "link": "https://www.zhihu.com/question/1964661111950385671",
       "heat": "57 万热度"
     },
     {
@@ -214,26 +214,26 @@
     },
     {
       "rank": "36",
-      "title": "如果《三体》要出一款游戏，你觉得最好是什么类型？",
-      "link": "https://www.zhihu.com/question/1962607857393444533",
+      "title": "三体人不理解虚构的事物，如果请他们看很多很多电影，并通过不断学习，他们最终能理解人类的艺术与谎言吗？",
+      "link": "https://www.zhihu.com/question/1963617039676581603",
       "heat": "57 万热度"
     },
     {
       "rank": "37",
-      "title": "为什么说「家有三米看百吋」？用了百吋电视后，哪些体验让你感觉「再也回不去了」？",
-      "link": "https://www.zhihu.com/question/1964661111950385671",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "38",
       "title": "大家觉得《原神》空月之歌月之二版本卡池角色奈芙尔整体如何？",
       "link": "https://www.zhihu.com/question/1964380055967889307",
       "heat": "57 万热度"
     },
     {
+      "rank": "38",
+      "title": "「洗空气」空调能一机解决温、湿、净需求吗？这种空调科技突破算科技平权吗？普通家庭双十一能薅多少羊毛？",
+      "link": "https://www.zhihu.com/question/1963571087100089736",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "39",
-      "title": "《dota2》中哪些三号位和一号位克制美杜莎？",
-      "link": "https://www.zhihu.com/question/1876744479",
+      "title": "如何看待哈利波特中的特里劳妮教授？",
+      "link": "https://www.zhihu.com/question/567621661",
       "heat": "57 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "如何看待巴曙松「全球原有的经济增长模式已无法持续，资产配置基本逻辑发生改变」的观点？",
-      "link": "https://www.zhihu.com/question/1964357892892221590",
+      "title": "面对职场上的不公平或压力，应该如何有效管理自己的愤怒和沮丧情绪？",
+      "link": "https://www.zhihu.com/question/1961391537779876459",
       "heat": "57 万热度"
     },
     {
       "rank": "42",
-      "title": "数学到底在哪里支撑着编程？",
-      "link": "https://www.zhihu.com/question/543816700",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "如果你做游戏人设，如何区别马超和赵云，让玩家一眼就能认出来？",
-      "link": "https://www.zhihu.com/question/300111682",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "2526 赛季 NBA 常规赛快船 108:129 爵士，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1964623473960813632",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "《水浒传》中，晁盖一个庄主又不缺钱，为什么要去劫生辰纲?",
-      "link": "https://www.zhihu.com/question/1964315864846271049",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "插混 55km 续航存在的意义是什么？",
-      "link": "https://www.zhihu.com/question/1963991654424905474",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "「洗空气」空调能一机解决温、湿、净需求吗？这种空调科技突破算科技平权吗？普通家庭双十一能薅多少羊毛？",
-      "link": "https://www.zhihu.com/question/1963571087100089736",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "如何看待哈利波特中的特里劳妮教授？",
-      "link": "https://www.zhihu.com/question/567621661",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "49",
       "title": "你有没有长期坚持的一个小小的公益习惯？这个小习惯对你的生活有什么益处？",
       "link": "https://www.zhihu.com/question/1952383141001031726",
       "heat": "57 万热度"
     },
     {
-      "rank": "50",
+      "rank": "43",
       "title": "当一份工作你无数次想要辞职时，还有必要继续吗？",
       "link": "https://www.zhihu.com/question/1946413888921925197",
       "heat": "57 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "金店为什么不给人试戴?",
+      "link": "https://www.zhihu.com/question/546265611",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "为何两部《黑社会》中串爆都站错队了，为何他能安享晚年？",
+      "link": "https://www.zhihu.com/question/1963714695186875140",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "明明很多编程语言从对象数组中取数据比用 SQL 从表中取数据方便，为什么数据库还是使用 SQL？",
+      "link": "https://www.zhihu.com/question/263810119",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "寒武纪第三季度业绩暴增，净利润 5.67 亿，为何寒武纪第三季度营收大涨？",
+      "link": "https://www.zhihu.com/question/1962623786034624393",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "2526 赛季 NBA 常规赛，开拓者 114-118 森林狼，杨瀚森生涯首秀得 2 分 1 篮板，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1964632233882121672",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "《三体》里智子明明能干扰实验，为什么不直接破坏人类的工业体系？",
+      "link": "https://www.zhihu.com/question/1961816120383219238",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "高市早苗当选即推出日本新一轮经济刺激措施，补贴之下能否抑制日本输入性通胀风险？",
+      "link": "https://www.zhihu.com/question/1964615978810861484",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-10-23 21:36:02"
+  "generated_at": "2025-10-23 21:55:10"
 }
