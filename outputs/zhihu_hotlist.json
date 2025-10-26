@@ -1,54 +1,54 @@
 {
-  "artifact_id": "5841eb02-fc4a-42fe-b80c-e528027c006e",
+  "artifact_id": "83dcb006-dbb4-4a17-9043-97b7490f453b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "中美双方就关税等多个议题形成了初步共识，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1965831118151444171",
-      "heat": "3725 万热度"
+      "heat": "3533 万热度"
     },
     {
       "rank": "2",
       "title": "为什么吃小龙虾时手套明明没破，却还是漏了一手油？",
       "link": "https://www.zhihu.com/question/569442316",
-      "heat": "376 万热度"
+      "heat": "364 万热度"
     },
     {
       "rank": "3",
       "title": "为什么拿下 2025 全年总冠军的 BLG 会在短短一个月时间不到沦落成全球总决赛上不入流的鱼腩战队？",
       "link": "https://www.zhihu.com/question/1965480758731826978",
-      "heat": "299 万热度"
+      "heat": "292 万热度"
     },
     {
       "rank": "4",
-      "title": "保时捷第三季度巨亏 80 亿元，今年前三季度销售利润暴跌 99%，主要受哪些因素影响？",
-      "link": "https://www.zhihu.com/question/1965687284767614887",
-      "heat": "235 万热度"
+      "title": "郑智化怒斥深圳机场服务不人性，升降车离机门地板 25 公分，自己连滚带爬进飞机，机场致歉，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1965523223497115314",
+      "heat": "237 万热度"
     },
     {
       "rank": "5",
-      "title": "郑智化怒斥深圳机场服务不人性，升降车离机门地板 25 公分，自己连滚带爬进飞机，机场致歉，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1965523223497115314",
-      "heat": "235 万热度"
+      "title": "保时捷第三季度巨亏 80 亿元，今年前三季度销售利润暴跌 99%，主要受哪些因素影响？",
+      "link": "https://www.zhihu.com/question/1965687284767614887",
+      "heat": "184 万热度"
     },
     {
       "rank": "6",
       "title": "印度被曝正仿制中国霹雳 -15 导弹，具体是怎么回事？有可能仿制成功吗？",
       "link": "https://www.zhihu.com/question/1965808395471779046",
-      "heat": "207 万热度"
+      "heat": "169 万热度"
     },
     {
       "rank": "7",
       "title": "安徽一市区绿化带惊现狮子狂奔，遇到猛兽第一时间该如何应对？哪些错误做法会致命？",
       "link": "https://www.zhihu.com/question/1965159376839996598",
-      "heat": "179 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "8",
       "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
       "link": "https://www.zhihu.com/question/1965079758955050850",
-      "heat": "154 万热度"
+      "heat": "152 万热度"
     },
     {
       "rank": "9",
@@ -60,19 +60,19 @@
       "rank": "10",
       "title": "2526 赛季西甲联赛西甲第 10 轮皇家马德里 2:1 巴塞罗那，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1965920168719934914",
-      "heat": "97 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "11",
       "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
       "link": "https://www.zhihu.com/question/1965049071443075345",
-      "heat": "95 万热度"
+      "heat": "99 万热度"
     },
     {
       "rank": "12",
       "title": "为什么我看到慕佩灵由绿装变为粉色侍妾装，有种淡淡的伤感？",
       "link": "https://www.zhihu.com/question/1965502734808618435",
-      "heat": "92 万热度"
+      "heat": "95 万热度"
     },
     {
       "rank": "13",
@@ -90,7 +90,7 @@
       "rank": "15",
       "title": "手机真的有必要买贵的吗？",
       "link": "https://www.zhihu.com/question/299057455",
-      "heat": "78 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "16",
@@ -114,7 +114,7 @@
       "rank": "19",
       "title": "2025 国考报名人数超 350 万创新高，首次打破「35 岁门槛」，今年国考哪些新特点值得关注？",
       "link": "https://www.zhihu.com/question/1965722099717994201",
-      "heat": "71 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "20",
@@ -126,7 +126,7 @@
       "rank": "21",
       "title": "你以后的人生规划是什么?",
       "link": "https://www.zhihu.com/question/1964594337808647316",
-      "heat": "60 万热度"
+      "heat": "61 万热度"
     },
     {
       "rank": "22",
@@ -303,5 +303,5 @@
       "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-10-27 03:52:55"
+  "generated_at": "2025-10-27 04:26:05"
 }
