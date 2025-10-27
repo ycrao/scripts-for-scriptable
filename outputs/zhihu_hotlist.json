@@ -1,30 +1,30 @@
 {
-  "artifact_id": "d4abbe1d-06f5-46f1-83e4-679a47b4d06d",
+  "artifact_id": "f7f52f57-2873-45ac-94cc-0a53ffe6080e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "美国「尼米兹」号航母 2 架军机在南海相继坠毁，原因可能是什么？还有哪些值得关注的信息？",
       "link": "https://www.zhihu.com/question/1966059404068614966",
-      "heat": "891 万热度"
+      "heat": "750 万热度"
     },
     {
       "rank": "2",
       "title": "王自如坐绿皮火车吃泡面，坦然面对负债，如何看待他这种「示弱公关」？负债者能以他为励志样板吗？",
       "link": "https://www.zhihu.com/question/1964610898967635732",
-      "heat": "255 万热度"
+      "heat": "257 万热度"
     },
     {
       "rank": "3",
       "title": "美国财长称美方不再考虑对中国加征 100％的关税，如何评价？此举会为中美经贸关系带来多长的「休战期」？",
       "link": "https://www.zhihu.com/question/1966050264432731382",
-      "heat": "254 万热度"
+      "heat": "212 万热度"
     },
     {
       "rank": "4",
       "title": "国铁成都局推出 17 元高铁盒饭，门店现炒，送餐到座，你会点吗？这一服务未来会推广到全国线路吗？",
       "link": "https://www.zhihu.com/question/1965184655109092182",
-      "heat": "153 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "5",
@@ -42,19 +42,19 @@
       "rank": "7",
       "title": "为什么 OPPO 、 vivo 要取字母名字?",
       "link": "https://www.zhihu.com/question/1961506401928062450",
-      "heat": "107 万热度"
+      "heat": "109 万热度"
     },
     {
       "rank": "8",
       "title": "象棋的马很没用，为什么和炮等价？",
       "link": "https://www.zhihu.com/question/649798652",
-      "heat": "100 万热度"
+      "heat": "101 万热度"
     },
     {
       "rank": "9",
       "title": "杨瀚森明显跟不上正赛节奏，下放发展联盟对他来说是否是更好的选择？",
       "link": "https://www.zhihu.com/question/1966099672734066001",
-      "heat": "96 万热度"
+      "heat": "95 万热度"
     },
     {
       "rank": "10",
@@ -78,25 +78,25 @@
       "rank": "13",
       "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
       "link": "https://www.zhihu.com/question/1965388455073777331",
-      "heat": "93 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "14",
       "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
       "link": "https://www.zhihu.com/question/1965097544062296892",
-      "heat": "93 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "15",
       "title": "为什么至今为止没有人把倪匡的《卫斯理》系列完整地拍成电视剧？",
       "link": "https://www.zhihu.com/question/317164673",
-      "heat": "84 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "16",
       "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
       "link": "https://www.zhihu.com/question/1966086071931593385",
-      "heat": "82 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "17",
@@ -114,7 +114,7 @@
       "rank": "19",
       "title": "军火烧饼小伙、鸡排哥、蛋烘糕大叔接连刷屏，为什么这些普通摊贩总能狠狠戳中我们？",
       "link": "https://www.zhihu.com/question/1966172668081430883",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "20",
@@ -126,60 +126,60 @@
       "rank": "21",
       "title": "北京近几年清北录取线接近 690，为什么还有很多人认为北京录取分数低？造成误解的根本原因是什么？",
       "link": "https://www.zhihu.com/question/1965022997782962565",
-      "heat": "62 万热度"
+      "heat": "64 万热度"
     },
     {
       "rank": "22",
+      "title": "有哪些像柠檬叶一样，少量添加就能让食物变得更好吃的香料？",
+      "link": "https://www.zhihu.com/question/1923092664301106378",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "23",
       "title": "英雄联盟总决赛瑞士轮的「不公平」，能否通过数学证明？",
       "link": "https://www.zhihu.com/question/1964236698725627094",
       "heat": "59 万热度"
     },
     {
-      "rank": "23",
+      "rank": "24",
+      "title": "「孩子没有朋友」是个严重的问题吗？",
+      "link": "https://www.zhihu.com/question/1964647256377517663",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "25",
       "title": "小学成绩好的孩子，到了初中突然跟不上，问题到底出在课本难度还是学习习惯上？",
       "link": "https://www.zhihu.com/question/1961838952840422755",
       "heat": "58 万热度"
     },
     {
-      "rank": "24",
+      "rank": "26",
+      "title": "最近看到一句「人终究会被年少不可得之物困扰一生」 ，你是怎么理解这句话的？",
+      "link": "https://www.zhihu.com/question/53282970",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "27",
       "title": "为什么现在计算机所有专业的研究生基本都搞机器学习和深度学习，国内真的需要这么多会人工智能的人才吗？",
       "link": "https://www.zhihu.com/question/553637124",
       "heat": "58 万热度"
     },
     {
-      "rank": "25",
-      "title": "假如欧冠冠军和世界杯冠军搞一场对抗赛，哪边赢面大？",
-      "link": "https://www.zhihu.com/question/587613364",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "工作中领导安排太多工作，不好拒绝，该怎么改变？",
-      "link": "https://www.zhihu.com/question/660656097",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "桃田贤斗强在哪里？",
-      "link": "https://www.zhihu.com/question/323702167",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "28",
-      "title": "AI 能替代程序员编写所有代码吗？",
-      "link": "https://www.zhihu.com/question/1960297850563953042",
-      "heat": "56 万热度"
+      "title": "为什么我们会陷入「琐事瘫痪」？",
+      "link": "https://www.zhihu.com/question/1960862198747333051",
+      "heat": "57 万热度"
     },
     {
       "rank": "29",
-      "title": "如何评价《反叛的鲁路修》中的皇神乐耶这一角色？",
-      "link": "https://www.zhihu.com/question/65621455",
-      "heat": "56 万热度"
+      "title": "假如欧冠冠军和世界杯冠军搞一场对抗赛，哪边赢面大？",
+      "link": "https://www.zhihu.com/question/587613364",
+      "heat": "57 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么我看到慕佩灵由绿装变为粉色侍妾装，有种淡淡的伤感？",
-      "link": "https://www.zhihu.com/question/1965502734808618435",
+      "title": "AI 能替代程序员编写所有代码吗？",
+      "link": "https://www.zhihu.com/question/1960297850563953042",
       "heat": "56 万热度"
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "rank": "32",
-      "title": "孩子和父母之间应该常常说谢谢吗？",
-      "link": "https://www.zhihu.com/question/399215005",
+      "title": "为什么我看到慕佩灵由绿装变为粉色侍妾装，有种淡淡的伤感？",
+      "link": "https://www.zhihu.com/question/1965502734808618435",
       "heat": "56 万热度"
     },
     {
@@ -214,20 +214,20 @@
     },
     {
       "rank": "36",
-      "title": "《士兵突击》老 a 选拔的时候，马小帅被高诚发现，为什么不反过来击毙高诚，夺车逃跑？",
-      "link": "https://www.zhihu.com/question/500235453",
+      "title": "孩子和父母之间应该常常说谢谢吗？",
+      "link": "https://www.zhihu.com/question/399215005",
       "heat": "56 万热度"
     },
     {
       "rank": "37",
-      "title": "人到 30 岁了，想买一台性能车晚不晚？",
-      "link": "https://www.zhihu.com/question/646455798",
+      "title": "有哪些是你日复一日坚持健身之后得出来的结论？",
+      "link": "https://www.zhihu.com/question/1954275235776922827",
       "heat": "56 万热度"
     },
     {
       "rank": "38",
-      "title": "有哪些是你日复一日坚持健身之后得出来的结论？",
-      "link": "https://www.zhihu.com/question/1954275235776922827",
+      "title": "人到 30 岁了，想买一台性能车晚不晚？",
+      "link": "https://www.zhihu.com/question/646455798",
       "heat": "56 万热度"
     },
     {
@@ -238,70 +238,70 @@
     },
     {
       "rank": "40",
-      "title": "拼多多 10 岁了，大家挖到过哪些宝藏店铺或者好吃好用好玩的东西？",
-      "link": "https://www.zhihu.com/question/1966145419806478502",
+      "title": "桃田贤斗强在哪里？",
+      "link": "https://www.zhihu.com/question/323702167",
       "heat": "56 万热度"
     },
     {
       "rank": "41",
-      "title": "最近看到一句「人终究会被年少不可得之物困扰一生」 ，你是怎么理解这句话的？",
-      "link": "https://www.zhihu.com/question/53282970",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "42",
       "title": "你的衣柜里有多少「崭新的垃圾」？衣服买了但是总没机会穿，到底为什么要买？",
       "link": "https://www.zhihu.com/question/1962140977293694394",
       "heat": "56 万热度"
     },
     {
-      "rank": "43",
+      "rank": "42",
       "title": "为什么电车不采用光伏车身来增加续航？",
       "link": "https://www.zhihu.com/question/666275565",
       "heat": "56 万热度"
     },
     {
-      "rank": "44",
+      "rank": "43",
       "title": "为什么拿下 2025 全年总冠军的 BLG 会在短短一个月时间不到沦落成全球总决赛上不入流的鱼腩战队？",
       "link": "https://www.zhihu.com/question/1965480758731826978",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
+      "rank": "44",
       "title": "S15 全球总决赛 CFO 代表赛区时隔十年晋级八强赛，赛区解说泣不成声，对此你有什么想说的？",
       "link": "https://www.zhihu.com/question/1965730537831360365",
       "heat": "56 万热度"
     },
     {
-      "rank": "46",
-      "title": "为什么我们会陷入「琐事瘫痪」？",
-      "link": "https://www.zhihu.com/question/1960862198747333051",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "「孩子没有朋友」是个严重的问题吗？",
-      "link": "https://www.zhihu.com/question/1964647256377517663",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "48",
+      "rank": "45",
       "title": "2025 F1 墨西哥大奖赛诺里斯杆位夺冠并重夺积分榜第一，维斯塔潘季军，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1966034666722164800",
       "heat": "56 万热度"
     },
     {
-      "rank": "49",
+      "rank": "46",
       "title": "导师为什么不喜欢改文章?",
       "link": "https://www.zhihu.com/question/662300746",
       "heat": "56 万热度"
     },
     {
+      "rank": "47",
+      "title": "陆展元为什么不喜欢李莫愁了？",
+      "link": "https://www.zhihu.com/question/319128517",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "一个公司倒闭的前兆是什么？",
+      "link": "https://www.zhihu.com/question/21172466",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如何评价「日本拟于明年上调签证费」？若最终实施，将给日本带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1963639469874843809",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "50",
-      "title": "25-26 赛季 NBA 常规赛开拓者 107:114 快船，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1966070498036286501",
+      "title": "下属理解力较差，怎么帮助他提高？",
+      "link": "https://www.zhihu.com/question/19768802",
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-10-27 22:49:19"
+  "generated_at": "2025-10-27 22:57:37"
 }
