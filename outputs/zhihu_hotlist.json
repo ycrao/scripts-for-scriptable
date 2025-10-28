@@ -1,30 +1,30 @@
 {
-  "artifact_id": "8d0852e0-46ed-4992-9d40-164790264f1e",
+  "artifact_id": "a0c24346-dae9-409b-aa1a-38967cc663ef",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "S15 淘汰赛 GEN 3:1 淘汰 HLE 晋级半决赛，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1966504730613244499",
-      "heat": "425 万热度"
+      "heat": "435 万热度"
     },
     {
       "rank": "2",
       "title": "「十五五」规划建议全文公布，明确了经济社会发展目标，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1966549840210124854",
-      "heat": "319 万热度"
+      "heat": "340 万热度"
     },
     {
       "rank": "3",
       "title": "熊孩子误吞 10 克金豆 6 天后排出，古代「吞金自尽」的说法为何不灵了？这期间真正要命的危险到底是什么？",
       "link": "https://www.zhihu.com/question/1966426423188219331",
-      "heat": "179 万热度"
+      "heat": "164 万热度"
     },
     {
       "rank": "4",
       "title": "渐冻人蔡磊研发的药物对病友起效对自己没用，为什么会出现这种情况？",
       "link": "https://www.zhihu.com/question/1966186362748232668",
-      "heat": "146 万热度"
+      "heat": "147 万热度"
     },
     {
       "rank": "5",
@@ -36,12 +36,12 @@
       "rank": "6",
       "title": "深圳大鹏半岛地质公园 80 天内 3 人遇难，为什么低海拔山峰能成为徒步险地？怎么做才能避免悲剧重演？",
       "link": "https://www.zhihu.com/question/1965351824132388287",
-      "heat": "110 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "7",
-      "title": "山东有哪些特色美食？",
-      "link": "https://www.zhihu.com/question/36995686",
+      "title": "止步 S15 八强赛后将服兵役，至此最后一位老 ROX 队员将退役，如何评价「小花生」的职业生涯？",
+      "link": "https://www.zhihu.com/question/1966582337660745548",
       "heat": "110 万热度"
     },
     {
@@ -54,61 +54,61 @@
       "rank": "9",
       "title": "时隔十年，沪指 28 日再度站上 4000 点，如何看待这波行情？",
       "link": "https://www.zhihu.com/question/1966449152536875535",
-      "heat": "97 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "10",
-      "title": "止步 S15 八强赛后将服兵役，至此最后一位老 ROX 队员将退役，如何评价「小花生」的职业生涯？",
-      "link": "https://www.zhihu.com/question/1966582337660745548",
-      "heat": "93 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "2025 胡润百富榜发布，钟睒睒第四次当选中国首富，榜单中还有哪些新兴领域的企业家值得关注？",
-      "link": "https://www.zhihu.com/question/1966460374841800268",
-      "heat": "92 万热度"
-    },
-    {
-      "rank": "12",
       "title": "钟楚曦 VOGUE 合照站位引发热议，在娱乐圈，C 位真有那么重要吗？此次风波对她后续影响大不大？",
       "link": "https://www.zhihu.com/question/1966168286560481546",
       "heat": "90 万热度"
     },
     {
-      "rank": "13",
+      "rank": "11",
+      "title": "2025 胡润百富榜发布，钟睒睒第四次当选中国首富，榜单中还有哪些新兴领域的企业家值得关注？",
+      "link": "https://www.zhihu.com/question/1966460374841800268",
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "12",
       "title": "超快充伤电池，这是科学的认知，还是过去时的老观点了？",
       "link": "https://www.zhihu.com/question/1940667362958345694",
-      "heat": "86 万热度"
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "冰品中常见绿豆沙、红豆沙，为什么见不到黄豆沙？",
+      "link": "https://www.zhihu.com/question/1963971712640050669",
+      "heat": "87 万热度"
     },
     {
       "rank": "14",
       "title": "中国与东盟签署自贸区 3.0 版升级议定书，双方合作有哪些升级？对全球贸易带来哪些影响？",
       "link": "https://www.zhihu.com/question/1966433986474648081",
-      "heat": "84 万热度"
+      "heat": "82 万热度"
     },
     {
       "rank": "15",
-      "title": "冰品中常见绿豆沙、红豆沙，为什么见不到黄豆沙？",
-      "link": "https://www.zhihu.com/question/1963971712640050669",
-      "heat": "83 万热度"
-    },
-    {
-      "rank": "16",
       "title": "香港金像奖难逃影视寒冬，尔冬升称拉赞助困难，2027 年面临入围片源危机，如何看待这一趋势？怎么挽救？",
       "link": "https://www.zhihu.com/question/1965742094384629383",
       "heat": "76 万热度"
     },
     {
+      "rank": "16",
+      "title": "山东有哪些特色美食？",
+      "link": "https://www.zhihu.com/question/36995686",
+      "heat": "75 万热度"
+    },
+    {
       "rank": "17",
       "title": "军营宿舍里那么多人一起住，还都是大老爷们儿，万一出现类似于「臭脚丫子」的尴尬问题该怎么办？",
       "link": "https://www.zhihu.com/question/13769099140",
-      "heat": "74 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "18",
       "title": "Cafe 与 coffee 有什么区别？",
       "link": "https://www.zhihu.com/question/556769840",
-      "heat": "73 万热度"
+      "heat": "72 万热度"
     },
     {
       "rank": "19",
@@ -172,14 +172,14 @@
     },
     {
       "rank": "29",
-      "title": "如何看待《崩坏：星穹铁道》千星纪游 PV：「故事之外：第 8 场」?",
-      "link": "https://www.zhihu.com/question/1966486210890433100",
+      "title": "如何评价《崩坏：星穹铁道》战前快讯•其二 | 铁墓研究进度同步？",
+      "link": "https://www.zhihu.com/question/1966579695047935669",
       "heat": "56 万热度"
     },
     {
       "rank": "30",
-      "title": "如何评价《崩坏：星穹铁道》战前快讯•其二 | 铁墓研究进度同步？",
-      "link": "https://www.zhihu.com/question/1966579695047935669",
+      "title": "动物当中为什么鸟类颜色五彩缤纷的，哺乳动物颜色就比较单一呢？",
+      "link": "https://www.zhihu.com/question/471219722",
       "heat": "56 万热度"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "rank": "33",
-      "title": "动物当中为什么鸟类颜色五彩缤纷的，哺乳动物颜色就比较单一呢？",
-      "link": "https://www.zhihu.com/question/471219722",
+      "title": "如何看待《崩坏：星穹铁道》千星纪游 PV：「故事之外：第 8 场」?",
+      "link": "https://www.zhihu.com/question/1966486210890433100",
       "heat": "55 万热度"
     },
     {
@@ -244,14 +244,14 @@
     },
     {
       "rank": "41",
-      "title": "有没有哪款游戏的诞生，让另一款毫不相干的游戏彻底「死亡」？",
-      "link": "https://www.zhihu.com/question/1964101933557084288",
+      "title": "如何看待《CS2》饰品市场崩溃所揭示的「虚拟郁金香」泡沫？",
+      "link": "https://www.zhihu.com/question/1966229741536240432",
       "heat": "55 万热度"
     },
     {
       "rank": "42",
-      "title": "如何看待越来越多的人选择「居家锻炼」这种运动锻炼方式？能达到健身房的效果吗？",
-      "link": "https://www.zhihu.com/question/1963401934988882806",
+      "title": "有没有哪款游戏的诞生，让另一款毫不相干的游戏彻底「死亡」？",
+      "link": "https://www.zhihu.com/question/1964101933557084288",
       "heat": "55 万热度"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "rank": "44",
-      "title": "纯电汽车 10 分钟充满电和 1 分钟更换电池哪个更香？",
-      "link": "https://www.zhihu.com/question/1918045316139156834",
+      "title": "非洲水牛数量远远多于狮子，为什么不团结起来灭绝狮子？",
+      "link": "https://www.zhihu.com/question/1965318925421113490",
       "heat": "55 万热度"
     },
     {
       "rank": "45",
-      "title": "如何看待《CS2》饰品市场崩溃所揭示的「虚拟郁金香」泡沫？",
-      "link": "https://www.zhihu.com/question/1966229741536240432",
+      "title": "如何看待越来越多的人选择「居家锻炼」这种运动锻炼方式？能达到健身房的效果吗？",
+      "link": "https://www.zhihu.com/question/1963401934988882806",
       "heat": "55 万热度"
     },
     {
@@ -286,8 +286,8 @@
     },
     {
       "rank": "48",
-      "title": "非洲水牛数量远远多于狮子，为什么不团结起来灭绝狮子？",
-      "link": "https://www.zhihu.com/question/1965318925421113490",
+      "title": "纯电汽车 10 分钟充满电和 1 分钟更换电池哪个更香？",
+      "link": "https://www.zhihu.com/question/1918045316139156834",
       "heat": "55 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "54 万热度"
     }
   ],
-  "generated_at": "2025-10-29 03:53:18"
+  "generated_at": "2025-10-29 04:29:09"
 }
