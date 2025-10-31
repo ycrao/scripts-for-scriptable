@@ -1,42 +1,42 @@
 {
-  "artifact_id": "7543ed2c-0a11-4715-9ad2-fea3b5bc6cb6",
+  "artifact_id": "74369fd3-17fe-4f00-89f9-7bf85509c25b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "S15 全球总决赛半决赛 TES vs T1 谁能赢？",
       "link": "https://www.zhihu.com/question/1967678299221227094",
-      "heat": "327 万热度"
+      "heat": "332 万热度"
     },
     {
       "rank": "2",
       "title": "英国安德鲁王子被剥夺头衔及王室住所，白金汉宫声明称这些惩戒措施被认为是必要的，如何看待此事？",
       "link": "https://www.zhihu.com/question/1967525581949240550",
-      "heat": "204 万热度"
+      "heat": "214 万热度"
     },
     {
       "rank": "3",
       "title": "神舟二十一号载人飞船发射取得圆满成功，此次发射有哪些看点？",
       "link": "https://www.zhihu.com/question/1965029358373663025",
-      "heat": "141 万热度"
+      "heat": "148 万热度"
     },
     {
       "rank": "4",
       "title": "为何找不出一个生成全部素数的公式？",
       "link": "https://www.zhihu.com/question/1967009104577930165",
-      "heat": "105 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "5",
       "title": "为什么大公司不用 pandas 取代 Excel？",
       "link": "https://www.zhihu.com/question/278108433",
-      "heat": "89 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "6",
       "title": "《电锯人》既然玛奇玛想创造一个更完美的世界，为什么要阻止她呢？",
       "link": "https://www.zhihu.com/question/593472970",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
     },
     {
       "rank": "7",
@@ -46,15 +46,15 @@
     },
     {
       "rank": "8",
-      "title": "为什么大部分人开车都这么肉？",
-      "link": "https://www.zhihu.com/question/1965416247727482559",
-      "heat": "70 万热度"
+      "title": "小猫是怎么理解搬家的？",
+      "link": "https://www.zhihu.com/question/619958326",
+      "heat": "69 万热度"
     },
     {
       "rank": "9",
-      "title": "小猫是怎么理解搬家的？",
-      "link": "https://www.zhihu.com/question/619958326",
-      "heat": "67 万热度"
+      "title": "为什么大部分人开车都这么肉？",
+      "link": "https://www.zhihu.com/question/1965416247727482559",
+      "heat": "59 万热度"
     },
     {
       "rank": "10",
@@ -70,26 +70,26 @@
     },
     {
       "rank": "12",
-      "title": "当今社会，做怎样的家长能让孩子更好的成长？",
-      "link": "https://www.zhihu.com/question/662180641",
-      "heat": "59 万热度"
+      "title": "不明白为什么小贝对海藻那么好，海藻还是要背叛小贝？",
+      "link": "https://www.zhihu.com/question/29126440",
+      "heat": "58 万热度"
     },
     {
       "rank": "13",
-      "title": "国科大张夏衡团队最新 Nature 成果，实现突破教科书的芳香胺直接取代反应，对工业领域有哪些意义？",
-      "link": "https://www.zhihu.com/question/1967282093101941035",
-      "heat": "59 万热度"
+      "title": "普通人一部手机用多久？",
+      "link": "https://www.zhihu.com/question/623585594",
+      "heat": "58 万热度"
     },
     {
       "rank": "14",
-      "title": "不明白为什么小贝对海藻那么好，海藻还是要背叛小贝？",
-      "link": "https://www.zhihu.com/question/29126440",
-      "heat": "59 万热度"
+      "title": "当今社会，做怎样的家长能让孩子更好的成长？",
+      "link": "https://www.zhihu.com/question/662180641",
+      "heat": "58 万热度"
     },
     {
       "rank": "15",
-      "title": "普通人一部手机用多久？",
-      "link": "https://www.zhihu.com/question/623585594",
+      "title": "国科大张夏衡团队最新 Nature 成果，实现突破教科书的芳香胺直接取代反应，对工业领域有哪些意义？",
+      "link": "https://www.zhihu.com/question/1967282093101941035",
       "heat": "58 万热度"
     },
     {
@@ -106,20 +106,20 @@
     },
     {
       "rank": "18",
-      "title": "你们是什么时候意识到自己的平庸的？",
-      "link": "https://www.zhihu.com/question/592091738",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "19",
       "title": "小猫经常过来喵喵两下就走了到底是啥意思?",
       "link": "https://www.zhihu.com/question/1897974263882941288",
       "heat": "58 万热度"
     },
     {
+      "rank": "19",
+      "title": "你们是什么时候意识到自己的平庸的？",
+      "link": "https://www.zhihu.com/question/592091738",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "20",
-      "title": "如何看待《明日方舟：终末地》［全面测试］？",
-      "link": "https://www.zhihu.com/question/1966145464412931393",
+      "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
+      "link": "https://www.zhihu.com/question/1964768855290242461",
       "heat": "57 万热度"
     },
     {
@@ -130,57 +130,57 @@
     },
     {
       "rank": "22",
-      "title": "有什么英语单词有两个相反的意思?",
-      "link": "https://www.zhihu.com/question/11105412226",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "你认为不得罪人的方法的都有哪些？",
-      "link": "https://www.zhihu.com/question/1966434221552805552",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "「三分逗，七分捧」真的是用来安慰捧哏演员的吗？",
-      "link": "https://www.zhihu.com/question/464943890",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
-      "link": "https://www.zhihu.com/question/1964768855290242461",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "史文恭的实力在梁山好汉里什么定义？",
-      "link": "https://www.zhihu.com/question/318740552",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "27",
       "title": "农村的鸡怎么过冬？会不会分分钟冻死？",
       "link": "https://www.zhihu.com/question/631312495",
       "heat": "57 万热度"
     },
     {
+      "rank": "23",
+      "title": "有什么英语单词有两个相反的意思?",
+      "link": "https://www.zhihu.com/question/11105412226",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "你认为不得罪人的方法的都有哪些？",
+      "link": "https://www.zhihu.com/question/1966434221552805552",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "如何看待《明日方舟：终末地》［全面测试］？",
+      "link": "https://www.zhihu.com/question/1966145464412931393",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "「三分逗，七分捧」真的是用来安慰捧哏演员的吗？",
+      "link": "https://www.zhihu.com/question/464943890",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "史文恭的实力在梁山好汉里什么定义？",
+      "link": "https://www.zhihu.com/question/318740552",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "28",
       "title": "你们业余时间都喜欢看什么书呢？",
       "link": "https://www.zhihu.com/question/1937138294098995180",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "29",
       "title": "S15 全球总决赛淘汰赛 AL 2:3 不敌 T1 止步八强，他们这场比赛输在哪？",
       "link": "https://www.zhihu.com/question/1967678115389073402",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "30",
-      "title": "为什么武汉的粉面都是拿纸碗装而不是拿铁碗和瓷碗装呢？",
-      "link": "https://www.zhihu.com/question/635777268",
-      "heat": "57 万热度"
+      "title": "为什么须弥枫丹受魔神残渣的影响极少？",
+      "link": "https://www.zhihu.com/question/1930333096517013698",
+      "heat": "56 万热度"
     },
     {
       "rank": "31",
@@ -190,8 +190,8 @@
     },
     {
       "rank": "32",
-      "title": "为什么须弥枫丹受魔神残渣的影响极少？",
-      "link": "https://www.zhihu.com/question/1930333096517013698",
+      "title": "为什么武汉的粉面都是拿纸碗装而不是拿铁碗和瓷碗装呢？",
+      "link": "https://www.zhihu.com/question/635777268",
       "heat": "56 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-01 06:42:51"
+  "generated_at": "2025-11-01 06:55:49"
 }
