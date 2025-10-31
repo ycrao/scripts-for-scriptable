@@ -1,101 +1,101 @@
 {
-  "artifact_id": "86c9524d-ebdc-4347-9dc9-20f53cb0ec26",
+  "artifact_id": "f2e20bd2-d4d9-419f-8785-a45a342af4a6",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "国科大张夏衡团队最新 Nature 成果，实现突破教科书的芳香胺直接取代反应，对工业领域有哪些意义？",
-      "link": "https://www.zhihu.com/question/1967282093101941035",
-      "heat": "2042 万热度"
+      "title": "S15 淘汰赛 T1 鏖战五局 3:2 淘汰 AL 晋级半决赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1967591184491873708",
+      "heat": "2023 万热度"
     },
     {
       "rank": "2",
-      "title": "S15 淘汰赛 T1 鏖战五局 3:2 淘汰 AL 晋级半决赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1967591184491873708",
-      "heat": "1973 万热度"
+      "title": "国科大张夏衡团队最新 Nature 成果，实现突破教科书的芳香胺直接取代反应，对工业领域有哪些意义？",
+      "link": "https://www.zhihu.com/question/1967282093101941035",
+      "heat": "1330 万热度"
     },
     {
       "rank": "3",
       "title": "为什么武汉的粉面都是拿纸碗装而不是拿铁碗和瓷碗装呢？",
       "link": "https://www.zhihu.com/question/635777268",
-      "heat": "118 万热度"
+      "heat": "123 万热度"
     },
     {
       "rank": "4",
-      "title": "普通人一部手机用多久？",
-      "link": "https://www.zhihu.com/question/623585594",
-      "heat": "94 万热度"
+      "title": "住建部部长倪虹表示，要推进现房销售制，实现所见即所得，这会给房地产市场带来怎样的影响？",
+      "link": "https://www.zhihu.com/question/1967583945597088902",
+      "heat": "101 万热度"
     },
     {
       "rank": "5",
-      "title": "AL 止步 S15 八强，决胜局中的 BP 到底出了什么问题？",
-      "link": "https://www.zhihu.com/question/1967681102220064022",
-      "heat": "92 万热度"
+      "title": "普通人一部手机用多久？",
+      "link": "https://www.zhihu.com/question/623585594",
+      "heat": "96 万热度"
     },
     {
       "rank": "6",
-      "title": "住建部部长倪虹表示，要推进现房销售制，实现所见即所得，这会给房地产市场带来怎样的影响？",
-      "link": "https://www.zhihu.com/question/1967583945597088902",
-      "heat": "91 万热度"
+      "title": "AL 止步 S15 八强，决胜局中的 BP 到底出了什么问题？",
+      "link": "https://www.zhihu.com/question/1967681102220064022",
+      "heat": "95 万热度"
     },
     {
       "rank": "7",
       "title": "S15 全球总决赛半决赛 TES vs T1 谁能赢？",
       "link": "https://www.zhihu.com/question/1967678299221227094",
-      "heat": "86 万热度"
+      "heat": "93 万热度"
     },
     {
       "rank": "8",
       "title": "为什么大部分人开车都这么肉？",
       "link": "https://www.zhihu.com/question/1965416247727482559",
-      "heat": "80 万热度"
+      "heat": "81 万热度"
     },
     {
       "rank": "9",
       "title": "为什么大公司不用 pandas 取代 Excel？",
       "link": "https://www.zhihu.com/question/278108433",
-      "heat": "72 万热度"
+      "heat": "75 万热度"
     },
     {
       "rank": "10",
-      "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
-      "link": "https://www.zhihu.com/question/9580273557",
-      "heat": "72 万热度"
+      "title": "小猫经常过来喵喵两下就走了到底是啥意思?",
+      "link": "https://www.zhihu.com/question/1897974263882941288",
+      "heat": "75 万热度"
     },
     {
       "rank": "11",
-      "title": "小猫经常过来喵喵两下就走了到底是啥意思?",
-      "link": "https://www.zhihu.com/question/1897974263882941288",
+      "title": "都说米家铁打的辅助流水的 C，那《原神》1.0 的辅助还有能用的吗？",
+      "link": "https://www.zhihu.com/question/1965094227814909283",
       "heat": "70 万热度"
     },
     {
       "rank": "12",
-      "title": "都说米家铁打的辅助流水的 C，那《原神》1.0 的辅助还有能用的吗？",
-      "link": "https://www.zhihu.com/question/1965094227814909283",
+      "title": "为什么须弥枫丹受魔神残渣的影响极少？",
+      "link": "https://www.zhihu.com/question/1930333096517013698",
       "heat": "69 万热度"
     },
     {
       "rank": "13",
-      "title": "为什么须弥枫丹受魔神残渣的影响极少？",
-      "link": "https://www.zhihu.com/question/1930333096517013698",
+      "title": "如何评价乌尔善、管虎拿下年度影响力导演奖？",
+      "link": "https://www.zhihu.com/question/1967365151142418290",
       "heat": "68 万热度"
     },
     {
       "rank": "14",
       "title": "不明白为什么小贝对海藻那么好，海藻还是要背叛小贝？",
       "link": "https://www.zhihu.com/question/29126440",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "15",
       "title": "农村的鸡怎么过冬？会不会分分钟冻死？",
       "link": "https://www.zhihu.com/question/631312495",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "16",
-      "title": "如何评价乌尔善、管虎拿下年度影响力导演奖？",
-      "link": "https://www.zhihu.com/question/1967365151142418290",
+      "title": "摇奶茶打螺丝这种非办公室工作真的会让人浑浑噩噩，消磨精神，变得思想麻木吗?",
+      "link": "https://www.zhihu.com/question/1890467587177035338",
       "heat": "59 万热度"
     },
     {
@@ -112,196 +112,196 @@
     },
     {
       "rank": "19",
-      "title": "摇奶茶打螺丝这种非办公室工作真的会让人浑浑噩噩，消磨精神，变得思想麻木吗?",
-      "link": "https://www.zhihu.com/question/1890467587177035338",
+      "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
+      "link": "https://www.zhihu.com/question/9580273557",
       "heat": "58 万热度"
     },
     {
       "rank": "20",
-      "title": "S15 全球总决赛淘汰赛 AL 2:3 不敌 T1 止步八强，他们这场比赛输在哪？",
-      "link": "https://www.zhihu.com/question/1967678115389073402",
-      "heat": "58 万热度"
+      "title": "神舟二十一号载人飞船发射取得圆满成功，此次发射有哪些看点？",
+      "link": "https://www.zhihu.com/question/1965029358373663025",
+      "heat": "57 万热度"
     },
     {
       "rank": "21",
       "title": "甘肃岷县一供热民企 30 年特许经营权 5 年作废，投 3.7 亿遭强行接管，具体是怎么回事？",
       "link": "https://www.zhihu.com/question/1967237711539728752",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "22",
       "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
       "link": "https://www.zhihu.com/question/1964768855290242461",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "23",
-      "title": "双十一值得买的新品旗舰手机是哪个?",
-      "link": "https://www.zhihu.com/question/1967237382442034011",
-      "heat": "56 万热度"
+      "title": "S15 全球总决赛淘汰赛 AL 2:3 不敌 T1 止步八强，他们这场比赛输在哪？",
+      "link": "https://www.zhihu.com/question/1967678115389073402",
+      "heat": "55 万热度"
     },
     {
       "rank": "24",
-      "title": "部分企业招聘背调涉及网贷等情况被指侵犯隐私，合理的背调边界应该在哪里？遭遇过度背调，求职者应如何维权？",
-      "link": "https://www.zhihu.com/question/1964757387605967713",
+      "title": "双十一值得买的新品旗舰手机是哪个?",
+      "link": "https://www.zhihu.com/question/1967237382442034011",
       "heat": "54 万热度"
     },
     {
       "rank": "25",
       "title": "如何评价综艺《喜人奇妙夜》第二季的第六期（上）？",
       "link": "https://www.zhihu.com/question/1967573357177333176",
-      "heat": "53 万热度"
+      "heat": "52 万热度"
     },
     {
       "rank": "26",
-      "title": "不想谈恋爱的年轻人，正涌进剧本杀寻找完美恋人，如何看待这种现象？反映了年轻人怎么样的恋爱心理？",
-      "link": "https://www.zhihu.com/question/1965021112774649596",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "35 岁后，游戏人都去哪了？",
-      "link": "https://www.zhihu.com/question/1965065815230510027",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "作为电气专业的你，2026 届求职情况如何?",
-      "link": "https://www.zhihu.com/question/1913985905343067592",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "S15 全球总决赛哪支队伍能阻止 GEN 夺冠？",
-      "link": "https://www.zhihu.com/question/1960409092834174049",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "高中生想自学数论，有什么教材和课程推荐？",
-      "link": "https://www.zhihu.com/question/1782461493",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "2526 赛季 NBA 常规赛湖人 116:115 森林狼，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1967165163049312837",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "飞机的机翼比较平，可为什么伯奴利效应这么明显可以让飞机起飞？",
-      "link": "https://www.zhihu.com/question/633200699",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "毛剑卿称 C 罗和梅西只是「相对自律」，并表示「纹身就是不自律」，如何看待他对运动员自律的这番言论？",
-      "link": "https://www.zhihu.com/question/1960018849702323915",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "你见过在盲道上行走的盲人吗？盲人出行只依赖于盲道可行吗？做公益的人们是不是应该给予他们一些帮助？",
-      "link": "https://www.zhihu.com/question/1959233038270562365",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "如何评价《崩坏：星穹铁道》黄金史诗 pv  再见，昔涟？",
-      "link": "https://www.zhihu.com/question/1967562727640761946",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "为什么这么多人喜欢斯蒂芬库里，可否简单的安利一下？",
-      "link": "https://www.zhihu.com/question/544156890",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "杨瀚森能否立足 NBA?",
-      "link": "https://www.zhihu.com/question/1963879770514228995",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "S15 淘汰赛 TES 3:1 淘汰 G2 晋级四强赛，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1967188834908341112",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "39",
       "title": "如何评价《三角洲行动》S7 赛季干员「比特」？",
       "link": "https://www.zhihu.com/question/1966510314771145751",
       "heat": "51 万热度"
     },
     {
-      "rank": "40",
+      "rank": "27",
       "title": "25/26 赛季的联赛杯，斯洛特利物浦 0-3 水晶宫，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1967140443939644810",
       "heat": "51 万热度"
     },
     {
-      "rank": "41",
+      "rank": "28",
       "title": "体制内工作，如何停止精神内耗？",
       "link": "https://www.zhihu.com/question/641990802",
       "heat": "51 万热度"
     },
     {
-      "rank": "42",
-      "title": "为什么有些全职妈妈会觉得出去上班了就带不好孩子？",
-      "link": "https://www.zhihu.com/question/1957065236457698586",
+      "rank": "29",
+      "title": "S15 淘汰赛 TES 3:1 淘汰 G2 晋级四强赛，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1967188834908341112",
       "heat": "51 万热度"
     },
     {
-      "rank": "43",
-      "title": "为什么很多人认为 C 语言的程序只能在黑窗口下运行？",
-      "link": "https://www.zhihu.com/question/636393647",
+      "rank": "30",
+      "title": "为什么这么多人喜欢斯蒂芬库里，可否简单的安利一下？",
+      "link": "https://www.zhihu.com/question/544156890",
       "heat": "51 万热度"
     },
     {
-      "rank": "44",
-      "title": "为何北京部分地铁站名会「名不副实」？",
-      "link": "https://www.zhihu.com/question/1954202961409442831",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "如何看待 GameStop 宣布「主机大战结束」的言论，是认真的吗？",
-      "link": "https://www.zhihu.com/question/1966158408261558415",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "如何看待宝宝巴士儿歌软件现低俗广告，回应「审核难免存在疏漏，已排查」？该平台需承担哪些法律责任？",
-      "link": "https://www.zhihu.com/question/1966618928550737835",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "47",
+      "rank": "31",
       "title": "连续两场 40+，如何看待湖人队里夫斯的爆发，他和勇士波姐谁更强，今年他能进全明星吗？",
       "link": "https://www.zhihu.com/question/1966496748907230873",
       "heat": "50 万热度"
     },
     {
-      "rank": "48",
+      "rank": "32",
+      "title": "如何看待宝宝巴士儿歌软件现低俗广告，回应「审核难免存在疏漏，已排查」？该平台需承担哪些法律责任？",
+      "link": "https://www.zhihu.com/question/1966618928550737835",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "为什么有些全职妈妈会觉得出去上班了就带不好孩子？",
+      "link": "https://www.zhihu.com/question/1957065236457698586",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "领导要逼一个人走，会怎么做？",
+      "link": "https://www.zhihu.com/question/1951949581584691519",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "35",
       "title": "鸟能不能边飞边拉屎？",
       "link": "https://www.zhihu.com/question/20257935",
       "heat": "50 万热度"
     },
     {
-      "rank": "49",
+      "rank": "36",
+      "title": "如何看待 GameStop 宣布「主机大战结束」的言论，是认真的吗？",
+      "link": "https://www.zhihu.com/question/1966158408261558415",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "为何北京部分地铁站名会「名不副实」？",
+      "link": "https://www.zhihu.com/question/1954202961409442831",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "38",
       "title": "中国与东盟签署自贸区 3.0 版升级议定书，双方合作有哪些升级？对全球贸易带来哪些影响？",
       "link": "https://www.zhihu.com/question/1966433986474648081",
       "heat": "50 万热度"
     },
     {
-      "rank": "50",
+      "rank": "39",
       "title": "为什么那么多人喜欢看芭蕾，而我感觉不好看?",
       "link": "https://www.zhihu.com/question/316727582",
       "heat": "50 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "为什么有的人情绪非常稳定，而有些人情绪非常暴躁、一点就炸？你真的相信情绪会传染吗？",
+      "link": "https://www.zhihu.com/question/1964619580711350572",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "除了热剩菜，微波炉还有什么让你惊艳的隐藏使用技巧？",
+      "link": "https://www.zhihu.com/question/1946542102990288879",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "开油车的车主，每个月的油费不心疼吗？",
+      "link": "https://www.zhihu.com/question/1964759533554492685",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "我国锚定 2030 年前实现中国人登陆月球，目前进展如何？「登陆月球」意味着什么？",
+      "link": "https://www.zhihu.com/question/1967218946089423191",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "手机内存不是国产化了吗？为什么 2025 年手机内存价格会爆涨？",
+      "link": "https://www.zhihu.com/question/1966063994721773265",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "如何评价知乎内测的 Steam 账号关联功能？该功能现在体验如何？",
+      "link": "https://www.zhihu.com/question/1964747998211838378",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "专家预测 90% 的预制菜企业将消失，怎样看待这一观点？什么样的预制菜才能被市场接受？",
+      "link": "https://www.zhihu.com/question/1967189938383610332",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何最简单、通俗地理解 Python 的 pandas 库？",
+      "link": "https://www.zhihu.com/question/433408227",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么我们常感觉「统计数字都是骗人的」，这背后反映了什么？",
+      "link": "https://www.zhihu.com/question/1962475449130124029",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "举全国之力能否在有生之年把新疆塔克拉玛干沙漠变成绿洲？",
+      "link": "https://www.zhihu.com/question/337867248",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "想到广州第一个想到什么美食？",
+      "link": "https://www.zhihu.com/question/1957747948826895367",
+      "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-10-31 23:56:34"
+  "generated_at": "2025-11-01 00:33:39"
 }
