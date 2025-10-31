@@ -1,221 +1,221 @@
 {
-  "artifact_id": "fd982cfe-2315-4a65-bf68-644100dd170f",
+  "artifact_id": "7543ed2c-0a11-4715-9ad2-fea3b5bc6cb6",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "S15 全球总决赛半决赛 TES vs T1 谁能赢？",
       "link": "https://www.zhihu.com/question/1967678299221227094",
-      "heat": "320 万热度"
+      "heat": "327 万热度"
     },
     {
       "rank": "2",
       "title": "英国安德鲁王子被剥夺头衔及王室住所，白金汉宫声明称这些惩戒措施被认为是必要的，如何看待此事？",
       "link": "https://www.zhihu.com/question/1967525581949240550",
-      "heat": "205 万热度"
+      "heat": "204 万热度"
     },
     {
       "rank": "3",
       "title": "神舟二十一号载人飞船发射取得圆满成功，此次发射有哪些看点？",
       "link": "https://www.zhihu.com/question/1965029358373663025",
-      "heat": "125 万热度"
+      "heat": "141 万热度"
     },
     {
       "rank": "4",
       "title": "为何找不出一个生成全部素数的公式？",
       "link": "https://www.zhihu.com/question/1967009104577930165",
-      "heat": "102 万热度"
+      "heat": "105 万热度"
     },
     {
       "rank": "5",
       "title": "为什么大公司不用 pandas 取代 Excel？",
       "link": "https://www.zhihu.com/question/278108433",
-      "heat": "87 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "6",
-      "title": "为什么大部分人开车都这么肉？",
-      "link": "https://www.zhihu.com/question/1965416247727482559",
-      "heat": "76 万热度"
+      "title": "《电锯人》既然玛奇玛想创造一个更完美的世界，为什么要阻止她呢？",
+      "link": "https://www.zhihu.com/question/593472970",
+      "heat": "77 万热度"
     },
     {
       "rank": "7",
-      "title": "《电锯人》既然玛奇玛想创造一个更完美的世界，为什么要阻止她呢？",
-      "link": "https://www.zhihu.com/question/593472970",
-      "heat": "76 万热度"
+      "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+      "link": "https://www.zhihu.com/question/1967494414290084753",
+      "heat": "70 万热度"
     },
     {
       "rank": "8",
-      "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-      "link": "https://www.zhihu.com/question/1967494414290084753",
-      "heat": "71 万热度"
+      "title": "为什么大部分人开车都这么肉？",
+      "link": "https://www.zhihu.com/question/1965416247727482559",
+      "heat": "70 万热度"
     },
     {
       "rank": "9",
-      "title": "当今社会，做怎样的家长能让孩子更好的成长？",
-      "link": "https://www.zhihu.com/question/662180641",
+      "title": "小猫是怎么理解搬家的？",
+      "link": "https://www.zhihu.com/question/619958326",
       "heat": "67 万热度"
     },
     {
       "rank": "10",
-      "title": "国科大张夏衡团队最新 Nature 成果，实现突破教科书的芳香胺直接取代反应，对工业领域有哪些意义？",
-      "link": "https://www.zhihu.com/question/1967282093101941035",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "11",
       "title": "如何看待有些人将手机硬盘称为内存？",
       "link": "https://www.zhihu.com/question/417663904",
       "heat": "59 万热度"
     },
     {
-      "rank": "12",
+      "rank": "11",
       "title": "S15 淘汰赛 T1 鏖战五局 3:2 淘汰 AL 晋级半决赛，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1967591184491873708",
       "heat": "59 万热度"
     },
     {
+      "rank": "12",
+      "title": "当今社会，做怎样的家长能让孩子更好的成长？",
+      "link": "https://www.zhihu.com/question/662180641",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "13",
-      "title": "你们是什么时候意识到自己的平庸的？",
-      "link": "https://www.zhihu.com/question/592091738",
+      "title": "国科大张夏衡团队最新 Nature 成果，实现突破教科书的芳香胺直接取代反应，对工业领域有哪些意义？",
+      "link": "https://www.zhihu.com/question/1967282093101941035",
       "heat": "59 万热度"
     },
     {
       "rank": "14",
-      "title": "普通人一部手机用多久？",
-      "link": "https://www.zhihu.com/question/623585594",
+      "title": "不明白为什么小贝对海藻那么好，海藻还是要背叛小贝？",
+      "link": "https://www.zhihu.com/question/29126440",
       "heat": "59 万热度"
     },
     {
       "rank": "15",
-      "title": "有什么英语单词有两个相反的意思?",
-      "link": "https://www.zhihu.com/question/11105412226",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "你认为不得罪人的方法的都有哪些？",
-      "link": "https://www.zhihu.com/question/1966434221552805552",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "如何看待《明日方舟：终末地》［全面测试］？",
-      "link": "https://www.zhihu.com/question/1966145464412931393",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "18",
-      "title": "「三分逗，七分捧」真的是用来安慰捧哏演员的吗？",
-      "link": "https://www.zhihu.com/question/464943890",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "不明白为什么小贝对海藻那么好，海藻还是要背叛小贝？",
-      "link": "https://www.zhihu.com/question/29126440",
+      "title": "普通人一部手机用多久？",
+      "link": "https://www.zhihu.com/question/623585594",
       "heat": "58 万热度"
     },
     {
-      "rank": "20",
+      "rank": "16",
       "title": "住建部部长倪虹表示，要推进现房销售制，实现所见即所得，这会给房地产市场带来怎样的影响？",
       "link": "https://www.zhihu.com/question/1967583945597088902",
       "heat": "58 万热度"
     },
     {
-      "rank": "21",
-      "title": "甘肃岷县一供热民企 30 年特许经营权 5 年作废，投 3.7 亿遭强行接管，具体是怎么回事？",
-      "link": "https://www.zhihu.com/question/1967237711539728752",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "22",
+      "rank": "17",
       "title": "如何评价乌尔善、管虎拿下年度影响力导演奖？",
       "link": "https://www.zhihu.com/question/1967365151142418290",
       "heat": "58 万热度"
     },
     {
-      "rank": "23",
-      "title": "史文恭的实力在梁山好汉里什么定义？",
-      "link": "https://www.zhihu.com/question/318740552",
+      "rank": "18",
+      "title": "你们是什么时候意识到自己的平庸的？",
+      "link": "https://www.zhihu.com/question/592091738",
       "heat": "58 万热度"
     },
     {
-      "rank": "24",
-      "title": "为什么武汉的粉面都是拿纸碗装而不是拿铁碗和瓷碗装呢？",
-      "link": "https://www.zhihu.com/question/635777268",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "你们业余时间都喜欢看什么书呢？",
-      "link": "https://www.zhihu.com/question/1937138294098995180",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "S15 全球总决赛淘汰赛 AL 2:3 不敌 T1 止步八强，他们这场比赛输在哪？",
-      "link": "https://www.zhihu.com/question/1967678115389073402",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "AL 止步 S15 八强，决胜局中的 BP 到底出了什么问题？",
-      "link": "https://www.zhihu.com/question/1967681102220064022",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "28",
+      "rank": "19",
       "title": "小猫经常过来喵喵两下就走了到底是啥意思?",
       "link": "https://www.zhihu.com/question/1897974263882941288",
       "heat": "58 万热度"
     },
     {
-      "rank": "29",
+      "rank": "20",
+      "title": "如何看待《明日方舟：终末地》［全面测试］？",
+      "link": "https://www.zhihu.com/question/1966145464412931393",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "甘肃岷县一供热民企 30 年特许经营权 5 年作废，投 3.7 亿遭强行接管，具体是怎么回事？",
+      "link": "https://www.zhihu.com/question/1967237711539728752",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "有什么英语单词有两个相反的意思?",
+      "link": "https://www.zhihu.com/question/11105412226",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "你认为不得罪人的方法的都有哪些？",
+      "link": "https://www.zhihu.com/question/1966434221552805552",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "「三分逗，七分捧」真的是用来安慰捧哏演员的吗？",
+      "link": "https://www.zhihu.com/question/464943890",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
       "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
       "link": "https://www.zhihu.com/question/1964768855290242461",
       "heat": "57 万热度"
     },
     {
-      "rank": "30",
+      "rank": "26",
+      "title": "史文恭的实力在梁山好汉里什么定义？",
+      "link": "https://www.zhihu.com/question/318740552",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "27",
       "title": "农村的鸡怎么过冬？会不会分分钟冻死？",
       "link": "https://www.zhihu.com/question/631312495",
       "heat": "57 万热度"
     },
     {
+      "rank": "28",
+      "title": "你们业余时间都喜欢看什么书呢？",
+      "link": "https://www.zhihu.com/question/1937138294098995180",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "S15 全球总决赛淘汰赛 AL 2:3 不敌 T1 止步八强，他们这场比赛输在哪？",
+      "link": "https://www.zhihu.com/question/1967678115389073402",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "为什么武汉的粉面都是拿纸碗装而不是拿铁碗和瓷碗装呢？",
+      "link": "https://www.zhihu.com/question/635777268",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "31",
+      "title": "AL 止步 S15 八强，决胜局中的 BP 到底出了什么问题？",
+      "link": "https://www.zhihu.com/question/1967681102220064022",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
       "title": "为什么须弥枫丹受魔神残渣的影响极少？",
       "link": "https://www.zhihu.com/question/1930333096517013698",
       "heat": "56 万热度"
     },
     {
-      "rank": "32",
+      "rank": "33",
       "title": "我国预警机平台不用 C919，C919 的军用子系统国产化替换很困难吗？",
       "link": "https://www.zhihu.com/question/1899626662833915017",
       "heat": "56 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "都说米家铁打的辅助流水的 C，那《原神》1.0 的辅助还有能用的吗？",
       "link": "https://www.zhihu.com/question/1965094227814909283",
       "heat": "52 万热度"
     },
     {
-      "rank": "34",
+      "rank": "35",
       "title": "摇奶茶打螺丝这种非办公室工作真的会让人浑浑噩噩，消磨精神，变得思想麻木吗?",
       "link": "https://www.zhihu.com/question/1890467587177035338",
       "heat": "52 万热度"
     },
     {
-      "rank": "35",
+      "rank": "36",
       "title": "在职场每日汇报工作的意义在哪里？",
       "link": "https://www.zhihu.com/question/1906827488425907811",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "双十一值得买的新品旗舰手机是哪个?",
-      "link": "https://www.zhihu.com/question/1967237382442034011",
       "heat": "50 万热度"
     },
     {
@@ -280,14 +280,14 @@
     },
     {
       "rank": "47",
-      "title": "既然努力永远比不过天赋，那努力的意义又是什么?",
-      "link": "https://www.zhihu.com/question/1961206416011403823",
+      "title": "为什么家长不把高中数学、高中物理自学一遍，来辅导孩子，而是要每年花几万块补课的冤枉钱？",
+      "link": "https://www.zhihu.com/question/1966133089924285977",
       "heat": "50 万热度"
     },
     {
       "rank": "48",
-      "title": "为什么家长不把高中数学、高中物理自学一遍，来辅导孩子，而是要每年花几万块补课的冤枉钱？",
-      "link": "https://www.zhihu.com/question/1966133089924285977",
+      "title": "既然努力永远比不过天赋，那努力的意义又是什么?",
+      "link": "https://www.zhihu.com/question/1961206416011403823",
       "heat": "50 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-01 06:23:33"
+  "generated_at": "2025-11-01 06:42:51"
 }
