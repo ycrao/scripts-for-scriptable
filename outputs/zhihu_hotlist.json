@@ -1,30 +1,30 @@
 {
-  "artifact_id": "79a54c69-55cb-4cc1-97b9-a31e16835954",
+  "artifact_id": "e33de333-2163-4009-bd05-ad8659bc5012",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "11 月 1 日，苏超总决赛泰州队 4-3 战胜南通队夺得冠军，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1967669845052101983",
-      "heat": "1263 万热度"
+      "heat": "1228 万热度"
     },
     {
       "rank": "2",
       "title": "S15 淘汰赛 KT 3:1 爆冷淘汰夺冠大热门 GEN 晋级总决赛，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1967955379414626610",
-      "heat": "631 万热度"
+      "heat": "468 万热度"
     },
     {
       "rank": "3",
       "title": "如何看待大批轰 6K 贴近台湾岛，释放出哪些信号？",
       "link": "https://www.zhihu.com/question/1966801887979341169",
-      "heat": "314 万热度"
+      "heat": "229 万热度"
     },
     {
       "rank": "4",
       "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
       "link": "https://www.zhihu.com/question/1967900167182181978",
-      "heat": "115 万热度"
+      "heat": "116 万热度"
     },
     {
       "rank": "5",
@@ -34,92 +34,92 @@
     },
     {
       "rank": "6",
-      "title": "与人类亲缘关系最远的是什么生物？",
-      "link": "https://www.zhihu.com/question/316328433",
-      "heat": "101 万热度"
+      "title": "如何评价通背拳传人赵鸿刚参加扇耳光大赛？",
+      "link": "https://www.zhihu.com/question/1967745094439404020",
+      "heat": "84 万热度"
     },
     {
       "rank": "7",
-      "title": "如何评价通背拳传人赵鸿刚参加扇耳光大赛？",
-      "link": "https://www.zhihu.com/question/1967745094439404020",
-      "heat": "98 万热度"
+      "title": "杨振宁先生说海森堡是伟大的物理学家，但不喜欢他的研究方法（taste），海森堡的研究方法是怎样的？",
+      "link": "https://www.zhihu.com/question/1964049209050247941",
+      "heat": "80 万热度"
     },
     {
       "rank": "8",
-      "title": "游戏大厂的重点项目为什么会暴死？",
-      "link": "https://www.zhihu.com/question/1966538200567744500",
-      "heat": "90 万热度"
+      "title": "与人类亲缘关系最远的是什么生物？",
+      "link": "https://www.zhihu.com/question/316328433",
+      "heat": "79 万热度"
     },
     {
       "rank": "9",
-      "title": "Chovy 在 S15 半决赛上遭 BDD 连续击杀三次，如何评价他的表现？为什么一到世界赛他就疲软？",
-      "link": "https://www.zhihu.com/question/1968027586656432177",
-      "heat": "89 万热度"
+      "title": "为什么 Canyon 在 S15 全球总决赛上的表现如此平庸？",
+      "link": "https://www.zhihu.com/question/1968028297280579304",
+      "heat": "79 万热度"
     },
     {
       "rank": "10",
-      "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-      "link": "https://www.zhihu.com/question/1967273703189480617",
-      "heat": "85 万热度"
+      "title": "HPV 疫苗纳入国家免疫规划，将为年满 13 周岁女孩免费接种双价 HPV 疫苗，有哪些重要意义？",
+      "link": "https://www.zhihu.com/question/1967306897452398261",
+      "heat": "78 万热度"
     },
     {
       "rank": "11",
-      "title": "HPV 疫苗纳入国家免疫规划，将为年满 13 周岁女孩免费接种双价 HPV 疫苗，有哪些重要意义？",
-      "link": "https://www.zhihu.com/question/1967306897452398261",
-      "heat": "83 万热度"
+      "title": "《士兵突击》许三多在老 A 体检中如果背着伍六一没有拿到第三个名额，袁朗会怎么做？",
+      "link": "https://www.zhihu.com/question/648993499",
+      "heat": "73 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么 Canyon 在 S15 全球总决赛上的表现如此平庸？",
-      "link": "https://www.zhihu.com/question/1968028297280579304",
-      "heat": "82 万热度"
-    },
-    {
-      "rank": "13",
-      "title": "杨振宁先生说海森堡是伟大的物理学家，但不喜欢他的研究方法（taste），海森堡的研究方法是怎样的？",
-      "link": "https://www.zhihu.com/question/1964049209050247941",
-      "heat": "81 万热度"
-    },
-    {
-      "rank": "14",
-      "title": "《士兵突击》许三多在老 A 体检中如果背着伍六一没有拿到第三个名额，袁朗会怎么做？",
-      "link": "https://www.zhihu.com/question/648993499",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "腾网米都在押注的 UGC，对游戏究竟意味着什么？",
-      "link": "https://www.zhihu.com/question/1966832798489876124",
-      "heat": "71 万热度"
-    },
-    {
-      "rank": "16",
       "title": "你最喜欢的西式早餐是什么？",
       "link": "https://www.zhihu.com/question/1964448222761187002",
       "heat": "70 万热度"
     },
     {
-      "rank": "17",
-      "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1967877511644935498",
+      "rank": "13",
+      "title": "Chovy 在 S15 半决赛上遭 BDD 连续击杀三次，如何评价他的表现？为什么一到世界赛他就疲软？",
+      "link": "https://www.zhihu.com/question/1968027586656432177",
+      "heat": "69 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "腾网米都在押注的 UGC，对游戏究竟意味着什么？",
+      "link": "https://www.zhihu.com/question/1966832798489876124",
       "heat": "67 万热度"
     },
     {
-      "rank": "18",
+      "rank": "15",
       "title": "有哪些像东罗马那样曾经是一个大国但是领土逐步被蚕食到几乎只剩首都后才亡国的国家？",
       "link": "https://www.zhihu.com/question/433023905",
       "heat": "66 万热度"
     },
     {
-      "rank": "19",
+      "rank": "16",
+      "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1967877511644935498",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "17",
       "title": "果冻里的「蒟蒻」到底是什么？它跟普通果冻有什么区别？",
       "link": "https://www.zhihu.com/question/1963509096016737075",
       "heat": "61 万热度"
     },
     {
-      "rank": "20",
+      "rank": "18",
+      "title": "游戏大厂的重点项目为什么会暴死？",
+      "link": "https://www.zhihu.com/question/1966538200567744500",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "19",
       "title": "满汉全席到底都有什么？",
       "link": "https://www.zhihu.com/question/21220526",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "目前你最常用的邮箱是哪个？觉得哪个邮箱最好用？",
+      "link": "https://www.zhihu.com/question/19740776",
       "heat": "59 万热度"
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "rank": "22",
-      "title": "目前你最常用的邮箱是哪个？觉得哪个邮箱最好用？",
-      "link": "https://www.zhihu.com/question/19740776",
+      "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+      "link": "https://www.zhihu.com/question/1967273703189480617",
       "heat": "59 万热度"
     },
     {
@@ -150,13 +150,13 @@
       "rank": "25",
       "title": "韩国的国宴菜是什么呢？",
       "link": "https://www.zhihu.com/question/9205471004",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "26",
       "title": "夺冠大热门 GEN 爆冷不敌 KT 止步四强，这场比赛他们输在哪？",
       "link": "https://www.zhihu.com/question/1968027161513390697",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "27",
@@ -214,14 +214,14 @@
     },
     {
       "rank": "36",
-      "title": "为什么蝙蝠侠在很多作品中对超人的态度都是不友好的？",
-      "link": "https://www.zhihu.com/question/294413791",
+      "title": "如何评价《原神》2025 年 11 月 1 日更新的幻想真境剧诗（水雷草）?",
+      "link": "https://www.zhihu.com/question/1967842026797109436",
       "heat": "54 万热度"
     },
     {
       "rank": "37",
-      "title": "如何评价《原神》2025 年 11 月 1 日更新的幻想真境剧诗（水雷草）?",
-      "link": "https://www.zhihu.com/question/1967842026797109436",
+      "title": "为什么蝙蝠侠在很多作品中对超人的态度都是不友好的？",
+      "link": "https://www.zhihu.com/question/294413791",
       "heat": "54 万热度"
     },
     {
@@ -268,14 +268,14 @@
     },
     {
       "rank": "45",
-      "title": "龚美卖了刘娥，为什么后面还把他作为刘娥的弟弟提携他呢？",
-      "link": "https://www.zhihu.com/question/604345579",
+      "title": "脑子里一大堆的构思，就是不知道小说怎么开头，怎么办？",
+      "link": "https://www.zhihu.com/question/1966259122581246599",
       "heat": "53 万热度"
     },
     {
       "rank": "46",
-      "title": "脑子里一大堆的构思，就是不知道小说怎么开头，怎么办？",
-      "link": "https://www.zhihu.com/question/1966259122581246599",
+      "title": "龚美卖了刘娥，为什么后面还把他作为刘娥的弟弟提携他呢？",
+      "link": "https://www.zhihu.com/question/604345579",
       "heat": "53 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-11-02 05:19:17"
+  "generated_at": "2025-11-02 05:38:49"
 }
