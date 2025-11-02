@@ -1,126 +1,126 @@
 {
-  "artifact_id": "92ebe5b3-36c6-4e4b-9866-1651c095ff3f",
+  "artifact_id": "100e12a8-c01f-4547-881b-4ef76fdbeae1",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "赵鸿刚扇耳光大赛输了，是因为通背拳不行，还是本人不行？",
       "link": "https://www.zhihu.com/question/1967773494109533845",
-      "heat": "1011 万热度"
+      "heat": "1018 万热度"
     },
     {
       "rank": "2",
       "title": "据说，全球每天消耗 100 亿个二维码，二维码会不会很快被用完？",
       "link": "https://www.zhihu.com/question/2794843333",
-      "heat": "535 万热度"
+      "heat": "538 万热度"
     },
     {
       "rank": "3",
-      "title": "如何看待泰州夺得苏超冠军 ？",
-      "link": "https://www.zhihu.com/question/1968072010585313293",
-      "heat": "335 万热度"
+      "title": "S15 淘汰赛 T1 VS TES，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1968316446720370314",
+      "heat": "406 万热度"
     },
     {
       "rank": "4",
       "title": "波特兰开拓者宣布将杨瀚森下放至球队发展联盟，如何评价这一决定？",
       "link": "https://www.zhihu.com/question/1968137172809934663",
-      "heat": "321 万热度"
+      "heat": "375 万热度"
     },
     {
       "rank": "5",
-      "title": "268 斤男子为减肥做切胃手术，术后第三天在 ICU 身亡，具体情况如何？切胃手术适合所有肥胖者吗？",
-      "link": "https://www.zhihu.com/question/1967991637260067179",
-      "heat": "307 万热度"
+      "title": "如何看待泰州夺得苏超冠军 ？",
+      "link": "https://www.zhihu.com/question/1968072010585313293",
+      "heat": "344 万热度"
     },
     {
       "rank": "6",
       "title": "如何看待王家卫说唐嫣「是个很装的人」，陈道明「阴阳同体」？",
       "link": "https://www.zhihu.com/question/1967580846904046801",
-      "heat": "276 万热度"
+      "heat": "327 万热度"
     },
     {
       "rank": "7",
-      "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-      "link": "https://www.zhihu.com/question/1968007806016819893",
-      "heat": "246 万热度"
+      "title": "268 斤男子为减肥做切胃手术，术后第三天在 ICU 身亡，具体情况如何？切胃手术适合所有肥胖者吗？",
+      "link": "https://www.zhihu.com/question/1967991637260067179",
+      "heat": "309 万热度"
     },
     {
       "rank": "8",
       "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
       "link": "https://www.zhihu.com/question/1967205319198372105",
-      "heat": "245 万热度"
+      "heat": "274 万热度"
     },
     {
       "rank": "9",
-      "title": "在网上看到鳌太线因为气候恶劣被徒步界称为死亡线，我想问如果衣服穿得足够厚实，在这种低温环境下有用吗？",
-      "link": "https://www.zhihu.com/question/1967551228276880679",
-      "heat": "245 万热度"
+      "title": "网上流行的「认准副主任，不找老医生，不找有行政职务的」就医建议，靠谱吗？你平时去医院是怎么挑医生的？",
+      "link": "https://www.zhihu.com/question/1966112870988214912",
+      "heat": "239 万热度"
     },
     {
       "rank": "10",
-      "title": "网上流行的「认准副主任，不找老医生，不找有行政职务的」就医建议，靠谱吗？你平时去医院是怎么挑医生的？",
-      "link": "https://www.zhihu.com/question/1966112870988214912",
-      "heat": "237 万热度"
+      "title": "在网上看到鳌太线因为气候恶劣被徒步界称为死亡线，我想问如果衣服穿得足够厚实，在这种低温环境下有用吗？",
+      "link": "https://www.zhihu.com/question/1967551228276880679",
+      "heat": "239 万热度"
     },
     {
       "rank": "11",
       "title": "石家庄一医院组织全体医护每天下班后跑操，系锻炼身体，鼓励病人参与，如何评价这一举措？",
       "link": "https://www.zhihu.com/question/1967548545780393001",
-      "heat": "207 万热度"
+      "heat": "230 万热度"
     },
     {
       "rank": "12",
-      "title": "AL 对战 T1 的落幕，是否意味着 LPL 赛区的终结？",
-      "link": "https://www.zhihu.com/question/1967683724146635561",
-      "heat": "177 万热度"
+      "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+      "link": "https://www.zhihu.com/question/1968007806016819893",
+      "heat": "222 万热度"
     },
     {
       "rank": "13",
-      "title": "S15 淘汰赛 T1 VS TES，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1968316446720370314",
-      "heat": "173 万热度"
+      "title": "AL 对战 T1 的落幕，是否意味着 LPL 赛区的终结？",
+      "link": "https://www.zhihu.com/question/1967683724146635561",
+      "heat": "185 万热度"
     },
     {
       "rank": "14",
       "title": "中华田园犬那么好养，为什么那么多人不愿意养呢？",
       "link": "https://www.zhihu.com/question/263325093",
-      "heat": "136 万热度"
+      "heat": "132 万热度"
     },
     {
       "rank": "15",
-      "title": "网友提名《风骚律师》《广告狂人》《继承之战》《硅谷》为美剧版四大名著，你认可吗？还有哪些美剧值得推荐？",
-      "link": "https://www.zhihu.com/question/1966847106779149341",
-      "heat": "104 万热度"
+      "title": "如何评价廖凡、尹昉主演的悬疑剧《树影迷宫》？",
+      "link": "https://www.zhihu.com/question/1967785905080203064",
+      "heat": "93 万热度"
     },
     {
       "rank": "16",
       "title": "编剧古二发布《繁花》剧组王家卫和秦雯录音，这种行为算侵犯隐私吗？",
       "link": "https://www.zhihu.com/question/1967905146466952554",
-      "heat": "98 万热度"
+      "heat": "91 万热度"
     },
     {
       "rank": "17",
       "title": "三元锂对比磷酸铁锂到底有什么优势？很多人却说磷酸铁锂比三元锂好，便宜了还能好？",
       "link": "https://www.zhihu.com/question/1924164033554159284",
-      "heat": "95 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "18",
       "title": "如何看待宝鸡文理学院放弃宝鸡大学，拟更名为陕西文理大学？",
       "link": "https://www.zhihu.com/question/1966482615176492036",
-      "heat": "94 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "19",
-      "title": "如何评价廖凡、尹昉主演的悬疑剧《树影迷宫》？",
-      "link": "https://www.zhihu.com/question/1967785905080203064",
-      "heat": "92 万热度"
+      "title": "网友提名《风骚律师》《广告狂人》《继承之战》《硅谷》为美剧版四大名著，你认可吗？还有哪些美剧值得推荐？",
+      "link": "https://www.zhihu.com/question/1966847106779149341",
+      "heat": "88 万热度"
     },
     {
       "rank": "20",
       "title": "怎样评价喜人奇妙夜二中《一颗螺丝钉》讲述的东北故事？唤起了你的哪些记忆？",
       "link": "https://www.zhihu.com/question/1967929733388923094",
-      "heat": "76 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "21",
@@ -136,14 +136,14 @@
     },
     {
       "rank": "23",
-      "title": "贾母为什么不喝六安茶？",
-      "link": "https://www.zhihu.com/question/67035748",
-      "heat": "58 万热度"
+      "title": "星链真的可以取代 5G 吗？",
+      "link": "https://www.zhihu.com/question/647293639",
+      "heat": "57 万热度"
     },
     {
       "rank": "24",
-      "title": "星链真的可以取代 5G 吗？",
-      "link": "https://www.zhihu.com/question/647293639",
+      "title": "贾母为什么不喝六安茶？",
+      "link": "https://www.zhihu.com/question/67035748",
       "heat": "57 万热度"
     },
     {
@@ -156,90 +156,90 @@
       "rank": "26",
       "title": "你认同童年的创伤需要一生治愈吗？",
       "link": "https://www.zhihu.com/question/578328581",
-      "heat": "54 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "27",
       "title": "2526 赛季英超联赛第 10 轮，诺丁汉森林 2:2 曼联，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1968090552269541713",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "正所谓高手在民间，有比 faker 更强的民间高手吗？",
-      "link": "https://www.zhihu.com/question/1961853688445400008",
       "heat": "50 万热度"
     },
     {
-      "rank": "29",
+      "rank": "28",
       "title": "《崩坏：星穹铁道》明明有那么多版本可以送角色，为何非要到版本末期送出托帕，是有什么用意吗？",
       "link": "https://www.zhihu.com/question/1967722088304452628",
       "heat": "50 万热度"
     },
     {
-      "rank": "30",
+      "rank": "29",
       "title": "为什么蝙蝠侠在很多作品中对超人的态度都是不友好的？",
       "link": "https://www.zhihu.com/question/294413791",
       "heat": "50 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "电脑键盘上没有哪个键影响最小？",
       "link": "https://www.zhihu.com/question/1966988113671861773",
       "heat": "50 万热度"
     },
     {
-      "rank": "32",
+      "rank": "31",
       "title": "汉服有发展的生命力吗？",
       "link": "https://www.zhihu.com/question/11807331842",
       "heat": "50 万热度"
     },
     {
-      "rank": "33",
+      "rank": "32",
       "title": "为啥德国人的英语比英国人更容易听懂？",
       "link": "https://www.zhihu.com/question/630906268",
       "heat": "50 万热度"
     },
     {
-      "rank": "34",
+      "rank": "33",
       "title": "如何评价 Flandre（圣枪哥）在 S15 全球总决赛上的表现？",
       "link": "https://www.zhihu.com/question/1967679929069035949",
       "heat": "50 万热度"
     },
     {
-      "rank": "35",
+      "rank": "34",
       "title": "一开始关系很好的领导，突然变得冷漠，怎么回事?",
       "link": "https://www.zhihu.com/question/1946976453183898512",
       "heat": "50 万热度"
     },
     {
-      "rank": "36",
+      "rank": "35",
       "title": "前 PlayStation 高管称服务型游戏其实不是真正的游戏，对此你怎么看？",
       "link": "https://www.zhihu.com/question/1966069678653829617",
       "heat": "50 万热度"
     },
     {
-      "rank": "37",
-      "title": "从「夯」到「拉完了」，你会如何给 2025 年发售的游戏排名？",
-      "link": "https://www.zhihu.com/question/1967616255440684933",
+      "rank": "36",
+      "title": "正所谓高手在民间，有比 faker 更强的民间高手吗？",
+      "link": "https://www.zhihu.com/question/1961853688445400008",
       "heat": "50 万热度"
     },
     {
-      "rank": "38",
+      "rank": "37",
       "title": "如何才能做出很好吃的卤肉？有秘方吗？",
       "link": "https://www.zhihu.com/question/22391410",
       "heat": "50 万热度"
     },
     {
-      "rank": "39",
+      "rank": "38",
       "title": "为什么最能干的人，往往不是公司一把手？",
       "link": "https://www.zhihu.com/question/1950509521635111368",
       "heat": "50 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "国产阳光玫瑰葡萄被曝贴上「晴王」标签后涨价数倍，「晴王」葡萄有哪些特别之处？消费者该怎样辨别？",
       "link": "https://www.zhihu.com/question/1967526974424586176",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "古代发展经济，除了兴修水利、「永不加赋」，就没别的办法了吧？",
+      "link": "https://www.zhihu.com/question/612501931",
       "heat": "50 万热度"
     },
     {
@@ -250,58 +250,58 @@
     },
     {
       "rank": "42",
-      "title": "古代发展经济，除了兴修水利、「永不加赋」，就没别的办法了吧？",
-      "link": "https://www.zhihu.com/question/612501931",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "43",
       "title": "如何评价综艺《再见爱人 第五季》第二期？",
       "link": "https://www.zhihu.com/question/1964661765418750417",
       "heat": "50 万热度"
     },
     {
-      "rank": "44",
+      "rank": "43",
       "title": "如何评价《崩坏： 星穹铁道》战前快讯•其四 | 战场即时通讯？",
       "link": "https://www.zhihu.com/question/1967927100800504998",
       "heat": "50 万热度"
     },
     {
-      "rank": "45",
+      "rank": "44",
       "title": "不明白为什么小贝对海藻那么好，海藻还是要背叛小贝？",
       "link": "https://www.zhihu.com/question/29126440",
       "heat": "50 万热度"
     },
     {
-      "rank": "46",
+      "rank": "45",
       "title": "有哪些少见但是绝妙的食材搭配？",
       "link": "https://www.zhihu.com/question/20778995",
       "heat": "50 万热度"
     },
     {
-      "rank": "47",
+      "rank": "46",
       "title": "如何评价《原神》2025 年 11 月 1 日更新的幻想真境剧诗（水雷草）?",
       "link": "https://www.zhihu.com/question/1967842026797109436",
       "heat": "50 万热度"
     },
     {
-      "rank": "48",
-      "title": "龚美卖了刘娥，为什么后面还把他作为刘娥的弟弟提携他呢？",
-      "link": "https://www.zhihu.com/question/604345579",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "49",
+      "rank": "47",
       "title": "王者主播为什么感觉不受 elo 机制影响?",
       "link": "https://www.zhihu.com/question/604482083",
       "heat": "50 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "韩国的国宴菜是什么呢？",
       "link": "https://www.zhihu.com/question/9205471004",
       "heat": "50 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+      "link": "https://www.zhihu.com/question/1967273703189480617",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "2526 赛季 NBA 常规赛勇士 109:114 步行者，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1968214323013850899",
+      "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-02 16:44:36"
+  "generated_at": "2025-11-02 16:57:28"
 }
