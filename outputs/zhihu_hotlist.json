@@ -1,114 +1,114 @@
 {
-  "artifact_id": "e01e4e21-1d23-4e1b-96c5-b7ed64c0f43c",
+  "artifact_id": "ea01aaa3-d68b-43cb-9ee6-58ad6cee779d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "S15 半决赛 T1 3:0 淘汰 TES 晋级总决赛将冲击三连冠，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1968316446720370314",
-      "heat": "1997 万热度"
+      "heat": "1518 万热度"
     },
     {
       "rank": "2",
       "title": "男子曝顺丰寄 40 万劳力士不翼而飞，真实情况如何？若属实，谁该为此事件负责？",
       "link": "https://www.zhihu.com/question/1967646386322384791",
-      "heat": "607 万热度"
+      "heat": "590 万热度"
     },
     {
       "rank": "3",
       "title": "11 月 2 日全运会女子团体双人 10 米跳台，全红婵搭档王伟莹出战夺得第一，如何评价她们的表现？",
       "link": "https://www.zhihu.com/question/1968412137752847700",
-      "heat": "406 万热度"
+      "heat": "342 万热度"
     },
     {
       "rank": "4",
-      "title": "为什么上班摸鱼一整天，反而比全力以赴工作还要累？",
-      "link": "https://www.zhihu.com/question/1966876044880492136",
-      "heat": "189 万热度"
-    },
-    {
-      "rank": "5",
       "title": "番茄和起点这俩小说平台谁会先坚持不住？",
       "link": "https://www.zhihu.com/question/1965801371031798463",
-      "heat": "164 万热度"
-    },
-    {
-      "rank": "6",
-      "title": "S15 总决赛 T1 vs KT，你觉得谁能最终夺得今年全球总决赛的冠军？",
-      "link": "https://www.zhihu.com/question/1968370320269342617",
       "heat": "163 万热度"
     },
     {
+      "rank": "5",
+      "title": "为什么上班摸鱼一整天，反而比全力以赴工作还要累？",
+      "link": "https://www.zhihu.com/question/1966876044880492136",
+      "heat": "130 万热度"
+    },
+    {
+      "rank": "6",
+      "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
+      "link": "https://www.zhihu.com/question/1968075475093034371",
+      "heat": "125 万热度"
+    },
+    {
       "rank": "7",
-      "title": "S15 全球总决赛 LPL 时隔 2 年再度无缘决赛，现在 LPL 赛区和 LCK 赛区差距体现在哪？",
-      "link": "https://www.zhihu.com/question/1968370854594311252",
-      "heat": "137 万热度"
+      "title": "广西一高校规定学生没课也不能待宿舍，校方称「为督促锻炼学生，不然容易懒散」，如何看待校方的管理方式？",
+      "link": "https://www.zhihu.com/question/1968026286434771017",
+      "heat": "124 万热度"
     },
     {
       "rank": "8",
       "title": "荷兰安世停止向中国工厂供应晶圆，安世中国称「已建立充足成品与在制品库存」，此次断供影响有多大？",
       "link": "https://www.zhihu.com/question/1968280135229728427",
-      "heat": "135 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "9",
-      "title": "广西一高校规定学生没课也不能待宿舍，校方称「为督促锻炼学生，不然容易懒散」，如何看待校方的管理方式？",
-      "link": "https://www.zhihu.com/question/1968026286434771017",
-      "heat": "133 万热度"
+      "title": "孩子应该早点见识社会真正的一面还是晚一点呢？",
+      "link": "https://www.zhihu.com/question/1958906719741675199",
+      "heat": "114 万热度"
     },
     {
       "rank": "10",
-      "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
-      "link": "https://www.zhihu.com/question/1968075475093034371",
-      "heat": "127 万热度"
+      "title": "一个在国内就非常喜欢西餐的人到了欧美是怎么样的体验？",
+      "link": "https://www.zhihu.com/question/649452297",
+      "heat": "111 万热度"
     },
     {
       "rank": "11",
-      "title": "孩子应该早点见识社会真正的一面还是晚一点呢？",
-      "link": "https://www.zhihu.com/question/1958906719741675199",
-      "heat": "115 万热度"
+      "title": "S15 总决赛 T1 vs KT，你觉得谁能最终夺得今年全球总决赛的冠军？",
+      "link": "https://www.zhihu.com/question/1968370320269342617",
+      "heat": "109 万热度"
     },
     {
       "rank": "12",
-      "title": "一个在国内就非常喜欢西餐的人到了欧美是怎么样的体验？",
-      "link": "https://www.zhihu.com/question/649452297",
-      "heat": "112 万热度"
+      "title": "S15 全球总决赛 LPL 时隔 2 年再度无缘决赛，现在 LPL 赛区和 LCK 赛区差距体现在哪？",
+      "link": "https://www.zhihu.com/question/1968370854594311252",
+      "heat": "103 万热度"
     },
     {
       "rank": "13",
       "title": "S15 淘汰赛 T1 3 比 0 淘汰 TES，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1968366016955408873",
-      "heat": "97 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "14",
-      "title": "如何评价 Kanavi 在 S15 全球总决赛上的表现？",
-      "link": "https://www.zhihu.com/question/1968371694604349912",
-      "heat": "91 万热度"
+      "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
+      "link": "https://www.zhihu.com/question/628507781",
+      "heat": "86 万热度"
     },
     {
       "rank": "15",
       "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
       "link": "https://www.zhihu.com/question/1968007806016819893",
-      "heat": "86 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "16",
       "title": "如何看待王家卫说唐嫣「是个很装的人」，陈道明「阴阳同体」？",
       "link": "https://www.zhihu.com/question/1967580846904046801",
-      "heat": "85 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "17",
-      "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
-      "link": "https://www.zhihu.com/question/628507781",
-      "heat": "85 万热度"
+      "title": "网上流行的「认准副主任，不找老医生，不找有行政职务的」就医建议，靠谱吗？你平时去医院是怎么挑医生的？",
+      "link": "https://www.zhihu.com/question/1966112870988214912",
+      "heat": "81 万热度"
     },
     {
       "rank": "18",
-      "title": "网上流行的「认准副主任，不找老医生，不找有行政职务的」就医建议，靠谱吗？你平时去医院是怎么挑医生的？",
-      "link": "https://www.zhihu.com/question/1966112870988214912",
-      "heat": "82 万热度"
+      "title": "如何评价 Kanavi 在 S15 全球总决赛上的表现？",
+      "link": "https://www.zhihu.com/question/1968371694604349912",
+      "heat": "81 万热度"
     },
     {
       "rank": "19",
@@ -118,15 +118,15 @@
     },
     {
       "rank": "20",
-      "title": "第一届苏超结束了，大家觉得今后的苏超会怎么发展？",
-      "link": "https://www.zhihu.com/question/1968079528669733424",
-      "heat": "78 万热度"
+      "title": "存款有 100 万时，你们内心会有什么感觉？",
+      "link": "https://www.zhihu.com/question/435393939",
+      "heat": "74 万热度"
     },
     {
       "rank": "21",
-      "title": "存款有 100 万时，你们内心会有什么感觉？",
-      "link": "https://www.zhihu.com/question/435393939",
-      "heat": "75 万热度"
+      "title": "第一届苏超结束了，大家觉得今后的苏超会怎么发展？",
+      "link": "https://www.zhihu.com/question/1968079528669733424",
+      "heat": "72 万热度"
     },
     {
       "rank": "22",
@@ -144,7 +144,7 @@
       "rank": "24",
       "title": "如何评价《崩坏：星穹铁道》昔涟角色 PV：「再度和你」？",
       "link": "https://www.zhihu.com/question/1968288653907302252",
-      "heat": "67 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "25",
@@ -216,7 +216,7 @@
       "rank": "36",
       "title": "当遇到学生故意挑事，老师除了忍气吞声还能怎么办？该如何更好的保护自己？",
       "link": "https://www.zhihu.com/question/1967617908432662784",
-      "heat": "54 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "37",
@@ -244,14 +244,14 @@
     },
     {
       "rank": "41",
-      "title": "如何评价 2025 ICPC 武汉站？",
-      "link": "https://www.zhihu.com/question/1962634569766405785",
+      "title": "「先净化再矿化」，格力 6 个 9 锌矿水净水机核心技术有哪些？比传统净水有何不同？",
+      "link": "https://www.zhihu.com/question/1963650221683774754",
       "heat": "52 万热度"
     },
     {
       "rank": "42",
-      "title": "「先净化再矿化」，格力 6 个 9 锌矿水净水机核心技术有哪些？比传统净水有何不同？",
-      "link": "https://www.zhihu.com/question/1963650221683774754",
+      "title": "如何评价 2025 ICPC 武汉站？",
+      "link": "https://www.zhihu.com/question/1962634569766405785",
       "heat": "52 万热度"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "rank": "44",
-      "title": "星链真的可以取代5G吗？",
-      "link": "https://www.zhihu.com/question/647293639",
+      "title": "为什么陈建斌在《甄嬛传》里面的表演几乎没什么表情？",
+      "link": "https://www.zhihu.com/question/449473743",
       "heat": "52 万热度"
     },
     {
       "rank": "45",
-      "title": "为什么陈建斌在《甄嬛传》里面的表演几乎没什么表情？",
-      "link": "https://www.zhihu.com/question/449473743",
+      "title": "星链真的可以取代 5G 吗？",
+      "link": "https://www.zhihu.com/question/647293639",
       "heat": "52 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "苏超总决赛，泰州队战胜南通队夺冠，南通队败在哪儿了？",
-      "link": "https://www.zhihu.com/question/1968074524294608435",
-      "heat": "51 万热度"
+      "title": "明代运粮为何不走海运？",
+      "link": "https://www.zhihu.com/question/527845779",
+      "heat": "50 万热度"
     },
     {
       "rank": "50",
-      "title": "明代运粮为何不走海运？",
-      "link": "https://www.zhihu.com/question/527845779",
-      "heat": "51 万热度"
+      "title": "如何评价廖凡、尹昉主演的悬疑剧《树影迷宫》？",
+      "link": "https://www.zhihu.com/question/1967785905080203064",
+      "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-03 04:24:32"
+  "generated_at": "2025-11-03 04:40:45"
 }
