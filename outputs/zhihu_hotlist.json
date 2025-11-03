@@ -1,156 +1,156 @@
 {
-  "artifact_id": "125985ad-fa82-42e0-a7f1-70e89eecacb3",
+  "artifact_id": "43ded923-7850-4ec5-b729-56e4e64d962d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "如何看待上海交大 2026 年计划招 5000 名博士？",
       "link": "https://www.zhihu.com/question/1968365487483216075",
-      "heat": "1442 万热度"
+      "heat": "1455 万热度"
     },
     {
       "rank": "2",
       "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
       "link": "https://www.zhihu.com/question/628507781",
-      "heat": "291 万热度"
+      "heat": "285 万热度"
     },
     {
       "rank": "3",
       "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
       "link": "https://www.zhihu.com/question/1968223817403954668",
-      "heat": "236 万热度"
+      "heat": "241 万热度"
     },
     {
       "rank": "4",
       "title": "世界第一款家用人形机器人开卖，只能完成叠衣服等三件事，售价 14 万元，你觉得值吗？未来发展前景如何？",
       "link": "https://www.zhihu.com/question/1967560363227702533",
-      "heat": "216 万热度"
+      "heat": "215 万热度"
     },
     {
       "rank": "5",
       "title": "T1 及 Faker 达成横跨十二年的对 LPL 十三战全胜，今年赛前普遍不被看好的他们做了哪些改变？",
       "link": "https://www.zhihu.com/question/1968373492257878662",
-      "heat": "191 万热度"
+      "heat": "195 万热度"
     },
     {
       "rank": "6",
-      "title": "杨国福麻辣烫回应「 1 斤豆芽卖 28 元」，表示没有对全国的店面进行统一要求，如何看待这一定价争议？",
-      "link": "https://www.zhihu.com/question/1968218282403268597",
-      "heat": "180 万热度"
+      "title": "王家卫录音被曝光之后，会影响到他在圈内的地位吗？还有人愿意拍他的电影电视剧吗？",
+      "link": "https://www.zhihu.com/question/1968447685422965890",
+      "heat": "183 万热度"
     },
     {
       "rank": "7",
-      "title": "王家卫录音被曝光之后，会影响到他在圈内的地位吗？还有人愿意拍他的电影电视剧吗？",
-      "link": "https://www.zhihu.com/question/1968447685422965890",
-      "heat": "161 万热度"
+      "title": "杨国福麻辣烫回应「 1 斤豆芽卖 28 元」，表示没有对全国的店面进行统一要求，如何看待这一定价争议？",
+      "link": "https://www.zhihu.com/question/1968218282403268597",
+      "heat": "165 万热度"
     },
     {
       "rank": "8",
       "title": "知名经济学家洪灏进军知识付费，8 天入账 675 万元，如何看待此事？前首席们做知识付费是否会存在合规风险？",
       "link": "https://www.zhihu.com/question/1968075469229396648",
-      "heat": "145 万热度"
+      "heat": "148 万热度"
     },
     {
       "rank": "9",
-      "title": "为什么 LLM 仅预测下一词，就能「涌现」出高级能力？",
-      "link": "https://www.zhihu.com/question/1968361285579150015",
-      "heat": "133 万热度"
+      "title": "如何看待苏超的冠军是泰州队?",
+      "link": "https://www.zhihu.com/question/1968280210660136402",
+      "heat": "134 万热度"
     },
     {
       "rank": "10",
-      "title": "如何看待苏超的冠军是泰州队?",
-      "link": "https://www.zhihu.com/question/1968280210660136402",
-      "heat": "132 万热度"
+      "title": "为什么感觉国产电视剧节奏拖沓？",
+      "link": "https://www.zhihu.com/question/325505333",
+      "heat": "118 万热度"
     },
     {
       "rank": "11",
       "title": "翁青雅采访朱珠自顾自进门、说话卡顿引争议，她这场采访水平如何？其中有哪些问题？",
       "link": "https://www.zhihu.com/question/1968344452138505713",
-      "heat": "127 万热度"
+      "heat": "117 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么感觉国产电视剧节奏拖沓？",
-      "link": "https://www.zhihu.com/question/325505333",
-      "heat": "122 万热度"
+      "title": "为什么 LLM 仅预测下一词，就能「涌现」出高级能力？",
+      "link": "https://www.zhihu.com/question/1968361285579150015",
+      "heat": "117 万热度"
     },
     {
       "rank": "13",
       "title": "王家卫被曝录音中称中国的编剧现在处在黄金时代，真是这样吗？影视编剧行业境况究竟如何？",
       "link": "https://www.zhihu.com/question/1967902830531666243",
-      "heat": "113 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "14",
-      "title": "现在大学高中化是否是一种趋势？",
-      "link": "https://www.zhihu.com/question/645656039",
-      "heat": "105 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "S15 全球总决赛 LPL 时隔 2 年再度无缘决赛，现在 LPL 赛区和 LCK 赛区差距体现在哪？",
-      "link": "https://www.zhihu.com/question/1968370854594311252",
-      "heat": "102 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "A 股原历史顶部吹哨人「宁泉资产」称自 10 月 30 日起，暂停旗下基金的新投资者首次申购申请，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1967155206090397412",
-      "heat": "96 万热度"
-    },
-    {
-      "rank": "17",
       "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
       "link": "https://www.zhihu.com/question/1967568181846602402",
       "heat": "91 万热度"
     },
     {
-      "rank": "18",
-      "title": "职场中自己的工作成果被「窃取」，不能署自己的名字该怎么办？有哪些好的办法为自己正名？",
-      "link": "https://www.zhihu.com/question/1967904513127048603",
-      "heat": "91 万热度"
+      "rank": "15",
+      "title": "现在大学高中化是否是一种趋势？",
+      "link": "https://www.zhihu.com/question/645656039",
+      "heat": "88 万热度"
     },
     {
-      "rank": "19",
-      "title": "11 月 1 日 MLB 世界大赛，道奇总比分 4-3 蓝鸟卫冕，如何评价道奇队的此次夺冠？",
-      "link": "https://www.zhihu.com/question/1968323136337482551",
-      "heat": "91 万热度"
+      "rank": "16",
+      "title": "A 股原历史顶部吹哨人「宁泉资产」称自 10 月 30 日起，暂停旗下基金的新投资者首次申购申请，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1967155206090397412",
+      "heat": "84 万热度"
     },
     {
-      "rank": "20",
-      "title": "喜人奇妙夜里，酷酷的天放带来的《一颗螺丝钉》是喜剧吗，为什么我泪流满面？",
-      "link": "https://www.zhihu.com/question/1967632413942326209",
-      "heat": "86 万热度"
-    },
-    {
-      "rank": "21",
+      "rank": "17",
       "title": "存款利率下滑，银行存款存 5 年不如存 3 年，你还会把钱存入银行吗？",
       "link": "https://www.zhihu.com/question/1966163565539996193",
       "heat": "81 万热度"
     },
     {
-      "rank": "22",
+      "rank": "18",
+      "title": "职场中自己的工作成果被「窃取」，不能署自己的名字该怎么办？有哪些好的办法为自己正名？",
+      "link": "https://www.zhihu.com/question/1967904513127048603",
+      "heat": "79 万热度"
+    },
+    {
+      "rank": "19",
       "title": "如何评价猫这种动物？",
       "link": "https://www.zhihu.com/question/418021726",
       "heat": "78 万热度"
     },
     {
-      "rank": "23",
-      "title": "看完 EVA 终之后最后真嗣离开车站那一幕你心情如何?",
-      "link": "https://www.zhihu.com/question/501643003",
+      "rank": "20",
+      "title": "喜人奇妙夜里，酷酷的天放带来的《一颗螺丝钉》是喜剧吗，为什么我泪流满面？",
+      "link": "https://www.zhihu.com/question/1967632413942326209",
       "heat": "78 万热度"
     },
     {
-      "rank": "24",
+      "rank": "21",
       "title": "2526 赛季 NBA 杯小组赛西部 B 组湖人 117:112 灰熊，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1967889836628217960",
-      "heat": "77 万热度"
+      "heat": "78 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "S15 全球总决赛 LPL 时隔 2 年再度无缘决赛，现在 LPL 赛区和 LCK 赛区差距体现在哪？",
+      "link": "https://www.zhihu.com/question/1968370854594311252",
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "11 月 1 日 MLB 世界大赛，道奇总比分 4-3 蓝鸟卫冕，如何评价道奇队的此次夺冠？",
+      "link": "https://www.zhihu.com/question/1968323136337482551",
+      "heat": "75 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "看完 EVA 终之后最后真嗣离开车站那一幕你心情如何?",
+      "link": "https://www.zhihu.com/question/501643003",
+      "heat": "73 万热度"
     },
     {
       "rank": "25",
       "title": "可以分享一下你们猫猫的可爱瞬间吗？",
       "link": "https://www.zhihu.com/question/5405716334",
-      "heat": "69 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "26",
@@ -162,7 +162,7 @@
       "rank": "27",
       "title": "为什么日系车总是不给试驾，国产车特别是新能源求着你去试驾？",
       "link": "https://www.zhihu.com/question/13109006405",
-      "heat": "67 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "28",
@@ -303,5 +303,5 @@
       "heat": "49 万热度"
     }
   ],
-  "generated_at": "2025-11-03 13:44:25"
+  "generated_at": "2025-11-03 13:57:08"
 }
