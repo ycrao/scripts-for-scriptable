@@ -1,48 +1,48 @@
 {
-  "artifact_id": "16ff83de-dfcb-4d8b-906a-6b0bc2b71012",
+  "artifact_id": "10e2cb9f-9a7e-4267-8cc9-b4fb6ff3a972",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "2026 年部分节假日安排发布，春节连放 9 天，中秋和国庆分开放，你有哪些期待？假期准备做什么？",
       "link": "https://www.zhihu.com/question/1969087619804688444",
-      "heat": "447 万热度"
+      "heat": "403 万热度"
     },
     {
       "rank": "2",
       "title": "长江每天都有鱼被冲入大海，淡水鱼在海中是无法存活，这些鱼去哪里了，被海洋动物吃了吗？",
       "link": "https://www.zhihu.com/question/626800579",
-      "heat": "355 万热度"
+      "heat": "365 万热度"
     },
     {
       "rank": "3",
       "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1969042065313726709",
-      "heat": "234 万热度"
+      "heat": "231 万热度"
     },
     {
       "rank": "4",
       "title": "美国前副总统切尼于 11 月 4 日去世，如何评价他的一生？",
       "link": "https://www.zhihu.com/question/1969137460408713977",
-      "heat": "131 万热度"
+      "heat": "133 万热度"
     },
     {
       "rank": "5",
       "title": "如何评价上海交通大学自 2026 年起对博士生收取 10000 元 / 年的学费？",
       "link": "https://www.zhihu.com/question/1967312658173759743",
-      "heat": "121 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "6",
-      "title": "网友在山姆账号评论区刷屏「退卡、差评、开除 XX 高管」，网友为什么对阿里高管如此抵制？",
-      "link": "https://www.zhihu.com/question/1968748852082339893",
-      "heat": "113 万热度"
+      "title": "个人征信修复将迎新政这预示着什么？",
+      "link": "https://www.zhihu.com/question/1966807993493463132",
+      "heat": "114 万热度"
     },
     {
       "rank": "7",
-      "title": "个人征信修复将迎新政这预示着什么？",
-      "link": "https://www.zhihu.com/question/1966807993493463132",
-      "heat": "111 万热度"
+      "title": "网友在山姆账号评论区刷屏「退卡、差评、开除 XX 高管」，网友为什么对阿里高管如此抵制？",
+      "link": "https://www.zhihu.com/question/1968748852082339893",
+      "heat": "113 万热度"
     },
     {
       "rank": "8",
@@ -52,75 +52,75 @@
     },
     {
       "rank": "9",
-      "title": "89 式重机枪的弹箱为什么只有 50 发子弹，感觉火力持续性不足啊？",
-      "link": "https://www.zhihu.com/question/266313584",
-      "heat": "101 万热度"
-    },
-    {
-      "rank": "10",
-      "title": "翁青雅采访朱珠，这场采访为啥成了「反面典型」？她犯的哪些错误值得职场新人吸取教训？",
-      "link": "https://www.zhihu.com/question/1968703119304167638",
-      "heat": "98 万热度"
-    },
-    {
-      "rank": "11",
       "title": "如何评价黄仁勋与韩财阀吃炸鸡配啤酒高喊「全场免单」？他们为什么不在私人场合聚餐？",
       "link": "https://www.zhihu.com/question/1967610776257798897",
       "heat": "96 万热度"
     },
     {
-      "rank": "12",
-      "title": "很多网友称婴儿有超强握力，能帮妈妈推行李箱，还有人手指曾被握充血，为什么会这样？婴儿的握力究竟有多强？",
-      "link": "https://www.zhihu.com/question/1968627560666591807",
+      "rank": "10",
+      "title": "翁青雅采访朱珠，这场采访为啥成了「反面典型」？她犯的哪些错误值得职场新人吸取教训？",
+      "link": "https://www.zhihu.com/question/1968703119304167638",
       "heat": "91 万热度"
     },
     {
-      "rank": "13",
+      "rank": "11",
       "title": "《潜伏》里的吴敬中为什么结尾非要带走余则成？",
       "link": "https://www.zhihu.com/question/562164231",
       "heat": "90 万热度"
     },
     {
+      "rank": "12",
+      "title": "《笑傲江湖》里，任我行最后暴毙是神来之笔还是潦草结尾？",
+      "link": "https://www.zhihu.com/question/318306686",
+      "heat": "89 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "很多网友称婴儿有超强握力，能帮妈妈推行李箱，还有人手指曾被握充血，为什么会这样？婴儿的握力究竟有多强？",
+      "link": "https://www.zhihu.com/question/1968627560666591807",
+      "heat": "89 万热度"
+    },
+    {
       "rank": "14",
-      "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
-      "link": "https://www.zhihu.com/question/1968612930045059136",
-      "heat": "88 万热度"
+      "title": "89 式重机枪的弹箱为什么只有 50 发子弹，感觉火力持续性不足啊？",
+      "link": "https://www.zhihu.com/question/266313584",
+      "heat": "87 万热度"
     },
     {
       "rank": "15",
-      "title": "《笑傲江湖》里，任我行最后暴毙是神来之笔还是潦草结尾？",
-      "link": "https://www.zhihu.com/question/318306686",
-      "heat": "88 万热度"
-    },
-    {
-      "rank": "16",
       "title": "报道称「全球投资者正以惊人速度从印度撤资」，实际情况如何？印度经济怎么了？",
       "link": "https://www.zhihu.com/question/1966903323778053260",
       "heat": "85 万热度"
     },
     {
+      "rank": "16",
+      "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+      "link": "https://www.zhihu.com/question/1968706446079299701",
+      "heat": "83 万热度"
+    },
+    {
       "rank": "17",
+      "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
+      "link": "https://www.zhihu.com/question/1968612930045059136",
+      "heat": "83 万热度"
+    },
+    {
+      "rank": "18",
       "title": "甘肃一河道现市民淘金潮，有人称一盆就出了 5 克多，个人淘金可能带来哪些影响？将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1968590596072497924",
       "heat": "80 万热度"
     },
     {
-      "rank": "18",
+      "rank": "19",
       "title": "美团骑手「屏蔽恶意顾客」功能全国上线，最多可屏蔽两名用户，屏蔽期为一年，该功能能否满足骑手的实际需求？",
       "link": "https://www.zhihu.com/question/1968340194680874717",
       "heat": "78 万热度"
     },
     {
-      "rank": "19",
+      "rank": "20",
       "title": "为什么越南的历史很长但其领土扩张较为缓慢？",
       "link": "https://www.zhihu.com/question/54140551",
       "heat": "77 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "在「买买买」的时代，你如何看待可持续消费，有哪些挑选产品的原则？",
-      "link": "https://www.zhihu.com/question/1952387520970093502",
-      "heat": "65 万热度"
     },
     {
       "rank": "21",
@@ -142,116 +142,116 @@
     },
     {
       "rank": "24",
-      "title": "Windows 的注册表是个好的设计吗？",
-      "link": "https://www.zhihu.com/question/26898861",
-      "heat": "61 万热度"
-    },
-    {
-      "rank": "25",
       "title": "戴眼镜对一个人的颜值影响有多大？",
       "link": "https://www.zhihu.com/question/268712252",
       "heat": "61 万热度"
     },
     {
-      "rank": "26",
-      "title": "鸟山明画龙珠的时候，有一段时间腹肌画法是错误的，这是为什么？",
-      "link": "https://www.zhihu.com/question/653455688",
-      "heat": "61 万热度"
+      "rank": "25",
+      "title": "在「买买买」的时代，你如何看待可持续消费，有哪些挑选产品的原则？",
+      "link": "https://www.zhihu.com/question/1952387520970093502",
+      "heat": "59 万热度"
     },
     {
-      "rank": "27",
+      "rank": "26",
       "title": "张无忌都顶配了，为什么打一个半吊子周芷若还那么费力？",
       "link": "https://www.zhihu.com/question/1967153421208520173",
       "heat": "59 万热度"
     },
     {
+      "rank": "27",
+      "title": "鸟山明画龙珠的时候，有一段时间腹肌画法是错误的，这是为什么？",
+      "link": "https://www.zhihu.com/question/653455688",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "28",
-      "title": "国产 CPU 目前有没有能运行 Windows 系统的？",
-      "link": "https://www.zhihu.com/question/657531239",
+      "title": "Windows 的注册表是个好的设计吗？",
+      "link": "https://www.zhihu.com/question/26898861",
       "heat": "59 万热度"
     },
     {
       "rank": "29",
-      "title": "如何看待饿了么 App 内测版更名为淘宝闪购？以后饿了么品牌会彻底消失吗？",
-      "link": "https://www.zhihu.com/question/1968646658863658697",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "职场上你拼命努力不一定成功，但不努力更难，怎么办？",
-      "link": "https://www.zhihu.com/question/1913142535318143468",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "31",
       "title": "《明末：渊虚之羽》在整体宣发上让路人也产生了兴趣，但发现好像破圈效果适得其反，这给了游戏发行什么启示？",
       "link": "https://www.zhihu.com/question/1966538200722945291",
       "heat": "59 万热度"
     },
     {
-      "rank": "32",
-      "title": "如何评价《喜人奇妙夜 2》的《坏小子》舞台？",
-      "link": "https://www.zhihu.com/question/1968107866327081356",
+      "rank": "30",
+      "title": "如何看待饿了么 App 内测版更名为淘宝闪购？以后饿了么品牌会彻底消失吗？",
+      "link": "https://www.zhihu.com/question/1968646658863658697",
       "heat": "59 万热度"
     },
     {
-      "rank": "33",
+      "rank": "31",
       "title": "如何评价翁法罗斯倒计时直播「最漫长的一夜」?",
       "link": "https://www.zhihu.com/question/1969134130232010729",
       "heat": "59 万热度"
     },
     {
+      "rank": "32",
+      "title": "国产 CPU 目前有没有能运行 Windows 系统的？",
+      "link": "https://www.zhihu.com/question/657531239",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "职场上你拼命努力不一定成功，但不努力更难，怎么办？",
+      "link": "https://www.zhihu.com/question/1913142535318143468",
+      "heat": "58 万热度"
+    },
+    {
       "rank": "34",
+      "title": "如何评价《喜人奇妙夜 2》的《坏小子》舞台？",
+      "link": "https://www.zhihu.com/question/1968107866327081356",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "35",
       "title": "海洋生物真的拿藤壶一点办法都没有吗？",
       "link": "https://www.zhihu.com/question/4074219450",
       "heat": "58 万热度"
     },
     {
-      "rank": "35",
+      "rank": "36",
       "title": "你是如何度过职场中的艰难时刻的？",
       "link": "https://www.zhihu.com/question/1962501703870940061",
       "heat": "56 万热度"
     },
     {
-      "rank": "36",
+      "rank": "37",
       "title": "如何看待游民评测《欧陆风云 5》获 9.5 高分，被誉为「P 社游戏的集大成者」？",
       "link": "https://www.zhihu.com/question/1967886374104432886",
       "heat": "56 万热度"
     },
     {
-      "rank": "37",
+      "rank": "38",
       "title": "大家怎么看《大宅门》里的杨九红？",
       "link": "https://www.zhihu.com/question/1950684166917195152",
       "heat": "56 万热度"
     },
     {
-      "rank": "38",
+      "rank": "39",
       "title": "为什么《逃离鸭科夫》中，没有一键舔包这种功能，非要一个个把物品点进背包？",
       "link": "https://www.zhihu.com/question/1965018184303224477",
       "heat": "56 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "你能使唤的动你孩子吗？",
       "link": "https://www.zhihu.com/question/1962811497051817982",
       "heat": "56 万热度"
     },
     {
-      "rank": "40",
+      "rank": "41",
       "title": "为什么学完学校的 C++ 课感觉还是什么都做不了？",
       "link": "https://www.zhihu.com/question/625722827",
       "heat": "56 万热度"
     },
     {
-      "rank": "41",
+      "rank": "42",
       "title": "2025 金摇杆奖年度游戏提名公布，你心目中的 2025 年度游戏是哪一款？",
       "link": "https://www.zhihu.com/question/1968801399253984019",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "阿森纳本赛季前 10 轮 25 分，甚至超过不败夺冠赛季同期，这意味着他们具备争冠实力吗？",
-      "link": "https://www.zhihu.com/question/1968680013487399563",
       "heat": "56 万热度"
     },
     {
@@ -262,20 +262,20 @@
     },
     {
       "rank": "44",
+      "title": "阿森纳本赛季前 10 轮 25 分，甚至超过不败夺冠赛季同期，这意味着他们具备争冠实力吗？",
+      "link": "https://www.zhihu.com/question/1968680013487399563",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "45",
       "title": "你如何评价《绝区零》这款游戏？",
       "link": "https://www.zhihu.com/question/660872853",
       "heat": "56 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "为什么你好心提的建议，同事根本不买账？",
       "link": "https://www.zhihu.com/question/1967171263559627217",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "46",
-      "title": "如何看待多地县中引入「云班」模式？这种「超级中学直播课」是县中振兴的出路吗？",
-      "link": "https://www.zhihu.com/question/1967631643641635376",
       "heat": "56 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "56 万热度"
     }
   ],
-  "generated_at": "2025-11-05 06:43:23"
+  "generated_at": "2025-11-05 06:56:25"
 }
