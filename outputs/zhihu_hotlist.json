@@ -1,36 +1,36 @@
 {
-  "artifact_id": "476e2065-ae4a-40ea-ba27-c075f436df00",
+  "artifact_id": "937040f8-e9ed-436b-8a14-cb43d8f15564",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
       "link": "https://www.zhihu.com/question/1970150431255684262",
-      "heat": "1954 万热度"
+      "heat": "1988 万热度"
     },
     {
       "rank": "2",
       "title": "如何看待医学专家在学科年会上称「临床死于 2025」，临床医学发生了什么?",
       "link": "https://www.zhihu.com/question/1969346913871570819",
-      "heat": "708 万热度"
+      "heat": "748 万热度"
     },
     {
       "rank": "3",
       "title": "大学生网购钥匙关掉百部电梯广告，呼吁大众拒绝「侵入式」广告，此举是否有法律风险？还有更好的拒绝办法吗？",
       "link": "https://www.zhihu.com/question/1970556163776012925",
-      "heat": "285 万热度"
+      "heat": "349 万热度"
     },
     {
       "rank": "4",
       "title": "2025 KPL 年度总决赛 AG 4:2 击败重庆狼队夺得队史六连冠，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1970613989303089066",
-      "heat": "223 万热度"
+      "heat": "253 万热度"
     },
     {
       "rank": "5",
       "title": "哈尔滨一小区有人遛企鹅，女子自称企鹅属个人所有，我国有合法流通的宠物企鹅吗？私自饲养是否需担责？",
       "link": "https://www.zhihu.com/question/1970516693529883447",
-      "heat": "196 万热度"
+      "heat": "212 万热度"
     },
     {
       "rank": "6",
@@ -42,96 +42,96 @@
       "rank": "7",
       "title": "王传君拿影帝的东京电影节含金量到底怎么样？",
       "link": "https://www.zhihu.com/question/1969689783266709600",
-      "heat": "87 万热度"
+      "heat": "94 万热度"
     },
     {
       "rank": "8",
-      "title": "NPD 父母会爱自己的孩子吗？",
-      "link": "https://www.zhihu.com/question/641599221",
-      "heat": "84 万热度"
+      "title": "为什么德国的经济越来越差？",
+      "link": "https://www.zhihu.com/question/1944839613060460803",
+      "heat": "88 万热度"
     },
     {
       "rank": "9",
-      "title": "如何评价《唐朝诡事录之长安》「康国的金桃」单元？",
-      "link": "https://www.zhihu.com/question/1970461007009788104",
-      "heat": "78 万热度"
+      "title": "德安德烈·艾顿在湖人场均 17.5 分 8.4 篮板，年薪 810 万，这笔签约是「赚麻了」吗？",
+      "link": "https://www.zhihu.com/question/1970140866552266998",
+      "heat": "88 万热度"
     },
     {
       "rank": "10",
-      "title": "明朝是农耕文明，火绳枪是怎么做出来的，工匠手搓？",
-      "link": "https://www.zhihu.com/question/5538372885",
-      "heat": "77 万热度"
+      "title": "NPD 父母会爱自己的孩子吗？",
+      "link": "https://www.zhihu.com/question/641599221",
+      "heat": "88 万热度"
     },
     {
       "rank": "11",
-      "title": "领导总喜欢把责任推给下属，该如何应对呢？",
-      "link": "https://www.zhihu.com/question/599683212",
-      "heat": "74 万热度"
+      "title": "2526 赛季 NBA 常规赛湖人 102:122 老鹰，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1970781046896308738",
+      "heat": "87 万热度"
     },
     {
       "rank": "12",
-      "title": "为什么德国的经济越来越差？",
-      "link": "https://www.zhihu.com/question/1944839613060460803",
-      "heat": "73 万热度"
+      "title": "如何评价《唐朝诡事录之长安》「康国的金桃」单元？",
+      "link": "https://www.zhihu.com/question/1970461007009788104",
+      "heat": "84 万热度"
     },
     {
       "rank": "13",
-      "title": "关于欧拉角万向锁一直搞不明白万向锁为啥会形成？",
-      "link": "https://www.zhihu.com/question/433208062",
-      "heat": "59 万热度"
+      "title": "领导总喜欢把责任推给下属，该如何应对呢？",
+      "link": "https://www.zhihu.com/question/599683212",
+      "heat": "76 万热度"
     },
     {
       "rank": "14",
-      "title": "赛力斯前三季度净利润同比增长 31.56%，问界 M9 累计交付破 25 万台，赛力斯发展前景如何？",
-      "link": "https://www.zhihu.com/question/1967352946338562602",
-      "heat": "59 万热度"
+      "title": "王允的连环计为什么没有被识破？",
+      "link": "https://www.zhihu.com/question/38026017",
+      "heat": "65 万热度"
     },
     {
       "rank": "15",
       "title": "为什么东北农民很乐观，如《刘老根》《乡村爱情》，而东北工人很悲观，如漫长的季节、钢的琴、平原的摩西？",
       "link": "https://www.zhihu.com/question/1964481471877198216",
-      "heat": "58 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "16",
       "title": "饭店为防食客腹泻在菜里加抗生素，健康的人吃抗生素有哪些潜在风险？涉事人员将承担哪些法律责任？",
       "link": "https://www.zhihu.com/question/1969823928944914519",
-      "heat": "58 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "17",
       "title": "频繁交易是投资者的大忌，那为什么高度频繁的量化交易却盈利能力相当厉害？",
       "link": "https://www.zhihu.com/question/663447112",
-      "heat": "58 万热度"
+      "heat": "59 万热度"
     },
     {
       "rank": "18",
-      "title": "网友吐槽粒上皇遇 17 元烤红薯刺客，粒上皇回应「实行分城市统一定价」，这个定价贵吗？值得买吗？",
-      "link": "https://www.zhihu.com/question/1970190446509650306",
-      "heat": "58 万热度"
+      "title": "赛力斯前三季度净利润同比增长 31.56%，问界 M9 累计交付破 25 万台，赛力斯发展前景如何？",
+      "link": "https://www.zhihu.com/question/1967352946338562602",
+      "heat": "59 万热度"
     },
     {
       "rank": "19",
+      "title": "明朝是农耕文明，火绳枪是怎么做出来的，工匠手搓？",
+      "link": "https://www.zhihu.com/question/5538372885",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "关于欧拉角万向锁一直搞不明白万向锁为啥会形成？",
+      "link": "https://www.zhihu.com/question/433208062",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
       "title": "《繁花》剧组发声明，称古二为一己私欲泄愤，非法录音且存大量失实已取证，如何看待这一回应？能挽回口碑吗？",
       "link": "https://www.zhihu.com/question/1970585876410099280",
       "heat": "56 万热度"
     },
     {
-      "rank": "20",
-      "title": "王允的连环计为什么没有被识破？",
-      "link": "https://www.zhihu.com/question/38026017",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "21",
+      "rank": "22",
       "title": "昔涟，是桃子，是爱，如何评价 PhiLia093= 桃子这一段剧情？",
       "link": "https://www.zhihu.com/question/1970271063754670763",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "让现在的黄河改道流入黄海，从长远看是否更有利？",
-      "link": "https://www.zhihu.com/question/24975318",
       "heat": "54 万热度"
     },
     {
@@ -142,166 +142,166 @@
     },
     {
       "rank": "24",
-      "title": "今年马上入冬的时间，你有给幼儿园，学龄期孩子接种流感疫苗吗，有必要接种吗？",
-      "link": "https://www.zhihu.com/question/1964261508314826009",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "25",
       "title": "如果月薪过万，你还会去吃 10 元一顿的快餐吗？",
       "link": "https://www.zhihu.com/question/1952199622438150237",
       "heat": "52 万热度"
     },
     {
-      "rank": "26",
-      "title": "如何评价综艺《喜人奇妙夜》第二季的第七期？",
-      "link": "https://www.zhihu.com/question/1970089540279604702",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "断舍离的精髓在哪里？",
-      "link": "https://www.zhihu.com/question/25044125",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "四驱对于轿车的意义大吗？",
-      "link": "https://www.zhihu.com/question/39594424",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "可以说一说最近吃到的比较惊艳的美食吗？",
-      "link": "https://www.zhihu.com/question/8289624311",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "兔子为什么无法超越猫咪在宠物中的地位？",
-      "link": "https://www.zhihu.com/question/1948001696778295260",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "意难平到底是种什么心情？",
-      "link": "https://www.zhihu.com/question/307936891",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "父亲糖尿病不忌口，随机血糖 19.1 照样继续吃甜，谁也劝不了，想请大家帮忙支招，这种情况到底该怎么办？",
-      "link": "https://www.zhihu.com/question/1941862176492069632",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "如何评价电视剧《树影迷宫》大结局？和你预想的一样吗？",
-      "link": "https://www.zhihu.com/question/1970195731961872748",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "杨瀚森回应最近争议，称「联合试训和夏季联赛时还好，但季前赛开始就感觉自己非常渺小」，你怎么看？",
-      "link": "https://www.zhihu.com/question/1970154530403481575",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "考上重点高中的人脑子是不是都很聪明?",
-      "link": "https://www.zhihu.com/question/662051694",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "如何评价辛芷蕾、张颂文主演的电影《日掛中天》？",
-      "link": "https://www.zhihu.com/question/1969848560364295109",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "请问，工程师和科学家的区别，特征是什么？",
-      "link": "https://www.zhihu.com/question/624591733",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "六耳猕猴明知道自己是假的，为什么还敢去见如来？",
-      "link": "https://www.zhihu.com/question/7722042462",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "辛芷蕾回应郝蕾「凭扯头发拿影后」言论，称「看片段不如看全貌」，你认同吗？演员获奖应该用什么标准衡量？",
-      "link": "https://www.zhihu.com/question/1970122941825024307",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "40",
+      "rank": "25",
       "title": "零基础怎么学做饭？",
       "link": "https://www.zhihu.com/question/21309096",
       "heat": "52 万热度"
     },
     {
-      "rank": "41",
+      "rank": "26",
       "title": "西方帝王为什么不爱修宏伟建筑？",
       "link": "https://www.zhihu.com/question/1969450479458169406",
       "heat": "52 万热度"
     },
     {
-      "rank": "42",
+      "rank": "27",
       "title": "有哪些好的面试技巧？",
       "link": "https://www.zhihu.com/question/266470580",
       "heat": "52 万热度"
     },
     {
-      "rank": "43",
-      "title": "领导把我当工具人怎么办?",
-      "link": "https://www.zhihu.com/question/358995357",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "44",
+      "rank": "28",
       "title": "为什么昔涟不能在填补过去的同时，复制一个小昔涟迎接未来？",
       "link": "https://www.zhihu.com/question/1969818504971677846",
       "heat": "52 万热度"
     },
     {
-      "rank": "45",
+      "rank": "29",
       "title": "北方人吃面食，那做酒席也是以面食为主吗？",
       "link": "https://www.zhihu.com/question/1969191347807315391",
       "heat": "52 万热度"
     },
     {
-      "rank": "46",
+      "rank": "30",
+      "title": "领导把我当工具人怎么办?",
+      "link": "https://www.zhihu.com/question/358995357",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "31",
       "title": "2025 年第三季度丰田利润 8340 亿日元（386.84 亿人民币）同比下降近 28%，如何看待这一数据？",
       "link": "https://www.zhihu.com/question/1969753534430937544",
       "heat": "52 万热度"
     },
     {
-      "rank": "47",
-      "title": "如何判断一个人是不是「潜力股」？",
-      "link": "https://www.zhihu.com/question/1964639654130223071",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "48",
+      "rank": "32",
       "title": "凌晨 12 点，老板通知你明天起出差 3 天，但恰好家里没人看孩子，你会怎么做？",
       "link": "https://www.zhihu.com/question/1948010168773215487",
       "heat": "52 万热度"
     },
     {
-      "rank": "49",
+      "rank": "33",
+      "title": "如何判断一个人是不是「潜力股」？",
+      "link": "https://www.zhihu.com/question/1964639654130223071",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "34",
       "title": "2025/2026 云南买房可行吗？",
       "link": "https://www.zhihu.com/question/1935665805128865011",
       "heat": "52 万热度"
     },
     {
-      "rank": "50",
+      "rank": "35",
       "title": "孩子二年级在学校被一个学生经常欺负，让老师换了座位，今天又被打了，孩子有点害怕，我不知道咋教了？",
       "link": "https://www.zhihu.com/question/1968842487608107736",
       "heat": "52 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "2526 赛季 NBA 杯小组赛西部 C 组勇士 104:129 掘金，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1970449005025665980",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "审计署为啥叫署，不叫审计部？",
+      "link": "https://www.zhihu.com/question/14821192348",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "如何评价《三角洲行动》S7 赛季的全部改动？",
+      "link": "https://www.zhihu.com/question/1966510573794582721",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "用了八场比赛，克里斯 - 保罗终于打破三分线内进球荒，为何他今年进攻状态突然这么差？",
+      "link": "https://www.zhihu.com/question/1970085008149538753",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "内向的孩子，就一定要让 ta 多说话，努力变得「外向」吗？",
+      "link": "https://www.zhihu.com/question/1953444015082013981",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "良渚古城遗址到底应该属于文明还是文化？",
+      "link": "https://www.zhihu.com/question/586939073",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "42",
+      "title": "战略和战术有什么区别？",
+      "link": "https://www.zhihu.com/question/50239387",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "43",
+      "title": "父母是如何影响孩子的三观的？",
+      "link": "https://www.zhihu.com/question/1968936488696780087",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "如何看待郭帆称《流浪地球 3》还会找徐工集团合作？",
+      "link": "https://www.zhihu.com/question/586806223",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "飞行员的价值超过他驾驶的那架飞机，这个观念什么时候形成的？",
+      "link": "https://www.zhihu.com/question/1968686952128709219",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "祁同伟死后，梁璐的生活会有哪些变化？",
+      "link": "https://www.zhihu.com/question/1920056295068770597",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "杭州一小学学生列队向老师车辆敬礼问好，校方称系学生自发，这是培养礼仪还是形式主义？",
+      "link": "https://www.zhihu.com/question/1969848660905943749",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "辛芷蕾回应郝蕾「凭扯头发拿影后」言论，称「看片段不如看全貌」，你认同吗？演员获奖应该用什么标准衡量？",
+      "link": "https://www.zhihu.com/question/1970122941825024307",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如何评价比亚迪海狮 06 上市 100 天就达成十万辆？这款车靠什么赢得大众选择？",
+      "link": "https://www.zhihu.com/question/1969340794436559798",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何看待《女神异闻录 3：Reload》NS2 版在日本本土首发预冷：一周仅售出 6778 份？",
+      "link": "https://www.zhihu.com/question/1969055261558837924",
+      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-11-09 12:53:01"
+  "generated_at": "2025-11-09 13:23:27"
 }
