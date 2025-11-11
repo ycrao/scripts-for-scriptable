@@ -1,95 +1,95 @@
 {
-  "artifact_id": "1a3172a0-e390-4aae-a9f1-e10dae2e0b0d",
+  "artifact_id": "c3ed6ac9-91c5-4f22-8c5b-9c1dc355f216",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "北京一博物馆推出「蟑螂咖啡」，咖啡上放蟑螂粉和大麦虫，45 元一杯，如何评价这种「创新」？你敢喝吗？",
       "link": "https://www.zhihu.com/question/1971594990749745330",
-      "heat": "195 万热度"
+      "heat": "189 万热度"
     },
     {
       "rank": "2",
       "title": "中方暂停对美船舶收取船舶特别港务费，美方暂停对华 301 调查限制措施，会对中美贸易有怎样的影响？",
       "link": "https://www.zhihu.com/question/1971195611828154853",
-      "heat": "127 万热度"
+      "heat": "148 万热度"
     },
     {
       "rank": "3",
       "title": "R 星员工发长文控诉，团队充斥着恐惧，士气低迷，这与《GTA6》的跳票有何联系？",
       "link": "https://www.zhihu.com/question/1970156544055293546",
-      "heat": "114 万热度"
+      "heat": "127 万热度"
     },
     {
       "rank": "4",
       "title": "如何看待本田 2026 财年上半年营业利润 4381.44 亿日元下降 41.0%，预计全财年下降 54.7%?",
       "link": "https://www.zhihu.com/question/1970931941927780587",
-      "heat": "112 万热度"
+      "heat": "102 万热度"
     },
     {
       "rank": "5",
       "title": "你见过最不会点菜的人是什么样子的？",
       "link": "https://www.zhihu.com/question/40739580",
-      "heat": "91 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "6",
-      "title": "匈奴那么强大，汉武帝就杀了 10 多万人，为何匈奴从此一蹶不振？",
-      "link": "https://www.zhihu.com/question/631442716",
-      "heat": "88 万热度"
+      "title": "我们应该如何看待「土木、机械等传统工科高度依赖 Windows 系统」这一现象？",
+      "link": "https://www.zhihu.com/question/1970432042685667212",
+      "heat": "84 万热度"
     },
     {
       "rank": "7",
-      "title": "我们应该如何看待「土木、机械等传统工科高度依赖 Windows 系统」这一现象？",
-      "link": "https://www.zhihu.com/question/1970432042685667212",
-      "heat": "80 万热度"
+      "title": "看到「拆清代御林军棉甲过冬」事件。那时候能否把这些东西卖给外国人换取外汇，可以保存又可以提高生活?",
+      "link": "https://www.zhihu.com/question/1967141950181318983",
+      "heat": "81 万热度"
     },
     {
       "rank": "8",
+      "title": "匈奴那么强大，汉武帝就杀了 10 多万人，为何匈奴从此一蹶不振？",
+      "link": "https://www.zhihu.com/question/631442716",
+      "heat": "79 万热度"
+    },
+    {
+      "rank": "9",
       "title": "北京银行、中国银行等多家银行关闭部分 App，为何银行纷纷进行 App 瘦身？你觉得使用更方便了吗？",
       "link": "https://www.zhihu.com/question/1971140281039550325",
       "heat": "79 万热度"
     },
     {
-      "rank": "9",
+      "rank": "10",
       "title": "iPhone 18 系列十大升级曝光，将使用 2nm 工艺芯片，首次采用钢壳电池，还有哪些看点？",
       "link": "https://www.zhihu.com/question/1970403661520790690",
       "heat": "76 万热度"
     },
     {
-      "rank": "10",
-      "title": "看到「拆清代御林军棉甲过冬」事件。那时候能否把这些东西卖给外国人换取外汇，可以保存又可以提高生活?",
-      "link": "https://www.zhihu.com/question/1967141950181318983",
-      "heat": "74 万热度"
-    },
-    {
       "rank": "11",
       "title": "如何看待某博主连线马来西亚高中生，发现对方连 4×6 都算不对？",
       "link": "https://www.zhihu.com/question/1970080235845326398",
-      "heat": "73 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "12",
-      "title": "葡萄美酒夜光杯，欲饮琵琶马上催，我国唐代就有葡萄酒的说法，为什么现在葡萄酒变成了洋酒呢?",
-      "link": "https://www.zhihu.com/question/1967149584745751123",
-      "heat": "72 万热度"
+      "title": "35 岁以后的学习效率会大大降低吗？",
+      "link": "https://www.zhihu.com/question/28574164",
+      "heat": "75 万热度"
     },
     {
       "rank": "13",
       "title": "央视披露南京 15 死火灾现场，10 人被采取刑事强制措施，事故暴露了哪些安全问题？日常如何防范？",
       "link": "https://www.zhihu.com/question/1970802286071604877",
-      "heat": "72 万热度"
+      "heat": "74 万热度"
     },
     {
       "rank": "14",
-      "title": "35 岁以后的学习效率会大大降低吗？",
-      "link": "https://www.zhihu.com/question/28574164",
+      "title": "为什么中国古代大多数中央王朝都没有吞并朝鲜？",
+      "link": "https://www.zhihu.com/question/37912136",
       "heat": "72 万热度"
     },
     {
       "rank": "15",
-      "title": "为什么中国古代大多数中央王朝都没有吞并朝鲜？",
-      "link": "https://www.zhihu.com/question/37912136",
+      "title": "如果《是，首相》中的吉姆哈克被魔法部长通知了魔法的存在，会发生什么？",
+      "link": "https://www.zhihu.com/question/494168679",
       "heat": "69 万热度"
     },
     {
@@ -100,21 +100,21 @@
     },
     {
       "rank": "17",
-      "title": "如果《是，首相》中的吉姆哈克被魔法部长通知了魔法的存在，会发生什么？",
-      "link": "https://www.zhihu.com/question/494168679",
+      "title": "葡萄美酒夜光杯，欲饮琵琶马上催，我国唐代就有葡萄酒的说法，为什么现在葡萄酒变成了洋酒呢?",
+      "link": "https://www.zhihu.com/question/1967149584745751123",
       "heat": "68 万热度"
     },
     {
       "rank": "18",
-      "title": "初三儿子哭着说课堂完全听不懂，想请一对一辅导。丈夫坚决反对，说课堂不听，补课就是浪费钱。我该怎么办？",
-      "link": "https://www.zhihu.com/question/1970998781324529762",
-      "heat": "66 万热度"
+      "title": "为什么所有知识点都在书本上却还是要做笔记整理？",
+      "link": "https://www.zhihu.com/question/32055966",
+      "heat": "68 万热度"
     },
     {
       "rank": "19",
-      "title": "为什么所有知识点都在书本上却还是要做笔记整理？",
-      "link": "https://www.zhihu.com/question/32055966",
-      "heat": "65 万热度"
+      "title": "初三儿子哭着说课堂完全听不懂，想请一对一辅导。丈夫坚决反对，说课堂不听，补课就是浪费钱。我该怎么办？",
+      "link": "https://www.zhihu.com/question/1970998781324529762",
+      "heat": "66 万热度"
     },
     {
       "rank": "20",
@@ -130,110 +130,110 @@
     },
     {
       "rank": "22",
-      "title": "报告称 24 岁以下电影观众占比跌破 20% ，24 岁以上观众能支撑电影业的未来吗？怎么留住年轻人？",
-      "link": "https://www.zhihu.com/question/1971516586910283711",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "《新概念英语二》要怎么学才有效果?",
-      "link": "https://www.zhihu.com/question/581100549",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "大象肉多，为何没人养殖食用？",
-      "link": "https://www.zhihu.com/question/1965734865191301577",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "如何评价孙继海在曼城的成就和历史地位？",
-      "link": "https://www.zhihu.com/question/20005046",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "什么样的清洁挑战，让人直呼这洗地机「有两把刷子」？",
-      "link": "https://www.zhihu.com/question/1971289544239321844",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "全运会乒乓球决赛阶段女单第一轮， 陈梦 4-0 轻松击败孙铭阳，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1971568603376619738",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "28",
       "title": "刚挖出来的煤，为什么要用水洗？",
       "link": "https://www.zhihu.com/question/592820484",
       "heat": "59 万热度"
     },
     {
-      "rank": "29",
-      "title": "怎么判断自己面试是不是凉了？",
-      "link": "https://www.zhihu.com/question/267849861",
+      "rank": "23",
+      "title": "为什么王莽受禅显得那么轻易，之后的汉魏、魏晋交接都那么费劲？",
+      "link": "https://www.zhihu.com/question/555218942",
       "heat": "59 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "一个乐于助人的人如何避免被当做滥好人？",
+      "link": "https://www.zhihu.com/question/21669156",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "哪个城市的历史底蕴最吸引你？",
+      "link": "https://www.zhihu.com/question/1959590864016876800",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "美剧《权力的游戏》魅力在哪？",
+      "link": "https://www.zhihu.com/question/19755198",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "《水浒传》里哪位好汉的结局让你最感唏嘘？",
+      "link": "https://www.zhihu.com/question/1967911780375310731",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "黑洞拍出来的照片，外面为什么一圈是有光圈的？",
+      "link": "https://www.zhihu.com/question/1907229463919429211",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "苏丹的游戏、动物迷城、乌合之众等一大批各具风格的国产独游接连面世，国游精品化的趋势是否越来越明显？",
+      "link": "https://www.zhihu.com/question/1966538200781665762",
+      "heat": "58 万热度"
     },
     {
       "rank": "30",
-      "title": "T1 三连冠后，如何看待之后 LPL 的发展？",
-      "link": "https://www.zhihu.com/question/1971141519378474829",
-      "heat": "59 万热度"
+      "title": "为什么很多人宁愿二创也不自己创造一个角色呢？",
+      "link": "https://www.zhihu.com/question/1916993794093589550",
+      "heat": "58 万热度"
     },
     {
       "rank": "31",
-      "title": "我为什么忍不住对孩子说「快点写作业」？",
-      "link": "https://www.zhihu.com/question/1971124053344499666",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "第 30 届三星杯，申真谞执黑不敌廖元赫，止步 16 强，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1971601892762153916",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "33",
-      "title": "人是如何一步步拉开差距的？",
-      "link": "https://www.zhihu.com/question/1907699737605439644",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "现代人经常说的邪修指的是什么？",
-      "link": "https://www.zhihu.com/question/1956516426920756642",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "杨瀚森连续 5 场坐板凳没出场，同时球队也没有将他下放 G 联赛，对这个安排你怎么看？",
-      "link": "https://www.zhihu.com/question/1971535724693120809",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "为什么王莽受禅显得那么轻易，之后的汉魏、魏晋交接都那么费劲？",
-      "link": "https://www.zhihu.com/question/555218942",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "如何评价梅西重返诺坎普？",
-      "link": "https://www.zhihu.com/question/1971595823700772831",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "38",
       "title": "一个小时器械健身一个小时跑步，那么我是长肌肉呢，还是掉肌肉？",
       "link": "https://www.zhihu.com/question/1967880907336683789",
       "heat": "58 万热度"
     },
     {
-      "rank": "39",
+      "rank": "32",
+      "title": "你拍过哪些有趣好看的猫咪照片？",
+      "link": "https://www.zhihu.com/question/628597665",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
+      "title": "宇树王兴兴称当下具身机器人发展阶段类似于 ChatGPT 发布前的 1-3 年左右，怎样看待这一观点？",
+      "link": "https://www.zhihu.com/question/1969422156090810630",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "34",
       "title": "奥斯维辛集中营为什么会建在波兰？",
       "link": "https://www.zhihu.com/question/3195491394",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "《天道》里丁元英所阐释的天道是什么？",
+      "link": "https://www.zhihu.com/question/479568130",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "《原神》中哥伦比娅在木偶家门前唱歌，她唱的什么让木偶气得把哥伦比娅轰走？",
+      "link": "https://www.zhihu.com/question/1968475410900689216",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "词在宋代文学中地位高不高，是主流文学吗？",
+      "link": "https://www.zhihu.com/question/1969018822594917662",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "为什么很多办公室要挂「厚德载物」「宁静致远」「天道酬勤」这类书法装饰？",
+      "link": "https://www.zhihu.com/question/531070872",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "为什么书法界会排斥「江湖体」？",
+      "link": "https://www.zhihu.com/question/1962123361762145814",
       "heat": "58 万热度"
     },
     {
@@ -244,8 +244,8 @@
     },
     {
       "rank": "41",
-      "title": "《水浒传》里哪位好汉的结局让你最感唏嘘？",
-      "link": "https://www.zhihu.com/question/1967911780375310731",
+      "title": "杨瀚森连续 5 场坐板凳没出场，同时球队也没有将他下放 G 联赛，对这个安排你怎么看？",
+      "link": "https://www.zhihu.com/question/1971535724693120809",
       "heat": "58 万热度"
     },
     {
@@ -256,52 +256,52 @@
     },
     {
       "rank": "43",
-      "title": "苏丹的游戏、动物迷城、乌合之众等一大批各具风格的国产独游接连面世，国游精品化的趋势是否越来越明显？",
-      "link": "https://www.zhihu.com/question/1966538200781665762",
+      "title": "入职新公司之后，怎么快速与身边的同事们熟络起来呢？",
+      "link": "https://www.zhihu.com/question/1971132712770319842",
       "heat": "58 万热度"
     },
     {
       "rank": "44",
-      "title": "《原神》中哥伦比娅在木偶家门前唱歌，她唱的什么让木偶气得把哥伦比娅轰走？",
-      "link": "https://www.zhihu.com/question/1968475410900689216",
+      "title": "想问一下大家最近在看什么书呢？有没有什么比较好的推荐的?",
+      "link": "https://www.zhihu.com/question/1965092307528300174",
       "heat": "58 万热度"
     },
     {
       "rank": "45",
-      "title": "美剧《权力的游戏》魅力在哪？",
-      "link": "https://www.zhihu.com/question/19755198",
+      "title": "如何看待姚明寄语乡村孩童「训练汗水比得分更珍贵」，这种重过程轻结果的理念对乡村体育发展有何意义？",
+      "link": "https://www.zhihu.com/question/1971343929367574117",
       "heat": "58 万热度"
     },
     {
       "rank": "46",
-      "title": "一个乐于助人的人如何避免被当做滥好人？",
-      "link": "https://www.zhihu.com/question/21669156",
+      "title": "如何评价查理芒格这个人？",
+      "link": "https://www.zhihu.com/question/346101708",
       "heat": "58 万热度"
     },
     {
       "rank": "47",
-      "title": "哪个城市的历史底蕴最吸引你？",
-      "link": "https://www.zhihu.com/question/1959590864016876800",
+      "title": "第 30 届三星杯，申真谞执黑不敌廖元赫，止步 16 强，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1971601892762153916",
       "heat": "58 万热度"
     },
     {
       "rank": "48",
-      "title": "黑洞拍出来的照片，外面为什么一圈是有光圈的？",
-      "link": "https://www.zhihu.com/question/1907229463919429211",
+      "title": "孩子大量刷数学题是数学上的「假努力」吗？刷题是否能刷出真正的数学思维？",
+      "link": "https://www.zhihu.com/question/1966256579763479005",
       "heat": "58 万热度"
     },
     {
       "rank": "49",
-      "title": "你拍过哪些有趣好看的猫咪照片？",
-      "link": "https://www.zhihu.com/question/628597665",
+      "title": "阅读的深度更重要，还是阅读的广度更重要？",
+      "link": "https://www.zhihu.com/question/1969380791965454427",
       "heat": "58 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么很多人宁愿二创也不自己创造一个角色呢？",
-      "link": "https://www.zhihu.com/question/1916993794093589550",
+      "title": "我为什么忍不住对孩子说「快点写作业」？",
+      "link": "https://www.zhihu.com/question/1971124053344499666",
       "heat": "58 万热度"
     }
   ],
-  "generated_at": "2025-11-12 06:56:17"
+  "generated_at": "2025-11-12 07:24:15"
 }
