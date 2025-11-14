@@ -1,96 +1,96 @@
 {
-  "artifact_id": "241e5a56-6377-4eb9-9e25-cdc84c1c54ef",
+  "artifact_id": "6252c89b-1ed6-448a-acdb-2590e49da036",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "广东双马尾惊现全运会网球赛场，随后工作人员赶来一脚踩死，这说明了什么问题，小强真的无孔不入吗？",
       "link": "https://www.zhihu.com/question/1972326154342982566",
-      "heat": "238 万热度"
+      "heat": "289 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价电影《惊天魔盗团 3》？",
       "link": "https://www.zhihu.com/question/1972004645913195726",
-      "heat": "142 万热度"
+      "heat": "155 万热度"
     },
     {
       "rank": "3",
-      "title": "神舟二十号乘组乘坐神舟二十一号飞船返回，飞船返回舱成功着陆，此次任务历程克服了哪些困难？",
-      "link": "https://www.zhihu.com/question/1972054906580997723",
-      "heat": "123 万热度"
+      "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
+      "link": "https://www.zhihu.com/question/1972723249331864758",
+      "heat": "146 万热度"
     },
     {
       "rank": "4",
-      "title": "美国秃鹫攻击牛群致六头牛死亡，农场主称几十年未遇到这情况，秃鹫不是食腐的吗，为什么开始攻击活的动物了？",
-      "link": "https://www.zhihu.com/question/1972290228950626846",
-      "heat": "119 万热度"
+      "title": "福特 CEO 称年薪 12 万美元仍招不到人，如何看待美国技能工人严重短缺的现状？",
+      "link": "https://www.zhihu.com/question/1972605869679142760",
+      "heat": "98 万热度"
     },
     {
       "rank": "5",
-      "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
-      "link": "https://www.zhihu.com/question/1972723249331864758",
-      "heat": "115 万热度"
+      "title": "星巴克门店推千禧歌单，被吐槽爆改成县城奶茶店，歌单变化对其品牌形象影响有多大？",
+      "link": "https://www.zhihu.com/question/1971599841235805872",
+      "heat": "95 万热度"
     },
     {
       "rank": "6",
-      "title": "福特 CEO 称年薪 12 万美元仍招不到人，如何看待美国技能工人严重短缺的现状？",
-      "link": "https://www.zhihu.com/question/1972605869679142760",
-      "heat": "113 万热度"
+      "title": "美国秃鹫攻击牛群致六头牛死亡，农场主称几十年未遇到这情况，秃鹫不是食腐的吗，为什么开始攻击活的动物了？",
+      "link": "https://www.zhihu.com/question/1972290228950626846",
+      "heat": "88 万热度"
     },
     {
       "rank": "7",
-      "title": "星巴克门店推千禧歌单，被吐槽爆改成县城奶茶店，歌单变化对其品牌形象影响有多大？",
-      "link": "https://www.zhihu.com/question/1971599841235805872",
-      "heat": "89 万热度"
+      "title": "神舟二十号乘组乘坐神舟二十一号飞船返回，飞船返回舱成功着陆，此次任务历程克服了哪些困难？",
+      "link": "https://www.zhihu.com/question/1972054906580997723",
+      "heat": "87 万热度"
     },
     {
       "rank": "8",
-      "title": "苏联的三进制电脑，为何被二进制干掉了？",
-      "link": "https://www.zhihu.com/question/1971762673717850880",
-      "heat": "83 万热度"
+      "title": "科学家发现世界上最大的蛛网，面积超 100 平米，其中有超 11 万只蜘蛛，为什么会有这么大的蜘蛛网？",
+      "link": "https://www.zhihu.com/question/1969421551536437115",
+      "heat": "86 万热度"
     },
     {
       "rank": "9",
-      "title": "科学家发现世界上最大的蛛网，面积超 100 平米，其中有超 11 万只蜘蛛，为什么会有这么大的蜘蛛网？",
-      "link": "https://www.zhihu.com/question/1969421551536437115",
-      "heat": "83 万热度"
-    },
-    {
-      "rank": "10",
       "title": "如何评价张颂文救人之后，悄然离去？",
       "link": "https://www.zhihu.com/question/1971884518110625794",
       "heat": "82 万热度"
     },
     {
+      "rank": "10",
+      "title": "江西一风力发电机叶片断裂，玻璃纤维漫天飞舞，居民担心有吸入玻璃纤维的风险，居民的担心合理吗？",
+      "link": "https://www.zhihu.com/question/1971178212252968478",
+      "heat": "80 万热度"
+    },
+    {
       "rank": "11",
       "title": "如何看待古二最新录音中王家卫觉得秦雯剧本只有情爱没有事件，让古二来做整个主线？能否成为其编剧署名佐证？",
       "link": "https://www.zhihu.com/question/1972616629830554129",
-      "heat": "81 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "江西一风力发电机叶片断裂，玻璃纤维漫天飞舞，居民担心有吸入玻璃纤维的风险，居民的担心合理吗？",
-      "link": "https://www.zhihu.com/question/1971178212252968478",
       "heat": "79 万热度"
     },
     {
+      "rank": "12",
+      "title": "林高远 / 刘诗雯 4:2 战胜陈垣宇 / 蒯曼，获得 2025 年全运会乒乓球混双冠军，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1972810497737908684",
+      "heat": "78 万热度"
+    },
+    {
       "rank": "13",
-      "title": "《老炮儿》中的六爷为啥总觉得自己很牛？",
-      "link": "https://www.zhihu.com/question/1970374761541505896",
-      "heat": "76 万热度"
+      "title": "苏联的三进制电脑，为何被二进制干掉了？",
+      "link": "https://www.zhihu.com/question/1971762673717850880",
+      "heat": "77 万热度"
     },
     {
       "rank": "14",
-      "title": "陈梦很可能在十五运会乒乓球半决赛与王曼昱争夺决赛权，你看好谁?",
-      "link": "https://www.zhihu.com/question/1972322458435551438",
-      "heat": "75 万热度"
+      "title": "《老炮儿》中的六爷为啥总觉得自己很牛？",
+      "link": "https://www.zhihu.com/question/1970374761541505896",
+      "heat": "74 万热度"
     },
     {
       "rank": "15",
       "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1972596571733497781",
-      "heat": "74 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "16",
@@ -102,43 +102,43 @@
       "rank": "17",
       "title": "古代三十万大军真的很多吗？",
       "link": "https://www.zhihu.com/question/1971750157474300115",
-      "heat": "70 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "18",
       "title": "如何看待继「999 元帝王蟹」之后，南京大学食堂再推「26 元椰子鸡火锅」？",
       "link": "https://www.zhihu.com/question/1971548460961502778",
-      "heat": "70 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "19",
       "title": "「每天读 10 页书告别孤独」，你认为这种做法是积极自救还是逃避现实？",
       "link": "https://www.zhihu.com/question/1970888394595870637",
-      "heat": "69 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "20",
-      "title": "什么情况下会给孩子报学科辅导班？如何看待和选择？",
-      "link": "https://www.zhihu.com/question/1971477262814642859",
-      "heat": "66 万热度"
+      "title": "有哪些小工具软件让你爱不释手？",
+      "link": "https://www.zhihu.com/question/20732735",
+      "heat": "62 万热度"
     },
     {
       "rank": "21",
       "title": "上海通报学校午餐发臭事件，已查明违法犯罪事实，8 名责任人被逮捕，起到哪些警示作用？",
       "link": "https://www.zhihu.com/question/1972672588388987668",
-      "heat": "64 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "22",
-      "title": "有哪些小工具软件让你爱不释手？",
-      "link": "https://www.zhihu.com/question/20732735",
+      "title": "有哪些看似没啥关系的番剧，其实是一个世界（世界观）的?",
+      "link": "https://www.zhihu.com/question/380442240",
       "heat": "61 万热度"
     },
     {
       "rank": "23",
-      "title": "有哪些看似没啥关系的番剧，其实是一个世界（世界观）的?",
-      "link": "https://www.zhihu.com/question/380442240",
-      "heat": "60 万热度"
+      "title": "什么情况下会给孩子报学科辅导班？如何看待和选择？",
+      "link": "https://www.zhihu.com/question/1971477262814642859",
+      "heat": "59 万热度"
     },
     {
       "rank": "24",
@@ -154,8 +154,8 @@
     },
     {
       "rank": "26",
-      "title": "林高远 / 刘诗雯 4:2 战胜陈垣宇 / 蒯曼，获得 2025 年全运会乒乓球混双冠军，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1972810497737908684",
+      "title": "陈梦很可能在十五运会乒乓球半决赛与王曼昱争夺决赛权，你看好谁?",
+      "link": "https://www.zhihu.com/question/1972322458435551438",
       "heat": "59 万热度"
     },
     {
@@ -166,14 +166,14 @@
     },
     {
       "rank": "28",
-      "title": "如何从股票数据中预测股票涨跌？",
-      "link": "https://www.zhihu.com/question/21109621",
+      "title": "如何评价 2025 年 11 月米哈游《绝区零》2.4 版本前瞻直播【将临未抵的深渊】？",
+      "link": "https://www.zhihu.com/question/1972649454206223975",
       "heat": "58 万热度"
     },
     {
       "rank": "29",
-      "title": "如何评价 2025 年 11 月米哈游《绝区零》2.4 版本前瞻直播【将临未抵的深渊】？",
-      "link": "https://www.zhihu.com/question/1972649454206223975",
+      "title": "如何从股票数据中预测股票涨跌？",
+      "link": "https://www.zhihu.com/question/21109621",
       "heat": "58 万热度"
     },
     {
@@ -190,50 +190,50 @@
     },
     {
       "rank": "32",
+      "title": "从心理学角度出发，迷茫是否是因为做得太少、想得也少，经常性放空摆烂而导致的呢？",
+      "link": "https://www.zhihu.com/question/1971926320276538862",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "33",
       "title": "坚持力量＋有氧，但是不控制饮食会怎么样？",
       "link": "https://www.zhihu.com/question/1964051341816104093",
       "heat": "58 万热度"
     },
     {
-      "rank": "33",
-      "title": "秦岭保护区装带刺铁丝环阻止「驴友」违规穿越，后因安全隐患已拆掉，治理违规穿越为何这么难？",
-      "link": "https://www.zhihu.com/question/1971877448321832878",
-      "heat": "58 万热度"
-    },
-    {
       "rank": "34",
-      "title": "中国牛羊肉贵因为中国自然环境不适合生长牧草，那么是否可以只喂牛羊玉米大豆等饲料以增加国人牛羊肉消费？",
-      "link": "https://www.zhihu.com/question/632377656",
+      "title": "对于大众跑者而言，跑得再快也提高不了生活质量，为什么有些人还是那么拼？",
+      "link": "https://www.zhihu.com/question/1941791839960167715",
       "heat": "58 万热度"
     },
     {
       "rank": "35",
-      "title": "从心理学角度出发，迷茫是否是因为做得太少、想得也少，经常性放空摆烂而导致的呢？",
-      "link": "https://www.zhihu.com/question/1971926320276538862",
+      "title": "C 语言指针指向物理地址还是虚拟地址？",
+      "link": "https://www.zhihu.com/question/5753905040",
       "heat": "58 万热度"
     },
     {
       "rank": "36",
       "title": "世预赛第五轮，葡萄牙客场 0-2 不敌爱尔兰，C 罗报复性肘击直红，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1972548905657950702",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "37",
-      "title": "对于大众跑者而言，跑得再快也提高不了生活质量，为什么有些人还是那么拼？",
-      "link": "https://www.zhihu.com/question/1941791839960167715",
-      "heat": "58 万热度"
+      "title": "中国牛羊肉贵因为中国自然环境不适合生长牧草，那么是否可以只喂牛羊玉米大豆等饲料以增加国人牛羊肉消费？",
+      "link": "https://www.zhihu.com/question/632377656",
+      "heat": "57 万热度"
     },
     {
       "rank": "38",
-      "title": "C 语言指针指向物理地址还是虚拟地址？",
-      "link": "https://www.zhihu.com/question/5753905040",
+      "title": "秦岭保护区装带刺铁丝环阻止「驴友」违规穿越，后因安全隐患已拆掉，治理违规穿越为何这么难？",
+      "link": "https://www.zhihu.com/question/1971877448321832878",
       "heat": "57 万热度"
     },
     {
       "rank": "39",
-      "title": "为什么很多时候你驱动不了员工？你让他们干什么，他们根本不听你的？",
-      "link": "https://www.zhihu.com/question/1972228964857668228",
+      "title": "你存钱是为了旅游还是为了底气？",
+      "link": "https://www.zhihu.com/question/1961459309247460029",
       "heat": "57 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "如何看待 124 位科学家签名，认为尝试解释意识的「整合信息理论」是伪科学？",
-      "link": "https://www.zhihu.com/question/622458918",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "你存钱是为了旅游还是为了底气？",
-      "link": "https://www.zhihu.com/question/1961459309247460029",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "43",
       "title": "周芷若在光明顶上刺出的那一剑，既没有把张无忌刺死，为什么灭绝会放过她?",
       "link": "https://www.zhihu.com/question/1970206165246908018",
       "heat": "57 万热度"
     },
     {
-      "rank": "44",
+      "rank": "42",
+      "title": "为什么很多时候你驱动不了员工？你让他们干什么，他们根本不听你的？",
+      "link": "https://www.zhihu.com/question/1972228964857668228",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "43",
       "title": "如果是正义联盟面对索科维亚协议会怎么样？",
       "link": "https://www.zhihu.com/question/391193289",
       "heat": "57 万热度"
     },
     {
-      "rank": "45",
-      "title": "为什么西方国家大多在去核电，而中国却大力发展核电？难道不怕核泄漏吗？",
-      "link": "https://www.zhihu.com/question/1966268120500004120",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "44",
       "title": "为什么有些看似「不努力」的人，反而能活得更松弛幸福？",
       "link": "https://www.zhihu.com/question/1968275103365183289",
       "heat": "57 万热度"
     },
     {
+      "rank": "45",
+      "title": "如何看待 124 位科学家签名，认为尝试解释意识的「整合信息理论」是伪科学？",
+      "link": "https://www.zhihu.com/question/622458918",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "为什么西方国家大多在去核电，而中国却大力发展核电？难道不怕核泄漏吗？",
+      "link": "https://www.zhihu.com/question/1966268120500004120",
+      "heat": "57 万热度"
+    },
+    {
       "rank": "47",
-      "title": "为什么魔兽争霸中兽族的狼骑是攻城攻击？",
-      "link": "https://www.zhihu.com/question/46938680",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "48",
-      "title": "什么性格不适合当老师?",
-      "link": "https://www.zhihu.com/question/1888203421535950563",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "49",
       "title": "如何评价由童瑶、蒋欣主演的家庭剧《四喜》？",
       "link": "https://www.zhihu.com/question/1970443569018929685",
       "heat": "57 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "人在什么时候能发挥出他自己的最大潜能？是否有科学依据？",
       "link": "https://www.zhihu.com/question/1970058841275236580",
       "heat": "57 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "什么性格不适合当老师?",
+      "link": "https://www.zhihu.com/question/1888203421535950563",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "为什么魔兽争霸中兽族的狼骑是攻城攻击？",
+      "link": "https://www.zhihu.com/question/46938680",
+      "heat": "57 万热度"
     }
   ],
-  "generated_at": "2025-11-15 05:53:42"
+  "generated_at": "2025-11-15 06:24:44"
 }
