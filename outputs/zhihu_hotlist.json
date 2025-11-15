@@ -1,83 +1,83 @@
 {
-  "artifact_id": "677f869c-bf46-420b-9b78-b04e41b9afe1",
+  "artifact_id": "d463dc6b-003a-4a92-86b0-9bc5486a5c3f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "科学家发现世界上最大的蛛网，面积超 100 平米，其中有超 11 万只蜘蛛，为什么会有这么大的蜘蛛网？",
       "link": "https://www.zhihu.com/question/1969421551536437115",
-      "heat": "345 万热度"
+      "heat": "361 万热度"
     },
     {
       "rank": "2",
       "title": "多所 985 高校官宣考研复试将取消笔试，如何看待这一改革？复试会变得简单吗？",
       "link": "https://www.zhihu.com/question/1972722548627247466",
-      "heat": "315 万热度"
+      "heat": "353 万热度"
     },
     {
       "rank": "3",
       "title": "公务员录用体检标准放宽，地中海贫血、桥本甲状腺炎等三项体检标准调整，这会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1972756990812975387",
-      "heat": "263 万热度"
+      "heat": "313 万热度"
     },
     {
       "rank": "4",
-      "title": "星巴克门店推千禧歌单，被吐槽爆改成县城奶茶店，歌单变化对其品牌形象影响有多大？",
-      "link": "https://www.zhihu.com/question/1971599841235805872",
-      "heat": "186 万热度"
+      "title": "演员张磊吐槽上海一商店文具贵，一款橡皮卖 1999 元，客服称 PVC 材质擦拭更干净，是真的吗？",
+      "link": "https://www.zhihu.com/question/1972793086460523818",
+      "heat": "169 万热度"
     },
     {
       "rank": "5",
       "title": "如何看待影视飓风 TIM 发视频回应「相亲角事件」，称「整活性质，视频剪辑导致对内容曲解」?",
       "link": "https://www.zhihu.com/question/1972852612236850378",
-      "heat": "167 万热度"
+      "heat": "144 万热度"
     },
     {
       "rank": "6",
       "title": "快递藏有毒品，21 岁大学生帮人跨省运毒获刑无期，为什么自称不知情无法免责？法律角度如何解读这一量刑？",
       "link": "https://www.zhihu.com/question/1972675944444618540",
-      "heat": "158 万热度"
+      "heat": "131 万热度"
     },
     {
       "rank": "7",
-      "title": "演员张磊吐槽上海一商店文具贵，一款橡皮卖 1999 元，客服称 PVC 材质擦拭更干净，是真的吗？",
-      "link": "https://www.zhihu.com/question/1972793086460523818",
-      "heat": "148 万热度"
+      "title": "星巴克门店推千禧歌单，被吐槽爆改成县城奶茶店，歌单变化对其品牌形象影响有多大？",
+      "link": "https://www.zhihu.com/question/1971599841235805872",
+      "heat": "118 万热度"
     },
     {
       "rank": "8",
-      "title": "提了离职后，大领导已经邮件回复做好交接，直属领导还在挽留，你会留下吗？",
-      "link": "https://www.zhihu.com/question/1972194814163387512",
-      "heat": "108 万热度"
+      "title": "李想直管人事，华为系高管淡出理想管理层，是出于哪些目的？将对理想汽车产生哪些影响？",
+      "link": "https://www.zhihu.com/question/1971701581499045819",
+      "heat": "116 万热度"
     },
     {
       "rank": "9",
-      "title": "《喜人 2》张兴朝的新作《冷不丁梆梆就两拳》怎么样？为什么我觉得和《技能五子棋》那么像？",
-      "link": "https://www.zhihu.com/question/1972659016766346648",
-      "heat": "99 万热度"
+      "title": "话说为什么现在的游戏命名很多都是《12:3456》的形式？",
+      "link": "https://www.zhihu.com/question/1968675830164062997",
+      "heat": "83 万热度"
     },
     {
       "rank": "10",
-      "title": "话说为什么现在的游戏命名很多都是《12:3456》的形式？",
-      "link": "https://www.zhihu.com/question/1968675830164062997",
-      "heat": "82 万热度"
+      "title": "如何评价 chovy 赛后采访直言「自己心态急躁」，心态问题是限制他世界赛成绩的关键因素吗？",
+      "link": "https://www.zhihu.com/question/1969837812992958581",
+      "heat": "83 万热度"
     },
     {
       "rank": "11",
-      "title": "如何评价 chovy 赛后采访直言「自己心态急躁」，心态问题是限制他世界赛成绩的关键因素吗？",
-      "link": "https://www.zhihu.com/question/1969837812992958581",
-      "heat": "80 万热度"
+      "title": "提了离职后，大领导已经邮件回复做好交接，直属领导还在挽留，你会留下吗？",
+      "link": "https://www.zhihu.com/question/1972194814163387512",
+      "heat": "72 万热度"
     },
     {
       "rank": "12",
-      "title": "苏联的三进制电脑，为何被二进制干掉了？",
-      "link": "https://www.zhihu.com/question/1971762673717850880",
-      "heat": "59 万热度"
+      "title": "韩美就关税及安保协商达成一致，同意推进韩国造核潜艇，哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1972602877060035095",
+      "heat": "62 万热度"
     },
     {
       "rank": "13",
-      "title": "职场人没有后台，注意什么？",
-      "link": "https://www.zhihu.com/question/1914587679791781419",
+      "title": "苏联的三进制电脑，为何被二进制干掉了？",
+      "link": "https://www.zhihu.com/question/1971762673717850880",
       "heat": "59 万热度"
     },
     {
@@ -88,9 +88,9 @@
     },
     {
       "rank": "15",
-      "title": "贺涵为什么喜欢罗子君？",
-      "link": "https://www.zhihu.com/question/62308330",
-      "heat": "58 万热度"
+      "title": "《喜人 2》张兴朝的新作《冷不丁梆梆就两拳》怎么样？为什么我觉得和《技能五子棋》那么像？",
+      "link": "https://www.zhihu.com/question/1972659016766346648",
+      "heat": "59 万热度"
     },
     {
       "rank": "16",
@@ -100,50 +100,50 @@
     },
     {
       "rank": "17",
-      "title": "看过的书总是忘，怎样提高自己的记忆力？",
-      "link": "https://www.zhihu.com/question/1970016789812475689",
-      "heat": "57 万热度"
+      "title": "职场人没有后台，注意什么？",
+      "link": "https://www.zhihu.com/question/1914587679791781419",
+      "heat": "56 万热度"
     },
     {
       "rank": "18",
       "title": "如何看待继「999 元帝王蟹」之后，南京大学食堂再推「26 元椰子鸡火锅」？",
       "link": "https://www.zhihu.com/question/1971548460961502778",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "19",
-      "title": "职场上遇到什么样的领导需要尽量远离？",
-      "link": "https://www.zhihu.com/question/488507492",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "20",
-      "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
-      "link": "https://www.zhihu.com/question/1972723249331864758",
       "heat": "56 万热度"
     },
     {
-      "rank": "21",
+      "rank": "19",
       "title": "网传广东双马尾惊现全运会网球赛场，随后工作人员赶来一脚踩死，小强真的无孔不入吗？",
       "link": "https://www.zhihu.com/question/1972326154342982566",
       "heat": "56 万热度"
     },
     {
+      "rank": "20",
+      "title": "「每天读 10 页书告别孤独」，你认为这种做法是积极自救还是逃避现实？",
+      "link": "https://www.zhihu.com/question/1970888394595870637",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "陈梦很可能在十五运会乒乓球半决赛与王曼昱争夺决赛权，你看好谁?",
+      "link": "https://www.zhihu.com/question/1972322458435551438",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "22",
-      "title": "手工作品真的卖不出去吗？",
-      "link": "https://www.zhihu.com/question/2438905759",
+      "title": "段永平说他不喜欢看书，阅读量很少，那他怎么那么有智慧？",
+      "link": "https://www.zhihu.com/question/1943216710447498718",
       "heat": "56 万热度"
     },
     {
       "rank": "23",
-      "title": "当在一个公司干的不快乐，一次又一次想离职的时候，你是选择留下还是走人？",
-      "link": "https://www.zhihu.com/question/1933272814707770713",
+      "title": "为什么 Valve 一口气连续发布三款硬件设备，是否说明 V 社已经威胁到了索尼任天堂微软主机御三家地位了？",
+      "link": "https://www.zhihu.com/question/1972294107163526561",
       "heat": "56 万热度"
     },
     {
       "rank": "24",
-      "title": "小孩试戴金镯 10 秒，店员以「手镯变形」为由索赔 1000 元，金镯短暂试戴变形的可能性有多大？",
-      "link": "https://www.zhihu.com/question/1972313003815821728",
+      "title": "如何从股票数据中预测股票涨跌？",
+      "link": "https://www.zhihu.com/question/21109621",
       "heat": "56 万热度"
     },
     {
@@ -154,154 +154,154 @@
     },
     {
       "rank": "26",
-      "title": "如何评价张颂文救人之后，悄然离去？",
-      "link": "https://www.zhihu.com/question/1971884518110625794",
+      "title": "怎么评价《章鱼噼的原罪》这部动漫？",
+      "link": "https://www.zhihu.com/question/1925973610339755863",
       "heat": "56 万热度"
     },
     {
       "rank": "27",
-      "title": "如何评价小说《笑傲江湖》?",
-      "link": "https://www.zhihu.com/question/325041534",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "江西一风力发电机叶片断裂，玻璃纤维漫天飞舞，居民担心有吸入玻璃纤维的风险，居民的担心合理吗？",
-      "link": "https://www.zhihu.com/question/1971178212252968478",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "如何人为引起或者加速一颗恒星的爆炸？",
-      "link": "https://www.zhihu.com/question/315972057",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "如何看待 IGN 评《燕云》国际服 6 分？",
-      "link": "https://www.zhihu.com/question/1972292857529365369",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "C 语言指针指向物理地址还是虚拟地址？",
-      "link": "https://www.zhihu.com/question/5753905040",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "32",
       "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1972596571733497781",
       "heat": "56 万热度"
     },
     {
+      "rank": "28",
+      "title": "阅读是最低成本的爱好，你赞同吗？",
+      "link": "https://www.zhihu.com/question/1905641676858454659",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "为什么有些领导下达任务从不考虑可行性和员工感受？",
+      "link": "https://www.zhihu.com/question/1971098284786422231",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "给皇上变魔术算不算欺君?",
+      "link": "https://www.zhihu.com/question/1950706478328583807",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "什么性格不适合当老师?",
+      "link": "https://www.zhihu.com/question/1888203421535950563",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "如何客观评价《知否》中盛明兰的管家能力？",
+      "link": "https://www.zhihu.com/question/1933943905289765438",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "33",
-      "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1970799763776599605",
+      "title": "对于大众跑者而言，跑得再快也提高不了生活质量，为什么有些人还是那么拼？",
+      "link": "https://www.zhihu.com/question/1941791839960167715",
       "heat": "56 万热度"
     },
     {
       "rank": "34",
-      "title": "黑暗森林会是我们这个宇宙的真实法则么？",
-      "link": "https://www.zhihu.com/question/513670248",
+      "title": "刘备为什么没有守住徐州并以此为根据地发展壮大？",
+      "link": "https://www.zhihu.com/question/417446771",
       "heat": "56 万热度"
     },
     {
       "rank": "35",
-      "title": "有哪些小工具软件让你爱不释手？",
-      "link": "https://www.zhihu.com/question/20732735",
-      "heat": "56 万热度"
+      "title": "为什么有些看似「不努力」的人，反而能活得更松弛幸福？",
+      "link": "https://www.zhihu.com/question/1968275103365183289",
+      "heat": "55 万热度"
     },
     {
       "rank": "36",
-      "title": "长三角、珠三角气候不是很好，为什么更适合发展经济？",
-      "link": "https://www.zhihu.com/question/1904904600252814649",
-      "heat": "56 万热度"
+      "title": "一起入编的同事都准备晋级了，而我却在这几年生了 2 个娃，啥也没干，卷又卷不动，躺又躺不平，该怎么办?",
+      "link": "https://www.zhihu.com/question/1959644611665434261",
+      "heat": "55 万热度"
     },
     {
       "rank": "37",
-      "title": "有哪些宫殿极其震撼？",
-      "link": "https://www.zhihu.com/question/647003951",
-      "heat": "56 万热度"
+      "title": "传统的欧陆风云可以一起造核心，但是在 EU5 中，只能靠内阁成员一点点造核心，你觉得这一设计有毛病吗？",
+      "link": "https://www.zhihu.com/question/1969104158662583978",
+      "heat": "55 万热度"
     },
     {
       "rank": "38",
-      "title": "怎么样看待民国军阀之间的混战?",
-      "link": "https://www.zhihu.com/question/1914456993709662564",
-      "heat": "56 万热度"
+      "title": "小天才手表捆绑儿童社交，店员称「教育靠家长」，反映哪些问题？专给孩子使用的电话手表到底该提供哪些功能？",
+      "link": "https://www.zhihu.com/question/1972254385443705435",
+      "heat": "55 万热度"
     },
     {
       "rank": "39",
-      "title": "人在什么时候能发挥出他自己的最大潜能？是否有科学依据？",
-      "link": "https://www.zhihu.com/question/1970058841275236580",
-      "heat": "56 万热度"
+      "title": "《唐朝诡事录之长安》有哪些槽点？",
+      "link": "https://www.zhihu.com/question/1972250996370530773",
+      "heat": "55 万热度"
     },
     {
       "rank": "40",
-      "title": "如何看待「男子因朋友圈无人点赞患上抑郁症」？高敏感特质人群如何防止社交焦虑的扩大化？",
-      "link": "https://www.zhihu.com/question/1972414726995670619",
-      "heat": "56 万热度"
+      "title": "坚持力量＋有氧，但是不控制饮食会怎么样？",
+      "link": "https://www.zhihu.com/question/1964051341816104093",
+      "heat": "55 万热度"
     },
     {
       "rank": "41",
-      "title": "浙江男篮余嘉豪放弃全运会男篮决赛，返回西班牙继续征战西乙，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1971894319855134318",
-      "heat": "56 万热度"
+      "title": "贺涵为什么喜欢罗子君？",
+      "link": "https://www.zhihu.com/question/62308330",
+      "heat": "55 万热度"
     },
     {
       "rank": "42",
-      "title": "郑钦文将缺席全运会网球比赛，王欣瑜成一号种子，如何评价郑钦文的实力？此次全运会网球赛还有哪些看点？",
-      "link": "https://www.zhihu.com/question/1971920869325500912",
-      "heat": "56 万热度"
+      "title": "周芷若在光明顶上刺出的那一剑，既没有把张无忌刺死，为什么灭绝会放过她?",
+      "link": "https://www.zhihu.com/question/1970206165246908018",
+      "heat": "55 万热度"
     },
     {
       "rank": "43",
-      "title": "如何评价育碧以罗马帝国为背景，推出的建设模拟经营游戏《纪元 117：罗马和平》？",
-      "link": "https://www.zhihu.com/question/1971285637974942508",
-      "heat": "56 万热度"
+      "title": "今年《英雄联盟》S 赛 AL 保留原班队伍，AD 换成 gala 会不会有希望呢？",
+      "link": "https://www.zhihu.com/question/1969452947713789986",
+      "heat": "55 万热度"
     },
     {
       "rank": "44",
-      "title": "如何评价德约接受摩根专访，称不会说自己是网球 GOAT，这是对费德勒、纳达尔等前辈的不尊重？",
-      "link": "https://www.zhihu.com/question/1971951102145564796",
-      "heat": "56 万热度"
+      "title": "长三角、珠三角气候不是很好，为什么更适合发展经济？",
+      "link": "https://www.zhihu.com/question/1904904600252814649",
+      "heat": "55 万热度"
     },
     {
       "rank": "45",
-      "title": "全运会乒乓球女单四分之一决赛，孙颖莎 4-0 刘斐，半决赛将战朱雨玲，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1972375190261428715",
-      "heat": "56 万热度"
+      "title": "有哪些看似没啥关系的番剧，其实是一个世界（世界观）的?",
+      "link": "https://www.zhihu.com/question/380442240",
+      "heat": "55 万热度"
     },
     {
       "rank": "46",
-      "title": "孩子太过乖巧懂事，不太善于沟通，大部分时间都在学习，这样的孩子是否可能有什么心理问题？",
-      "link": "https://www.zhihu.com/question/5903745271",
-      "heat": "56 万热度"
+      "title": "人老了，最值钱最欣慰的是什么？",
+      "link": "https://www.zhihu.com/question/1967190269205124546",
+      "heat": "55 万热度"
     },
     {
       "rank": "47",
-      "title": "我是一名喜欢数学的中学生，请问怎么样才能学到本质深刻的数学，或者提升抽象思维?",
-      "link": "https://www.zhihu.com/question/9912739980",
-      "heat": "56 万热度"
+      "title": "江西一风力发电机叶片断裂，玻璃纤维漫天飞舞，居民担心有吸入玻璃纤维的风险，居民的担心合理吗？",
+      "link": "https://www.zhihu.com/question/1971178212252968478",
+      "heat": "55 万热度"
     },
     {
       "rank": "48",
-      "title": "几分钱甚至几毛钱的硬币，在生活中几乎用不到，那还有必要铸造发行吗？",
-      "link": "https://www.zhihu.com/question/1972240107676333006",
-      "heat": "56 万热度"
+      "title": "世预赛第五轮，葡萄牙客场 0-2 不敌爱尔兰，C 罗报复性肘击直红，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1972548905657950702",
+      "heat": "55 万热度"
     },
     {
       "rank": "49",
-      "title": "卡卡西为什么教佐助千鸟而不教鸣人？",
-      "link": "https://www.zhihu.com/question/62062403",
-      "heat": "56 万热度"
+      "title": "疯狂英语李阳批董宇辉英语语法引热议，网友认为日常交流核心是有效沟通而非语法完美，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1972622206921044372",
+      "heat": "55 万热度"
     },
     {
       "rank": "50",
-      "title": "洛杉矶奥运会乒乓球赛程公布，你怎么看男队所面临的挑战？",
-      "link": "https://www.zhihu.com/question/1972248035154196458",
-      "heat": "56 万热度"
+      "title": "为什么西方国家大多在去核电，而中国却大力发展核电？难道不怕核泄漏吗？",
+      "link": "https://www.zhihu.com/question/1966268120500004120",
+      "heat": "55 万热度"
     }
   ],
-  "generated_at": "2025-11-15 11:47:07"
+  "generated_at": "2025-11-15 12:28:40"
 }
