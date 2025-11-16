@@ -1,89 +1,89 @@
 {
-  "artifact_id": "66a65d9a-5d6f-41ee-b785-b26d5f3c586b",
+  "artifact_id": "8ecb0e4b-d87b-4dca-9d72-38fd44e5855e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "全运会乒乓球女单金牌战，王曼昱 4 比 2 孙颖莎，取得女单冠军，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1973499122410545414",
-      "heat": "2105 万热度"
+      "heat": "2473 万热度"
     },
     {
       "rank": "2",
       "title": "女子爆改公用电梯厅，可以涮火锅看电影，称合同标注可私用，这合法吗？可能有哪些安全隐患？",
       "link": "https://www.zhihu.com/question/1973118333214746528",
-      "heat": "667 万热度"
+      "heat": "457 万热度"
     },
     {
       "rank": "3",
       "title": "Tether 推出的离岸人民币稳定币 CNHT0，已正式在 Conflux 网络发行，将产生哪些影响？",
       "link": "https://www.zhihu.com/question/1973308098383930254",
-      "heat": "289 万热度"
+      "heat": "294 万热度"
     },
     {
       "rank": "4",
-      "title": "摇滚女歌手胸腔意外受到电动座椅架挤压身亡，电动座椅为什么会这么危险？",
-      "link": "https://www.zhihu.com/question/1972381348393084689",
-      "heat": "276 万热度"
+      "title": "为啥动物会被制定「死亡很痛苦」这个生物机制？",
+      "link": "https://www.zhihu.com/question/6115394288",
+      "heat": "228 万热度"
     },
     {
       "rank": "5",
       "title": "如何看待全运会马拉松，何杰示意跟随选手上来领跑，竟无一人上前?",
       "link": "https://www.zhihu.com/question/1973030080201650499",
-      "heat": "217 万热度"
+      "heat": "224 万热度"
     },
     {
       "rank": "6",
-      "title": "为啥动物会被制定「死亡很痛苦」这个生物机制？",
-      "link": "https://www.zhihu.com/question/6115394288",
-      "heat": "217 万热度"
+      "title": "摇滚女歌手胸腔意外受到电动座椅架挤压身亡，电动座椅为什么会这么危险？",
+      "link": "https://www.zhihu.com/question/1972381348393084689",
+      "heat": "218 万热度"
     },
     {
       "rank": "7",
       "title": "为什么这次神二十乘组返回延误的天数是 9 天？为什么不再多等几天，由神二十二把航天员接下来？",
       "link": "https://www.zhihu.com/question/1972720902060865241",
-      "heat": "174 万热度"
+      "heat": "182 万热度"
     },
     {
       "rank": "8",
       "title": "「新华书店」顾客只看不买，还提供冬暖夏凉的空调和照明供应，为何没有倒闭？",
       "link": "https://www.zhihu.com/question/316932436",
-      "heat": "138 万热度"
+      "heat": "151 万热度"
     },
     {
       "rank": "9",
       "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
       "link": "https://www.zhihu.com/question/1973043161929577003",
-      "heat": "127 万热度"
+      "heat": "131 万热度"
     },
     {
       "rank": "10",
       "title": "为什么炸鸡，炸猪都很常见，但很少听说炸牛？",
       "link": "https://www.zhihu.com/question/444725783",
-      "heat": "96 万热度"
+      "heat": "98 万热度"
     },
     {
       "rank": "11",
-      "title": "11 月 16 日全运会男单决赛，樊振东 4-1 战胜林诗栋夺得冠军，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1973380102365606276",
-      "heat": "94 万热度"
+      "title": "央行 2025 年 10 月社融数据出炉，各累计总量指标均实现较好增长，对此你怎么看？",
+      "link": "https://www.zhihu.com/question/1972593980123378820",
+      "heat": "90 万热度"
     },
     {
       "rank": "12",
-      "title": "央行 2025 年 10 月社融数据出炉，各累计总量指标均实现较好增长，对此你怎么看？",
-      "link": "https://www.zhihu.com/question/1972593980123378820",
-      "heat": "91 万热度"
+      "title": "全运会乒乓球女单铜牌战，陈梦 4 比 1 朱雨玲，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1973486725016810305",
+      "heat": "82 万热度"
     },
     {
       "rank": "13",
-      "title": "全运会乒乓球女单铜牌战，陈梦 4 比 1 朱雨玲，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1973486725016810305",
-      "heat": "79 万热度"
+      "title": "5 吨的大象都能被吃，骆驼却几乎没有天敌，为何没食肉动物吃它？",
+      "link": "https://www.zhihu.com/question/638128401",
+      "heat": "76 万热度"
     },
     {
       "rank": "14",
-      "title": "5 吨的大象都能被吃，骆驼却几乎没有天敌，为何没食肉动物吃它？",
-      "link": "https://www.zhihu.com/question/638128401",
+      "title": "读了很多书的人，多年以后真的能记得每本书的大致内容吗？",
+      "link": "https://www.zhihu.com/question/1935658021431781308",
       "heat": "74 万热度"
     },
     {
@@ -96,55 +96,55 @@
       "rank": "16",
       "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
       "link": "https://www.zhihu.com/question/1971154128169301668",
-      "heat": "70 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "读了很多书的人，多年以后真的能记得每本书的大致内容吗？",
-      "link": "https://www.zhihu.com/question/1935658021431781308",
       "heat": "69 万热度"
     },
     {
+      "rank": "17",
+      "title": "你们都吃到过哪些名字好听但很难吃的水果？",
+      "link": "https://www.zhihu.com/question/1899844214986094319",
+      "heat": "68 万热度"
+    },
+    {
       "rank": "18",
-      "title": "云南咖啡为何走不出中国？",
-      "link": "https://www.zhihu.com/question/321589074",
-      "heat": "66 万热度"
+      "title": "减肥成功的女生有多好看？",
+      "link": "https://www.zhihu.com/question/341336182",
+      "heat": "64 万热度"
     },
     {
       "rank": "19",
       "title": "如何与上司相处? 有哪些技巧?？",
       "link": "https://www.zhihu.com/question/488866991",
-      "heat": "65 万热度"
+      "heat": "60 万热度"
     },
     {
       "rank": "20",
-      "title": "你们都吃到过哪些名字好听但很难吃的水果？",
-      "link": "https://www.zhihu.com/question/1899844214986094319",
-      "heat": "65 万热度"
+      "title": "云南咖啡为何走不出中国？",
+      "link": "https://www.zhihu.com/question/321589074",
+      "heat": "59 万热度"
     },
     {
       "rank": "21",
-      "title": "减肥成功的女生有多好看？",
-      "link": "https://www.zhihu.com/question/341336182",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "22",
       "title": "杨小凯对经济学的贡献有哪些，为什么被认为是离诺贝尔经济学奖最近的华人经济学家？",
       "link": "https://www.zhihu.com/question/1971881196540617511",
       "heat": "59 万热度"
     },
     {
-      "rank": "23",
+      "rank": "22",
       "title": "客观评价崩铁 3.7 剧情，满分 10 分你打几分？",
       "link": "https://www.zhihu.com/question/1973212431569420762",
       "heat": "59 万热度"
     },
     {
-      "rank": "24",
+      "rank": "23",
       "title": "职场中是琢磨人重要还是琢磨事重要?",
       "link": "https://www.zhihu.com/question/1973015235418935414",
       "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "影视作品中有哪些令你印象深刻的客串？",
+      "link": "https://www.zhihu.com/question/266462361",
+      "heat": "55 万热度"
     },
     {
       "rank": "25",
@@ -154,15 +154,15 @@
     },
     {
       "rank": "26",
-      "title": "影视作品中有哪些令你印象深刻的客串？",
-      "link": "https://www.zhihu.com/question/266462361",
+      "title": "为什么现在程序员越来越厌烦面试的时候做题了？",
+      "link": "https://www.zhihu.com/question/666830288",
       "heat": "55 万热度"
     },
     {
       "rank": "27",
-      "title": "为什么现在程序员越来越厌烦面试的时候做题了？",
-      "link": "https://www.zhihu.com/question/666830288",
-      "heat": "55 万热度"
+      "title": "11 月 16 日全运会男单决赛，樊振东 4-1 战胜林诗栋夺得冠军，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1973380102365606276",
+      "heat": "53 万热度"
     },
     {
       "rank": "28",
@@ -196,14 +196,14 @@
     },
     {
       "rank": "33",
-      "title": "如何看待影视飓风 TIM 发视频回应「相亲角事件」，称「整活性质，视频剪辑导致对内容曲解」?",
-      "link": "https://www.zhihu.com/question/1972852612236850378",
+      "title": "《鬼灭之刃》里为什么不使用枪和火炮？",
+      "link": "https://www.zhihu.com/question/1972614479545086218",
       "heat": "50 万热度"
     },
     {
       "rank": "34",
-      "title": "《鬼灭之刃》里为什么不使用枪和火炮？",
-      "link": "https://www.zhihu.com/question/1972614479545086218",
+      "title": "如何看待影视飓风 TIM 发视频回应「相亲角事件」，称「整活性质，视频剪辑导致对内容曲解」?",
+      "link": "https://www.zhihu.com/question/1972852612236850378",
       "heat": "50 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-17 03:53:06"
+  "generated_at": "2025-11-17 04:26:30"
 }
