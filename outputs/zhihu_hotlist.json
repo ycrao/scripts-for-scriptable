@@ -1,18 +1,18 @@
 {
-  "artifact_id": "1774e95e-0f2c-4e65-b068-973750311592",
+  "artifact_id": "7258a96d-1104-4c88-bb73-1ef6e8c5e42f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1974527840201438797",
-      "heat": "183 万热度"
+      "heat": "201 万热度"
     },
     {
       "rank": "2",
       "title": "国安部披露近年来破获一批日本间谍情报机关针对中国的渗透窃密间谍案件，哪些信息值得关注？有哪些警示？",
       "link": "https://www.zhihu.com/question/1974421884121653526",
-      "heat": "174 万热度"
+      "heat": "115 万热度"
     },
     {
       "rank": "3",
@@ -52,33 +52,33 @@
     },
     {
       "rank": "9",
+      "title": "网友用冬瓜片垫底滑行搬运 700KG 大型机器，丝滑平移还能扛住巨压，冬瓜为什么这么厉害？",
+      "link": "https://www.zhihu.com/question/1974140088326776680",
+      "heat": "81 万热度"
+    },
+    {
+      "rank": "10",
       "title": "白宫拟对美国公民海外加密资产征税，此举会对加密货币市场产生何种冲击？加密货币还加密吗？",
       "link": "https://www.zhihu.com/question/1974416603635528233",
       "heat": "79 万热度"
     },
     {
-      "rank": "10",
-      "title": "网友用冬瓜片垫底滑行搬运 700KG 大型机器，丝滑平移还能扛住巨压，冬瓜为什么这么厉害？",
-      "link": "https://www.zhihu.com/question/1974140088326776680",
-      "heat": "78 万热度"
-    },
-    {
       "rank": "11",
-      "title": "全运会女子 100 米栏刘景扬获得金牌，吴艳妮摘银，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974588547194386359",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "12",
       "title": "有哪些让你「 爽到爆炸 」的 Windows 软件？",
       "link": "https://www.zhihu.com/question/486379997",
       "heat": "77 万热度"
     },
     {
-      "rank": "13",
+      "rank": "12",
       "title": "未来的航母会不会超过 15 万吨？",
       "link": "https://www.zhihu.com/question/1974242133574709545",
-      "heat": "75 万热度"
+      "heat": "74 万热度"
+    },
+    {
+      "rank": "13",
+      "title": "全运会女子 100 米栏刘景扬获得金牌，吴艳妮摘银，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974588547194386359",
+      "heat": "74 万热度"
     },
     {
       "rank": "14",
@@ -90,19 +90,19 @@
       "rank": "15",
       "title": "西贝给一线员工每人涨薪 500 元，并设「委屈奖」补贴遭网暴人员，你觉得这剂「药方」能管多久？",
       "link": "https://www.zhihu.com/question/1974161508192757337",
-      "heat": "73 万热度"
+      "heat": "71 万热度"
     },
     {
       "rank": "16",
       "title": "韩国深陷 5 年内十大产业或全线失守恐慌，在中国的高速发展和美国的贸易保护政策之下，韩国经济何去何从？",
       "link": "https://www.zhihu.com/question/1974079949016168025",
-      "heat": "71 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "17",
       "title": "为什么宋江总是见人便拜，遇事便哭，手下的将领们仍对他忠心耿耿？",
       "link": "https://www.zhihu.com/question/426208869",
-      "heat": "70 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "18",
@@ -148,14 +148,14 @@
     },
     {
       "rank": "25",
-      "title": "全运会乒乓球女子团体决赛，山东队夺得金牌，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1974528095450003128",
+      "title": "文学史上有什么接近完美的作品？",
+      "link": "https://www.zhihu.com/question/490817840",
       "heat": "59 万热度"
     },
     {
       "rank": "26",
-      "title": "文学史上有什么接近完美的作品？",
-      "link": "https://www.zhihu.com/question/490817840",
+      "title": "全运会乒乓球女子团体决赛，山东队夺得金牌，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1974528095450003128",
       "heat": "59 万热度"
     },
     {
@@ -214,14 +214,14 @@
     },
     {
       "rank": "36",
-      "title": "交易中害怕亏损怎么办?",
-      "link": "https://www.zhihu.com/question/434086540",
+      "title": "有什么办法可以让领导知道你干了很多活？",
+      "link": "https://www.zhihu.com/question/666245231",
       "heat": "51 万热度"
     },
     {
       "rank": "37",
-      "title": "有什么办法可以让领导知道你干了很多活？",
-      "link": "https://www.zhihu.com/question/666245231",
+      "title": "交易中害怕亏损怎么办?",
+      "link": "https://www.zhihu.com/question/434086540",
       "heat": "51 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-20 04:25:32"
+  "generated_at": "2025-11-20 04:41:24"
 }
