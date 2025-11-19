@@ -1,54 +1,54 @@
 {
-  "artifact_id": "6d712cbb-b213-45af-8b32-837c9a430cb5",
+  "artifact_id": "45d13f81-c2ed-4de0-9757-ead43b7b266f",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "全运会乒乓球女子团体决赛，山东队夺得金牌，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1974528095450003128",
-      "heat": "409 万热度"
+      "heat": "472 万热度"
     },
     {
       "rank": "2",
       "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
       "link": "https://www.zhihu.com/question/1974527840201438797",
-      "heat": "240 万热度"
+      "heat": "242 万热度"
     },
     {
       "rank": "3",
+      "title": "全运会女子 100 米栏刘景扬获得金牌，吴艳妮摘银，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974588547194386359",
+      "heat": "112 万热度"
+    },
+    {
+      "rank": "4",
       "title": "国安部披露近年来破获一批日本间谍情报机关针对中国的渗透窃密间谍案件，哪些信息值得关注？有哪些警示？",
       "link": "https://www.zhihu.com/question/1974421884121653526",
       "heat": "107 万热度"
     },
     {
-      "rank": "4",
+      "rank": "5",
       "title": "喻恩泰回应离婚风波，「已报警立案，忍辱多年，被捕风捉影造谣」，具体是怎么回事？",
       "link": "https://www.zhihu.com/question/1974594901598500527",
-      "heat": "101 万热度"
-    },
-    {
-      "rank": "5",
-      "title": "全运会女子 100 米栏刘景扬获得金牌，吴艳妮摘银，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974588547194386359",
-      "heat": "100 万热度"
+      "heat": "104 万热度"
     },
     {
       "rank": "6",
       "title": "外交部表示即使日本水产品向中国出口也不会有市场，日方目前未能提供所承诺的水产品输华技术材料，有何影响？",
       "link": "https://www.zhihu.com/question/1974501000632090950",
-      "heat": "97 万热度"
+      "heat": "99 万热度"
     },
     {
       "rank": "7",
       "title": "大学生找人开锁被收四千元，被要求录视频「对费用无异议」，这有法律效力吗？「当场」和「事后」怎样维权？",
       "link": "https://www.zhihu.com/question/1974524008805459958",
-      "heat": "93 万热度"
+      "heat": "95 万热度"
     },
     {
       "rank": "8",
       "title": "网友用冬瓜片垫底滑行搬运 700KG 大型机器，丝滑平移还能扛住巨压，冬瓜为什么这么厉害？",
       "link": "https://www.zhihu.com/question/1974140088326776680",
-      "heat": "91 万热度"
+      "heat": "92 万热度"
     },
     {
       "rank": "9",
@@ -66,7 +66,7 @@
       "rank": "11",
       "title": "为什么有人喜欢开个房一个人在酒店待一天？",
       "link": "https://www.zhihu.com/question/417078756",
-      "heat": "76 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "12",
@@ -78,13 +78,13 @@
       "rank": "13",
       "title": "到底什么样的文化使得中国人是圆桌吃饭，而西方人是长桌吃饭？",
       "link": "https://www.zhihu.com/question/29921781",
-      "heat": "65 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "14",
-      "title": "25 年全运会乒乓球女团山东队 3：2 河北队，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974590430063657745",
-      "heat": "65 万热度"
+      "title": "为什么 NPD 会不断找刺激？",
+      "link": "https://www.zhihu.com/question/665665167",
+      "heat": "64 万热度"
     },
     {
       "rank": "15",
@@ -102,19 +102,19 @@
       "rank": "17",
       "title": "为什么宋江总是见人便拜，遇事便哭，手下的将领们仍对他忠心耿耿？",
       "link": "https://www.zhihu.com/question/426208869",
-      "heat": "64 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "18",
-      "title": "为什么 NPD 会不断找刺激？",
-      "link": "https://www.zhihu.com/question/665665167",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "19",
       "title": "当你真正开始爱自己，你会做什么？",
       "link": "https://www.zhihu.com/question/1889611191212557891",
       "heat": "62 万热度"
+    },
+    {
+      "rank": "19",
+      "title": "25 年全运会乒乓球女团山东队 3：2 河北队，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974590430063657745",
+      "heat": "59 万热度"
     },
     {
       "rank": "20",
@@ -126,7 +126,7 @@
       "rank": "21",
       "title": "有哪些让你「 爽到爆炸 」的 Windows 软件？",
       "link": "https://www.zhihu.com/question/486379997",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "22",
@@ -136,62 +136,62 @@
     },
     {
       "rank": "23",
-      "title": "我们是如何知道古代年号的对应公元时间的？",
-      "link": "https://www.zhihu.com/question/67026455",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "未来的航母会不会超过 15 万吨？",
-      "link": "https://www.zhihu.com/question/1974242133574709545",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "高中物理中所谓「势能」从根本上说该如何解释？",
-      "link": "https://www.zhihu.com/question/345886046",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "文学史上有什么接近完美的作品？",
-      "link": "https://www.zhihu.com/question/490817840",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "27",
       "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
       "link": "https://www.zhihu.com/question/1974558741924967910",
       "heat": "58 万热度"
     },
     {
-      "rank": "28",
-      "title": "如何看待保尔柯察金这个人物？",
-      "link": "https://www.zhihu.com/question/602430701",
+      "rank": "24",
+      "title": "我们是如何知道古代年号的对应公元时间的？",
+      "link": "https://www.zhihu.com/question/67026455",
       "heat": "58 万热度"
     },
     {
-      "rank": "29",
-      "title": "徐晃是击败了关羽还是击退了关羽?",
-      "link": "https://www.zhihu.com/question/1969709724011300184",
+      "rank": "25",
+      "title": "未来的航母会不会超过 15 万吨？",
+      "link": "https://www.zhihu.com/question/1974242133574709545",
       "heat": "58 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "高中物理中所谓「势能」从根本上说该如何解释？",
+      "link": "https://www.zhihu.com/question/345886046",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "文学史上有什么接近完美的作品？",
+      "link": "https://www.zhihu.com/question/490817840",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "在一个充满爱的家庭里还得了抑郁症正常吗？",
+      "link": "https://www.zhihu.com/question/627270606",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "如何看待保尔柯察金这个人物？",
+      "link": "https://www.zhihu.com/question/602430701",
+      "heat": "57 万热度"
     },
     {
       "rank": "30",
       "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
       "link": "https://www.zhihu.com/question/1974273046480184125",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "31",
-      "title": "为什么在遥远的 40k，基里曼苏醒相信希望仍存？",
-      "link": "https://www.zhihu.com/question/651951147",
+      "title": "徐晃是击败了关羽还是击退了关羽?",
+      "link": "https://www.zhihu.com/question/1969709724011300184",
       "heat": "57 万热度"
     },
     {
       "rank": "32",
-      "title": "在一个充满爱的家庭里还得了抑郁症正常吗？",
-      "link": "https://www.zhihu.com/question/627270606",
+      "title": "为什么在遥远的 40k，基里曼苏醒相信希望仍存？",
+      "link": "https://www.zhihu.com/question/651951147",
       "heat": "57 万热度"
     },
     {
@@ -256,14 +256,14 @@
     },
     {
       "rank": "43",
-      "title": "为什么人们更喜欢天赋型而不是努力型？",
-      "link": "https://www.zhihu.com/question/405250936",
+      "title": "延迟满足能力真的好吗？",
+      "link": "https://www.zhihu.com/question/290870877",
       "heat": "51 万热度"
     },
     {
       "rank": "44",
-      "title": "延迟满足能力真的好吗？",
-      "link": "https://www.zhihu.com/question/290870877",
+      "title": "为什么人们更喜欢天赋型而不是努力型？",
+      "link": "https://www.zhihu.com/question/405250936",
       "heat": "51 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-20 06:43:12"
+  "generated_at": "2025-11-20 06:55:55"
 }
