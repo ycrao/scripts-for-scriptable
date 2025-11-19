@@ -1,96 +1,96 @@
 {
-  "artifact_id": "e19779bf-e5dc-4ad8-839a-bc12fc50bdca",
+  "artifact_id": "1ad3e26f-2ddc-46c8-b525-c575a2d7db2b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "网友网购 50 条观赏鱼到货只有一袋水，商家称加热包把鱼煮熟分解了，这是真的吗？分解会毫无残留吗？",
       "link": "https://www.zhihu.com/question/1974117795760400095",
-      "heat": "313 万热度"
+      "heat": "328 万热度"
     },
     {
       "rank": "2",
-      "title": "《西游记》里龙王为何对孙悟空掏心掏肺？好像是全书里唯一对孙悟空好的？",
-      "link": "https://www.zhihu.com/question/1973391148606313072",
-      "heat": "220 万热度"
+      "title": "我国大学学龄人口 2032 年达峰，这将带来哪些影响？高校教育会如何改革？",
+      "link": "https://www.zhihu.com/question/1974076666121838856",
+      "heat": "178 万热度"
     },
     {
       "rank": "3",
-      "title": "出差前领导说「这次出差费用要 3 万左右，但不能预支，需要垫付回来报销，是你来还是我来？」我该怎么办？",
-      "link": "https://www.zhihu.com/question/664461577",
-      "heat": "210 万热度"
+      "title": "《西游记》里龙王为何对孙悟空掏心掏肺？好像是全书里唯一对孙悟空好的？",
+      "link": "https://www.zhihu.com/question/1973391148606313072",
+      "heat": "175 万热度"
     },
     {
       "rank": "4",
-      "title": "我国大学学龄人口 2032 年达峰，这将带来哪些影响？高校教育会如何改革？",
-      "link": "https://www.zhihu.com/question/1974076666121838856",
-      "heat": "208 万热度"
+      "title": "出差前领导说「这次出差费用要 3 万左右，但不能预支，需要垫付回来报销，是你来还是我来？」我该怎么办？",
+      "link": "https://www.zhihu.com/question/664461577",
+      "heat": "167 万热度"
     },
     {
       "rank": "5",
-      "title": "全运会张博恒单杠失误瞬间一裁判鼓掌大笑，涉事裁判员终止比赛执裁资格，如何评价？事件还暴露了哪些问题？",
-      "link": "https://www.zhihu.com/question/1974159352622514243",
-      "heat": "123 万热度"
+      "title": "如果用 80℃的热风持续吹一个铁块，那么铁块表面的温度有没有可能超过 80℃？",
+      "link": "https://www.zhihu.com/question/666880218",
+      "heat": "113 万热度"
     },
     {
       "rank": "6",
       "title": "江苏科技大学通报郭某学术造假事件，已解聘并报案，此事还有哪些疑点？校方在引进审核中是否存在失职责任？",
       "link": "https://www.zhihu.com/question/1974396544791834987",
-      "heat": "120 万热度"
+      "heat": "112 万热度"
     },
     {
       "rank": "7",
-      "title": "如果用 80℃的热风持续吹一个铁块，那么铁块表面的温度有没有可能超过 80℃？",
-      "link": "https://www.zhihu.com/question/666880218",
-      "heat": "117 万热度"
+      "title": "国安部披露近年来破获一批日本间谍情报机关针对中国的渗透窃密间谍案件，哪些信息值得关注？有哪些警示？",
+      "link": "https://www.zhihu.com/question/1974421884121653526",
+      "heat": "112 万热度"
     },
     {
       "rank": "8",
       "title": "为什么喜剧节目对四大名著其中三个都有改编，唯独没有用红楼梦作底的舞台作品？",
       "link": "https://www.zhihu.com/question/1968695972570857683",
-      "heat": "110 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "9",
       "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
       "link": "https://www.zhihu.com/question/1972270226642044065",
-      "heat": "108 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "10",
-      "title": "国安部披露近年来破获一批日本间谍情报机关针对中国的渗透窃密间谍案件，哪些信息值得关注？有哪些警示？",
-      "link": "https://www.zhihu.com/question/1974421884121653526",
-      "heat": "106 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "越南的国食 Pho（河粉）为什么在中国只能失败？",
-      "link": "https://www.zhihu.com/question/509282822",
-      "heat": "94 万热度"
-    },
-    {
-      "rank": "12",
       "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
       "link": "https://www.zhihu.com/question/1973721840783417550",
       "heat": "92 万热度"
     },
     {
+      "rank": "11",
+      "title": "全运会张博恒单杠失误瞬间一裁判鼓掌大笑，涉事裁判员终止比赛执裁资格，如何评价？事件还暴露了哪些问题？",
+      "link": "https://www.zhihu.com/question/1974159352622514243",
+      "heat": "91 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "2526 赛季 NBA 常规赛爵士 125:140 湖人，詹姆斯复出砍下两双，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974442723353306918",
+      "heat": "89 万热度"
+    },
+    {
       "rank": "13",
       "title": "为什么越来越多的人开始接受「工资是受罪的钱」，而不是为理想和成就工作了？",
       "link": "https://www.zhihu.com/question/1968243257768116776",
-      "heat": "83 万热度"
+      "heat": "88 万热度"
     },
     {
       "rank": "14",
-      "title": "2526 赛季 NBA 常规赛爵士 125:140 湖人，詹姆斯复出砍下两双，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974442723353306918",
-      "heat": "83 万热度"
+      "title": "2526 赛季 NBA 常规赛太阳 127:110 开拓者，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974451568213509181",
+      "heat": "80 万热度"
     },
     {
       "rank": "15",
       "title": "为什么以前的房子都要加个门槛呢？",
       "link": "https://www.zhihu.com/question/330231959",
-      "heat": "79 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "16",
@@ -102,144 +102,144 @@
       "rank": "17",
       "title": "网传便宜的食用油多是浸出油，这是真的吗？这种工艺对人体健康有影响吗？",
       "link": "https://www.zhihu.com/question/1972364496493351504",
-      "heat": "76 万热度"
+      "heat": "77 万热度"
     },
     {
       "rank": "18",
-      "title": "在粤语区工作生活，不会粤语真的会寸步难行吗？",
-      "link": "https://www.zhihu.com/question/1970811933365102556",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "19",
       "title": "学生餐问题频发，想问问大家，作为家长代表该如何检查学生食堂？",
       "link": "https://www.zhihu.com/question/12318197776",
       "heat": "65 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "为什么很多人认为物理和数学更相似，而不是和化学、生物学、地球科学更相似？",
       "link": "https://www.zhihu.com/question/1969826077049362371",
+      "heat": "64 万热度"
+    },
+    {
+      "rank": "20",
+      "title": "医生让 625 度远视儿童每天看手机，这真的有用吗？有何医学依据？",
+      "link": "https://www.zhihu.com/question/1973058942063093010",
       "heat": "64 万热度"
     },
     {
       "rank": "21",
       "title": "《父母爱情》：老丁到底有没有喜欢过安杰？",
       "link": "https://www.zhihu.com/question/388736210",
-      "heat": "63 万热度"
+      "heat": "64 万热度"
     },
     {
       "rank": "22",
-      "title": "日外务省官员离开中国外交部，一言未发来一言未发走，中方称日方必须给中国人民一个明确交代，释放哪些信号？",
-      "link": "https://www.zhihu.com/question/1974139568912627428",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "23",
       "title": "如果 AI 能完美模拟已故亲友的思维和记忆，你会选择「复活」他们吗？",
       "link": "https://www.zhihu.com/question/1920764981328221242",
       "heat": "62 万热度"
     },
     {
+      "rank": "23",
+      "title": "如何评价《绝区零》角色档案「叶瞬光」？",
+      "link": "https://www.zhihu.com/question/1974447928111289113",
+      "heat": "60 万热度"
+    },
+    {
       "rank": "24",
-      "title": "核电站会不会像原子弹那样爆炸？",
-      "link": "https://www.zhihu.com/question/20634377",
+      "title": "在工作上，领导分工含糊不清，应该怎么办？",
+      "link": "https://www.zhihu.com/question/1973580923254620210",
       "heat": "59 万热度"
     },
     {
       "rank": "25",
+      "title": "在粤语区工作生活，不会粤语真的会寸步难行吗？",
+      "link": "https://www.zhihu.com/question/1970811933365102556",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "26",
       "title": "AI 为什么会先淘汰写字楼里的人？",
       "link": "https://www.zhihu.com/question/582917350",
       "heat": "58 万热度"
     },
     {
-      "rank": "26",
-      "title": "2526 赛季 NBA 常规赛勇士 113:121 魔术，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974385936524665839",
+      "rank": "27",
+      "title": "核电站会不会像原子弹那样爆炸？",
+      "link": "https://www.zhihu.com/question/20634377",
       "heat": "57 万热度"
     },
     {
-      "rank": "27",
-      "title": "医生让 625 度远视儿童每天看手机，这真的有用吗？有何医学依据？",
-      "link": "https://www.zhihu.com/question/1973058942063093010",
-      "heat": "56 万热度"
-    },
-    {
       "rank": "28",
-      "title": "中年确诊慢阻肺，就等于被判处『缓刑』吗？普通人该如何应对？",
-      "link": "https://www.zhihu.com/question/1974078884287881971",
-      "heat": "55 万热度"
+      "title": "越南的国食 Pho（河粉）为什么在中国只能失败？",
+      "link": "https://www.zhihu.com/question/509282822",
+      "heat": "57 万热度"
     },
     {
       "rank": "29",
       "title": "程序员会觉得键盘声吵吗？",
       "link": "https://www.zhihu.com/question/1972314527623286834",
-      "heat": "55 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "30",
-      "title": "胖东来补偿被顾客掌掴、辱骂、推搡的委屈员工，有员工最多得 3 万元，怎样看待这种做法？值得推广吗？",
-      "link": "https://www.zhihu.com/question/1973821744885302996",
-      "heat": "54 万热度"
+      "title": "2526 赛季 NBA 常规赛勇士 113:121 魔术，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974385936524665839",
+      "heat": "55 万热度"
     },
     {
       "rank": "31",
-      "title": "《三角洲行动》沙鹰五级弹的出现，会不会让四套变得没有意义？",
-      "link": "https://www.zhihu.com/question/1968620583261566590",
-      "heat": "53 万热度"
+      "title": "中年确诊慢阻肺，就等于被判处『缓刑』吗？普通人该如何应对？",
+      "link": "https://www.zhihu.com/question/1974078884287881971",
+      "heat": "54 万热度"
     },
     {
       "rank": "32",
-      "title": "如何评价 AL 官宣 Tabe 离队？",
-      "link": "https://www.zhihu.com/question/1974215092854863655",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "33",
       "title": "如何看待网易《燕云十六声》海外版 Steam 获「多半好评」？",
       "link": "https://www.zhihu.com/question/1973323139707577590",
       "heat": "52 万热度"
     },
     {
-      "rank": "34",
+      "rank": "33",
       "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
       "link": "https://www.zhihu.com/question/1970226468920471782",
       "heat": "52 万热度"
     },
     {
-      "rank": "35",
+      "rank": "34",
       "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
       "link": "https://www.zhihu.com/question/1973700569139995365",
       "heat": "52 万热度"
     },
     {
-      "rank": "36",
+      "rank": "35",
       "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
       "link": "https://www.zhihu.com/question/1966326160255344700",
       "heat": "52 万热度"
     },
     {
-      "rank": "37",
+      "rank": "36",
       "title": "为什么很多游戏在第一次进入时编译着色器?",
       "link": "https://www.zhihu.com/question/592771174",
       "heat": "52 万热度"
     },
     {
-      "rank": "38",
+      "rank": "37",
       "title": "延迟满足能力真的好吗？",
       "link": "https://www.zhihu.com/question/290870877",
       "heat": "52 万热度"
     },
     {
-      "rank": "39",
+      "rank": "38",
       "title": "带地名的名吃除了北京烤鸭、兰州拉面，还有什么？",
       "link": "https://www.zhihu.com/question/7641186619",
       "heat": "52 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "如何看待 2025 年的 TGA 年度游戏各个奖项的提名名单？",
       "link": "https://www.zhihu.com/question/1973818424514848229",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "《终结者》里人类是如何战胜天网的？",
+      "link": "https://www.zhihu.com/question/321013485",
       "heat": "52 万热度"
     },
     {
@@ -250,58 +250,58 @@
     },
     {
       "rank": "42",
-      "title": "《终结者》里人类是如何战胜天网的？",
-      "link": "https://www.zhihu.com/question/321013485",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "43",
-      "title": "交易中害怕亏损怎么办?",
-      "link": "https://www.zhihu.com/question/434086540",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "44",
       "title": "《喜人奇妙夜 2》张兴朝新作《冷不丁梆梆就两拳》表达了什么？「喜剧的内核是悲剧」吗？",
       "link": "https://www.zhihu.com/question/1973056508825732441",
       "heat": "52 万热度"
     },
     {
-      "rank": "45",
+      "rank": "43",
       "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
       "link": "https://www.zhihu.com/question/630375759",
       "heat": "52 万热度"
     },
     {
-      "rank": "46",
+      "rank": "44",
       "title": "无意中翻到了爷爷生前拍的胶片，感觉很有意境，有摄影佬一起赏析一下吗?",
       "link": "https://www.zhihu.com/question/1972217487144773450",
       "heat": "52 万热度"
     },
     {
-      "rank": "47",
+      "rank": "45",
       "title": "流感季带孩子去医院看病，如何防止被流感病毒感染？",
       "link": "https://www.zhihu.com/question/359605196",
       "heat": "52 万热度"
     },
     {
-      "rank": "48",
+      "rank": "46",
       "title": "作为一名职业选手，Uzi 到底缺少什么呢？",
       "link": "https://www.zhihu.com/question/1970956387505935996",
       "heat": "52 万热度"
     },
     {
-      "rank": "49",
+      "rank": "47",
       "title": "韩信能忍辱，又是军事天才，为何下场如此不堪？",
       "link": "https://www.zhihu.com/question/666629150",
       "heat": "52 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "三星杯决赛，廖元赫战胜丁浩，2-0 夺冠，丁浩错失三连冠，廖元赫成为新科世界冠军，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1973781544108781986",
       "heat": "52 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "大家觉得有必要带孩子去农村，体验一下生活吗？",
+      "link": "https://www.zhihu.com/question/1903940422214088033",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何评价米哈游《崩坏星穹铁道》2.0 版本角色「花火」？",
+      "link": "https://www.zhihu.com/question/646396224",
+      "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-11-19 14:57:30"
+  "generated_at": "2025-11-19 15:27:15"
 }
