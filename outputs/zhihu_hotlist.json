@@ -1,307 +1,307 @@
 {
-  "artifact_id": "da1fb8c0-a3ea-4c47-9c7e-17337f1aeeac",
+  "artifact_id": "dbf8d797-39f9-44c3-bd8f-e3ffbb92b215",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
-      "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1974527840201438797",
-      "heat": "266 万热度"
+      "title": "全运会乒乓球女子团体决赛，山东队夺得金牌，如何评价本场比赛？",
+      "link": "https://www.zhihu.com/question/1974528095450003128",
+      "heat": "257 万热度"
     },
     {
       "rank": "2",
+      "title": "荷兰高官表示已暂停对安世半导体的干预，这一决策有哪些考量？会带来哪些影响？",
+      "link": "https://www.zhihu.com/question/1974527840201438797",
+      "heat": "233 万热度"
+    },
+    {
+      "rank": "3",
       "title": "国安部披露近年来破获一批日本间谍情报机关针对中国的渗透窃密间谍案件，哪些信息值得关注？有哪些警示？",
       "link": "https://www.zhihu.com/question/1974421884121653526",
       "heat": "106 万热度"
     },
     {
-      "rank": "3",
-      "title": "为什么有人喜欢开个房一个人在酒店待一天？",
-      "link": "https://www.zhihu.com/question/417078756",
-      "heat": "94 万热度"
-    },
-    {
       "rank": "4",
       "title": "喻恩泰回应离婚风波，「已报警立案，忍辱多年，被捕风捉影造谣」，具体是怎么回事？",
       "link": "https://www.zhihu.com/question/1974594901598500527",
-      "heat": "92 万热度"
+      "heat": "96 万热度"
     },
     {
       "rank": "5",
-      "title": "网友用冬瓜片垫底滑行搬运 700KG 大型机器，丝滑平移还能扛住巨压，冬瓜为什么这么厉害？",
-      "link": "https://www.zhihu.com/question/1974140088326776680",
-      "heat": "87 万热度"
+      "title": "为什么有人喜欢开个房一个人在酒店待一天？",
+      "link": "https://www.zhihu.com/question/417078756",
+      "heat": "91 万热度"
     },
     {
       "rank": "6",
-      "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-      "link": "https://www.zhihu.com/question/1972270226642044065",
-      "heat": "86 万热度"
+      "title": "外交部表示即使日本水产品向中国出口也不会有市场，日方目前未能提供所承诺的水产品输华技术材料，有何影响？",
+      "link": "https://www.zhihu.com/question/1974501000632090950",
+      "heat": "90 万热度"
     },
     {
       "rank": "7",
-      "title": "外交部表示即使日本水产品向中国出口也不会有市场，日方目前未能提供所承诺的水产品输华技术材料，有何影响？",
-      "link": "https://www.zhihu.com/question/1974501000632090950",
-      "heat": "85 万热度"
+      "title": "网友用冬瓜片垫底滑行搬运 700KG 大型机器，丝滑平移还能扛住巨压，冬瓜为什么这么厉害？",
+      "link": "https://www.zhihu.com/question/1974140088326776680",
+      "heat": "90 万热度"
     },
     {
       "rank": "8",
       "title": "大学生找人开锁被收四千元，被要求录视频「对费用无异议」，这有法律效力吗？「当场」和「事后」怎样维权？",
       "link": "https://www.zhihu.com/question/1974524008805459958",
-      "heat": "84 万热度"
+      "heat": "89 万热度"
     },
     {
       "rank": "9",
+      "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+      "link": "https://www.zhihu.com/question/1972270226642044065",
+      "heat": "89 万热度"
+    },
+    {
+      "rank": "10",
+      "title": "全运会女子 100 米栏刘景扬获得金牌，吴艳妮摘银，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974588547194386359",
+      "heat": "83 万热度"
+    },
+    {
+      "rank": "11",
       "title": "网友网购 50 条观赏鱼到货只有一袋水，商家称加热包把鱼煮熟分解了，这是真的吗？分解会毫无残留吗？",
       "link": "https://www.zhihu.com/question/1974117795760400095",
       "heat": "82 万热度"
     },
     {
-      "rank": "10",
+      "rank": "12",
       "title": "白宫拟对美国公民海外加密资产征税，此举会对加密货币市场产生何种冲击？加密货币还加密吗？",
       "link": "https://www.zhihu.com/question/1974416603635528233",
-      "heat": "79 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "有哪些让你「 爽到爆炸 」的 Windows 软件？",
-      "link": "https://www.zhihu.com/question/486379997",
-      "heat": "78 万热度"
-    },
-    {
-      "rank": "12",
-      "title": "未来的航母会不会超过 15 万吨？",
-      "link": "https://www.zhihu.com/question/1974242133574709545",
-      "heat": "75 万热度"
+      "heat": "80 万热度"
     },
     {
       "rank": "13",
-      "title": "全运会女子 100 米栏刘景扬获得金牌，吴艳妮摘银，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974588547194386359",
-      "heat": "73 万热度"
+      "title": "25 年全运会乒乓球女团山东队 3：2 河北队，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1974590430063657745",
+      "heat": "65 万热度"
     },
     {
       "rank": "14",
-      "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
-      "link": "https://www.zhihu.com/question/1974558741924967910",
-      "heat": "73 万热度"
+      "title": "到底什么样的文化使得中国人是圆桌吃饭，而西方人是长桌吃饭？",
+      "link": "https://www.zhihu.com/question/29921781",
+      "heat": "64 万热度"
     },
     {
       "rank": "15",
-      "title": "为什么在遥远的 40k，基里曼苏醒相信希望仍存？",
-      "link": "https://www.zhihu.com/question/651951147",
-      "heat": "67 万热度"
+      "title": "为什么 NPD 会不断找刺激？",
+      "link": "https://www.zhihu.com/question/665665167",
+      "heat": "63 万热度"
     },
     {
       "rank": "16",
       "title": "韩国深陷 5 年内十大产业或全线失守恐慌，在中国的高速发展和美国的贸易保护政策之下，韩国经济何去何从？",
       "link": "https://www.zhihu.com/question/1974079949016168025",
-      "heat": "67 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "17",
       "title": "为什么宋江总是见人便拜，遇事便哭，手下的将领们仍对他忠心耿耿？",
       "link": "https://www.zhihu.com/question/426208869",
-      "heat": "67 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "18",
-      "title": "徐晃是击败了关羽还是击退了关羽?",
-      "link": "https://www.zhihu.com/question/1969709724011300184",
-      "heat": "67 万热度"
+      "title": "当你真正开始爱自己，你会做什么？",
+      "link": "https://www.zhihu.com/question/1889611191212557891",
+      "heat": "61 万热度"
     },
     {
       "rank": "19",
-      "title": "如何看待保尔柯察金这个人物？",
-      "link": "https://www.zhihu.com/question/602430701",
-      "heat": "65 万热度"
+      "title": "我们是如何知道古代年号的对应公元时间的？",
+      "link": "https://www.zhihu.com/question/67026455",
+      "heat": "61 万热度"
     },
     {
       "rank": "20",
-      "title": "到底什么样的文化使得中国人是圆桌吃饭，而西方人是长桌吃饭？",
-      "link": "https://www.zhihu.com/question/29921781",
-      "heat": "65 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "西贝给一线员工每人涨薪 500 元，并设「委屈奖」补贴遭网暴人员，你觉得这剂「药方」能管多久？",
-      "link": "https://www.zhihu.com/question/1974161508192757337",
-      "heat": "64 万热度"
-    },
-    {
-      "rank": "22",
       "title": "高中物理中所谓「势能」从根本上说该如何解释？",
       "link": "https://www.zhihu.com/question/345886046",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "我们是如何知道古代年号的对应公元时间的？",
-      "link": "https://www.zhihu.com/question/67026455",
       "heat": "60 万热度"
     },
     {
+      "rank": "21",
+      "title": "有哪些让你「 爽到爆炸 」的 Windows 软件？",
+      "link": "https://www.zhihu.com/question/486379997",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "未来的航母会不会超过 15 万吨？",
+      "link": "https://www.zhihu.com/question/1974242133574709545",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "西贝给一线员工每人涨薪 500 元，并设「委屈奖」补贴遭网暴人员，你觉得这剂「药方」能管多久？",
+      "link": "https://www.zhihu.com/question/1974161508192757337",
+      "heat": "59 万热度"
+    },
+    {
       "rank": "24",
-      "title": "25 年全运会乒乓球女团山东队 3：2 河北队，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1974590430063657745",
+      "title": "如何看待保尔柯察金这个人物？",
+      "link": "https://www.zhihu.com/question/602430701",
       "heat": "59 万热度"
     },
     {
       "rank": "25",
-      "title": "全运会乒乓球女子团体决赛，山东队夺得金牌，如何评价本场比赛？",
-      "link": "https://www.zhihu.com/question/1974528095450003128",
+      "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
+      "link": "https://www.zhihu.com/question/1974558741924967910",
       "heat": "59 万热度"
     },
     {
       "rank": "26",
+      "title": "徐晃是击败了关羽还是击退了关羽?",
+      "link": "https://www.zhihu.com/question/1969709724011300184",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "为什么在遥远的 40k，基里曼苏醒相信希望仍存？",
+      "link": "https://www.zhihu.com/question/651951147",
+      "heat": "59 万热度"
+    },
+    {
+      "rank": "28",
       "title": "文学史上有什么接近完美的作品？",
       "link": "https://www.zhihu.com/question/490817840",
       "heat": "59 万热度"
     },
     {
-      "rank": "27",
+      "rank": "29",
       "title": "如果用 80℃的热风持续吹一个铁块，那么铁块表面的温度有没有可能超过 80℃？",
       "link": "https://www.zhihu.com/question/666880218",
       "heat": "59 万热度"
     },
     {
-      "rank": "28",
+      "rank": "30",
       "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
       "link": "https://www.zhihu.com/question/1974273046480184125",
       "heat": "58 万热度"
     },
     {
-      "rank": "29",
+      "rank": "31",
       "title": "在一个充满爱的家庭里还得了抑郁症正常吗？",
       "link": "https://www.zhihu.com/question/627270606",
       "heat": "57 万热度"
     },
     {
-      "rank": "30",
+      "rank": "32",
       "title": "陈妤颉以 23 秒 03 夺得第十五届全运会女子 200 米冠军，如何评价她的表现？",
       "link": "https://www.zhihu.com/question/1974577109444892185",
-      "heat": "55 万热度"
+      "heat": "56 万热度"
     },
     {
-      "rank": "31",
+      "rank": "33",
       "title": "成长太慢怎么办？",
       "link": "https://www.zhihu.com/question/463348761",
       "heat": "55 万热度"
     },
     {
-      "rank": "32",
+      "rank": "34",
       "title": "如何评价《唐朝诡事录》系列主角六人组的构成？",
       "link": "https://www.zhihu.com/question/1972345786219099484",
       "heat": "55 万热度"
     },
     {
-      "rank": "33",
+      "rank": "35",
       "title": "为什么爬行动物都是卵生的，而「进化」到哺乳动物后又都是胎生了？",
       "link": "https://www.zhihu.com/question/20753207",
       "heat": "53 万热度"
     },
     {
-      "rank": "34",
+      "rank": "36",
       "title": "杨瀚森 9 分 5 篮板 3 助攻，三项数据创生涯新高，太阳 127:110 开拓者，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1974451568213509181",
       "heat": "52 万热度"
     },
     {
-      "rank": "35",
+      "rank": "37",
       "title": "如果你是《货币战争》的游戏策划，你会设计什么羁绊？",
       "link": "https://www.zhihu.com/question/1972221214555612524",
       "heat": "51 万热度"
     },
     {
-      "rank": "36",
+      "rank": "38",
       "title": "假如祥子黑刀之夜讲清楚，那 c 团还会不会解散?",
       "link": "https://www.zhihu.com/question/1939784133111976957",
       "heat": "51 万热度"
     },
     {
-      "rank": "37",
+      "rank": "39",
+      "title": "如何在高魔世界中刻画与法师对等的战士？",
+      "link": "https://www.zhihu.com/question/314342412",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "40",
       "title": "有什么办法可以让领导知道你干了很多活？",
       "link": "https://www.zhihu.com/question/666245231",
       "heat": "51 万热度"
     },
     {
-      "rank": "38",
+      "rank": "41",
       "title": "交易中害怕亏损怎么办?",
       "link": "https://www.zhihu.com/question/434086540",
       "heat": "51 万热度"
     },
     {
-      "rank": "39",
+      "rank": "42",
       "title": "延迟满足能力真的好吗？",
       "link": "https://www.zhihu.com/question/290870877",
       "heat": "51 万热度"
     },
     {
-      "rank": "40",
+      "rank": "43",
       "title": "为什么人们更喜欢天赋型而不是努力型？",
       "link": "https://www.zhihu.com/question/405250936",
       "heat": "51 万热度"
     },
     {
-      "rank": "41",
+      "rank": "44",
       "title": "为什么中国画不画影子？",
       "link": "https://www.zhihu.com/question/663104410",
       "heat": "51 万热度"
     },
     {
-      "rank": "42",
+      "rank": "45",
       "title": "和领导相处有哪些红线不能碰？",
       "link": "https://www.zhihu.com/question/1968705523072340290",
       "heat": "51 万热度"
     },
     {
-      "rank": "43",
+      "rank": "46",
       "title": "为什么左轮结构多见于手枪，而很少见于步枪 / 来复枪？",
       "link": "https://www.zhihu.com/question/15074347651",
       "heat": "51 万热度"
     },
     {
-      "rank": "44",
+      "rank": "47",
       "title": "哪些游戏角色比游戏本身还要出名？",
       "link": "https://www.zhihu.com/question/1973842031114729062",
       "heat": "50 万热度"
     },
     {
-      "rank": "45",
+      "rank": "48",
       "title": "海军四川舰为什么是双舰岛？",
       "link": "https://www.zhihu.com/question/1973732353345098750",
       "heat": "50 万热度"
     },
     {
-      "rank": "46",
-      "title": "《崩坏•星穹铁道》3.7 版本最新推出的常驻玩法货币战争是否在很大程度上提高了玩家活跃度？",
-      "link": "https://www.zhihu.com/question/1971035199182730561",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "47",
+      "rank": "49",
       "title": "如果孙悟空把自己的力量压制到凡人水平，只拿一根普通竹棒，和洪七公较量一下棒法，孙悟空能赢吗？",
       "link": "https://www.zhihu.com/question/1973378217139275045",
       "heat": "50 万热度"
     },
     {
-      "rank": "48",
-      "title": "意大利男足连续三届世预赛踢附加赛，反映了哪些问题？",
-      "link": "https://www.zhihu.com/question/1973713764948910653",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "为什么 iPhone 的屏幕看起来更通透？",
-      "link": "https://www.zhihu.com/question/637587377",
-      "heat": "50 万热度"
-    },
-    {
       "rank": "50",
-      "title": "赤峰官方通报免费采捡白菜事件调查情况，多人被罚，发布视频者和摘菜的人需赔偿吗？此事带来哪些思考？",
-      "link": "https://www.zhihu.com/question/1971259347209282838",
+      "title": "《崩坏•星穹铁道》3.7 版本最新推出的常驻玩法货币战争是否在很大程度上提高了玩家活跃度？",
+      "link": "https://www.zhihu.com/question/1971035199182730561",
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-20 05:53:12"
+  "generated_at": "2025-11-20 06:24:41"
 }
