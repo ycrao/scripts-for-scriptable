@@ -1,48 +1,48 @@
 {
-  "artifact_id": "3530c945-7758-4628-a422-386567ef85a2",
+  "artifact_id": "27678f07-d3d4-45e6-9650-22aed4de7e40",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "全运会男乒团体赛，北京男团 3-1 胜上海夺冠，樊振东再胜王楚钦，如何看待本场比赛？",
       "link": "https://www.zhihu.com/question/1974889293995536646",
-      "heat": "564 万热度"
+      "heat": "527 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
       "link": "https://www.zhihu.com/question/1974854700256944776",
-      "heat": "171 万热度"
+      "heat": "176 万热度"
     },
     {
       "rank": "3",
-      "title": "为什么说大多数人们所知的新疆美食其实都是汉人发明的?",
-      "link": "https://www.zhihu.com/question/1974447102634514312",
-      "heat": "100 万热度"
+      "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
+      "link": "https://www.zhihu.com/question/1974853096925524498",
+      "heat": "98 万热度"
     },
     {
       "rank": "4",
-      "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
-      "link": "https://www.zhihu.com/question/1974853096925524498",
-      "heat": "96 万热度"
+      "title": "为什么说大多数人们所知的新疆美食其实都是汉人发明的?",
+      "link": "https://www.zhihu.com/question/1974447102634514312",
+      "heat": "94 万热度"
     },
     {
       "rank": "5",
-      "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-      "link": "https://www.zhihu.com/question/1974981372130116043",
-      "heat": "74 万热度"
+      "title": "全运会乒乓球男团决赛，北京马龙 3-0 上海周恺，如何评价这场关键战？",
+      "link": "https://www.zhihu.com/question/1974898298826485824",
+      "heat": "75 万热度"
     },
     {
       "rank": "6",
       "title": "如何看待职场上挑拨离间式的管理？",
       "link": "https://www.zhihu.com/question/1934892043353691477",
-      "heat": "71 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "7",
       "title": "精灵弓箭手，牧师身体娇弱这些印象，是源于什么动画作品的？",
       "link": "https://www.zhihu.com/question/666143475",
-      "heat": "66 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "8",
@@ -52,45 +52,45 @@
     },
     {
       "rank": "9",
-      "title": "全运会乒乓球男团决赛，北京马龙 3-0 上海周恺，如何评价这场关键战？",
-      "link": "https://www.zhihu.com/question/1974898298826485824",
-      "heat": "59 万热度"
+      "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+      "link": "https://www.zhihu.com/question/1974981372130116043",
+      "heat": "63 万热度"
     },
     {
       "rank": "10",
-      "title": "你所在的行业里有哪些少为人知的内幕？",
-      "link": "https://www.zhihu.com/question/31453231",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "《鬼灭之刃》死得最早的炎柱，是实力最差的柱吗？",
-      "link": "https://www.zhihu.com/question/617846093",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "12",
       "title": "后世为什么有很多人为袁崇焕喊冤，却没有人为毛文龙喊冤？",
       "link": "https://www.zhihu.com/question/428189929",
       "heat": "58 万热度"
     },
     {
-      "rank": "13",
+      "rank": "11",
       "title": "冲锋衣为什么会被网友们封为「北京市服」？是单纯的气候原因吗？",
       "link": "https://www.zhihu.com/question/1974141271233754268",
       "heat": "58 万热度"
     },
     {
-      "rank": "14",
+      "rank": "12",
       "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
       "link": "https://www.zhihu.com/question/1973698606189008394",
       "heat": "58 万热度"
     },
     {
-      "rank": "15",
+      "rank": "13",
+      "title": "《遮天》中人族大帝为什么会守护苍生？",
+      "link": "https://www.zhihu.com/question/1905334742414493370",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "14",
       "title": "如何评价霍建华、朱珠主演的都市剧《他为什么依然单身》？",
       "link": "https://www.zhihu.com/question/1973710777312634873",
       "heat": "58 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "你所在的行业里有哪些少为人知的内幕？",
+      "link": "https://www.zhihu.com/question/31453231",
+      "heat": "57 万热度"
     },
     {
       "rank": "16",
@@ -126,162 +126,162 @@
       "rank": "21",
       "title": "怎么分析资产负债表？",
       "link": "https://www.zhihu.com/question/275844707",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "22",
-      "title": "为什么古代科举不考数学?",
-      "link": "https://www.zhihu.com/question/654262073",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "如何看待《牵丝戏》词作者 Vagary 与曲作者兼歌手银临权利纠纷？",
-      "link": "https://www.zhihu.com/question/1973877727296771069",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "如何评价《鸣潮》2.8 版本千咲卡池成绩?",
-      "link": "https://www.zhihu.com/question/1974878100299985155",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "请问在儒家思想中，读书最主要的目的是出来从政吗？",
-      "link": "https://www.zhihu.com/question/269511376",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "为什么宇称会不守恒？",
-      "link": "https://www.zhihu.com/question/550280888",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "为什么一定要频繁记录自己?",
-      "link": "https://www.zhihu.com/question/1925936172162605365",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "《潜伏》里的翠平为什么用红中代表洪秘书？",
-      "link": "https://www.zhihu.com/question/315023004",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "给审稿人回信时，哪些细节要注意？",
-      "link": "https://www.zhihu.com/question/568551143",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "30",
       "title": "为什么这代孩子心中会压抑着那么多的愤怒、怨恨？",
       "link": "https://www.zhihu.com/question/1973289911340773706",
       "heat": "51 万热度"
     },
     {
-      "rank": "31",
-      "title": "嫦娥六号月球样品中首次发现晶质赤铁矿，这一发现有哪些重要意义？",
-      "link": "https://www.zhihu.com/question/1973306599096410151",
+      "rank": "23",
+      "title": "给审稿人回信时，哪些细节要注意？",
+      "link": "https://www.zhihu.com/question/568551143",
       "heat": "51 万热度"
     },
     {
-      "rank": "32",
+      "rank": "24",
+      "title": "为什么古代科举不考数学?",
+      "link": "https://www.zhihu.com/question/654262073",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "25",
       "title": "如何坦然面对自己的失败？",
       "link": "https://www.zhihu.com/question/37555333",
       "heat": "51 万热度"
     },
     {
+      "rank": "26",
+      "title": "广西一高校拟开设「打呼噜宿舍」，学生不满意还可退宿，学生们会去住吗？有哪些治疗打呼噜的好方法？",
+      "link": "https://www.zhihu.com/question/1972297940069520884",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "如何评价《鸣潮》2.8 版本千咲卡池成绩?",
+      "link": "https://www.zhihu.com/question/1974878100299985155",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "为什么一定要频繁记录自己?",
+      "link": "https://www.zhihu.com/question/1925936172162605365",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "你希望《剑风传奇》如何结尾?",
+      "link": "https://www.zhihu.com/question/460571390",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "如何看待《牵丝戏》词作者 Vagary 与曲作者兼歌手银临权利纠纷？",
+      "link": "https://www.zhihu.com/question/1973877727296771069",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "请问在儒家思想中，读书最主要的目的是出来从政吗？",
+      "link": "https://www.zhihu.com/question/269511376",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "为什么宇称会不守恒？",
+      "link": "https://www.zhihu.com/question/550280888",
+      "heat": "51 万热度"
+    },
+    {
       "rank": "33",
-      "title": "怎样才能让自己每天过得充实又快乐呢？",
-      "link": "https://www.zhihu.com/question/1973420664825325363",
+      "title": "什么是上弦月？什么是下弦月？",
+      "link": "https://www.zhihu.com/question/1940145032280676182",
       "heat": "51 万热度"
     },
     {
       "rank": "34",
       "title": "网红「橙子姐姐」被曝因涉诈及人口贸易被柬埔寨警方逮捕，具体情况如何？",
       "link": "https://www.zhihu.com/question/1974532738037019791",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "广西一高校拟开设「打呼噜宿舍」，学生不满意还可退宿，学生们会去住吗？有哪些治疗打呼噜的好方法？",
-      "link": "https://www.zhihu.com/question/1972297940069520884",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "教育孩子讲道理是下策，发脾气是下下策，那么，上策是什么？",
-      "link": "https://www.zhihu.com/question/614375621",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "你希望《剑风传奇》如何结尾?",
-      "link": "https://www.zhihu.com/question/460571390",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "如果你发现领导的水平也就那样，跟你预期差太多了该怎么办？",
-      "link": "https://www.zhihu.com/question/1962444396650805151",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "39",
-      "title": "整只鸡怎么做比较好吃？",
-      "link": "https://www.zhihu.com/question/37119245",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "什么是上弦月？什么是下弦月？",
-      "link": "https://www.zhihu.com/question/1940145032280676182",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "41",
-      "title": "20 万左右性价比比较高的 SUV 买哪款合适?",
-      "link": "https://www.zhihu.com/question/500623681",
       "heat": "50 万热度"
     },
     {
-      "rank": "42",
+      "rank": "35",
+      "title": "《潜伏》里的翠平为什么用红中代表洪秘书？",
+      "link": "https://www.zhihu.com/question/315023004",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "36",
+      "title": "嫦娥六号月球样品中首次发现晶质赤铁矿，这一发现有哪些重要意义？",
+      "link": "https://www.zhihu.com/question/1973306599096410151",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "37",
+      "title": "教育孩子讲道理是下策，发脾气是下下策，那么，上策是什么？",
+      "link": "https://www.zhihu.com/question/614375621",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "38",
+      "title": "怎样才能让自己每天过得充实又快乐呢？",
+      "link": "https://www.zhihu.com/question/1973420664825325363",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "39",
       "title": "你孩子把 10 块钱一包的卡片以 250 块的价格卖给同班同学，你怎么处理？",
       "link": "https://www.zhihu.com/question/1973688811390251105",
       "heat": "50 万热度"
     },
     {
-      "rank": "43",
+      "rank": "40",
       "title": "是什么理由让你现在每天坚持上班呢？",
       "link": "https://www.zhihu.com/question/1973526570997155416",
       "heat": "50 万热度"
     },
     {
-      "rank": "44",
+      "rank": "41",
       "title": "刘备一生注重仁义，为何要在关键时候补刀送走了吕布？",
       "link": "https://www.zhihu.com/question/1973328828978988295",
       "heat": "50 万热度"
     },
     {
-      "rank": "45",
+      "rank": "42",
       "title": "如何判断候选人有没有千卡 GPU 集群的训练经验？",
       "link": "https://www.zhihu.com/question/650979052",
       "heat": "50 万热度"
     },
     {
-      "rank": "46",
+      "rank": "43",
+      "title": "如果你发现领导的水平也就那样，跟你预期差太多了该怎么办？",
+      "link": "https://www.zhihu.com/question/1962444396650805151",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "20 万左右性价比比较高的 SUV 买哪款合适?",
+      "link": "https://www.zhihu.com/question/500623681",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "45",
       "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
       "link": "https://www.zhihu.com/question/1971586666897563752",
       "heat": "50 万热度"
     },
     {
-      "rank": "47",
+      "rank": "46",
       "title": "2526 赛季 NBA 常规赛勇士 96:110 热火，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1974759751142359861",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "整只鸡怎么做比较好吃？",
+      "link": "https://www.zhihu.com/question/37119245",
       "heat": "50 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-21 07:47:35"
+  "generated_at": "2025-11-21 07:54:02"
 }
