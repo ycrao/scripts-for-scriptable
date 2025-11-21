@@ -1,30 +1,30 @@
 {
-  "artifact_id": "6e372321-b700-4bd6-9d8b-39c6beeb7a00",
+  "artifact_id": "e5f6f060-7a18-4b99-9b96-01860e6548ae",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
       "link": "https://www.zhihu.com/question/1975278482935214778",
-      "heat": "384 万热度"
+      "heat": "368 万热度"
     },
     {
       "rank": "2",
       "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
       "link": "https://www.zhihu.com/question/1975169592130286012",
-      "heat": "115 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "3",
       "title": "小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？",
       "link": "https://www.zhihu.com/question/1975164916840227173",
-      "heat": "82 万热度"
+      "heat": "83 万热度"
     },
     {
       "rank": "4",
       "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
       "link": "https://www.zhihu.com/question/621445283",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "5",
@@ -40,8 +40,8 @@
     },
     {
       "rank": "7",
-      "title": "猫咪离开主人多久会不认识主人？",
-      "link": "https://www.zhihu.com/question/308394592",
+      "title": "如果我踢足球每场必进一球但技术只有高中水平，会有世界豪门俱乐部要我吗？",
+      "link": "https://www.zhihu.com/question/1934615311979640241",
       "heat": "59 万热度"
     },
     {
@@ -52,14 +52,14 @@
     },
     {
       "rank": "9",
-      "title": "如果我踢足球每场必进一球但技术只有高中水平，会有世界豪门俱乐部要我吗？",
-      "link": "https://www.zhihu.com/question/1934615311979640241",
+      "title": "中国的海军军舰处于世界什么水平？",
+      "link": "https://www.zhihu.com/question/13038076685",
       "heat": "59 万热度"
     },
     {
       "rank": "10",
-      "title": "中国的海军军舰处于世界什么水平？",
-      "link": "https://www.zhihu.com/question/13038076685",
+      "title": "猫咪离开主人多久会不认识主人？",
+      "link": "https://www.zhihu.com/question/308394592",
       "heat": "59 万热度"
     },
     {
@@ -174,7 +174,7 @@
       "rank": "29",
       "title": "大家都用空气炸锅做过什么吃的呢？",
       "link": "https://www.zhihu.com/question/286863774",
-      "heat": "52 万热度"
+      "heat": "53 万热度"
     },
     {
       "rank": "30",
@@ -196,8 +196,8 @@
     },
     {
       "rank": "33",
-      "title": "UFC 综合格斗将来会超越拳击吗？",
-      "link": "https://www.zhihu.com/question/64843964",
+      "title": "如何看待网传 ELK 将加盟 WBG？",
+      "link": "https://www.zhihu.com/question/1975165879542047191",
       "heat": "51 万热度"
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "rank": "36",
-      "title": "如何看待网传 ELK 将加盟 WBG？",
-      "link": "https://www.zhihu.com/question/1975165879542047191",
+      "title": "UFC 综合格斗将来会超越拳击吗？",
+      "link": "https://www.zhihu.com/question/64843964",
       "heat": "51 万热度"
     },
     {
@@ -244,26 +244,26 @@
     },
     {
       "rank": "41",
-      "title": "《光与影：33 号远征队》进入独立游戏 TGA 奖池评判，很多人持反对态度，如何界定独立游戏？",
-      "link": "https://www.zhihu.com/question/1973731372788127531",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "42",
       "title": "可不可以不引入复数来建立量子力学?",
       "link": "https://www.zhihu.com/question/625466528",
       "heat": "50 万热度"
     },
     {
+      "rank": "42",
+      "title": "《光与影：33 号远征队》进入独立游戏 TGA 奖池评判，很多人持反对态度，如何界定独立游戏？",
+      "link": "https://www.zhihu.com/question/1973731372788127531",
+      "heat": "50 万热度"
+    },
+    {
       "rank": "43",
-      "title": "2526 赛季 NBA 常规赛快船 101:129 魔术，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1975114543438004343",
+      "title": "职场上，是能力重要还是平台重要？",
+      "link": "https://www.zhihu.com/question/1962771837730657945",
       "heat": "50 万热度"
     },
     {
       "rank": "44",
-      "title": "职场上，是能力重要还是平台重要？",
-      "link": "https://www.zhihu.com/question/1962771837730657945",
+      "title": "2526 赛季 NBA 常规赛快船 101:129 魔术，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1975114543438004343",
       "heat": "50 万热度"
     },
     {
@@ -274,26 +274,26 @@
     },
     {
       "rank": "46",
+      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
+      "link": "https://www.zhihu.com/question/1972621215114962072",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "47",
       "title": "如何看待 11 月 19 日 XG 遭 Heroic 淘汰的 DOTA2 比赛？",
       "link": "https://www.zhihu.com/question/1974777934792392958",
       "heat": "50 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "职场上，当你与领导意见冲突时，你会怎么办？",
       "link": "https://www.zhihu.com/question/1973680743159963830",
       "heat": "50 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "领导说你的材料写得太虚，怎么办？",
       "link": "https://www.zhihu.com/question/643340756",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
-      "link": "https://www.zhihu.com/question/1972621215114962072",
       "heat": "50 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-22 04:57:43"
+  "generated_at": "2025-11-22 05:24:53"
 }
