@@ -1,36 +1,36 @@
 {
-  "artifact_id": "8a1502f1-59a6-4daf-8c48-05eaa3128752",
+  "artifact_id": "3fe859a4-c102-49f5-a96d-ce1b7edcfbab",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
       "link": "https://www.zhihu.com/question/1975278482935214778",
-      "heat": "441 万热度"
+      "heat": "427 万热度"
     },
     {
       "rank": "2",
       "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
       "link": "https://www.zhihu.com/question/1975169592130286012",
-      "heat": "335 万热度"
+      "heat": "299 万热度"
     },
     {
       "rank": "3",
       "title": "小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？",
       "link": "https://www.zhihu.com/question/1975164916840227173",
-      "heat": "127 万热度"
+      "heat": "118 万热度"
     },
     {
       "rank": "4",
-      "title": "四川一店家推出「偷」甘蔗活动，NPC 带狗追，店家称每天接待上千人，这一模式为何能吸引这么多消费者？",
-      "link": "https://www.zhihu.com/question/1975193504310325413",
-      "heat": "109 万热度"
-    },
-    {
-      "rank": "5",
       "title": "何恺明团队指出，扩散模型应该直接预测「图像」而不是「噪声」，如何评价这个工作？",
       "link": "https://www.zhihu.com/question/1974863239327286797",
       "heat": "104 万热度"
+    },
+    {
+      "rank": "5",
+      "title": "四川一店家推出「偷」甘蔗活动，NPC 带狗追，店家称每天接待上千人，这一模式为何能吸引这么多消费者？",
+      "link": "https://www.zhihu.com/question/1975193504310325413",
+      "heat": "101 万热度"
     },
     {
       "rank": "6",
@@ -48,36 +48,36 @@
       "rank": "8",
       "title": "大量香港人到广东买社保和医保，称月交 898 元，退休 4 年就能回本，怎么看待这种现象？",
       "link": "https://www.zhihu.com/question/1974397525294352135",
-      "heat": "77 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "9",
-      "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
-      "link": "https://www.zhihu.com/question/621445283",
-      "heat": "76 万热度"
-    },
-    {
-      "rank": "10",
       "title": "有哪些普通人不知道的高阶认知？",
       "link": "https://www.zhihu.com/question/1974048183312217539",
       "heat": "68 万热度"
     },
     {
+      "rank": "10",
+      "title": "如果我踢足球每场必进一球但技术只有高中水平，会有世界豪门俱乐部要我吗？",
+      "link": "https://www.zhihu.com/question/1934615311979640241",
+      "heat": "67 万热度"
+    },
+    {
       "rank": "11",
       "title": "印度想对华出口水产品，印度商家跃跃欲试，可能性大吗？目前印度水产品出口情况如何？",
       "link": "https://www.zhihu.com/question/1974846179671048886",
-      "heat": "68 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "12",
       "title": "《疯狂动物城》里体型差别巨大的动物在一起工作，消耗的能量不一样，那工资怎么发比较合理？",
       "link": "https://www.zhihu.com/question/1972289455512576513",
-      "heat": "67 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "13",
-      "title": "如果我踢足球每场必进一球但技术只有高中水平，会有世界豪门俱乐部要我吗？",
-      "link": "https://www.zhihu.com/question/1934615311979640241",
+      "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
+      "link": "https://www.zhihu.com/question/621445283",
       "heat": "66 万热度"
     },
     {
@@ -96,13 +96,13 @@
       "rank": "16",
       "title": "如何看待霸王茶姬创始人张俊杰将和天合光能联席董事长高海纯结婚？商界「联姻」中感情和利益可以兼得吗？",
       "link": "https://www.zhihu.com/question/1974860032370820006",
-      "heat": "62 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "17",
       "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
       "link": "https://www.zhihu.com/question/1974970156280144171",
-      "heat": "62 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "18",
@@ -124,26 +124,26 @@
     },
     {
       "rank": "21",
-      "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
-      "link": "https://www.zhihu.com/question/1971908267061019658",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
-      "link": "https://www.zhihu.com/question/1974847772634150744",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "23",
       "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
       "link": "https://www.zhihu.com/question/1890326270966988820",
       "heat": "58 万热度"
     },
     {
-      "rank": "24",
+      "rank": "22",
       "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
       "link": "https://www.zhihu.com/question/667485229",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
+      "link": "https://www.zhihu.com/question/1974847772634150744",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
+      "link": "https://www.zhihu.com/question/1971908267061019658",
       "heat": "58 万热度"
     },
     {
@@ -226,20 +226,20 @@
     },
     {
       "rank": "38",
-      "title": "为什么科幻里的地球都是统一政权？",
-      "link": "https://www.zhihu.com/question/1973511474291946856",
-      "heat": "50 万热度"
-    },
-    {
-      "rank": "39",
       "title": "如何评价《反叛的鲁路修》中的二皇子修奈泽尔?",
       "link": "https://www.zhihu.com/question/667347499",
       "heat": "50 万热度"
     },
     {
-      "rank": "40",
+      "rank": "39",
       "title": "2526 赛季 NBA 常规赛快船 101:129 魔术，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1975114543438004343",
+      "heat": "50 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "为什么科幻里的地球都是统一政权？",
+      "link": "https://www.zhihu.com/question/1973511474291946856",
       "heat": "50 万热度"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "rank": "45",
-      "title": "全运会男子 4x100 米接力决赛，苏炳添谢幕战，广东第四湖北夺冠，如何看待本场比赛？",
-      "link": "https://www.zhihu.com/question/1974889646950408730",
+      "title": "为什么现在越来越多的人开始劝退读博？",
+      "link": "https://www.zhihu.com/question/1973348158500262591",
       "heat": "50 万热度"
     },
     {
@@ -280,8 +280,8 @@
     },
     {
       "rank": "47",
-      "title": "为什么现在越来越多的人开始劝退读博？",
-      "link": "https://www.zhihu.com/question/1973348158500262591",
+      "title": "全运会男子 4x100 米接力决赛，苏炳添谢幕战，广东第四湖北夺冠，如何看待本场比赛？",
+      "link": "https://www.zhihu.com/question/1974889646950408730",
       "heat": "50 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "如何看待北川经纪人爆料 TES 打野 Kanavi 将回 LCK 加入 HLE？",
-      "link": "https://www.zhihu.com/question/1974419436028072207",
+      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
+      "link": "https://www.zhihu.com/question/1972621215114962072",
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-22 02:55:07"
+  "generated_at": "2025-11-22 03:21:02"
 }
