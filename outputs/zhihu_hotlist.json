@@ -1,12 +1,12 @@
 {
-  "artifact_id": "f1ae1f07-2695-481f-a8a8-73f443be2f9f",
+  "artifact_id": "958651fd-3733-4b6d-8f42-9c760bc7a72a",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
       "link": "https://www.zhihu.com/question/1975278482935214778",
-      "heat": "362 万热度"
+      "heat": "285 万热度"
     },
     {
       "rank": "2",
@@ -18,19 +18,19 @@
       "rank": "3",
       "title": "比亚迪法务部发文称「王悟空说车」侵权被判公开道歉并赔偿 31.38 万元，怎么看车企用法律手段维权行为？",
       "link": "https://www.zhihu.com/question/1974789487952360596",
-      "heat": "84 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "4",
       "title": "小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？",
       "link": "https://www.zhihu.com/question/1975164916840227173",
-      "heat": "84 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "5",
       "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
       "link": "https://www.zhihu.com/question/621445283",
-      "heat": "71 万热度"
+      "heat": "72 万热度"
     },
     {
       "rank": "6",
@@ -106,68 +106,68 @@
     },
     {
       "rank": "18",
-      "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
-      "link": "https://www.zhihu.com/question/1975115860181022671",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "19",
       "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
       "link": "https://www.zhihu.com/question/667485229",
       "heat": "58 万热度"
     },
     {
-      "rank": "20",
-      "title": "何恺明团队指出，扩散模型应该直接预测「图像」而不是「噪声」，如何评价这个工作？",
-      "link": "https://www.zhihu.com/question/1974863239327286797",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "21",
-      "title": "为什么在不同环境下，人的行为表现会判若两人？",
-      "link": "https://www.zhihu.com/question/1973345603812603281",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "22",
-      "title": "如何鉴别一家餐馆好不好吃？",
-      "link": "https://www.zhihu.com/question/36382598",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "23",
-      "title": "C++ 原始指针、 shared_ptr 、 unique_ptr 分别在什么场景下使用？",
-      "link": "https://www.zhihu.com/question/648170767",
-      "heat": "58 万热度"
-    },
-    {
-      "rank": "24",
-      "title": "深度学习顶会，为什么公开数据集，代码，也跑不出论文的结果？",
-      "link": "https://www.zhihu.com/question/621649777",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "25",
-      "title": "有哪些普通人不知道的高阶认知？",
-      "link": "https://www.zhihu.com/question/1974048183312217539",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "26",
+      "rank": "19",
       "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
       "link": "https://www.zhihu.com/question/1971908267061019658",
       "heat": "57 万热度"
     },
     {
+      "rank": "20",
+      "title": "C++ 原始指针、 shared_ptr 、 unique_ptr 分别在什么场景下使用？",
+      "link": "https://www.zhihu.com/question/648170767",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "何恺明团队指出，扩散模型应该直接预测「图像」而不是「噪声」，如何评价这个工作？",
+      "link": "https://www.zhihu.com/question/1974863239327286797",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "如何鉴别一家餐馆好不好吃？",
+      "link": "https://www.zhihu.com/question/36382598",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "23",
+      "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+      "link": "https://www.zhihu.com/question/1975115860181022671",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "24",
+      "title": "有哪些普通人不知道的高阶认知？",
+      "link": "https://www.zhihu.com/question/1974048183312217539",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "25",
+      "title": "为什么在不同环境下，人的行为表现会判若两人？",
+      "link": "https://www.zhihu.com/question/1973345603812603281",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "如何评价综艺《喜人奇妙夜》第二季的第九期（上）？",
+      "link": "https://www.zhihu.com/question/1975171649478365962",
+      "heat": "56 万热度"
+    },
+    {
       "rank": "27",
-      "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
-      "link": "https://www.zhihu.com/question/1974847772634150744",
+      "title": "深度学习顶会，为什么公开数据集，代码，也跑不出论文的结果？",
+      "link": "https://www.zhihu.com/question/621649777",
       "heat": "56 万热度"
     },
     {
       "rank": "28",
-      "title": "如何评价综艺《喜人奇妙夜》第二季的第九期（上）？",
-      "link": "https://www.zhihu.com/question/1975171649478365962",
+      "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
+      "link": "https://www.zhihu.com/question/1974847772634150744",
       "heat": "56 万热度"
     },
     {
@@ -250,14 +250,14 @@
     },
     {
       "rank": "42",
-      "title": "为什么科幻里的地球都是统一政权？",
-      "link": "https://www.zhihu.com/question/1973511474291946856",
+      "title": "可不可以不引入复数来建立量子力学?",
+      "link": "https://www.zhihu.com/question/625466528",
       "heat": "50 万热度"
     },
     {
       "rank": "43",
-      "title": "可不可以不引入复数来建立量子力学?",
-      "link": "https://www.zhihu.com/question/625466528",
+      "title": "为什么科幻里的地球都是统一政权？",
+      "link": "https://www.zhihu.com/question/1973511474291946856",
       "heat": "50 万热度"
     },
     {
@@ -298,10 +298,10 @@
     },
     {
       "rank": "50",
-      "title": "领导说你的材料写得太虚，怎么办？",
-      "link": "https://www.zhihu.com/question/643340756",
+      "title": "《新三国》里「生死不明，那就是死了」这句话问题出在哪里，为什么角色能从信息不明的情况下得出肯定的判断?",
+      "link": "https://www.zhihu.com/question/1973949795094766977",
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-22 06:24:51"
+  "generated_at": "2025-11-22 06:42:39"
 }
