@@ -1,125 +1,125 @@
 {
-  "artifact_id": "451c5d5d-5d8e-403b-b7a7-1528338d2ac5",
+  "artifact_id": "f0e49c79-bacb-4271-bf3a-6ddd8c2bfbd0",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
       "link": "https://www.zhihu.com/question/1975169592130286012",
-      "heat": "1008 万热度"
+      "heat": "547 万热度"
     },
     {
       "rank": "2",
-      "title": "小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？",
-      "link": "https://www.zhihu.com/question/1975164916840227173",
-      "heat": "228 万热度"
+      "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
+      "link": "https://www.zhihu.com/question/1975278482935214778",
+      "heat": "223 万热度"
     },
     {
       "rank": "3",
-      "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
-      "link": "https://www.zhihu.com/question/1975115860181022671",
-      "heat": "208 万热度"
+      "title": "小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？",
+      "link": "https://www.zhihu.com/question/1975164916840227173",
+      "heat": "197 万热度"
     },
     {
       "rank": "4",
-      "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
-      "link": "https://www.zhihu.com/question/1975278482935214778",
-      "heat": "200 万热度"
+      "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
+      "link": "https://www.zhihu.com/question/621445283",
+      "heat": "122 万热度"
     },
     {
       "rank": "5",
-      "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
-      "link": "https://www.zhihu.com/question/621445283",
-      "heat": "177 万热度"
+      "title": "UFC 综合格斗将来会超越拳击吗？",
+      "link": "https://www.zhihu.com/question/64843964",
+      "heat": "81 万热度"
     },
     {
       "rank": "6",
-      "title": "四川一店家推出「偷」甘蔗活动，NPC 带狗追，店家称每天接待上千人，这一模式为何能吸引这么多消费者？",
-      "link": "https://www.zhihu.com/question/1975193504310325413",
-      "heat": "83 万热度"
+      "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+      "link": "https://www.zhihu.com/question/1975115860181022671",
+      "heat": "79 万热度"
     },
     {
       "rank": "7",
-      "title": "大量香港人到广东买社保和医保，称月交 898 元，退休 4 年就能回本，怎么看待这种现象？",
-      "link": "https://www.zhihu.com/question/1974397525294352135",
-      "heat": "82 万热度"
+      "title": "《疯狂动物城》里体型差别巨大的动物在一起工作，消耗的能量不一样，那工资怎么发比较合理？",
+      "link": "https://www.zhihu.com/question/1972289455512576513",
+      "heat": "76 万热度"
     },
     {
       "rank": "8",
-      "title": "UFC 综合格斗将来会超越拳击吗？",
-      "link": "https://www.zhihu.com/question/64843964",
-      "heat": "80 万热度"
+      "title": "大量香港人到广东买社保和医保，称月交 898 元，退休 4 年就能回本，怎么看待这种现象？",
+      "link": "https://www.zhihu.com/question/1974397525294352135",
+      "heat": "74 万热度"
     },
     {
       "rank": "9",
-      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
-      "link": "https://www.zhihu.com/question/1972621215114962072",
-      "heat": "72 万热度"
-    },
-    {
-      "rank": "10",
       "title": "如果东北虎变成 5 克，它能猎杀螳螂吗？",
       "link": "https://www.zhihu.com/question/4634025708",
       "heat": "71 万热度"
     },
     {
+      "rank": "10",
+      "title": "npd 为什么能让人很痛苦？",
+      "link": "https://www.zhihu.com/question/557140708",
+      "heat": "66 万热度"
+    },
+    {
       "rank": "11",
-      "title": "印度想对华出口水产品，印度商家跃跃欲试，可能性大吗？目前印度水产品出口情况如何？",
-      "link": "https://www.zhihu.com/question/1974846179671048886",
-      "heat": "69 万热度"
+      "title": "如何看待网传 ELK 将加盟 WBG？",
+      "link": "https://www.zhihu.com/question/1975165879542047191",
+      "heat": "66 万热度"
     },
     {
       "rank": "12",
       "title": "当今改进 CNN，transformer 还有出路吗？",
       "link": "https://www.zhihu.com/question/1932585980315042775",
-      "heat": "68 万热度"
+      "heat": "66 万热度"
     },
     {
       "rank": "13",
-      "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
-      "link": "https://www.zhihu.com/question/1975130863109939634",
-      "heat": "67 万热度"
+      "title": "四川一店家推出「偷」甘蔗活动，NPC 带狗追，店家称每天接待上千人，这一模式为何能吸引这么多消费者？",
+      "link": "https://www.zhihu.com/question/1975193504310325413",
+      "heat": "66 万热度"
     },
     {
       "rank": "14",
-      "title": "npd 为什么能让人很痛苦？",
-      "link": "https://www.zhihu.com/question/557140708",
+      "title": "印度想对华出口水产品，印度商家跃跃欲试，可能性大吗？目前印度水产品出口情况如何？",
+      "link": "https://www.zhihu.com/question/1974846179671048886",
       "heat": "65 万热度"
     },
     {
       "rank": "15",
       "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
       "link": "https://www.zhihu.com/question/1974847772634150744",
-      "heat": "61 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "16",
       "title": "领导说你的材料写得太虚，怎么办？",
       "link": "https://www.zhihu.com/question/643340756",
-      "heat": "61 万热度"
+      "heat": "62 万热度"
     },
     {
       "rank": "17",
-      "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
-      "link": "https://www.zhihu.com/question/667485229",
-      "heat": "61 万热度"
+      "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
+      "link": "https://www.zhihu.com/question/1974970156280144171",
+      "heat": "60 万热度"
     },
     {
       "rank": "18",
-      "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
-      "link": "https://www.zhihu.com/question/1974970156280144171",
-      "heat": "61 万热度"
+      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
+      "link": "https://www.zhihu.com/question/1972621215114962072",
+      "heat": "59 万热度"
     },
     {
       "rank": "19",
-      "title": "《疯狂动物城》里体型差别巨大的动物在一起工作，消耗的能量不一样，那工资怎么发比较合理？",
-      "link": "https://www.zhihu.com/question/1972289455512576513",
-      "heat": "61 万热度"
+      "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
+      "link": "https://www.zhihu.com/question/1890326270966988820",
+      "heat": "59 万热度"
     },
     {
       "rank": "20",
-      "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
-      "link": "https://www.zhihu.com/question/1890326270966988820",
+      "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
+      "link": "https://www.zhihu.com/question/667485229",
       "heat": "59 万热度"
     },
     {
@@ -130,62 +130,62 @@
     },
     {
       "rank": "22",
-      "title": "为什么「兔子战术」在短道速滑中适用，在万米跑里算违规？",
-      "link": "https://www.zhihu.com/question/1974879970380707290",
-      "heat": "58 万热度"
+      "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
+      "link": "https://www.zhihu.com/question/1975130863109939634",
+      "heat": "59 万热度"
     },
     {
       "rank": "23",
-      "title": "如何看待中国科学院大学航空宇航学院改称「星际航行学院」？",
-      "link": "https://www.zhihu.com/question/1974848212851509061",
-      "heat": "55 万热度"
+      "title": "为什么「兔子战术」在短道速滑中适用，在万米跑里算违规？",
+      "link": "https://www.zhihu.com/question/1974879970380707290",
+      "heat": "57 万热度"
     },
     {
       "rank": "24",
-      "title": "如何理解「感统失调里有一项是穿不了高领衫」？为什么有的人穿不了高领？",
-      "link": "https://www.zhihu.com/question/1966526578629505718",
+      "title": "如何看待中国科学院大学航空宇航学院改称「星际航行学院」？",
+      "link": "https://www.zhihu.com/question/1974848212851509061",
       "heat": "54 万热度"
     },
     {
       "rank": "25",
       "title": "高空风力发电是不是骗人的？",
       "link": "https://www.zhihu.com/question/620739770",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "26",
-      "title": "全运会男子 4x100 米接力决赛，苏炳添谢幕战，广东第四湖北夺冠，如何看待本场比赛？",
-      "link": "https://www.zhihu.com/question/1974889646950408730",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "如何看待《33 号远征队》入选最佳独立游戏提名引争议？",
-      "link": "https://www.zhihu.com/question/1974414493950956359",
       "heat": "53 万热度"
     },
     {
+      "rank": "26",
+      "title": "如何理解「感统失调里有一项是穿不了高领衫」？为什么有的人穿不了高领？",
+      "link": "https://www.zhihu.com/question/1966526578629505718",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "27",
+      "title": "全运会男子 4x100 米接力决赛，苏炳添谢幕战，广东第四湖北夺冠，如何看待本场比赛？",
+      "link": "https://www.zhihu.com/question/1974889646950408730",
+      "heat": "52 万热度"
+    },
+    {
       "rank": "28",
-      "title": "《光与影：33 号远征队》进入独立游戏 TGA 奖池评判，很多人持反对态度，如何界定独立游戏？",
-      "link": "https://www.zhihu.com/question/1973731372788127531",
+      "title": "如何看待《33 号远征队》入选最佳独立游戏提名引争议？",
+      "link": "https://www.zhihu.com/question/1974414493950956359",
       "heat": "51 万热度"
     },
     {
       "rank": "29",
-      "title": "2526 赛季 NBA 常规赛快船 101:129 魔术，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1975114543438004343",
+      "title": "为什么《少年包青天》不拍第四部？",
+      "link": "https://www.zhihu.com/question/47248454",
       "heat": "51 万热度"
     },
     {
       "rank": "30",
-      "title": "对应届生来说，怎样判断一家公司值不值得去？可以通过哪些方式进行必要的「反向背调」？",
-      "link": "https://www.zhihu.com/question/1970158442984481563",
+      "title": "如何看待 11 月 19 日 XG 遭 Heroic 淘汰的 DOTA2 比赛？",
+      "link": "https://www.zhihu.com/question/1974777934792392958",
       "heat": "51 万热度"
     },
     {
       "rank": "31",
-      "title": "假设你可以对自己的眼睛进行一次升级，以下能力六选一，你希望获得的技能是什么?",
-      "link": "https://www.zhihu.com/question/1967159368802894679",
+      "title": "如何看待北川经纪人爆料 TES 打野 Kanavi 将回 LCK 加入 HLE？",
+      "link": "https://www.zhihu.com/question/1974419436028072207",
       "heat": "51 万热度"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "rank": "33",
-      "title": "为什么《少年包青天》不拍第四部？",
-      "link": "https://www.zhihu.com/question/47248454",
+      "title": "你觉得什么是强者思维？",
+      "link": "https://www.zhihu.com/question/1956914498033128390",
       "heat": "51 万热度"
     },
     {
@@ -214,74 +214,74 @@
     },
     {
       "rank": "36",
-      "title": "如何看待 11 月 19 日 XG 遭 Heroic 淘汰的 DOTA2 比赛？",
-      "link": "https://www.zhihu.com/question/1974777934792392958",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "如何看待北川经纪人爆料 TES 打野 Kanavi 将回 LCK 加入 HLE？",
-      "link": "https://www.zhihu.com/question/1974419436028072207",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "你觉得什么是强者思维？",
-      "link": "https://www.zhihu.com/question/1956914498033128390",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "39",
       "title": "如何看待第十五届全运会乒乓球团体决赛北京队 3:1 战胜上海队，获得团体冠军？",
       "link": "https://www.zhihu.com/question/1974941962042892467",
       "heat": "51 万热度"
     },
     {
-      "rank": "40",
-      "title": "是年轻人在定义汽车品牌，还是汽车品牌在定义年轻人？",
-      "link": "https://www.zhihu.com/question/1974869254722588742",
-      "heat": "51 万热度"
-    },
-    {
-      "rank": "41",
+      "rank": "37",
       "title": "一个古代将军要有哪些品质和能力可以让士兵为他出生入死？",
       "link": "https://www.zhihu.com/question/1922588839538590583",
       "heat": "51 万热度"
     },
     {
-      "rank": "42",
+      "rank": "38",
       "title": "为什么科幻里的地球都是统一政权？",
       "link": "https://www.zhihu.com/question/1973511474291946856",
       "heat": "51 万热度"
     },
     {
-      "rank": "43",
+      "rank": "39",
       "title": "哪些算法曾让你感觉醍醐灌顶？为什么？",
       "link": "https://www.zhihu.com/question/19678679",
       "heat": "51 万热度"
     },
     {
-      "rank": "44",
+      "rank": "40",
       "title": "为什么现在越来越多的人开始劝退读博？",
       "link": "https://www.zhihu.com/question/1973348158500262591",
       "heat": "51 万热度"
     },
     {
-      "rank": "45",
+      "rank": "41",
       "title": "职场上，是能力重要还是平台重要？",
       "link": "https://www.zhihu.com/question/1962771837730657945",
       "heat": "51 万热度"
     },
     {
-      "rank": "46",
+      "rank": "42",
+      "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
+      "link": "https://www.zhihu.com/question/1974853096925524498",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "43",
       "title": "长期运动带给你的是什么？",
       "link": "https://www.zhihu.com/question/352879316",
       "heat": "51 万热度"
     },
     {
+      "rank": "44",
+      "title": "望远镜性能强大得多，为什么镜头不加入望远镜功能？",
+      "link": "https://www.zhihu.com/question/4462145108",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
+      "link": "https://www.zhihu.com/question/1974931934569325263",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "全运会吉祥物扮演者是武校 10 后学生，如何评价他们的表现？为什么这次吉祥物会如此出圈？",
+      "link": "https://www.zhihu.com/question/1971940980178511000",
+      "heat": "51 万热度"
+    },
+    {
       "rank": "47",
-      "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
-      "link": "https://www.zhihu.com/question/1974853096925524498",
+      "title": "中国的气候相对于世界来讲处于一个什么水平？",
+      "link": "https://www.zhihu.com/question/62512877",
       "heat": "51 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "望远镜性能强大得多，为什么镜头不加入望远镜功能？",
-      "link": "https://www.zhihu.com/question/4462145108",
+      "title": "忍不住总是对自己打开「旁观者视角」怎么办？长此以往会出现什么问题吗？",
+      "link": "https://www.zhihu.com/question/1972071633540855732",
       "heat": "51 万热度"
     },
     {
       "rank": "50",
-      "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
-      "link": "https://www.zhihu.com/question/1974931934569325263",
+      "title": "C 刊论文《模糊的边界：高校研究生「无研究无生活」现象探析》知网下载量飙升至 8 万，如何评价这篇论文？",
+      "link": "https://www.zhihu.com/question/1974085420598981421",
       "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-11-21 21:32:49"
+  "generated_at": "2025-11-21 21:53:25"
 }
