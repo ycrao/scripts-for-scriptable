@@ -1,12 +1,12 @@
 {
-  "artifact_id": "958651fd-3733-4b6d-8f42-9c760bc7a72a",
+  "artifact_id": "dd3d5013-0995-41f8-ae72-aeb30b3ec8b9",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
       "link": "https://www.zhihu.com/question/1975278482935214778",
-      "heat": "285 万热度"
+      "heat": "294 万热度"
     },
     {
       "rank": "2",
@@ -36,7 +36,7 @@
       "rank": "6",
       "title": "生活中要不要与人争论?",
       "link": "https://www.zhihu.com/question/356922015",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "7",
@@ -82,14 +82,14 @@
     },
     {
       "rank": "14",
-      "title": "如果东北虎变成 5 克，它能猎杀螳螂吗？",
-      "link": "https://www.zhihu.com/question/4634025708",
+      "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
+      "link": "https://www.zhihu.com/question/1890326270966988820",
       "heat": "58 万热度"
     },
     {
       "rank": "15",
-      "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
-      "link": "https://www.zhihu.com/question/1890326270966988820",
+      "title": "如果东北虎变成 5 克，它能猎杀螳螂吗？",
+      "link": "https://www.zhihu.com/question/4634025708",
       "heat": "58 万热度"
     },
     {
@@ -114,48 +114,48 @@
       "rank": "19",
       "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
       "link": "https://www.zhihu.com/question/1971908267061019658",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "20",
       "title": "C++ 原始指针、 shared_ptr 、 unique_ptr 分别在什么场景下使用？",
       "link": "https://www.zhihu.com/question/648170767",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "21",
       "title": "何恺明团队指出，扩散模型应该直接预测「图像」而不是「噪声」，如何评价这个工作？",
       "link": "https://www.zhihu.com/question/1974863239327286797",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "22",
       "title": "如何鉴别一家餐馆好不好吃？",
       "link": "https://www.zhihu.com/question/36382598",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "23",
       "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
       "link": "https://www.zhihu.com/question/1975115860181022671",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "24",
       "title": "有哪些普通人不知道的高阶认知？",
       "link": "https://www.zhihu.com/question/1974048183312217539",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "25",
       "title": "为什么在不同环境下，人的行为表现会判若两人？",
       "link": "https://www.zhihu.com/question/1973345603812603281",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "26",
-      "title": "如何评价综艺《喜人奇妙夜》第二季的第九期（上）？",
-      "link": "https://www.zhihu.com/question/1975171649478365962",
+      "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
+      "link": "https://www.zhihu.com/question/1974847772634150744",
       "heat": "56 万热度"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
       "rank": "28",
-      "title": "松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？",
-      "link": "https://www.zhihu.com/question/1974847772634150744",
+      "title": "如何评价综艺《喜人奇妙夜》第二季的第九期（上）？",
+      "link": "https://www.zhihu.com/question/1975171649478365962",
       "heat": "56 万热度"
     },
     {
@@ -184,14 +184,14 @@
     },
     {
       "rank": "31",
-      "title": "大家都用空气炸锅做过什么吃的呢？",
-      "link": "https://www.zhihu.com/question/286863774",
+      "title": "有没有经典的网络迷踪例题？",
+      "link": "https://www.zhihu.com/question/657030185",
       "heat": "52 万热度"
     },
     {
       "rank": "32",
-      "title": "有没有经典的网络迷踪例题？",
-      "link": "https://www.zhihu.com/question/657030185",
+      "title": "大家都用空气炸锅做过什么吃的呢？",
+      "link": "https://www.zhihu.com/question/286863774",
       "heat": "52 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-22 06:42:39"
+  "generated_at": "2025-11-22 06:55:08"
 }
