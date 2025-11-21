@@ -1,18 +1,18 @@
 {
-  "artifact_id": "f220d2fa-6b20-4491-b2ea-1bb762c2fd3d",
+  "artifact_id": "99321468-381d-4f08-8b43-d2eb85e6c10e",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1975130863109939634",
-      "heat": "604 万热度"
+      "heat": "613 万热度"
     },
     {
       "rank": "2",
       "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
       "link": "https://www.zhihu.com/question/1975169592130286012",
-      "heat": "304 万热度"
+      "heat": "329 万热度"
     },
     {
       "rank": "3",
@@ -24,49 +24,49 @@
       "rank": "4",
       "title": "小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？",
       "link": "https://www.zhihu.com/question/1975164916840227173",
-      "heat": "155 万热度"
+      "heat": "164 万热度"
     },
     {
       "rank": "5",
-      "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-      "link": "https://www.zhihu.com/question/1974839795554484978",
-      "heat": "142 万热度"
+      "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
+      "link": "https://www.zhihu.com/question/621445283",
+      "heat": "137 万热度"
     },
     {
       "rank": "6",
-      "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
-      "link": "https://www.zhihu.com/question/621445283",
-      "heat": "97 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "大量香港人到广东买社保和医保，称月交 898 元，退休 4 年就能回本，怎么看待这种现象？",
-      "link": "https://www.zhihu.com/question/1974397525294352135",
-      "heat": "96 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
-      "link": "https://www.zhihu.com/question/1890326270966988820",
-      "heat": "94 万热度"
-    },
-    {
-      "rank": "9",
       "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
       "link": "https://www.zhihu.com/question/667485229",
       "heat": "94 万热度"
     },
     {
-      "rank": "10",
+      "rank": "7",
+      "title": "大量香港人到广东买社保和医保，称月交 898 元，退休 4 年就能回本，怎么看待这种现象？",
+      "link": "https://www.zhihu.com/question/1974397525294352135",
+      "heat": "92 万热度"
+    },
+    {
+      "rank": "8",
       "title": "为什么「兔子战术」在短道速滑中适用，在万米跑里算违规？",
       "link": "https://www.zhihu.com/question/1974879970380707290",
+      "heat": "90 万热度"
+    },
+    {
+      "rank": "9",
+      "title": "郭麒麟明明不怎么说相声，为什么相声说得越来越好？",
+      "link": "https://www.zhihu.com/question/1890326270966988820",
       "heat": "88 万热度"
     },
     {
-      "rank": "11",
+      "rank": "10",
       "title": "C 刊论文《模糊的边界：高校研究生「无研究无生活」现象探析》知网下载量飙升至 8 万，如何评价这篇论文？",
       "link": "https://www.zhihu.com/question/1974085420598981421",
       "heat": "87 万热度"
+    },
+    {
+      "rank": "11",
+      "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+      "link": "https://www.zhihu.com/question/1974839795554484978",
+      "heat": "85 万热度"
     },
     {
       "rank": "12",
@@ -76,74 +76,74 @@
     },
     {
       "rank": "13",
-      "title": "如何看待《33 号远征队》入选最佳独立游戏提名引争议？",
-      "link": "https://www.zhihu.com/question/1974414493950956359",
-      "heat": "77 万热度"
-    },
-    {
-      "rank": "14",
-      "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
-      "link": "https://www.zhihu.com/question/1974970156280144171",
-      "heat": "77 万热度"
-    },
-    {
-      "rank": "15",
-      "title": "古代的谋士那么聪明，为何甘心要给自己找个主公辅佐，自己创业不好吗？",
-      "link": "https://www.zhihu.com/question/1972775766417761706",
-      "heat": "77 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "如何看待第十五届全运会乒乓球团体决赛北京队 3:1 战胜上海队，获得团体冠军？",
-      "link": "https://www.zhihu.com/question/1974941962042892467",
-      "heat": "76 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "如何看待北川经纪人爆料 TES 打野 Kanavi 将回 LCK 加入 HLE？",
-      "link": "https://www.zhihu.com/question/1974419436028072207",
-      "heat": "76 万热度"
-    },
-    {
-      "rank": "18",
       "title": "为什么现在越来越多的人开始劝退读博？",
       "link": "https://www.zhihu.com/question/1973348158500262591",
       "heat": "74 万热度"
     },
     {
-      "rank": "19",
+      "rank": "14",
+      "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
+      "link": "https://www.zhihu.com/question/1974970156280144171",
+      "heat": "74 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "古代的谋士那么聪明，为何甘心要给自己找个主公辅佐，自己创业不好吗？",
+      "link": "https://www.zhihu.com/question/1972775766417761706",
+      "heat": "74 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "如何看待第十五届全运会乒乓球团体决赛北京队 3:1 战胜上海队，获得团体冠军？",
+      "link": "https://www.zhihu.com/question/1974941962042892467",
+      "heat": "74 万热度"
+    },
+    {
+      "rank": "17",
       "title": "为什么南郡之战时，刘备要用张飞加 1000 人换周瑜 2000 人，而不是直接用张飞换 1000 人？",
       "link": "https://www.zhihu.com/question/1959535476533879522",
       "heat": "73 万热度"
     },
     {
-      "rank": "20",
-      "title": "忍不住总是对自己打开「旁观者视角」怎么办？长此以往会出现什么问题吗？",
-      "link": "https://www.zhihu.com/question/1972071633540855732",
-      "heat": "66 万热度"
+      "rank": "18",
+      "title": "如何看待北川经纪人爆料 TES 打野 Kanavi 将回 LCK 加入 HLE？",
+      "link": "https://www.zhihu.com/question/1974419436028072207",
+      "heat": "73 万热度"
     },
     {
-      "rank": "21",
+      "rank": "19",
+      "title": "忍不住总是对自己打开「旁观者视角」怎么办？长此以往会出现什么问题吗？",
+      "link": "https://www.zhihu.com/question/1972071633540855732",
+      "heat": "67 万热度"
+    },
+    {
+      "rank": "20",
       "title": "生活中有哪些美好值得记录？",
       "link": "https://www.zhihu.com/question/407364051",
       "heat": "63 万热度"
     },
     {
-      "rank": "22",
+      "rank": "21",
       "title": "如何理解「感统失调里有一项是穿不了高领衫」？为什么有的人穿不了高领？",
       "link": "https://www.zhihu.com/question/1966526578629505718",
+      "heat": "62 万热度"
+    },
+    {
+      "rank": "22",
+      "title": "如何看待《33 号远征队》入选最佳独立游戏提名引争议？",
+      "link": "https://www.zhihu.com/question/1974414493950956359",
       "heat": "61 万热度"
     },
     {
       "rank": "23",
-      "title": "假设你可以对自己的眼睛进行一次升级，以下能力六选一，你希望获得的技能是什么?",
-      "link": "https://www.zhihu.com/question/1967159368802894679",
+      "title": "如何评价米哈游新作 Varsapura（雨之城）的 31 分钟实机演示?",
+      "link": "https://www.zhihu.com/question/1974574948732401408",
       "heat": "59 万热度"
     },
     {
       "rank": "24",
-      "title": "如何评价米哈游新作 Varsapura（雨之城）的 31 分钟实机演示?",
-      "link": "https://www.zhihu.com/question/1974574948732401408",
+      "title": "假设你可以对自己的眼睛进行一次升级，以下能力六选一，你希望获得的技能是什么?",
+      "link": "https://www.zhihu.com/question/1967159368802894679",
       "heat": "59 万热度"
     },
     {
@@ -162,43 +162,43 @@
       "rank": "27",
       "title": "是年轻人在定义汽车品牌，还是汽车品牌在定义年轻人？",
       "link": "https://www.zhihu.com/question/1974869254722588742",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "28",
       "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
       "link": "https://www.zhihu.com/question/1974853096925524498",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "29",
       "title": "全运会吉祥物扮演者是武校 10 后学生，如何评价他们的表现？为什么这次吉祥物会如此出圈？",
       "link": "https://www.zhihu.com/question/1971940980178511000",
-      "heat": "57 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "作为一个外行人，请问程序员们为什么都说删库跑路，而不是删除代码跑路？",
-      "link": "https://www.zhihu.com/question/1926031803401089573",
       "heat": "56 万热度"
     },
     {
-      "rank": "31",
+      "rank": "30",
       "title": "对应届生来说，怎样判断一家公司值不值得去？可以通过哪些方式进行必要的「反向背调」？",
       "link": "https://www.zhihu.com/question/1970158442984481563",
       "heat": "56 万热度"
     },
     {
+      "rank": "31",
+      "title": "作为一个外行人，请问程序员们为什么都说删库跑路，而不是删除代码跑路？",
+      "link": "https://www.zhihu.com/question/1926031803401089573",
+      "heat": "55 万热度"
+    },
+    {
       "rank": "32",
       "title": "为什么《少年包青天》不拍第四部？",
       "link": "https://www.zhihu.com/question/47248454",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "33",
-      "title": "物理系的数学要求多高？",
-      "link": "https://www.zhihu.com/question/524877258",
-      "heat": "56 万热度"
+      "title": "哪些算法曾让你感觉醍醐灌顶？为什么？",
+      "link": "https://www.zhihu.com/question/19678679",
+      "heat": "55 万热度"
     },
     {
       "rank": "34",
@@ -208,8 +208,8 @@
     },
     {
       "rank": "35",
-      "title": "哪些算法曾让你感觉醍醐灌顶？为什么？",
-      "link": "https://www.zhihu.com/question/19678679",
+      "title": "物理系的数学要求多高？",
+      "link": "https://www.zhihu.com/question/524877258",
       "heat": "55 万热度"
     },
     {
@@ -268,14 +268,14 @@
     },
     {
       "rank": "45",
-      "title": "CBA 四川男篮球员发联名信集体讨薪，称所有成员遭遇 3-9 个月欠薪，社保 28 个月未交，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1974434329896640919",
+      "title": "精灵弓箭手，牧师身体娇弱这些印象，是源于什么动画作品的？",
+      "link": "https://www.zhihu.com/question/666143475",
       "heat": "50 万热度"
     },
     {
       "rank": "46",
-      "title": "精灵弓箭手，牧师身体娇弱这些印象，是源于什么动画作品的？",
-      "link": "https://www.zhihu.com/question/666143475",
+      "title": "CBA 四川男篮球员发联名信集体讨薪，称所有成员遭遇 3-9 个月欠薪，社保 28 个月未交，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1974434329896640919",
       "heat": "50 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "50 万热度"
     }
   ],
-  "generated_at": "2025-11-21 15:43:16"
+  "generated_at": "2025-11-21 15:56:04"
 }
