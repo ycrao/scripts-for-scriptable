@@ -1,60 +1,60 @@
 {
-  "artifact_id": "c6797112-fc00-4fb6-ae01-ae84a7147fcc",
+  "artifact_id": "d6d9659b-7ede-4dc9-93db-ff9a60f50106",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "网友称「袖口夹铁夹，脚腕接地线，兜里揣电池」可以防止静电，这种做法真的有用吗？有什么科学依据？",
       "link": "https://www.zhihu.com/question/1974879919482892829",
-      "heat": "148 万热度"
+      "heat": "152 万热度"
     },
     {
       "rank": "2",
       "title": "月薪过万的高收入者，会点拼好饭吗？",
       "link": "https://www.zhihu.com/question/1970557506980943692",
-      "heat": "97 万热度"
+      "heat": "100 万热度"
     },
     {
       "rank": "3",
       "title": "印度国产「光辉」战机在迪拜航展坠毁，现场燃起浓烟，具体情况如何？这款战机属于什么水平？",
       "link": "https://www.zhihu.com/question/1975278482935214778",
-      "heat": "91 万热度"
+      "heat": "92 万热度"
     },
     {
       "rank": "4",
-      "title": "有人反复来医院要求打杜冷丁怎么办？",
-      "link": "https://www.zhihu.com/question/12450606127",
-      "heat": "91 万热度"
-    },
-    {
-      "rank": "5",
       "title": "如果我踢足球每场必进一球但技术只有高中水平，会有世界豪门俱乐部要我吗？",
       "link": "https://www.zhihu.com/question/1934615311979640241",
       "heat": "81 万热度"
     },
     {
+      "rank": "5",
+      "title": "有人反复来医院要求打杜冷丁怎么办？",
+      "link": "https://www.zhihu.com/question/12450606127",
+      "heat": "77 万热度"
+    },
+    {
       "rank": "6",
       "title": "为什么沙特因油而富，山西却不能因煤而富，差别在哪里？",
       "link": "https://www.zhihu.com/question/1973430132803915866",
-      "heat": "72 万热度"
+      "heat": "74 万热度"
     },
     {
       "rank": "7",
-      "title": "焦挺可以轻松撂倒李逵，但在战场上，李逵一直安然无恙，焦挺却是第一批阵亡的，这说明了什么？",
-      "link": "https://www.zhihu.com/question/632946327",
-      "heat": "68 万热度"
+      "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
+      "link": "https://www.zhihu.com/question/1975169592130286012",
+      "heat": "69 万热度"
     },
     {
       "rank": "8",
-      "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
-      "link": "https://www.zhihu.com/question/1975169592130286012",
-      "heat": "68 万热度"
+      "title": "焦挺可以轻松撂倒李逵，但在战场上，李逵一直安然无恙，焦挺却是第一批阵亡的，这说明了什么？",
+      "link": "https://www.zhihu.com/question/632946327",
+      "heat": "69 万热度"
     },
     {
       "rank": "9",
       "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
       "link": "https://www.zhihu.com/question/621445283",
-      "heat": "64 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "10",
@@ -96,25 +96,25 @@
       "rank": "16",
       "title": "为啥近几年公安派出所都在招辅警?",
       "link": "https://www.zhihu.com/question/659769853",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "17",
       "title": "《疯狂动物城》里体型差别巨大的动物在一起工作，消耗的能量不一样，那工资怎么发比较合理？",
       "link": "https://www.zhihu.com/question/1972289455512576513",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "18",
       "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
       "link": "https://www.zhihu.com/question/667485229",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "19",
       "title": "猫咪离开主人多久会不认识主人？",
       "link": "https://www.zhihu.com/question/308394592",
-      "heat": "51 万热度"
+      "heat": "50 万热度"
     },
     {
       "rank": "20",
@@ -124,9 +124,9 @@
     },
     {
       "rank": "21",
-      "title": "如何评价霍建华、朱珠主演的都市剧《他为什么依然单身》？",
-      "link": "https://www.zhihu.com/question/1973710777312634873",
-      "heat": "49 万热度"
+      "title": "为什么南郡之战时，刘备要用张飞加 1000 人换周瑜 2000 人，而不是直接用张飞换 1000 人？",
+      "link": "https://www.zhihu.com/question/1959535476533879522",
+      "heat": "50 万热度"
     },
     {
       "rank": "22",
@@ -136,8 +136,8 @@
     },
     {
       "rank": "23",
-      "title": "如何评价 2025 年 11 月米哈游《原神》6.2 月之三前瞻直播【空月之歌间奏：终北的夜行诗】？",
-      "link": "https://www.zhihu.com/question/1975136817780113436",
+      "title": "如何评价霍建华、朱珠主演的都市剧《他为什么依然单身》？",
+      "link": "https://www.zhihu.com/question/1973710777312634873",
       "heat": "49 万热度"
     },
     {
@@ -148,56 +148,56 @@
     },
     {
       "rank": "25",
-      "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-      "link": "https://www.zhihu.com/question/1974839795554484978",
+      "title": "如何评价 2025 年 11 月米哈游《原神》6.2 月之三前瞻直播【空月之歌间奏：终北的夜行诗】？",
+      "link": "https://www.zhihu.com/question/1975136817780113436",
       "heat": "48 万热度"
     },
     {
       "rank": "26",
-      "title": "从孩子身上，你学到了什么？",
-      "link": "https://www.zhihu.com/question/564646959",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "当今改进 CNN，transformer 还有出路吗？",
-      "link": "https://www.zhihu.com/question/1932585980315042775",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "28",
       "title": "为什么科幻里的地球都是统一政权？",
       "link": "https://www.zhihu.com/question/1973511474291946856",
       "heat": "48 万热度"
     },
     {
-      "rank": "29",
+      "rank": "27",
       "title": "《遮天》中人族大帝为什么会守护苍生？",
       "link": "https://www.zhihu.com/question/1905334742414493370",
       "heat": "48 万热度"
     },
     {
-      "rank": "30",
+      "rank": "28",
       "title": "职场上，是能力重要还是平台重要？",
       "link": "https://www.zhihu.com/question/1962771837730657945",
       "heat": "48 万热度"
     },
     {
-      "rank": "31",
+      "rank": "29",
       "title": "《光与影：33 号远征队》进入独立游戏 TGA 奖池评判，很多人持反对态度，如何界定独立游戏？",
       "link": "https://www.zhihu.com/question/1973731372788127531",
       "heat": "48 万热度"
     },
     {
-      "rank": "32",
+      "rank": "30",
       "title": "如何看待网传 ELK 将加盟 WBG？",
       "link": "https://www.zhihu.com/question/1975165879542047191",
       "heat": "48 万热度"
     },
     {
+      "rank": "31",
+      "title": "什么是上弦月？什么是下弦月？",
+      "link": "https://www.zhihu.com/question/1940145032280676182",
+      "heat": "48 万热度"
+    },
+    {
+      "rank": "32",
+      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
+      "link": "https://www.zhihu.com/question/1972621215114962072",
+      "heat": "48 万热度"
+    },
+    {
       "rank": "33",
-      "title": "20 岁女生近视度数飙至 1500 度，医生称与过量摄入甜食有关，是这样吗？甜食是如何影响视力的？",
-      "link": "https://www.zhihu.com/question/1975127896210236673",
+      "title": "为什么现在越来越多的人开始劝退读博？",
+      "link": "https://www.zhihu.com/question/1973348158500262591",
       "heat": "48 万热度"
     },
     {
@@ -214,94 +214,94 @@
     },
     {
       "rank": "36",
-      "title": "什么是上弦月？什么是下弦月？",
-      "link": "https://www.zhihu.com/question/1940145032280676182",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "37",
-      "title": "《凡人修仙传》中向之礼为什么不出手抢夺韩立的宝物？",
-      "link": "https://www.zhihu.com/question/1972621215114962072",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "38",
-      "title": "为什么现在越来越多的人开始劝退读博？",
-      "link": "https://www.zhihu.com/question/1973348158500262591",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "39",
       "title": "为什么《少年包青天》不拍第四部？",
       "link": "https://www.zhihu.com/question/47248454",
       "heat": "48 万热度"
     },
     {
-      "rank": "40",
+      "rank": "37",
       "title": "如何评价 NBA21 年状元坎宁安称「选秀时只想着别把我抽去克利夫兰」?",
       "link": "https://www.zhihu.com/question/1974041184411353761",
       "heat": "48 万热度"
     },
     {
-      "rank": "41",
-      "title": "作为一个外行人，请问程序员们为什么都说删库跑路，而不是删除代码跑路？",
-      "link": "https://www.zhihu.com/question/1926031803401089573",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "42",
-      "title": "在中世纪欧洲，一位国王宣布自己不信仰任何宗教，宣布王权至上会怎样？",
-      "link": "https://www.zhihu.com/question/1974216846929585100",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "43",
+      "rank": "38",
       "title": "有哪些普通人不知道的高阶认知？",
       "link": "https://www.zhihu.com/question/1974048183312217539",
       "heat": "48 万热度"
     },
     {
-      "rank": "44",
+      "rank": "39",
       "title": "如何看待北川经纪人爆料 TES 打野 Kanavi 将回 LCK 加入 HLE？",
       "link": "https://www.zhihu.com/question/1974419436028072207",
       "heat": "48 万热度"
     },
     {
-      "rank": "45",
+      "rank": "40",
+      "title": "20 岁女生近视度数飙至 1500 度，医生称与过量摄入甜食有关，是这样吗？甜食是如何影响视力的？",
+      "link": "https://www.zhihu.com/question/1975127896210236673",
+      "heat": "48 万热度"
+    },
+    {
+      "rank": "41",
       "title": "为什么国内大部分中小学没有属于自己的官网？",
       "link": "https://www.zhihu.com/question/619567929",
       "heat": "47 万热度"
     },
     {
-      "rank": "46",
-      "title": "全运会吉祥物扮演者是武校 10 后学生，如何评价他们的表现？为什么这次吉祥物会如此出圈？",
-      "link": "https://www.zhihu.com/question/1971940980178511000",
-      "heat": "47 万热度"
-    },
-    {
-      "rank": "47",
-      "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
-      "link": "https://www.zhihu.com/question/1974931934569325263",
-      "heat": "47 万热度"
-    },
-    {
-      "rank": "48",
+      "rank": "42",
       "title": "深度学习顶会，为什么公开数据集，代码，也跑不出论文的结果？",
       "link": "https://www.zhihu.com/question/621649777",
       "heat": "47 万热度"
     },
     {
+      "rank": "43",
+      "title": "从孩子身上，你学到了什么？",
+      "link": "https://www.zhihu.com/question/564646959",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "全运会吉祥物扮演者是武校 10 后学生，如何评价他们的表现？为什么这次吉祥物会如此出圈？",
+      "link": "https://www.zhihu.com/question/1971940980178511000",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
+      "link": "https://www.zhihu.com/question/1974931934569325263",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "如何看待 11 月 19 日 XG 遭 Heroic 淘汰的 DOTA2 比赛？",
+      "link": "https://www.zhihu.com/question/1974777934792392958",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "职场上，当你与领导意见冲突时，你会怎么办？",
+      "link": "https://www.zhihu.com/question/1973680743159963830",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "望远镜性能强大得多，为什么镜头不加入望远镜功能？",
+      "link": "https://www.zhihu.com/question/4462145108",
+      "heat": "47 万热度"
+    },
+    {
       "rank": "49",
-      "title": "如何理解「感统失调里有一项是穿不了高领衫」？为什么有的人穿不了高领？",
-      "link": "https://www.zhihu.com/question/1966526578629505718",
+      "title": "一个古代将军要有哪些品质和能力可以让士兵为他出生入死？",
+      "link": "https://www.zhihu.com/question/1922588839538590583",
       "heat": "47 万热度"
     },
     {
       "rank": "50",
-      "title": "如何看待 11 月 19 日 XG 遭 Heroic 淘汰的 DOTA2 比赛？",
-      "link": "https://www.zhihu.com/question/1974777934792392958",
+      "title": "为什么在不同环境下，人的行为表现会判若两人？",
+      "link": "https://www.zhihu.com/question/1973345603812603281",
       "heat": "47 万热度"
     }
   ],
-  "generated_at": "2025-11-22 11:45:06"
+  "generated_at": "2025-11-22 11:58:01"
 }
