@@ -1,84 +1,84 @@
 {
-  "artifact_id": "0655fbd0-b3ab-4f0f-abb3-d65313042699",
+  "artifact_id": "89e07eba-9f19-4a4c-8028-2755c0d8632d",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
       "link": "https://www.zhihu.com/question/1975608470024777738",
-      "heat": "688 万热度"
+      "heat": "702 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价 12 月上映的中美合拍动画片《我的哪吒和变形金刚》？",
       "link": "https://www.zhihu.com/question/1975341270009394332",
-      "heat": "128 万热度"
+      "heat": "138 万热度"
     },
     {
       "rank": "3",
-      "title": "如何评价《崩坏：星穹铁道》虚一直构 | 古翁法罗斯特展？",
-      "link": "https://www.zhihu.com/question/1975536601577841116",
-      "heat": "104 万热度"
+      "title": "爸妈总爱买那种一大包很便宜的精制盐，说盐都一样，我该怎么说服他们换个好点的？",
+      "link": "https://www.zhihu.com/question/1974822975036491602",
+      "heat": "89 万热度"
     },
     {
       "rank": "4",
-      "title": "如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?",
-      "link": "https://www.zhihu.com/question/1975535121810620629",
-      "heat": "96 万热度"
+      "title": "斯坦福研究称 EBV 病毒是系统性红斑狼疮的病因，全球 95% 的成年人曾感染过，该研究具有哪些意义？",
+      "link": "https://www.zhihu.com/question/1974874939275309266",
+      "heat": "88 万热度"
     },
     {
       "rank": "5",
-      "title": "爸妈总爱买那种一大包很便宜的精制盐，说盐都一样，我该怎么说服他们换个好点的？",
-      "link": "https://www.zhihu.com/question/1974822975036491602",
-      "heat": "88 万热度"
+      "title": "如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?",
+      "link": "https://www.zhihu.com/question/1975535121810620629",
+      "heat": "77 万热度"
     },
     {
       "rank": "6",
       "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
       "link": "https://www.zhihu.com/question/1975471032841232421",
-      "heat": "82 万热度"
+      "heat": "75 万热度"
     },
     {
       "rank": "7",
-      "title": "为什么小孩子大多数都更喜欢妈妈？",
-      "link": "https://www.zhihu.com/question/5061984869",
-      "heat": "76 万热度"
-    },
-    {
-      "rank": "8",
-      "title": "霸王茶姬的张俊杰为什么能成功？",
-      "link": "https://www.zhihu.com/question/666723937",
+      "title": "国内地产开发商哪一家是真正受到业内尊敬的？",
+      "link": "https://www.zhihu.com/question/26298638",
       "heat": "73 万热度"
     },
     {
-      "rank": "9",
-      "title": "印度光辉战机两年内两起坠毁，三次亮相出岔子，专家称迪拜坠机可能因控制系统问题或操作失误，暴露哪些问题？",
-      "link": "https://www.zhihu.com/question/1975522419226739888",
-      "heat": "70 万热度"
+      "rank": "8",
+      "title": "如何评价《崩坏：星穹铁道》虚一直构 | 古翁法罗斯特展？",
+      "link": "https://www.zhihu.com/question/1975536601577841116",
+      "heat": "72 万热度"
     },
     {
-      "rank": "10",
-      "title": "国内地产开发商哪一家是真正受到业内尊敬的？",
-      "link": "https://www.zhihu.com/question/26298638",
+      "rank": "9",
+      "title": "为什么小孩子大多数都更喜欢妈妈？",
+      "link": "https://www.zhihu.com/question/5061984869",
       "heat": "69 万热度"
     },
     {
+      "rank": "10",
+      "title": "认真训练一千个小时拳击能成为高手吗？能不能打职业比赛？",
+      "link": "https://www.zhihu.com/question/402054079",
+      "heat": "68 万热度"
+    },
+    {
       "rank": "11",
-      "title": "斯坦福研究称 EBV 病毒是系统性红斑狼疮的病因，全球 95% 的成年人曾感染过，该研究具有哪些意义？",
-      "link": "https://www.zhihu.com/question/1974874939275309266",
-      "heat": "67 万热度"
+      "title": "霸王茶姬的张俊杰为什么能成功？",
+      "link": "https://www.zhihu.com/question/666723937",
+      "heat": "64 万热度"
     },
     {
       "rank": "12",
-      "title": "有哪些比肉还好吃的素菜？",
-      "link": "https://www.zhihu.com/question/63109846",
-      "heat": "62 万热度"
+      "title": "印度光辉战机两年内两起坠毁，三次亮相出岔子，专家称迪拜坠机可能因控制系统问题或操作失误，暴露哪些问题？",
+      "link": "https://www.zhihu.com/question/1975522419226739888",
+      "heat": "63 万热度"
     },
     {
       "rank": "13",
-      "title": "如何看待角都和初代战斗过，还被其当作余生的谈资？",
-      "link": "https://www.zhihu.com/question/387368981",
-      "heat": "59 万热度"
+      "title": "有哪些比肉还好吃的素菜？",
+      "link": "https://www.zhihu.com/question/63109846",
+      "heat": "63 万热度"
     },
     {
       "rank": "14",
@@ -106,9 +106,9 @@
     },
     {
       "rank": "18",
-      "title": "围绕大口径弹药设计 CQB 枪械是否可行？",
-      "link": "https://www.zhihu.com/question/1974071252785325679",
-      "heat": "59 万热度"
+      "title": "如何看待角都和初代战斗过，还被其当作余生的谈资？",
+      "link": "https://www.zhihu.com/question/387368981",
+      "heat": "58 万热度"
     },
     {
       "rank": "19",
@@ -118,8 +118,8 @@
     },
     {
       "rank": "20",
-      "title": "有没有小众的冷知识分享?",
-      "link": "https://www.zhihu.com/question/14974959396",
+      "title": "围绕大口径弹药设计 CQB 枪械是否可行？",
+      "link": "https://www.zhihu.com/question/1974071252785325679",
       "heat": "57 万热度"
     },
     {
@@ -130,14 +130,14 @@
     },
     {
       "rank": "22",
-      "title": "多位老人疑向海洋放生大米，官方称不属污染物，如何看待这种放生行为？",
-      "link": "https://www.zhihu.com/question/1975226880111157439",
-      "heat": "55 万热度"
+      "title": "有没有小众的冷知识分享?",
+      "link": "https://www.zhihu.com/question/14974959396",
+      "heat": "56 万热度"
     },
     {
       "rank": "23",
-      "title": "姜文谈电影被短剧取代是「文化演化的正常节奏，短剧会让电影变成一种稀缺品被重新需要」，如何看待这一言论？",
-      "link": "https://www.zhihu.com/question/1974479396539745961",
+      "title": "多位老人疑向海洋放生大米，官方称不属污染物，如何看待这种放生行为？",
+      "link": "https://www.zhihu.com/question/1975226880111157439",
       "heat": "55 万热度"
     },
     {
@@ -148,39 +148,39 @@
     },
     {
       "rank": "25",
-      "title": "薛宝钗进贾府时的真实年龄是多大？",
-      "link": "https://www.zhihu.com/question/1961784321749779654",
-      "heat": "55 万热度"
+      "title": "姜文谈电影被短剧取代是「文化演化的正常节奏，短剧会让电影变成一种稀缺品被重新需要」，如何看待这一言论？",
+      "link": "https://www.zhihu.com/question/1974479396539745961",
+      "heat": "54 万热度"
     },
     {
       "rank": "26",
-      "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
-      "link": "https://www.zhihu.com/question/1974444593694077343",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "27",
-      "title": "计科大二上，指针怎么也不理解是不是真的不适合学计算机啊    ?",
-      "link": "https://www.zhihu.com/question/666210495",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "你最喜欢的网红美食是什么？",
-      "link": "https://www.zhihu.com/question/291846634",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "商朝拥有的马车技术来源哪里？",
-      "link": "https://www.zhihu.com/question/8865680134",
+      "title": "薛宝钗进贾府时的真实年龄是多大？",
+      "link": "https://www.zhihu.com/question/1961784321749779654",
       "heat": "53 万热度"
     },
     {
-      "rank": "30",
-      "title": "为什么较难的物理题跟着直觉想当然做几乎是必错？",
-      "link": "https://www.zhihu.com/question/14956912455",
+      "rank": "27",
+      "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
+      "link": "https://www.zhihu.com/question/1974444593694077343",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "计科大二上，指针怎么也不理解是不是真的不适合学计算机啊    ?",
+      "link": "https://www.zhihu.com/question/666210495",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "你最喜欢的网红美食是什么？",
+      "link": "https://www.zhihu.com/question/291846634",
       "heat": "52 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "商朝拥有的马车技术来源哪里？",
+      "link": "https://www.zhihu.com/question/8865680134",
+      "heat": "51 万热度"
     },
     {
       "rank": "31",
@@ -190,32 +190,32 @@
     },
     {
       "rank": "32",
+      "title": "为什么较难的物理题跟着直觉想当然做几乎是必错？",
+      "link": "https://www.zhihu.com/question/14956912455",
+      "heat": "51 万热度"
+    },
+    {
+      "rank": "33",
       "title": "一线干活儿的游戏人担心项目上线被裁了，也担心项目迟迟不上线被砍了，所以只有踩平衡木才能保住饭碗吗?",
       "link": "https://www.zhihu.com/question/1966538200513250792",
       "heat": "50 万热度"
     },
     {
-      "rank": "33",
+      "rank": "34",
       "title": "2025 中超落幕，上海海港 1-0 大连英博，完成三连冠，如何评价本场比赛及海港这个赛季的表现？",
       "link": "https://www.zhihu.com/question/1975615811918979165",
       "heat": "50 万热度"
     },
     {
-      "rank": "34",
-      "title": "为什么听到有人对我说「为你好」三个字，我就有一种想要揍人的冲动涌上心头？",
-      "link": "https://www.zhihu.com/question/644677842",
-      "heat": "48 万热度"
-    },
-    {
       "rank": "35",
       "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
       "link": "https://www.zhihu.com/question/1974446156558910121",
-      "heat": "48 万热度"
+      "heat": "49 万热度"
     },
     {
       "rank": "36",
-      "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
-      "link": "https://www.zhihu.com/question/1974778440168273303",
+      "title": "为什么听到有人对我说「为你好」三个字，我就有一种想要揍人的冲动涌上心头？",
+      "link": "https://www.zhihu.com/question/644677842",
       "heat": "48 万热度"
     },
     {
@@ -226,21 +226,21 @@
     },
     {
       "rank": "38",
+      "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
+      "link": "https://www.zhihu.com/question/1974778440168273303",
+      "heat": "48 万热度"
+    },
+    {
+      "rank": "39",
       "title": "孩子大了你们还会叫孩子「宝宝」吗？",
       "link": "https://www.zhihu.com/question/1964265707438052485",
       "heat": "48 万热度"
     },
     {
-      "rank": "39",
+      "rank": "40",
       "title": "什么样的人在职场里最受欢迎？",
       "link": "https://www.zhihu.com/question/1958566911857127857",
       "heat": "48 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "如何看待 Valve 可能将新 Steam Machine 的售价定为 750 美元以上？",
-      "link": "https://www.zhihu.com/question/1975158134923358624",
-      "heat": "47 万热度"
     },
     {
       "rank": "41",
@@ -262,46 +262,46 @@
     },
     {
       "rank": "44",
+      "title": "如何看待 Valve 可能将新 Steam Machine 的售价定为 750 美元以上？",
+      "link": "https://www.zhihu.com/question/1975158134923358624",
+      "heat": "47 万热度"
+    },
+    {
+      "rank": "45",
       "title": "中国的气候相对于世界来讲处于一个什么水平？",
       "link": "https://www.zhihu.com/question/62512877",
       "heat": "47 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "如何看待职场上「拿多少钱，办多少事，多做等于被压榨」这种观点？",
       "link": "https://www.zhihu.com/question/1960762900806369956",
       "heat": "47 万热度"
     },
     {
-      "rank": "46",
+      "rank": "47",
       "title": "月薪过万的高收入者，会点拼好饭吗？",
       "link": "https://www.zhihu.com/question/1970557506980943692",
       "heat": "47 万热度"
     },
     {
-      "rank": "47",
-      "title": "中国历史上为什么没有殖民地或者为什么不热衷于对外求索建立殖民地？",
-      "link": "https://www.zhihu.com/question/264883776",
-      "heat": "47 万热度"
-    },
-    {
       "rank": "48",
-      "title": "大学生摆地摊丢人吗？",
-      "link": "https://www.zhihu.com/question/1953608167075328970",
-      "heat": "47 万热度"
-    },
-    {
-      "rank": "49",
       "title": "220V 转 12V 再转 5V 会出问题吗?",
       "link": "https://www.zhihu.com/question/1953522362134820558",
       "heat": "47 万热度"
     },
     {
-      "rank": "50",
+      "rank": "49",
       "title": "病毒究竟能不能算生命？",
       "link": "https://www.zhihu.com/question/339566798",
       "heat": "47 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "如何看待庞颖说「高端的配得感是过自己想过的人生」？人到底如何提升自己的「配得感」？",
+      "link": "https://www.zhihu.com/question/1974873485588264908",
+      "heat": "47 万热度"
     }
   ],
-  "generated_at": "2025-11-23 07:24:07"
+  "generated_at": "2025-11-23 07:41:12"
 }
