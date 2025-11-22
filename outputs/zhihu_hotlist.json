@@ -1,36 +1,36 @@
 {
-  "artifact_id": "89e07eba-9f19-4a4c-8028-2755c0d8632d",
+  "artifact_id": "48a8cc3e-3f32-49ba-ae05-3023e8670b9b",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
       "link": "https://www.zhihu.com/question/1975608470024777738",
-      "heat": "702 万热度"
+      "heat": "712 万热度"
     },
     {
       "rank": "2",
       "title": "如何评价 12 月上映的中美合拍动画片《我的哪吒和变形金刚》？",
       "link": "https://www.zhihu.com/question/1975341270009394332",
-      "heat": "138 万热度"
+      "heat": "147 万热度"
     },
     {
       "rank": "3",
       "title": "爸妈总爱买那种一大包很便宜的精制盐，说盐都一样，我该怎么说服他们换个好点的？",
       "link": "https://www.zhihu.com/question/1974822975036491602",
-      "heat": "89 万热度"
+      "heat": "90 万热度"
     },
     {
       "rank": "4",
-      "title": "斯坦福研究称 EBV 病毒是系统性红斑狼疮的病因，全球 95% 的成年人曾感染过，该研究具有哪些意义？",
-      "link": "https://www.zhihu.com/question/1974874939275309266",
-      "heat": "88 万热度"
+      "title": "霸王茶姬的张俊杰为什么能成功？",
+      "link": "https://www.zhihu.com/question/666723937",
+      "heat": "76 万热度"
     },
     {
       "rank": "5",
-      "title": "如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?",
-      "link": "https://www.zhihu.com/question/1975535121810620629",
-      "heat": "77 万热度"
+      "title": "国内地产开发商哪一家是真正受到业内尊敬的？",
+      "link": "https://www.zhihu.com/question/26298638",
+      "heat": "75 万热度"
     },
     {
       "rank": "6",
@@ -40,21 +40,21 @@
     },
     {
       "rank": "7",
-      "title": "国内地产开发商哪一家是真正受到业内尊敬的？",
-      "link": "https://www.zhihu.com/question/26298638",
-      "heat": "73 万热度"
+      "title": "为什么小孩子大多数都更喜欢妈妈？",
+      "link": "https://www.zhihu.com/question/5061984869",
+      "heat": "74 万热度"
     },
     {
       "rank": "8",
-      "title": "如何评价《崩坏：星穹铁道》虚一直构 | 古翁法罗斯特展？",
-      "link": "https://www.zhihu.com/question/1975536601577841116",
-      "heat": "72 万热度"
+      "title": "如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?",
+      "link": "https://www.zhihu.com/question/1975535121810620629",
+      "heat": "74 万热度"
     },
     {
       "rank": "9",
-      "title": "为什么小孩子大多数都更喜欢妈妈？",
-      "link": "https://www.zhihu.com/question/5061984869",
-      "heat": "69 万热度"
+      "title": "如何评价《崩坏：星穹铁道》虚一直构 | 古翁法罗斯特展？",
+      "link": "https://www.zhihu.com/question/1975536601577841116",
+      "heat": "72 万热度"
     },
     {
       "rank": "10",
@@ -64,15 +64,15 @@
     },
     {
       "rank": "11",
-      "title": "霸王茶姬的张俊杰为什么能成功？",
-      "link": "https://www.zhihu.com/question/666723937",
-      "heat": "64 万热度"
+      "title": "斯坦福研究称 EBV 病毒是系统性红斑狼疮的病因，全球 95% 的成年人曾感染过，该研究具有哪些意义？",
+      "link": "https://www.zhihu.com/question/1974874939275309266",
+      "heat": "66 万热度"
     },
     {
       "rank": "12",
       "title": "印度光辉战机两年内两起坠毁，三次亮相出岔子，专家称迪拜坠机可能因控制系统问题或操作失误，暴露哪些问题？",
       "link": "https://www.zhihu.com/question/1975522419226739888",
-      "heat": "63 万热度"
+      "heat": "65 万热度"
     },
     {
       "rank": "13",
@@ -102,7 +102,7 @@
       "rank": "17",
       "title": "怎么做一个优秀的管理者？",
       "link": "https://www.zhihu.com/question/39831665",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "18",
@@ -118,14 +118,14 @@
     },
     {
       "rank": "20",
-      "title": "围绕大口径弹药设计 CQB 枪械是否可行？",
-      "link": "https://www.zhihu.com/question/1974071252785325679",
+      "title": "为什么沙特因油而富，山西却不能因煤而富，差别在哪里？",
+      "link": "https://www.zhihu.com/question/1973430132803915866",
       "heat": "57 万热度"
     },
     {
       "rank": "21",
-      "title": "为什么沙特因油而富，山西却不能因煤而富，差别在哪里？",
-      "link": "https://www.zhihu.com/question/1973430132803915866",
+      "title": "围绕大口径弹药设计 CQB 枪械是否可行？",
+      "link": "https://www.zhihu.com/question/1974071252785325679",
       "heat": "57 万热度"
     },
     {
@@ -144,7 +144,7 @@
       "rank": "24",
       "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
       "link": "https://www.zhihu.com/question/1974947583832056467",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "25",
@@ -160,20 +160,20 @@
     },
     {
       "rank": "27",
+      "title": "你最喜欢的网红美食是什么？",
+      "link": "https://www.zhihu.com/question/291846634",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "28",
       "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
       "link": "https://www.zhihu.com/question/1974444593694077343",
       "heat": "53 万热度"
     },
     {
-      "rank": "28",
+      "rank": "29",
       "title": "计科大二上，指针怎么也不理解是不是真的不适合学计算机啊    ?",
       "link": "https://www.zhihu.com/question/666210495",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "你最喜欢的网红美食是什么？",
-      "link": "https://www.zhihu.com/question/291846634",
       "heat": "52 万热度"
     },
     {
@@ -184,15 +184,15 @@
     },
     {
       "rank": "31",
-      "title": "如何评价大伟哥称《雨之城（Varsapura)》是「自己喜欢」的作品，而非「牛」的作品？",
-      "link": "https://www.zhihu.com/question/1975296979333567306",
-      "heat": "51 万热度"
+      "title": "为什么较难的物理题跟着直觉想当然做几乎是必错？",
+      "link": "https://www.zhihu.com/question/14956912455",
+      "heat": "50 万热度"
     },
     {
       "rank": "32",
-      "title": "为什么较难的物理题跟着直觉想当然做几乎是必错？",
-      "link": "https://www.zhihu.com/question/14956912455",
-      "heat": "51 万热度"
+      "title": "如何评价大伟哥称《雨之城（Varsapura)》是「自己喜欢」的作品，而非「牛」的作品？",
+      "link": "https://www.zhihu.com/question/1975296979333567306",
+      "heat": "50 万热度"
     },
     {
       "rank": "33",
@@ -262,14 +262,14 @@
     },
     {
       "rank": "44",
-      "title": "如何看待 Valve 可能将新 Steam Machine 的售价定为 750 美元以上？",
-      "link": "https://www.zhihu.com/question/1975158134923358624",
+      "title": "中国的气候相对于世界来讲处于一个什么水平？",
+      "link": "https://www.zhihu.com/question/62512877",
       "heat": "47 万热度"
     },
     {
       "rank": "45",
-      "title": "中国的气候相对于世界来讲处于一个什么水平？",
-      "link": "https://www.zhihu.com/question/62512877",
+      "title": "如何看待 Valve 可能将新 Steam Machine 的售价定为 750 美元以上？",
+      "link": "https://www.zhihu.com/question/1975158134923358624",
       "heat": "47 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "47 万热度"
     }
   ],
-  "generated_at": "2025-11-23 07:41:12"
+  "generated_at": "2025-11-23 07:53:45"
 }
