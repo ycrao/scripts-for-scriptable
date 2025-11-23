@@ -1,307 +1,307 @@
 {
-  "artifact_id": "a7e68859-b149-4a37-8c76-221aea9c6393",
+  "artifact_id": "929c04d4-d399-4f03-a706-65b103bd2bf8",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "导师没评上院士，如何安慰他？",
       "link": "https://www.zhihu.com/question/1975505460011479390",
-      "heat": "541 万热度"
+      "heat": "507 万热度"
     },
     {
       "rank": "2",
       "title": "三只松鼠员工的「鼠名」让网友上头，甚至推测「鼠鼠关系网」，为什么鼠名这么受欢迎？和大厂花名区别在哪？",
       "link": "https://www.zhihu.com/question/1975281776659301352",
-      "heat": "343 万热度"
+      "heat": "350 万热度"
     },
     {
       "rank": "3",
       "title": "男子花 8 万元网购威海 70 平海景房，房子已成功过户，房价为何如此便宜？网购房产需注意哪些问题？",
       "link": "https://www.zhihu.com/question/1975480911115018743",
-      "heat": "338 万热度"
+      "heat": "307 万热度"
     },
     {
       "rank": "4",
       "title": "樊振东还有机会参加 28 年洛杉矶奥运会的乒乓球男单比赛吗？",
       "link": "https://www.zhihu.com/question/1975870101514376251",
-      "heat": "270 万热度"
+      "heat": "274 万热度"
     },
     {
       "rank": "5",
       "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
       "link": "https://www.zhihu.com/question/1975169768370766690",
-      "heat": "194 万热度"
+      "heat": "159 万热度"
     },
     {
       "rank": "6",
-      "title": "在高校当老师是怎样的体验？",
-      "link": "https://www.zhihu.com/question/309838685",
+      "title": "如何看待豆包输入法正式上线，体验如何？",
+      "link": "https://www.zhihu.com/question/1975206535887021294",
       "heat": "96 万热度"
     },
     {
       "rank": "7",
-      "title": "如何看待豆包输入法正式上线，体验如何？",
-      "link": "https://www.zhihu.com/question/1975206535887021294",
-      "heat": "94 万热度"
-    },
-    {
-      "rank": "8",
       "title": "爸妈总爱买那种一大包很便宜的精制盐，说盐都一样，我该怎么说服他们换个好点的？",
       "link": "https://www.zhihu.com/question/1974822975036491602",
       "heat": "89 万热度"
     },
     {
-      "rank": "9",
-      "title": "为什么长沙的网红旅游，搞得如此成功？",
-      "link": "https://www.zhihu.com/question/589722422",
-      "heat": "84 万热度"
+      "rank": "8",
+      "title": "在高校当老师是怎样的体验？",
+      "link": "https://www.zhihu.com/question/309838685",
+      "heat": "81 万热度"
     },
     {
-      "rank": "10",
+      "rank": "9",
       "title": "为什么现在很多年轻人，似乎更容易陷入超前消费和负债的困境？",
       "link": "https://www.zhihu.com/question/1975162186377740539",
       "heat": "74 万热度"
     },
     {
-      "rank": "11",
-      "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-      "link": "https://www.zhihu.com/question/1975522293208876150",
-      "heat": "73 万热度"
-    },
-    {
-      "rank": "12",
+      "rank": "10",
       "title": "为什么父母根本就不是那么差钱，就一定要抠那么几块钱，或者一定要把自己说的那么苦？",
       "link": "https://www.zhihu.com/question/1947205937770272497",
       "heat": "72 万热度"
     },
     {
+      "rank": "11",
+      "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+      "link": "https://www.zhihu.com/question/1975522293208876150",
+      "heat": "71 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "为什么长沙的网红旅游，搞得如此成功？",
+      "link": "https://www.zhihu.com/question/589722422",
+      "heat": "71 万热度"
+    },
+    {
       "rank": "13",
       "title": "如何评价《凡人修仙传》动画播出后，宋玉人气暴涨?",
       "link": "https://www.zhihu.com/question/1964029710267814301",
-      "heat": "64 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "14",
-      "title": "睡前阅读对改善焦虑情绪有效果吗？",
-      "link": "https://www.zhihu.com/question/1973764538655604985",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "15",
       "title": "如何理解《万箭穿心》中的李宝莉？",
       "link": "https://www.zhihu.com/question/63633989",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "16",
-      "title": "如何评价悬疑美剧《都是她的错 All Her Fault》？",
-      "link": "https://www.zhihu.com/question/1970125516334949500",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "17",
-      "title": "你会强迫孩子吃他不喜欢或者不吃的食物吗？",
-      "link": "https://www.zhihu.com/question/1941593320678748527",
       "heat": "58 万热度"
     },
     {
-      "rank": "18",
+      "rank": "15",
+      "title": "如何评价悬疑美剧《都是她的错 All Her Fault》？",
+      "link": "https://www.zhihu.com/question/1970125516334949500",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "16",
+      "title": "你会强迫孩子吃他不喜欢或者不吃的食物吗？",
+      "link": "https://www.zhihu.com/question/1941593320678748527",
+      "heat": "57 万热度"
+    },
+    {
+      "rank": "17",
       "title": "2025 赛季 F1 拉斯维加斯大奖赛，维斯塔潘夺冠，诺里斯亚军，拉塞尔季军，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1975922224474132905",
       "heat": "56 万热度"
     },
     {
-      "rank": "19",
+      "rank": "18",
       "title": "实现一个 c 编译器有多难？",
       "link": "https://www.zhihu.com/question/63728844",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
-      "rank": "20",
+      "rank": "19",
       "title": "你吃过最奢侈的一道菜是什么？",
       "link": "https://www.zhihu.com/question/284676187",
       "heat": "53 万热度"
     },
     {
-      "rank": "21",
+      "rank": "20",
       "title": "为什么出租车可以几十万公里不大修，而私家车却做不到？",
       "link": "https://www.zhihu.com/question/60870951",
-      "heat": "53 万热度"
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "21",
+      "title": "5 人误食野生菌中毒致 3 死 2 伤，亲属称形似金针菇，如何辨认蘑菇是否有毒？中毒后如何急救？",
+      "link": "https://www.zhihu.com/question/1975564596967340005",
+      "heat": "50 万热度"
     },
     {
       "rank": "22",
-      "title": "5 人误食野生菌中毒致 3 死 2 伤，亲属称形似金针菇，如何辨认蘑菇是否有毒？中毒后如何急救？",
-      "link": "https://www.zhihu.com/question/1975564596967340005",
-      "heat": "51 万热度"
+      "title": "导师真的可以在复试的短短 2 秒内，判断出你是什么水平吗?",
+      "link": "https://www.zhihu.com/question/14836255382",
+      "heat": "49 万热度"
     },
     {
       "rank": "23",
-      "title": "导师真的可以在复试的短短 2 秒内，判断出你是什么水平吗?",
-      "link": "https://www.zhihu.com/question/14836255382",
-      "heat": "50 万热度"
+      "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
+      "link": "https://www.zhihu.com/question/1973990805782943063",
+      "heat": "48 万热度"
     },
     {
       "rank": "24",
       "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
       "link": "https://www.zhihu.com/question/1975608470024777738",
-      "heat": "49 万热度"
+      "heat": "48 万热度"
     },
     {
       "rank": "25",
-      "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
-      "link": "https://www.zhihu.com/question/1973990805782943063",
-      "heat": "49 万热度"
+      "title": "如何看待腾讯虚幻 5《湮灭之潮》新实机演示曝光？",
+      "link": "https://www.zhihu.com/question/1975132696163411262",
+      "heat": "47 万热度"
     },
     {
       "rank": "26",
-      "title": "如何看待腾讯虚幻 5《湮灭之潮》新实机演示曝光？",
-      "link": "https://www.zhihu.com/question/1975132696163411262",
-      "heat": "48 万热度"
+      "title": "电影《狂野时代》值不值得看？",
+      "link": "https://www.zhihu.com/question/1975574691142993639",
+      "heat": "47 万热度"
     },
     {
       "rank": "27",
-      "title": "电影《狂野时代》值不值得看？",
-      "link": "https://www.zhihu.com/question/1975574691142993639",
-      "heat": "48 万热度"
-    },
-    {
-      "rank": "28",
       "title": "如何评价俄罗斯工程院回复郭某事件，暂中止院士资格，将审查申请材料？",
       "link": "https://www.zhihu.com/question/1975880967957738615",
       "heat": "47 万热度"
     },
     {
-      "rank": "29",
+      "rank": "28",
       "title": "如今这个时代，是什么破坏了我们深度思考的能力？",
       "link": "https://www.zhihu.com/question/636726089",
       "heat": "46 万热度"
     },
     {
-      "rank": "30",
-      "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
-      "link": "https://www.zhihu.com/question/1974748815832683898",
-      "heat": "44 万热度"
-    },
-    {
-      "rank": "31",
+      "rank": "29",
       "title": "什么样的人在职场里最受欢迎？",
       "link": "https://www.zhihu.com/question/1958566911857127857",
       "heat": "44 万热度"
     },
     {
-      "rank": "32",
+      "rank": "30",
       "title": "你见过哪些神补刀？",
       "link": "https://www.zhihu.com/question/28872489",
       "heat": "44 万热度"
     },
     {
-      "rank": "33",
+      "rank": "31",
       "title": "围绕大口径弹药设计 CQB 枪械是否可行？",
       "link": "https://www.zhihu.com/question/1974071252785325679",
       "heat": "44 万热度"
     },
     {
-      "rank": "34",
+      "rank": "32",
       "title": "大家有什么低成本的爱好？",
       "link": "https://www.zhihu.com/question/11374320798",
       "heat": "44 万热度"
     },
     {
-      "rank": "35",
+      "rank": "33",
       "title": "如何看待 obgg 显示，下路选手 Gala 和辅助 Vampire 加入 JDG？",
       "link": "https://www.zhihu.com/question/1974879915334726908",
       "heat": "44 万热度"
     },
     {
-      "rank": "36",
+      "rank": "34",
       "title": "我一直有个疑问，孙悟空、猪八戒他们在取经途中因为样貌不断吓到人类，有变化的本领为什么不变化成帅哥呢？",
       "link": "https://www.zhihu.com/question/667485229",
       "heat": "44 万热度"
     },
     {
-      "rank": "37",
+      "rank": "35",
       "title": "霍去病为什么死的那么早？",
       "link": "https://www.zhihu.com/question/1952754356068803633",
       "heat": "44 万热度"
     },
     {
-      "rank": "38",
+      "rank": "36",
       "title": "认真训练一千个小时拳击能成为高手吗？能不能打职业比赛？",
       "link": "https://www.zhihu.com/question/402054079",
       "heat": "44 万热度"
     },
     {
-      "rank": "39",
+      "rank": "37",
       "title": "《疯狂动物城》里体型差别巨大的动物在一起工作，消耗的能量不一样，那工资怎么发比较合理？",
       "link": "https://www.zhihu.com/question/1972289455512576513",
       "heat": "44 万热度"
     },
     {
-      "rank": "40",
+      "rank": "38",
       "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
       "link": "https://www.zhihu.com/question/1974444593694077343",
       "heat": "44 万热度"
     },
     {
-      "rank": "41",
+      "rank": "39",
       "title": "如何看待角都和初代战斗过，还被其当作余生的谈资？",
       "link": "https://www.zhihu.com/question/387368981",
       "heat": "44 万热度"
     },
     {
-      "rank": "42",
+      "rank": "40",
       "title": "为什么较难的物理题跟着直觉想当然做几乎是必错？",
       "link": "https://www.zhihu.com/question/14956912455",
       "heat": "44 万热度"
     },
     {
-      "rank": "43",
+      "rank": "41",
       "title": "2526 赛季 NBA 杯小组赛西部 C 组掘金 112:109 火箭，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1975514785920603679",
       "heat": "44 万热度"
     },
     {
-      "rank": "44",
+      "rank": "42",
       "title": "如何评价大伟哥称《雨之城（Varsapura)》是「自己喜欢」的作品，而非「牛」的作品？",
       "link": "https://www.zhihu.com/question/1975296979333567306",
       "heat": "44 万热度"
     },
     {
-      "rank": "45",
+      "rank": "43",
       "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
       "link": "https://www.zhihu.com/question/1974778440168273303",
       "heat": "44 万热度"
     },
     {
-      "rank": "46",
+      "rank": "44",
       "title": "梁山好汉家小大多都是山寨派人去接，且都成功接回，但李逵老娘宋江却极力阻拦最终导致丧命，这是为什么呢？",
       "link": "https://www.zhihu.com/question/1509680148",
       "heat": "44 万热度"
     },
     {
-      "rank": "47",
+      "rank": "45",
       "title": "怎么看 SpaceX 首枚 V3 超重型火箭地面测试事故中损毁？",
       "link": "https://www.zhihu.com/question/1975502132661743647",
       "heat": "44 万热度"
     },
     {
-      "rank": "48",
+      "rank": "46",
       "title": "走红毯的穿着怎样才算得体？有什么诀窍？",
       "link": "https://www.zhihu.com/question/23777936",
       "heat": "44 万热度"
     },
     {
-      "rank": "49",
+      "rank": "47",
+      "title": "Gemini-3-pro 为什么提升那么大?",
+      "link": "https://www.zhihu.com/question/1974915118199509365",
+      "heat": "44 万热度"
+    },
+    {
+      "rank": "48",
       "title": "霸王茶姬的张俊杰为什么能成功？",
       "link": "https://www.zhihu.com/question/666723937",
       "heat": "44 万热度"
     },
     {
+      "rank": "49",
+      "title": "商朝拥有的马车技术来源哪里？",
+      "link": "https://www.zhihu.com/question/8865680134",
+      "heat": "44 万热度"
+    },
+    {
       "rank": "50",
-      "title": "Gemini-3-pro 为什么提升那么大?",
-      "link": "https://www.zhihu.com/question/1974915118199509365",
+      "title": "你最喜欢的网红美食是什么？",
+      "link": "https://www.zhihu.com/question/291846634",
       "heat": "44 万热度"
     }
   ],
-  "generated_at": "2025-11-23 22:41:19"
+  "generated_at": "2025-11-23 22:54:09"
 }
