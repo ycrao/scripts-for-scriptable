@@ -1,36 +1,36 @@
 {
-  "artifact_id": "24b17879-7d7b-4ccf-ac45-388ea1339f33",
+  "artifact_id": "1a5bb701-9b3a-45f7-8031-a3018bcc769c",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "12 条中日航线取消全部航班，日本旅游业将面临什么？中国游客对日本旅游业重要性有多大？",
       "link": "https://www.zhihu.com/question/1976258610913891213",
-      "heat": "1165 万热度"
+      "heat": "912 万热度"
     },
     {
       "rank": "2",
       "title": "2026 年研究生报考人数 343 万，考研形势有哪些变化？「考研热」已经成为过去时了吗？",
       "link": "https://www.zhihu.com/question/1976345592214020818",
-      "heat": "311 万热度"
+      "heat": "312 万热度"
     },
     {
       "rank": "3",
       "title": "巨型吊牌被破解，有人用夹子将吊牌夹在内侧继续蹭穿，商家还有哪些好的方式可以防止恶意蹭穿和退货？",
       "link": "https://www.zhihu.com/question/1976320169254020136",
-      "heat": "165 万热度"
+      "heat": "166 万热度"
     },
     {
       "rank": "4",
       "title": "不少四川市民将「臭大姐」称为极品下酒菜，医生称可以吃别多吃，臭大姐有哪些营养价值？吃多了会怎么样？",
       "link": "https://www.zhihu.com/question/1976366188733882513",
-      "heat": "121 万热度"
+      "heat": "120 万热度"
     },
     {
       "rank": "5",
       "title": "海关在一女子裙内查获 229 条活鱼，为平鳍鳅科鱼，这是一种什么鱼？会对我国生态环境造成怎样的影响？",
       "link": "https://www.zhihu.com/question/1975964328961282662",
-      "heat": "108 万热度"
+      "heat": "114 万热度"
     },
     {
       "rank": "6",
@@ -48,48 +48,48 @@
       "rank": "8",
       "title": "网友称招聘平台会帮企业监控员工求职动向，「HR 知道你偷偷找下家」是真的吗？平台是否侵犯了用户隐私权？",
       "link": "https://www.zhihu.com/question/1976316464664372500",
-      "heat": "72 万热度"
+      "heat": "74 万热度"
     },
     {
       "rank": "9",
       "title": "如何看待华为将非线性理论引入产品设计，如鸿蒙使用的「统筹法」和「系统论」等优化与控制理论？",
       "link": "https://www.zhihu.com/question/1975948844836602348",
-      "heat": "70 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "10",
-      "title": "对于孩子长期接受碎片化教材教育，系统思维和逻辑思维缺失，作为家长该如何应对？",
-      "link": "https://www.zhihu.com/question/1974988964931851848",
-      "heat": "66 万热度"
-    },
-    {
-      "rank": "11",
       "title": "一根 1m 长的玻璃棒，摔倒地上断成 3 段，最短一段的平均值是多少？",
       "link": "https://www.zhihu.com/question/507262676",
       "heat": "64 万热度"
     },
     {
-      "rank": "12",
-      "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
-      "link": "https://www.zhihu.com/question/1962093650352771598",
-      "heat": "63 万热度"
-    },
-    {
-      "rank": "13",
+      "rank": "11",
       "title": "飞机广播找医时，有多大概率能找到医生或护士？",
       "link": "https://www.zhihu.com/question/1971288658654008650",
       "heat": "59 万热度"
     },
     {
-      "rank": "14",
+      "rank": "12",
       "title": "猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？",
       "link": "https://www.zhihu.com/question/48551274",
       "heat": "59 万热度"
     },
     {
-      "rank": "15",
+      "rank": "13",
       "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
       "link": "https://www.zhihu.com/question/1971846649618891475",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "14",
+      "title": "对于孩子长期接受碎片化教材教育，系统思维和逻辑思维缺失，作为家长该如何应对？",
+      "link": "https://www.zhihu.com/question/1974988964931851848",
+      "heat": "58 万热度"
+    },
+    {
+      "rank": "15",
+      "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
+      "link": "https://www.zhihu.com/question/1962093650352771598",
       "heat": "58 万热度"
     },
     {
@@ -114,49 +114,49 @@
       "rank": "19",
       "title": "直积、直和、张量积到底是怎么回事?",
       "link": "https://www.zhihu.com/question/1974406450148295182",
-      "heat": "57 万热度"
+      "heat": "56 万热度"
     },
     {
       "rank": "20",
       "title": "在物理学的进修路上，你掌握了哪些关键能力或者信息，使你开悟，最终得以成为「学物理者」?",
       "link": "https://www.zhihu.com/question/496552948",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "21",
       "title": "如何看待 Faker 谈全球总决赛面对 LPL 不败纪录「其实没什么特别含义，总有一天记录会被打破」？",
       "link": "https://www.zhihu.com/question/1976238460269458161",
-      "heat": "56 万热度"
+      "heat": "55 万热度"
     },
     {
       "rank": "22",
-      "title": "研究生真的不能通过短短几轮对话，摸清导师的真实水平吗？",
-      "link": "https://www.zhihu.com/question/1976296298316523410",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "23",
       "title": "领导对我的工作定位模糊，我该怎么办？",
       "link": "https://www.zhihu.com/question/1930904054000780046",
       "heat": "54 万热度"
     },
     {
-      "rank": "24",
-      "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
-      "link": "https://www.zhihu.com/question/1975947279090340231",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "25",
+      "rank": "23",
       "title": "国博都已经叫「后母戊鼎」了，为什么考古博物馆叫「司母辛鼎」？",
       "link": "https://www.zhihu.com/question/639931940",
       "heat": "54 万热度"
     },
     {
-      "rank": "26",
+      "rank": "24",
+      "title": "研究生真的不能通过短短几轮对话，摸清导师的真实水平吗？",
+      "link": "https://www.zhihu.com/question/1976296298316523410",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "25",
       "title": "苹果 iPhone 和安卓手机跨平台互通，文件互传再无壁垒，具有哪些意义？",
       "link": "https://www.zhihu.com/question/1975125712852709924",
       "heat": "54 万热度"
+    },
+    {
+      "rank": "26",
+      "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
+      "link": "https://www.zhihu.com/question/1975947279090340231",
+      "heat": "53 万热度"
     },
     {
       "rank": "27",
@@ -172,14 +172,14 @@
     },
     {
       "rank": "29",
-      "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
-      "link": "https://www.zhihu.com/question/1974221875245782073",
+      "title": "打羽毛球你认为最好的单打策略是什么？",
+      "link": "https://www.zhihu.com/question/401832482",
       "heat": "53 万热度"
     },
     {
       "rank": "30",
-      "title": "假设古往今来的数学家们都在知乎上，会产生什么问题和回答？",
-      "link": "https://www.zhihu.com/question/1965379831110799842",
+      "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
+      "link": "https://www.zhihu.com/question/1974221875245782073",
       "heat": "53 万热度"
     },
     {
@@ -196,20 +196,20 @@
     },
     {
       "rank": "33",
-      "title": "打羽毛球你认为最好的单打策略是什么？",
-      "link": "https://www.zhihu.com/question/401832482",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "34",
       "title": "如何看待天蚕土豆的《万相之王》大结局?",
       "link": "https://www.zhihu.com/question/1972781249782363818",
       "heat": "53 万热度"
     },
     {
-      "rank": "35",
+      "rank": "34",
       "title": "如果为 2025 提名一个属于你的「年度小词」，你会提名哪个词？",
       "link": "https://www.zhihu.com/question/1976032611672486803",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "35",
+      "title": "假设古往今来的数学家们都在知乎上，会产生什么问题和回答？",
+      "link": "https://www.zhihu.com/question/1965379831110799842",
       "heat": "53 万热度"
     },
     {
@@ -220,14 +220,14 @@
     },
     {
       "rank": "37",
-      "title": "为什么院士万人长江什么的多数都是学校学院的领导？",
-      "link": "https://www.zhihu.com/question/1975609679318124391",
+      "title": "为什么我觉得作家娓娓道来的讲故事是一件极其有难度的事？",
+      "link": "https://www.zhihu.com/question/1973938379096875871",
       "heat": "53 万热度"
     },
     {
       "rank": "38",
-      "title": "为什么我觉得作家娓娓道来的讲故事是一件极其有难度的事？",
-      "link": "https://www.zhihu.com/question/1973938379096875871",
+      "title": "为什么院士万人长江什么的多数都是学校学院的领导？",
+      "link": "https://www.zhihu.com/question/1975609679318124391",
       "heat": "53 万热度"
     },
     {
@@ -244,64 +244,64 @@
     },
     {
       "rank": "41",
-      "title": "如果说在《战锤》世界爆发血十字或狂病的话，这对帝国来说算一件大事吗？",
-      "link": "https://www.zhihu.com/question/1974042998045156338",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "42",
       "title": "如何看待《33 号远征队》横扫金摇杆七项大奖，《天国拯救 2》颗粒无收？",
       "link": "https://www.zhihu.com/question/1975147960829485752",
       "heat": "53 万热度"
     },
     {
-      "rank": "43",
-      "title": "为什么经常去的店突然不想再去了?",
-      "link": "https://www.zhihu.com/question/610442387",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "44",
-      "title": "如何拯救《魔兽争霸 3》NE 英雄白虎（白给）?",
-      "link": "https://www.zhihu.com/question/9116996437",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "健身好几年了，卧推还是停在 50kg（就是一边 25kg，不算杆），我该怎么突破？",
-      "link": "https://www.zhihu.com/question/620748371",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "42",
       "title": "同事提出离职了，你是该挽留呢？还是会祝福?",
       "link": "https://www.zhihu.com/question/1891142047349585466",
       "heat": "53 万热度"
     },
     {
-      "rank": "47",
+      "rank": "43",
+      "title": "如果说在《战锤》世界爆发血十字或狂病的话，这对帝国来说算一件大事吗？",
+      "link": "https://www.zhihu.com/question/1974042998045156338",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "44",
+      "title": "为什么经常去的店突然不想再去了?",
+      "link": "https://www.zhihu.com/question/610442387",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "45",
       "title": "雅思考试收费标准调整为 1990 元，降价 180 元，怎样看待这一调整？对考生影响有多大？",
       "link": "https://www.zhihu.com/question/1975988634269213663",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
+      "rank": "46",
       "title": "你心中的纯天赋型作家是谁？",
       "link": "https://www.zhihu.com/question/1969842103803688106",
       "heat": "53 万热度"
     },
     {
-      "rank": "49",
+      "rank": "47",
       "title": "为什么现在的武侠片没落了呢？",
       "link": "https://www.zhihu.com/question/3643672066",
       "heat": "53 万热度"
     },
     {
-      "rank": "50",
+      "rank": "48",
       "title": "有没有一个你当时以为「还会再见」的瞬间，后来才发现那是「最后一面」？",
       "link": "https://www.zhihu.com/question/1974795615922852781",
       "heat": "53 万热度"
+    },
+    {
+      "rank": "49",
+      "title": "如何拯救《魔兽争霸 3》NE 英雄白虎（白给）?",
+      "link": "https://www.zhihu.com/question/9116996437",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "50",
+      "title": "职场中，如何从底层杀出？",
+      "link": "https://www.zhihu.com/question/634286415",
+      "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-11-25 02:58:12"
+  "generated_at": "2025-11-25 03:21:50"
 }
