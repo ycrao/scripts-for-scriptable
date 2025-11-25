@@ -1,60 +1,60 @@
 {
-  "artifact_id": "bfd527ec-c065-4fb9-b1f3-876d28ee550f",
+  "artifact_id": "7eef7580-9154-4796-a003-b621801e376c",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1976422285205329357",
-      "heat": "343 万热度"
+      "heat": "332 万热度"
     },
     {
       "rank": "2",
       "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
       "link": "https://www.zhihu.com/question/1975840016744858598",
-      "heat": "225 万热度"
+      "heat": "210 万热度"
     },
     {
       "rank": "3",
       "title": "为什么江南《龙族五》写一半要回头重写龙四？",
       "link": "https://www.zhihu.com/question/584673855",
-      "heat": "168 万热度"
+      "heat": "177 万热度"
     },
     {
       "rank": "4",
       "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，细线在野外生存中能起到哪些作用？",
       "link": "https://www.zhihu.com/question/1976253932666845124",
-      "heat": "163 万热度"
+      "heat": "147 万热度"
     },
     {
       "rank": "5",
+      "title": "为什么我的朋友建议我电脑使用时尽量一直连接电源，某电脑品牌店员却让我等低电量提示了再充电？",
+      "link": "https://www.zhihu.com/question/10024724620",
+      "heat": "106 万热度"
+    },
+    {
+      "rank": "6",
+      "title": "我的电动车已过质保，电池衰减明显，换块电池真的要花一台新车的钱吗？",
+      "link": "https://www.zhihu.com/question/1972624599918281376",
+      "heat": "101 万热度"
+    },
+    {
+      "rank": "7",
       "title": "美官员透露，乌克兰代表团已就潜在和平协议条款同美国达成一致，这意味着什么？将如何影响俄乌局势？",
       "link": "https://www.zhihu.com/question/1976764886672437543",
       "heat": "100 万热度"
     },
     {
-      "rank": "6",
-      "title": "为什么我的朋友建议我电脑使用时尽量一直连接电源，某电脑品牌店员却让我等低电量提示了再充电？",
-      "link": "https://www.zhihu.com/question/10024724620",
-      "heat": "98 万热度"
-    },
-    {
-      "rank": "7",
-      "title": "我的电动车已过质保，电池衰减明显，换块电池真的要花一台新车的钱吗？",
-      "link": "https://www.zhihu.com/question/1972624599918281376",
-      "heat": "97 万热度"
-    },
-    {
       "rank": "8",
       "title": "如何看待《疯狂动物城 2》预售总票房破 3 亿，超越《哪吒之魔童闹海》刷新中国影史动画电影预售票房纪录？",
       "link": "https://www.zhihu.com/question/1976591353623367882",
-      "heat": "95 万热度"
+      "heat": "97 万热度"
     },
     {
       "rank": "9",
       "title": "报道称乌克兰已原则同意美国提出的和平协议，哪些信息值得关注？将带来哪些影响？",
       "link": "https://www.zhihu.com/question/1976766981190489389",
-      "heat": "88 万热度"
+      "heat": "85 万热度"
     },
     {
       "rank": "10",
@@ -66,7 +66,7 @@
       "rank": "11",
       "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
       "link": "https://www.zhihu.com/question/1976673401511884162",
-      "heat": "74 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "12",
@@ -78,96 +78,96 @@
       "rank": "13",
       "title": "生活中有哪些食物是智商税？",
       "link": "https://www.zhihu.com/question/379211547",
-      "heat": "68 万热度"
+      "heat": "69 万热度"
     },
     {
       "rank": "14",
-      "title": "你心目中粤菜排名前五的是什么？",
-      "link": "https://www.zhihu.com/question/538738869",
-      "heat": "64 万热度"
+      "title": "为什么有些人工作能力比领导还强，却当不上领导？",
+      "link": "https://www.zhihu.com/question/1975501230445978400",
+      "heat": "69 万热度"
     },
     {
       "rank": "15",
-      "title": "炒饭除了加鸡蛋青菜外，还有哪些简单又好吃的炒饭搭配？",
-      "link": "https://www.zhihu.com/question/5034763899",
-      "heat": "61 万热度"
+      "title": "你心目中粤菜排名前五的是什么？",
+      "link": "https://www.zhihu.com/question/538738869",
+      "heat": "65 万热度"
     },
     {
       "rank": "16",
       "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
       "link": "https://www.zhihu.com/question/1976380708353234914",
-      "heat": "59 万热度"
+      "heat": "63 万热度"
     },
     {
       "rank": "17",
+      "title": "炒饭除了加鸡蛋青菜外，还有哪些简单又好吃的炒饭搭配？",
+      "link": "https://www.zhihu.com/question/5034763899",
+      "heat": "61 万热度"
+    },
+    {
+      "rank": "18",
       "title": "本科毕业后考公一年没考上该咋办?",
       "link": "https://www.zhihu.com/question/1906534173293940903",
       "heat": "59 万热度"
     },
     {
-      "rank": "18",
+      "rank": "19",
       "title": "《凡人修仙传》中为什么没有天南的修士前往乱星海获取资源？",
       "link": "https://www.zhihu.com/question/1974441770474549337",
       "heat": "59 万热度"
     },
     {
-      "rank": "19",
+      "rank": "20",
       "title": "孙悟空明明学了长生术，为什么到 342 岁时，阳寿就耗尽了？",
       "link": "https://www.zhihu.com/question/602497245",
       "heat": "59 万热度"
     },
     {
-      "rank": "20",
+      "rank": "21",
       "title": "有没有哪款游戏教会你的「没用的知识」，意外的在现实世界中使用到了？",
       "link": "https://www.zhihu.com/question/1974990187718259553",
       "heat": "59 万热度"
     },
     {
-      "rank": "21",
+      "rank": "22",
       "title": "卡夫卡的文学地位为什么那么高，如何鉴赏他的作品？",
       "link": "https://www.zhihu.com/question/21027405",
       "heat": "58 万热度"
     },
     {
-      "rank": "22",
+      "rank": "23",
       "title": "宁波大学「快速腌制咸蛋黄」专利引发关注，食品专业研究真这么接地气吗？你见过最「实用」的科研方向是什么？",
       "link": "https://www.zhihu.com/question/1974432611716837737",
       "heat": "58 万热度"
     },
     {
-      "rank": "23",
+      "rank": "24",
       "title": "漫画《七龙珠》弗利萨的爸爸到底厉不厉害？",
       "link": "https://www.zhihu.com/question/655951521",
       "heat": "58 万热度"
     },
     {
-      "rank": "24",
+      "rank": "25",
       "title": "为什么现在很多人觉得 TVB 剧「大不如前」？",
       "link": "https://www.zhihu.com/question/1961389008895574945",
       "heat": "58 万热度"
     },
     {
-      "rank": "25",
+      "rank": "26",
+      "title": "以色列称将引入大量印度移民，为何人口缩减的国家都优先引入印度人，这对他们的经济和地缘安全有何帮助？",
+      "link": "https://www.zhihu.com/question/1976572798207035060",
+      "heat": "56 万热度"
+    },
+    {
+      "rank": "27",
       "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
       "link": "https://www.zhihu.com/question/1976013755256153204",
       "heat": "55 万热度"
     },
     {
-      "rank": "26",
-      "title": "以色列称将引入大量印度移民，为何人口缩减的国家都优先引入印度人，这对他们的经济和地缘安全有何帮助？",
-      "link": "https://www.zhihu.com/question/1976572798207035060",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "27",
+      "rank": "28",
       "title": "怎么评价电影《双旗镇刀客》？",
       "link": "https://www.zhihu.com/question/22458577",
-      "heat": "54 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "transformer 架构的核心公式其实类似于数学期望，理解起来也不复杂，但为什么这个模型这么强呢？",
-      "link": "https://www.zhihu.com/question/580810624",
       "heat": "54 万热度"
     },
     {
@@ -190,20 +190,20 @@
     },
     {
       "rank": "32",
-      "title": "搞技术的人员为什么通常当不了领导？",
-      "link": "https://www.zhihu.com/question/14705174979",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "33",
       "title": "如何评价华为 11 月 25 日发布的 Mate X7 ? 有哪些值得关注的信息？",
       "link": "https://www.zhihu.com/question/1976606649457349057",
       "heat": "52 万热度"
     },
     {
-      "rank": "34",
+      "rank": "33",
       "title": "如何看待《博德之门》发行总监称「没有 G 胖的世界很可怕」？如果有一天 G 胖不再掌舵 V 社，会发生什么？",
       "link": "https://www.zhihu.com/question/1976325154972901798",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "34",
+      "title": "你认为 2026 年开放世界手游将是血海吗？",
+      "link": "https://www.zhihu.com/question/1968721410655512183",
       "heat": "52 万热度"
     },
     {
@@ -220,14 +220,14 @@
     },
     {
       "rank": "37",
-      "title": "你认为 2026 年开放世界手游将是血海吗？",
-      "link": "https://www.zhihu.com/question/1968721410655512183",
+      "title": "中国五千年历史中，除了四大发明，还有什么拿得出手的发明创造吗？",
+      "link": "https://www.zhihu.com/question/1960846615767132063",
       "heat": "52 万热度"
     },
     {
       "rank": "38",
-      "title": "中国五千年历史中，除了四大发明，还有什么拿得出手的发明创造吗？",
-      "link": "https://www.zhihu.com/question/1960846615767132063",
+      "title": "去过瑞典后你最大的感受是什么？",
+      "link": "https://www.zhihu.com/question/332998137",
       "heat": "52 万热度"
     },
     {
@@ -238,50 +238,50 @@
     },
     {
       "rank": "40",
-      "title": "如何评价华为 Mate 80 系列采用全金属机身与双环设计？这是否标志手机外观将走向「质感技术并存」？",
-      "link": "https://www.zhihu.com/question/1976610051453120650",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "41",
       "title": "如何看待最新发布的华为 MatePad Edge 鸿蒙二合一平板电脑？有哪些亮点值得关注？",
       "link": "https://www.zhihu.com/question/1976599328219997068",
       "heat": "52 万热度"
     },
     {
+      "rank": "41",
+      "title": "如何评价华为 Mate 80 系列采用全金属机身与双环设计？这是否标志手机外观将走向「质感技术并存」？",
+      "link": "https://www.zhihu.com/question/1976610051453120650",
+      "heat": "52 万热度"
+    },
+    {
       "rank": "42",
-      "title": "去过瑞典后你最大的感受是什么？",
-      "link": "https://www.zhihu.com/question/332998137",
+      "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
+      "link": "https://www.zhihu.com/question/1976610994328445009",
       "heat": "52 万热度"
     },
     {
       "rank": "43",
-      "title": "那些苦中作乐的人是真的内心积极阳光，还是被生活麻木到分不清痛苦和快乐了？",
-      "link": "https://www.zhihu.com/question/389664726",
+      "title": "那些被学生戏称为「水课」的大学课程，真的对个人成长毫无意义吗？",
+      "link": "https://www.zhihu.com/question/1974432100561199593",
       "heat": "52 万热度"
     },
     {
       "rank": "44",
       "title": "11 月 25 日华为 Mate X7 正式发布，对于折叠屏手机行业有哪些技术突破？会带来哪些改变？",
       "link": "https://www.zhihu.com/question/1976604214219256214",
-      "heat": "51 万热度"
+      "heat": "52 万热度"
     },
     {
       "rank": "45",
-      "title": "2526 赛季 NBA 常规赛爵士 117:134 勇士，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1976609488934027296",
-      "heat": "51 万热度"
+      "title": "那些苦中作乐的人是真的内心积极阳光，还是被生活麻木到分不清痛苦和快乐了？",
+      "link": "https://www.zhihu.com/question/389664726",
+      "heat": "52 万热度"
     },
     {
       "rank": "46",
-      "title": "那些被学生戏称为「水课」的大学课程，真的对个人成长毫无意义吗？",
-      "link": "https://www.zhihu.com/question/1974432100561199593",
+      "title": "《士兵突击》中的袁朗以后会是大校吗？",
+      "link": "https://www.zhihu.com/question/342826566",
       "heat": "51 万热度"
     },
     {
       "rank": "47",
-      "title": "韩国演员李顺载去世，曾饰演《搞笑一家人》李顺才一角，你对他有哪些记忆？",
-      "link": "https://www.zhihu.com/question/1976567025636702155",
+      "title": "如何评价游戏《崩坏：星穹铁道》一年不出四星角色，这究竟是另有他图还是设计失衡？",
+      "link": "https://www.zhihu.com/question/1976003057331507721",
       "heat": "51 万热度"
     },
     {
@@ -292,16 +292,16 @@
     },
     {
       "rank": "49",
-      "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
-      "link": "https://www.zhihu.com/question/1976610994328445009",
+      "title": "韩国演员李顺载去世，曾饰演《搞笑一家人》李顺才一角，你对他有哪些记忆？",
+      "link": "https://www.zhihu.com/question/1976567025636702155",
       "heat": "51 万热度"
     },
     {
       "rank": "50",
-      "title": "如何评价游戏《崩坏：星穹铁道》一年不出四星角色，这究竟是另有他图还是设计失衡？",
-      "link": "https://www.zhihu.com/question/1976003057331507721",
+      "title": "你收藏了哪些让你爱不释手的博物馆文创？当初为什么购买？",
+      "link": "https://www.zhihu.com/question/1971639019248021668",
       "heat": "51 万热度"
     }
   ],
-  "generated_at": "2025-11-26 03:53:49"
+  "generated_at": "2025-11-26 04:29:39"
 }
