@@ -1,251 +1,251 @@
 {
-  "artifact_id": "2f97ad29-f6d3-415d-8272-632b08499914",
+  "artifact_id": "d6cfdc40-beb3-438b-bbee-6ea01eb3e6f3",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
       "link": "https://www.zhihu.com/question/1976422285205329357",
-      "heat": "5013 万热度"
+      "heat": "4509 万热度"
     },
     {
       "rank": "2",
       "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
       "link": "https://www.zhihu.com/question/1976013755256153204",
-      "heat": "409 万热度"
+      "heat": "422 万热度"
     },
     {
       "rank": "3",
       "title": "溢价 100% 的山寨山姆挤满县城中产，为什么明知是山寨有溢价大家还愿意买？反映出怎样的消费心理？",
       "link": "https://www.zhihu.com/question/1974875857555318332",
-      "heat": "216 万热度"
+      "heat": "227 万热度"
     },
     {
       "rank": "4",
-      "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
-      "link": "https://www.zhihu.com/question/1976253932666845124",
-      "heat": "199 万热度"
+      "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
+      "link": "https://www.zhihu.com/question/1976673401511884162",
+      "heat": "203 万热度"
     },
     {
       "rank": "5",
-      "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
-      "link": "https://www.zhihu.com/question/1976673401511884162",
-      "heat": "180 万热度"
+      "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
+      "link": "https://www.zhihu.com/question/1976253932666845124",
+      "heat": "201 万热度"
     },
     {
       "rank": "6",
       "title": "transformer 架构的核心公式其实类似于数学期望，理解起来也不复杂，但为什么这个模型这么强呢？",
       "link": "https://www.zhihu.com/question/580810624",
-      "heat": "150 万热度"
+      "heat": "165 万热度"
     },
     {
       "rank": "7",
       "title": "国外游戏里对中国元素的运用，是否还停留在「旗袍、功夫、红灯笼」的刻板印象里？如果是的话为什么？",
       "link": "https://www.zhihu.com/question/1975656579337573667",
-      "heat": "147 万热度"
+      "heat": "141 万热度"
     },
     {
       "rank": "8",
       "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
       "link": "https://www.zhihu.com/question/1976380708353234914",
-      "heat": "125 万热度"
+      "heat": "134 万热度"
     },
     {
       "rank": "9",
-      "title": "网传南大物理学教授闻海虎给多位老师发回应王牧、彭茹雯对自己举报的澄清邮件，如何看待此事？",
-      "link": "https://www.zhihu.com/question/1976353956956430592",
-      "heat": "119 万热度"
+      "title": "常保持饥饿感真的可以让人更长寿吗？",
+      "link": "https://www.zhihu.com/question/461942394",
+      "heat": "118 万热度"
     },
     {
       "rank": "10",
       "title": "古代砍头，为什么一定要等「秋后」才问斩？",
       "link": "https://www.zhihu.com/question/1972992661372806501",
-      "heat": "118 万热度"
-    },
-    {
-      "rank": "11",
-      "title": "常保持饥饿感真的可以让人更长寿吗？",
-      "link": "https://www.zhihu.com/question/461942394",
       "heat": "116 万热度"
     },
     {
-      "rank": "12",
+      "rank": "11",
       "title": "孙悟空明明学了长生术，为什么到 342 岁时，阳寿就耗尽了？",
       "link": "https://www.zhihu.com/question/602497245",
-      "heat": "112 万热度"
+      "heat": "113 万热度"
+    },
+    {
+      "rank": "12",
+      "title": "我国实施太空探源科学卫星计划，将发射 4 颗卫星，它们要执行哪些任务？这些研究对我们的生活有什么意义？",
+      "link": "https://www.zhihu.com/question/1976373035406737524",
+      "heat": "111 万热度"
     },
     {
       "rank": "13",
-      "title": "我国实施太空探源科学卫星计划，将发射 4 颗卫星，它们要执行哪些任务？这些研究对我们的生活有什么意义？",
-      "link": "https://www.zhihu.com/question/1976373035406737524",
-      "heat": "110 万热度"
+      "title": "《英雄联盟》海克斯大乱斗上线后为什么还有很多玩家在玩普通大乱斗？",
+      "link": "https://www.zhihu.com/question/1973760967579031469",
+      "heat": "97 万热度"
     },
     {
       "rank": "14",
-      "title": "韩国演员李顺载去世，曾饰演《搞笑一家人》李顺才一角，你对他有哪些记忆？",
-      "link": "https://www.zhihu.com/question/1976567025636702155",
-      "heat": "97 万热度"
+      "title": "如何评价华为 11 月 25 日发布的 Mate X7 ? 有哪些值得关注的信息？",
+      "link": "https://www.zhihu.com/question/1976606649457349057",
+      "heat": "84 万热度"
     },
     {
       "rank": "15",
       "title": "神舟二十二号成功发射，首次启用备用飞船发射准备时间不到一个月，如何评价此次航天应急处置过程？",
       "link": "https://www.zhihu.com/question/1973748316018873085",
-      "heat": "96 万热度"
+      "heat": "84 万热度"
     },
     {
       "rank": "16",
-      "title": "如何评价华为 Mate 80 系列采用全金属机身与双环设计？这是否标志手机外观将走向「质感技术并存」？",
-      "link": "https://www.zhihu.com/question/1976610051453120650",
-      "heat": "96 万热度"
+      "title": "外卖配送「最后百米」频遇阻，是否该为骑手办门禁卡？物业、住户和骑手该如何协调利益冲突？",
+      "link": "https://www.zhihu.com/question/1975134700067639629",
+      "heat": "84 万热度"
     },
     {
       "rank": "17",
-      "title": "外卖配送「最后百米」频遇阻，是否该为骑手办门禁卡？物业、住户和骑手该如何协调利益冲突？",
-      "link": "https://www.zhihu.com/question/1975134700067639629",
-      "heat": "96 万热度"
+      "title": "搞技术的人员为什么通常当不了领导？",
+      "link": "https://www.zhihu.com/question/14705174979",
+      "heat": "84 万热度"
     },
     {
       "rank": "18",
-      "title": "《英雄联盟》海克斯大乱斗上线后为什么还有很多玩家在玩普通大乱斗？",
-      "link": "https://www.zhihu.com/question/1973760967579031469",
-      "heat": "95 万热度"
+      "title": "2526 赛季 NBA 常规赛爵士 117:134 勇士，如何评价这场比赛？",
+      "link": "https://www.zhihu.com/question/1976609488934027296",
+      "heat": "81 万热度"
     },
     {
       "rank": "19",
-      "title": "如何评价华为 11 月 25 日发布的 Mate X7 ? 有哪些值得关注的信息？",
-      "link": "https://www.zhihu.com/question/1976606649457349057",
-      "heat": "85 万热度"
+      "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
+      "link": "https://www.zhihu.com/question/1976610994328445009",
+      "heat": "78 万热度"
     },
     {
       "rank": "20",
       "title": "如何看待《唐诡 3》「去天尺五」案中卢凌风和苏无名关于「士族门阀」的辩论？唐朝的选官制度是如何衍变的？",
       "link": "https://www.zhihu.com/question/1975204366739797368",
-      "heat": "84 万热度"
+      "heat": "76 万热度"
     },
     {
       "rank": "21",
-      "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
-      "link": "https://www.zhihu.com/question/1976610994328445009",
-      "heat": "82 万热度"
+      "title": "网传南大物理学教授闻海虎给多位老师发回应王牧、彭茹雯对自己举报的澄清邮件，如何看待此事？",
+      "link": "https://www.zhihu.com/question/1976353956956430592",
+      "heat": "74 万热度"
     },
     {
       "rank": "22",
-      "title": "搞技术的人员为什么通常当不了领导？",
-      "link": "https://www.zhihu.com/question/14705174979",
-      "heat": "80 万热度"
+      "title": "中国五千年历史中，除了四大发明，还有什么拿得出手的发明创造吗？",
+      "link": "https://www.zhihu.com/question/1960846615767132063",
+      "heat": "67 万热度"
     },
     {
       "rank": "23",
-      "title": "2526 赛季 NBA 常规赛爵士 117:134 勇士，如何评价这场比赛？",
-      "link": "https://www.zhihu.com/question/1976609488934027296",
-      "heat": "79 万热度"
+      "title": "男子在酒店犯病 5 小时后被发现死亡，家属称前台拒绝协助排查耽误送药，具体是怎么回事？酒店需要担责吗？",
+      "link": "https://www.zhihu.com/question/1976410878564852368",
+      "heat": "59 万热度"
     },
     {
       "rank": "24",
-      "title": "如何看待最新发布的华为 MatePad Edge 鸿蒙二合一平板电脑？有哪些亮点值得关注？",
-      "link": "https://www.zhihu.com/question/1976599328219997068",
-      "heat": "75 万热度"
+      "title": "零跑汽车为什么这么便宜呢？",
+      "link": "https://www.zhihu.com/question/3499692132",
+      "heat": "59 万热度"
     },
     {
       "rank": "25",
-      "title": "男子在酒店犯病 5 小时后被发现死亡，家属称前台拒绝协助排查耽误送药，具体是怎么回事？酒店需要担责吗？",
-      "link": "https://www.zhihu.com/question/1976410878564852368",
-      "heat": "70 万热度"
+      "title": "韩国演员李顺载去世，曾饰演《搞笑一家人》李顺才一角，你对他有哪些记忆？",
+      "link": "https://www.zhihu.com/question/1976567025636702155",
+      "heat": "59 万热度"
     },
     {
       "rank": "26",
       "title": "以色列称将引入大量印度移民，为何人口缩减的国家都优先引入印度人，这对他们的经济和地缘安全有何帮助？",
       "link": "https://www.zhihu.com/question/1976572798207035060",
-      "heat": "69 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "27",
       "title": "易烊千玺新片《狂野时代》，观众普遍反映「看不懂」，主要原因是什么？",
       "link": "https://www.zhihu.com/question/1975581948824024461",
-      "heat": "67 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "28",
-      "title": "中国五千年历史中，除了四大发明，还有什么拿得出手的发明创造吗？",
-      "link": "https://www.zhihu.com/question/1960846615767132063",
-      "heat": "66 万热度"
+      "title": "你收藏了哪些让你爱不释手的博物馆文创？当初为什么购买？",
+      "link": "https://www.zhihu.com/question/1971639019248021668",
+      "heat": "57 万热度"
     },
     {
       "rank": "29",
-      "title": "零跑汽车为什么这么便宜呢？",
-      "link": "https://www.zhihu.com/question/3499692132",
-      "heat": "60 万热度"
-    },
-    {
-      "rank": "30",
-      "title": "特朗普签署行政命令，启动 AI 创世纪计划，为何现在推出？能带来哪些影响？",
-      "link": "https://www.zhihu.com/question/1976557160864375677",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "31",
-      "title": "你收藏了哪些让你爱不释手的博物馆文创？当初为什么购买？",
-      "link": "https://www.zhihu.com/question/1971639019248021668",
-      "heat": "59 万热度"
-    },
-    {
-      "rank": "32",
-      "title": "如何看待《燕云十六声》国际服取得巨大成功？",
-      "link": "https://www.zhihu.com/question/1975999341828260782",
-      "heat": "56 万热度"
-    },
-    {
-      "rank": "33",
       "title": "有哪些人物是你心中的意难平？",
       "link": "https://www.zhihu.com/question/378046251",
       "heat": "55 万热度"
     },
     {
-      "rank": "34",
-      "title": "沈阳、大连、长春、哈尔滨，第一次去东北玩应该选哪个？",
-      "link": "https://www.zhihu.com/question/1404466673",
+      "rank": "30",
+      "title": "如何看待《燕云十六声》国际服取得巨大成功？",
+      "link": "https://www.zhihu.com/question/1975999341828260782",
       "heat": "55 万热度"
     },
     {
-      "rank": "35",
-      "title": "猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？",
-      "link": "https://www.zhihu.com/question/48551274",
-      "heat": "55 万热度"
-    },
-    {
-      "rank": "36",
+      "rank": "31",
       "title": "为什么所有游戏都避免不了战斗这个元素？",
       "link": "https://www.zhihu.com/question/1958209377937916051",
       "heat": "55 万热度"
     },
     {
-      "rank": "37",
+      "rank": "32",
       "title": "U17 亚洲杯预选赛，中国男足 14-0 狂胜东帝汶，如何评价本场比赛？",
       "link": "https://www.zhihu.com/question/1976415442055741976",
       "heat": "55 万热度"
     },
     {
-      "rank": "38",
+      "rank": "33",
+      "title": "沈阳、大连、长春、哈尔滨，第一次去东北玩应该选哪个？",
+      "link": "https://www.zhihu.com/question/1404466673",
+      "heat": "55 万热度"
+    },
+    {
+      "rank": "34",
       "title": "你认为女人生完孩子需不需要做月子？",
       "link": "https://www.zhihu.com/question/1888226726380803053",
       "heat": "54 万热度"
     },
     {
-      "rank": "39",
-      "title": "以前很多人集邮，为什么现在邮票无人问津了呢？",
-      "link": "https://www.zhihu.com/question/666724959",
-      "heat": "53 万热度"
+      "rank": "35",
+      "title": "猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？",
+      "link": "https://www.zhihu.com/question/48551274",
+      "heat": "54 万热度"
     },
     {
-      "rank": "40",
+      "rank": "36",
+      "title": "以前很多人集邮，为什么现在邮票无人问津了呢？",
+      "link": "https://www.zhihu.com/question/666724959",
+      "heat": "54 万热度"
+    },
+    {
+      "rank": "37",
       "title": "《天龙八部》有一种说法：原本没有虚竹这个人物，这个人物的剧情原本是属于段誉的，这说法的出处在哪？",
       "link": "https://www.zhihu.com/question/451571648",
       "heat": "53 万热度"
     },
     {
-      "rank": "41",
+      "rank": "38",
       "title": "孩子到底有多爱自己的妈妈？",
       "link": "https://www.zhihu.com/question/1955940909897192452",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "39",
+      "title": "华为 Mate X7 首发支持鸿蒙操作系统 6，小艺智能体迎来全面升级，对折叠屏大屏体验来说有哪些提升？",
+      "link": "https://www.zhihu.com/question/1976608249538175998",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "40",
+      "title": "如何看待最新发布的华为 MatePad Edge 鸿蒙二合一平板电脑？有哪些亮点值得关注？",
+      "link": "https://www.zhihu.com/question/1976599328219997068",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "41",
+      "title": "如何评价华为 Mate 80 系列采用全金属机身与双环设计？这是否标志手机外观将走向「质感技术并存」？",
+      "link": "https://www.zhihu.com/question/1976610051453120650",
       "heat": "53 万热度"
     },
     {
@@ -262,38 +262,38 @@
     },
     {
       "rank": "44",
+      "title": "11 月 25 日华为 Mate X7 正式发布，对于折叠屏手机行业有哪些技术突破？会带来哪些改变？",
+      "link": "https://www.zhihu.com/question/1976604214219256214",
+      "heat": "52 万热度"
+    },
+    {
+      "rank": "45",
       "title": "纸质书、电子书、有声书，睡前你偏爱哪种形式？",
       "link": "https://www.zhihu.com/question/1973764369390274034",
       "heat": "52 万热度"
     },
     {
-      "rank": "45",
+      "rank": "46",
       "title": "体制内工作，最好的心态是什么？",
       "link": "https://www.zhihu.com/question/1924006154574492843",
       "heat": "52 万热度"
     },
     {
-      "rank": "46",
+      "rank": "47",
       "title": "2526 赛季英超第 12 轮，曼联 0:1 埃弗顿，埃弗顿队盖耶掌掴队友被红牌罚下，如何评价这场比赛？",
       "link": "https://www.zhihu.com/question/1976500832171212952",
       "heat": "52 万热度"
     },
     {
-      "rank": "47",
+      "rank": "48",
       "title": "那些苦中作乐的人是真的内心积极阳光，还是被生活麻木到分不清痛苦和快乐了？",
       "link": "https://www.zhihu.com/question/389664726",
       "heat": "52 万热度"
     },
     {
-      "rank": "48",
+      "rank": "49",
       "title": "身处公司中层管理岗，因病暂时住院休养，公司业绩阶段下滑，如何能远程有效管理？",
       "link": "https://www.zhihu.com/question/1939258312559432790",
-      "heat": "52 万热度"
-    },
-    {
-      "rank": "49",
-      "title": "职场人，如何提升个人的表达能力？",
-      "link": "https://www.zhihu.com/question/1904359828702335932",
       "heat": "52 万热度"
     },
     {
@@ -303,5 +303,5 @@
       "heat": "52 万热度"
     }
   ],
-  "generated_at": "2025-11-25 18:56:02"
+  "generated_at": "2025-11-25 19:25:06"
 }
