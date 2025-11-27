@@ -1,96 +1,96 @@
 {
-  "artifact_id": "2dc6261d-4702-4c02-a59a-98567ac8b68c",
+  "artifact_id": "0f33b333-15a2-4143-a658-8f1684adb588",
   "title": "Zhihu Hot List",
   "data": [
     {
       "rank": "1",
       "title": "老人偷偷剃光孩子胎发，宝妈崩溃大哭，「不剃胎发易生病、剃胎发会让发质更好」这种习俗说法有科学依据吗？",
       "link": "https://www.zhihu.com/question/1976768356322338301",
-      "heat": "391 万热度"
+      "heat": "396 万热度"
     },
     {
       "rank": "2",
       "title": "中国矿业大学拟收购 490 套房做学生宿舍，如何看待这一做法？如何确保学生顺利住进去、住得好？",
       "link": "https://www.zhihu.com/question/1976298638574641725",
-      "heat": "267 万热度"
+      "heat": "268 万热度"
     },
     {
       "rank": "3",
       "title": "相比始祖鸟「喜马拉雅升龙」事件，「环保少女」用荧光追踪剂染绿威尼斯运河的危害，是更大还是更小？",
       "link": "https://www.zhihu.com/question/1977119105153725793",
-      "heat": "259 万热度"
+      "heat": "263 万热度"
     },
     {
       "rank": "4",
       "title": "天文摄影师拍下人类坠入太阳图片，这是如何做到的？还能在什么位置跳跃可以实现？",
       "link": "https://www.zhihu.com/question/1974637719780081823",
-      "heat": "198 万热度"
+      "heat": "199 万热度"
     },
     {
       "rank": "5",
       "title": "如何看待阿里最新财报，闪购营销费用增加 300 多亿收入却仅增 80 多亿，核心电商持续被抖音和拼多多赶超？",
       "link": "https://www.zhihu.com/question/1977091164105638048",
-      "heat": "159 万热度"
+      "heat": "162 万热度"
     },
     {
       "rank": "6",
       "title": "有没有什么东西，被当传家宝代代流传，最后却被发现一点也不值钱?",
       "link": "https://www.zhihu.com/question/435673487",
-      "heat": "156 万热度"
+      "heat": "153 万热度"
     },
     {
       "rank": "7",
-      "title": "同事请下午茶没带你，说「不好意思，点的时候忘了你」，你会怎么回？",
-      "link": "https://www.zhihu.com/question/1967536195916497780",
+      "title": "大学生理发被收 1 万元，理发店称所有项目明码标价，能作为免责理由吗？消费者面对这种情况该如何维权？",
+      "link": "https://www.zhihu.com/question/1975862881565295598",
       "heat": "153 万热度"
     },
     {
       "rank": "8",
-      "title": "大学生理发被收 1 万元，理发店称所有项目明码标价，能作为免责理由吗？消费者面对这种情况该如何维权？",
-      "link": "https://www.zhihu.com/question/1975862881565295598",
-      "heat": "152 万热度"
+      "title": "同事请下午茶没带你，说「不好意思，点的时候忘了你」，你会怎么回？",
+      "link": "https://www.zhihu.com/question/1967536195916497780",
+      "heat": "151 万热度"
     },
     {
       "rank": "9",
       "title": "为什么我们穿的都是塑料？",
       "link": "https://www.zhihu.com/question/1975144793609879746",
-      "heat": "130 万热度"
+      "heat": "133 万热度"
     },
     {
       "rank": "10",
       "title": "近期流感高发，数据显示 99% 以上为甲流，有人说得了甲流「疼得每一寸都在受刑」，为啥感染甲流这么疼？",
       "link": "https://www.zhihu.com/question/8903648323",
-      "heat": "117 万热度"
+      "heat": "119 万热度"
     },
     {
       "rank": "11",
       "title": "杨过对父亲之死念念不忘，为什么对母亲穆念慈却不闻不问？",
       "link": "https://www.zhihu.com/question/536524255",
-      "heat": "104 万热度"
+      "heat": "105 万热度"
     },
     {
       "rank": "12",
+      "title": "如何长时间高效学习？",
+      "link": "https://www.zhihu.com/question/28358499",
+      "heat": "76 万热度"
+    },
+    {
+      "rank": "13",
       "title": "Faker 称 2025 年冠军皮肤将给到投票第一的加里奥，对此你有什么想说的？",
       "link": "https://www.zhihu.com/question/1976257242115305595",
       "heat": "75 万热度"
     },
     {
-      "rank": "13",
-      "title": "如何长时间高效学习？",
-      "link": "https://www.zhihu.com/question/28358499",
-      "heat": "73 万热度"
-    },
-    {
       "rank": "14",
       "title": "如何看待大学里那些像高中那样拼命读书的人？",
       "link": "https://www.zhihu.com/question/39657141",
-      "heat": "72 万热度"
+      "heat": "73 万热度"
     },
     {
       "rank": "15",
       "title": "四川美术学院和四川外国语大学为什么不更改校名中的「四川」二字？",
       "link": "https://www.zhihu.com/question/50418920",
-      "heat": "71 万热度"
+      "heat": "70 万热度"
     },
     {
       "rank": "16",
@@ -102,13 +102,13 @@
       "rank": "17",
       "title": "花一晚上也无法理解非递归遍历二叉树，我该继续学下去吗？",
       "link": "https://www.zhihu.com/question/387295413",
-      "heat": "65 万热度"
+      "heat": "67 万热度"
     },
     {
       "rank": "18",
       "title": "我决定不「鸡娃」，该如何才能坚定自己的教育理念，避免被外界声音影响？",
       "link": "https://www.zhihu.com/question/1956681282449813669",
-      "heat": "63 万热度"
+      "heat": "64 万热度"
     },
     {
       "rank": "19",
@@ -120,7 +120,7 @@
       "rank": "20",
       "title": "香港大埔火灾救援人员在楼内找到生还者，目前获救者情况如何？现场救援难度有多大？",
       "link": "https://www.zhihu.com/question/1977387556279706656",
-      "heat": "59 万热度"
+      "heat": "58 万热度"
     },
     {
       "rank": "21",
@@ -132,60 +132,60 @@
       "rank": "22",
       "title": "在你游戏生涯中，有哪些角色曾令你产生「为了不伤害他 / 她而不愿再推进游戏」的怜悯动容？",
       "link": "https://www.zhihu.com/question/1977069572466160602",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "23",
       "title": "黄泥淋糖法制白糖是不是文科生的想当然，因为没有一例实验复现过？",
       "link": "https://www.zhihu.com/question/1976303975667082530",
-      "heat": "58 万热度"
+      "heat": "57 万热度"
     },
     {
       "rank": "24",
       "title": "25 年即将结束，26 年网文市场前景如何？",
       "link": "https://www.zhihu.com/question/1976932279935861817",
-      "heat": "55 万热度"
+      "heat": "54 万热度"
     },
     {
       "rank": "25",
-      "title": "如何评价华为 Mate80 系列下调起售价？",
-      "link": "https://www.zhihu.com/question/1976699300516999686",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "26",
       "title": "长期沉浸于短视频的「速食内容」，我的深度思考能力会退化吗？",
       "link": "https://www.zhihu.com/question/1969722953819198376",
       "heat": "53 万热度"
     },
     {
-      "rank": "27",
-      "title": "为什么《潜伏》李涯跟站长讲话没有一点谄媚、甚至有时候咬牙切齿的说话？",
-      "link": "https://www.zhihu.com/question/14364300210",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "28",
-      "title": "有什么窍门可以使饺子更好吃？",
-      "link": "https://www.zhihu.com/question/631074610",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "29",
-      "title": "如何看待网传合肥巴莉甜甜「闭店跑路」？具体情况如何？",
-      "link": "https://www.zhihu.com/question/1976599630683869412",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "30",
+      "rank": "26",
       "title": "为什么现在的棉服填充物都是聚酯纤维而不是棉花？",
       "link": "https://www.zhihu.com/question/1975538469355934272",
       "heat": "53 万热度"
     },
     {
-      "rank": "31",
+      "rank": "27",
       "title": "孙悟空明明学了长生术，为什么到 342 岁时，阳寿就耗尽了？",
       "link": "https://www.zhihu.com/question/602497245",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "28",
+      "title": "学习深度学习是否要先学习机器学习？",
+      "link": "https://www.zhihu.com/question/382278216",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "29",
+      "title": "两个人自己做饭，炒菜放半斤牛肉真的很多吗？",
+      "link": "https://www.zhihu.com/question/1951017756855087697",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "30",
+      "title": "现实中见到的最好看的猫长什么样子?",
+      "link": "https://www.zhihu.com/question/369351962",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "31",
+      "title": "如何看待有观众认为相比《唐诡 2》，《唐诡 3》中的卢凌风人设退步了？",
+      "link": "https://www.zhihu.com/question/1975205655926297102",
       "heat": "53 万热度"
     },
     {
@@ -196,112 +196,112 @@
     },
     {
       "rank": "33",
-      "title": "学习深度学习是否要先学习机器学习？",
-      "link": "https://www.zhihu.com/question/382278216",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "34",
-      "title": "两个人自己做饭，炒菜放半斤牛肉真的很多吗？",
-      "link": "https://www.zhihu.com/question/1951017756855087697",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "35",
-      "title": "现实中见到的最好看的猫长什么样子?",
-      "link": "https://www.zhihu.com/question/369351962",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "36",
-      "title": "如何看待有观众认为相比《唐诡 2》，《唐诡 3》中的卢凌风人设退步了？",
-      "link": "https://www.zhihu.com/question/1975205655926297102",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "37",
       "title": "NBA 独行侠队的安东尼 - 戴维斯近陷入交易留言，你认为他的交易价值还剩多少？",
       "link": "https://www.zhihu.com/question/1976612831303591890",
       "heat": "53 万热度"
     },
     {
-      "rank": "38",
+      "rank": "34",
       "title": "为什么不把中超改制成欧冠模式？",
       "link": "https://www.zhihu.com/question/1976695089268020652",
       "heat": "53 万热度"
     },
     {
-      "rank": "39",
-      "title": "为什么哪吒在很多故事里都是正面形象？",
-      "link": "https://www.zhihu.com/question/334905830",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "40",
-      "title": "只用鸡蛋可以做出哪些好吃的?",
-      "link": "https://www.zhihu.com/question/323021154",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "41",
+      "rank": "35",
       "title": "刘松仁和郑少秋都是水平极高的演员，为何到不了周润发与周星驰的高度？",
       "link": "https://www.zhihu.com/question/1894079510770585910",
       "heat": "53 万热度"
     },
     {
-      "rank": "42",
+      "rank": "36",
+      "title": "只用鸡蛋可以做出哪些好吃的?",
+      "link": "https://www.zhihu.com/question/323021154",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "37",
       "title": "如何评价俄罗斯火箭年输送能力已经不足中国的 19%?",
       "link": "https://www.zhihu.com/question/1975914599938294399",
       "heat": "53 万热度"
     },
     {
-      "rank": "43",
+      "rank": "38",
+      "title": "为什么哪吒在很多故事里都是正面形象？",
+      "link": "https://www.zhihu.com/question/334905830",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "39",
       "title": "宋江为啥非要招安？",
       "link": "https://www.zhihu.com/question/652505508",
       "heat": "53 万热度"
     },
     {
-      "rank": "44",
-      "title": "如果孩子平庸，你还会无条件的爱他吗？",
-      "link": "https://www.zhihu.com/question/1976596813546033926",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "45",
-      "title": "如何评价《虹猫蓝兔七侠传》中的虹猫？",
-      "link": "https://www.zhihu.com/question/263487178",
-      "heat": "53 万热度"
-    },
-    {
-      "rank": "46",
+      "rank": "40",
       "title": "四川人是否很讨厌外地人说川菜很辣？",
       "link": "https://www.zhihu.com/question/305362046",
       "heat": "53 万热度"
     },
     {
-      "rank": "47",
-      "title": "宋江为什么总想着招安？",
-      "link": "https://www.zhihu.com/question/652716289",
+      "rank": "41",
+      "title": "如果孩子平庸，你还会无条件的爱他吗？",
+      "link": "https://www.zhihu.com/question/1976596813546033926",
       "heat": "53 万热度"
     },
     {
-      "rank": "48",
+      "rank": "42",
+      "title": "如何评价《虹猫蓝兔七侠传》中的虹猫？",
+      "link": "https://www.zhihu.com/question/263487178",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "43",
       "title": "人类是否真的就是宇宙中唯一的文明呢？",
       "link": "https://www.zhihu.com/question/278730696",
       "heat": "53 万热度"
     },
     {
+      "rank": "44",
+      "title": "为什么米哈游旗舰新作《Varsapura》会选择这种画风？",
+      "link": "https://www.zhihu.com/question/1975771495545455913",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "45",
+      "title": "为什么我的朋友建议我电脑使用时尽量一直连接电源，某电脑品牌店员却让我等低电量提示了再充电？",
+      "link": "https://www.zhihu.com/question/10024724620",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "46",
+      "title": "《唐诡 3》中韦杜二人怎么报仇才不违法、不辱士族、还解恨？",
+      "link": "https://www.zhihu.com/question/1976370431238828735",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "47",
+      "title": "如何评价《绝区零》琉音角色展示 | 已读乱回？",
+      "link": "https://www.zhihu.com/question/1976622892902029300",
+      "heat": "53 万热度"
+    },
+    {
+      "rank": "48",
+      "title": "为什么多是新能源钻研豪华的事，自主燃油卖不上价值？",
+      "link": "https://www.zhihu.com/question/1976240547309043797",
+      "heat": "53 万热度"
+    },
+    {
       "rank": "49",
-      "title": "多次考研的年轻人开始保守择校，有些目标院校不如本科院校，如何理解这一选择？「降级考研」有必要吗？",
-      "link": "https://www.zhihu.com/question/1976356516887021208",
+      "title": "因成都年均日照时数低，市民提议增设「太阳假」鼓励带薪晒太阳，怎样看待这一提议？日照少对健康影响有多大？",
+      "link": "https://www.zhihu.com/question/1976967303347265994",
       "heat": "53 万热度"
     },
     {
       "rank": "50",
-      "title": "为什么米哈游旗舰新作《Varsapura》会选择这种画风？",
-      "link": "https://www.zhihu.com/question/1975771495545455913",
+      "title": "蒲松龄经历了怎样的一生，为什么会创作鬼怪题材的《聊斋》？",
+      "link": "https://www.zhihu.com/question/1931759481265550305",
       "heat": "53 万热度"
     }
   ],
-  "generated_at": "2025-11-27 23:44:13"
+  "generated_at": "2025-11-27 23:56:49"
 }
