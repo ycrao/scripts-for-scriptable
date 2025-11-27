@@ -4,8 +4,8 @@
 
 const _info = {
   name: 'zhihuHot',
-  version: '1.3',
-  updated_at: '2025-05-08 13:05:00',
+  version: '1.4',
+  updated_at: '2025-11-28 22:00:00',
   author: 'raoyc',
   description: 'a widget to show zhihu hot questions',
   repo_file_url: 'https://github.com/ycrao/scripts-for-scriptable/blob/main/app/zhihuHot.js',
@@ -73,7 +73,9 @@ if (cache.contains(key)) {
 } else {
   // v3 api need login
   // result = await $http.req("get", "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total").loadJSON()
-  result = await $http.req("get", "https://cdn.jsdelivr.net/gh/ycrao/scripts-for-scriptable/outputs/zhihu_hotlist.json").loadJSON()
+  // result = await $http.req("get", "https://cdn.jsdelivr.net/gh/ycrao/scripts-for-scriptable/outputs/zhihu_hotlist.json").loadJSON()
+  // using my own data server
+  result = await $http.req("get", "https://tda.gh.1206168.xyz/zhihu_hotlist.json").loadJSON()
   // cache.set(key, JSON.stringify(result))
 }
 
